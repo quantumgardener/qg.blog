@@ -1,6 +1,7 @@
 ---
 tags:
   - frequently-quoted
+  - declarations
 date: 2023-09-14
 growth: "[[Evergreen]]"
 landscapes:

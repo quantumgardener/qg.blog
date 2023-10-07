@@ -1,5 +1,6 @@
 ---
-tags: 
+tags:
+  - emotions
 date: 2023-03-25
 landscapes: []
 growth: "[[Evergreen]]"

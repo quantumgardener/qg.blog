@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - blogging
 date: 2023-09-18T21:01:00
 growth: "[[Seedling]]"
 ---
