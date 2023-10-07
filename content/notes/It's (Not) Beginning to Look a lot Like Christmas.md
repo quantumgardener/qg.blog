@@ -4,8 +4,6 @@ tags:
   - mental-health
   - relaxation
   - overwhelm
-aliases:
-  - its-not-beginning-to-look-a-lot-like-christmas
 landscapes:
   - "[[expand-my-way-of-being]]"
 growth: "[[Evergreen]]"
