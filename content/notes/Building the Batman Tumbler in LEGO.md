@@ -1,6 +1,6 @@
 ---
 tags:
-  - lego-build
+  - lego-builds
 date: 2023-02-03
 description: This is a record of my effort building the LEGO DC Batman Batmobile Tumbler (76240). It has a total 2049 pieces. Finished it is sized 16 cm (6”) high, 45 cm (17”) long and 25 cm (9”) wide.
 landscapes:
@@ -86,7 +86,7 @@ Normally, I would do a bag’s build a day. It lengthens the experience. Today, 
 You can access the building instructions at [https://www.lego.com/en-au/service/buildinginstructions/76240.](https://www.lego.com/en-au/service/buildinginstructions/76240)
 
 ## Other LEGO Models
-I’ve documented my other LEGO builds.
+I’ve documented my other [[lego-builds|LEGO builds]].
 - [[Building the Millennium Falcon in LEGO]]
 - [[Building R2-D2 in LEGO]]
 

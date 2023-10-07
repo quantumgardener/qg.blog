@@ -11,7 +11,7 @@ growth: "[[Seedling]]"
 ---
 I’ve written several times over the past 20 years that RSS feeds are important yet can be a hinderance as much as a help.
 
-## RSS Gathers New and Sound to Me
+## RSS Gathers News and Audio to Me
 I use them extensively in my news reader (currently News Explorer) to go out to websites that offer a RSS feed and pull the news to me. I don't have the time to visit every site and see if there is something new to read.
 
 RSS dropped in popularity with the demise of Google Reader, yet it remains fundamental to the operation of the web. Almost every single podcast is delivered by a RSS feed.
