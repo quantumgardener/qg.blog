@@ -18,5 +18,6 @@ Visit a landscape or learn a little more [[About|about me]]. Your choices of lan
 - [[hobby-together|Hobby Together]] 
 - [[productive-laziness|Productive Laziness]] 
 - [[the-garden-shed|The Garden Shed]] 
+- [[quantum-os|Quantum OS]]
 
 [^1]: Check out [[Designing The Quantum Garden]] for the design philosophy behind the site.

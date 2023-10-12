@@ -47,7 +47,7 @@ My Obsidian Vault's internal structure does not need to change too much. Anythin
 
 Last night I was thinking about all the books, movies, video games I've been tracking. I had begun to [[Replacing Goodreads With Obsidian]] and am now not so sure. It is taking a lot of time to transfer the backlog which is time better spent on developing my knowledge (in gardening terms I'm constantly weeding rather than growing).
 
-I asked myself why am I even recording all this. It's because I don't feel known. Someone who discovers my journals after I die could look at the list of my media consumption and somehow understand me. [[How ratings are applied]] would give them perfect insight into who I was. But, of course, it wouldn't. I'm wondering if I'd be better dumping all that overhead and simply listing my favourites and **WHY**[^2].
+I asked myself why am I even recording all this. It's because I don't feel known. Someone who discovers my journals after I die could look at the list of my media consumption and somehow understand me. [[How I Apply Ratings]] would give them perfect insight into who I was. But, of course, it wouldn't. I'm wondering if I'd be better dumping all that overhead and simply listing my favourites and **WHY**[^2].
 
 ## The Design as it Stands
 ### Nothing is Sacred

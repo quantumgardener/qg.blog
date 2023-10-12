@@ -2,6 +2,8 @@
 tags:
   - person
   - author
+  - agenda
+  - rating/4-star
 date: 2023-09-21T21:29:00
 growth: "[[Seedling]]"
 ---
