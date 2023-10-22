@@ -4,6 +4,7 @@ tags:
   - photography
 landscapes:
   - "[[hobby-together]]"
+date: 2023-10-22
 ---
 ## Tips to Shooting Panoramas
 Ideally use a tripod, but can be done handheld.
