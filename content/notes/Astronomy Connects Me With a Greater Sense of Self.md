@@ -1,6 +1,7 @@
 ---
 tags:
   - wonder
+  - astronomy
 date: 2023-10-25
 landscapes:
   - "[[expand-my-way-of-being]]"
