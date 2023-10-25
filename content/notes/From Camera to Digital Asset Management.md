@@ -8,6 +8,14 @@ landscapes:
   - "[[quantum-os]]"
 growth: "[[Budding]]"
 ---
+This is the first of a series of articles I plan to write on how I take a photo or movie shot on a camera right through to archive with full metadata for future family historical purposes.
+
+My role in all this, apart from enjoying photograph myself, is to be the curator of photos for my family.
+
+Throughout the process my goal is to keep the original image in as pristine condition as possible and to only rename it or add metadata in a non-destructive manner. My main tools are [[IMatch]] [IMatch](https://www.photools.com/imatch/) as my [Digital Asset Management system](https://en.wikipedia.org/wiki/Digital_asset_management), and [Adobe Lightroom](https://www.adobe.com/au/products/photoshop-lightroom-classic.html) for photo manipulation.
+
+Here is the high-level process that I'll explain in more detail within this article and a follow-up titled [[The Meta of My Metadata]].
+
 ```mermaid
 flowchart TD
 start([Take Photos])
@@ -23,20 +31,6 @@ Store --> Backup
 class RAW internal-link;
 click RAW "/notes/ingest-raw-photos" "Ingest Raw Photos"
 ```
-
-
-
----
-
-
-
-This is the first of a series of articles I plan to write on how I take a photo or movie shot on a camera right through to archive with full metadata for future family historical purposes.
-
-My role in all this, apart from enjoying photograph myself, is to be the curator of photos for my family.
-
-Throughout the process my goal is to keep the original image in as pristine condition as possible and to only rename it or add metadata in a non-destructive manner. My main tools are [[IMatch]] [IMatch](https://www.photools.com/imatch/) as my [Digital Asset Management system](https://en.wikipedia.org/wiki/Digital_asset_management), and [Adobe Lightroom](https://www.adobe.com/au/products/photoshop-lightroom-classic.html) for photo manipulation.
-
-Here is the high-level process that I'll explain in more detail within this article and a follow-up titled [[The Meta of My Metadata]].
 
 1. Ingest photos from a camera card or shared OneDrive file using Lightroom. I have presets that file the photos where I want them and converts any RAW format files to DNG as it does so. Copyright data is added at this point.
 2. Cull the bad photos in Lightroom. 
