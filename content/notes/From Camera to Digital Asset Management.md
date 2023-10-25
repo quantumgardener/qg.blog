@@ -22,8 +22,6 @@ Store --> Backup
 
 class RAW internal-link;
 click RAW "/notes/ingest-raw-photos" "Ingest Raw Photos"
-class JPEG internal-link
-click JPEG "/notes/ingest-jpeg-and-heif-photos" "Ingest JPEG and HEIF Photos"
 ```
 
 
