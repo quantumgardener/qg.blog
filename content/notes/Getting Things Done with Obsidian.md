@@ -26,8 +26,8 @@ Before I get into configuration and use, here is a list of the various bits and 
 | [Obsidian Sync](https://obsidian.md/sync)                                     | Used to sync across multiple computers and iOS - fast and reliable.                                                       |     |
 | [Obsidian-dataview plugin](https://github.com/blacksmithgu/obsidian-dataview) | A high-performance data index and query language over Obsidian files. Brings together lists of information super quickly. |     |
 | [Obsidian Templater plugin](https://github.com/SilentVoid13/Templater)        | Templates for projects, meetings, organisations                                                                           |     |
-| [PhraseExpress)](https://www.phraseexpress.com/)                              | Text expander used primary for the entry of dates against next actions.                                                   |     |
-| [Font Awesome](https://fontawesome.com/), emojis and CSS                      | Formattting highlights for quick status identification.                                                                   |     |
+| [PhraseExpress](https://www.phraseexpress.com/)                              | Text expander used primary for the entry of dates against next actions.                                                   |     |
+| [Font Awesome](https://fontawesome.com/), emojis and CSS                      | Formatting highlights for quick status identification.                                                                   |     |
 
 ## Describing the system
 I'll describe the system I use from the ground up. Starting with next actions, I'll move to how I bring them together in useful lists, allocate them to projects, and provide organisation summaries of current projects. I'll finish off with how this all ties together for a weekly review.
