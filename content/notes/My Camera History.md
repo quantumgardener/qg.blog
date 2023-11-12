@@ -22,6 +22,8 @@ My first real camera was a [Canon EOS500N](https://global.canon/en/c-museum/prod
 
 Upon our return from the UK, digital had arrived and the 500N was traded in for a Sony Cybershot Sony DSCP72. A whopping 3.2 megapixel camera but perfect for new parents.
 
+![[sony-DSCP72.webp]]
+
 In 2006 I purchased a [[My Photography Gear|Canon 400D]] which has remained my camera ever since -- with a number of smartphone cameras along the way.
 
 ![[eos-400d.webp]]
