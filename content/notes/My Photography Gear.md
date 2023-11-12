@@ -11,8 +11,12 @@ landscapes:
   - "[[hobby-together]]"
 publishDate: 2023-09-26T10:57:00
 ---
+> [!INFO] This is my current photography gear. I have also recorded [[My Camera History]].
+
 ## Camera
 I have a trusty [Canon 400D DSLR](https://en.wikipedia.org/wiki/Canon_EOS_400D) that was purchased in September 2006. I purchased it with a Canon EF-S 17-85mm f4/f5.6 lens.
+
+![[eos-400d.webp]]
 
 | Sensor Size | Resolution  | Pixel Pitch |
 |:----------- |:----------- |:----------- |
