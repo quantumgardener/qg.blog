@@ -10,20 +10,19 @@ description: All things video games and the platforms I play on.
 All things video games.
 
 ## The environment
-| I want to...                 | ...learn about my game playing                                             |
-| ---------------------------- | -------------------------------------------------------------------------- |
-| Track my current gaming      | [[Video games tracking]]                                                   |
-| See the games I've completed | [[Video games I've completed]]                                             |
-| View platform details       | [[PlayStation 5]]                                                          |
-|                              | [[PlayStation 4]]                                                          |
-|                              | [[PlayStation 3]]                                                          |
-|                              | [[PlayStation 2]] |
-|                              | [[Playstation VR2]]                                                        |
-|                              | [[Nintendo Wii]]                                                           |
-|                              | [[Commodore 64]]                                                           |
-|                              | [[Commodore Amiga]]                                                        |
-| Check out my achivements     | [[Platinum Trophy]]                                                        |
-| Check progress               | [Quantum-Gardener's PSN Profile](https://psnprofiles.com/Quantum-Gardener) |
+| I want to... | ...learn about my game playing |
+| ---- | ---- |
+| See the games I've completed | [[completed-game]] |
+| View platform details | [[PlayStation 5]] |
+|  | [[PlayStation 4]] |
+|  | [[PlayStation 3]] |
+|  | [[PlayStation 2]] |
+|  | [[Playstation VR2]] |
+|  | [[Nintendo Wii]] |
+|  | [[Commodore 64]] |
+|  | [[Commodore Amiga]] |
+| Check out my achivements | [[Platinum Trophy]] |
+| Check progress | [Quantum-Gardener's PSN Profile](https://psnprofiles.com/Quantum-Gardener) |
 
 ## Games by platform
 | Platform...         | ...list of games               |

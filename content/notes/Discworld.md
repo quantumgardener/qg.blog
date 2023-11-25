@@ -22,7 +22,7 @@ A story told via audiobook is quite different from a reading of words on the pag
 If interested, you can view my audiobook reading workflow in [[From Audible to my Ears]].
 
 ## Tracking My Progress
-This is the Discworld publication release order. Any books in **bold** have been listened to. Some are out of order because related books were released close together i.e., Wizards, Witches, Death series.
+This is the Discworld publication release order. Any books in **bold** have been listened to and 🎧 marks what I'm listening to next. Some are out of order because related books were released close together i.e., Wizards, Witches, Death series.
 
 1. **The Colour of Magic (1983)**
 2. **The Light Fantastic (1986)**
@@ -38,7 +38,7 @@ This is the Discworld publication release order. Any books in **bold** have been
 12. **Witches Abroad (1991)**
 13. **Small Gods (1992)**
 14. **Lords and Ladies (1992)**
-15. Men at Arms (1993)
+15. 🎧 Men at Arms (1993)
 16. **Soul Music (1994)**
 17. **Interesting Times (1994)**
 18. Maskerade (1995)

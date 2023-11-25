@@ -25,10 +25,10 @@ I have a trusty [Canon 400D DSLR](https://en.wikipedia.org/wiki/Canon_EOS_400D) 
 ## Lenses
 My camera is paired with one zoom and one prime lens.
 
-| Lens                                                                                    | Filter | Lens Hood |
-|:----------------------------------------------------------------------------------------|:-------|:----------|
-| [Canon EF-S 17–85mm f4-f5.6 USM](https://en.wikipedia.org/wiki/Canon_EF-S_17–85mm_lens) |   67mm | EW73B     |
-| [Canon EF 50mm f1.8 STM](http://kenrockwell.com/canon/lenses/50mm-f18-stm.htm)          |   49mm | ES68      |  
+| Lens                                                                                    | Filter | Lens Hood | Aperture |
+|:--------------------------------------------------------------------------------------- |:------ |:--------- | -------- |
+| [Canon EF-S 17–85mm f4-f5.6 USM](https://en.wikipedia.org/wiki/Canon_EF-S_17–85mm_lens) | ø67mm   | EW73B     | @17mm 8.0-13         | 
+| [Canon EF 50mm f1.8 STM](http://kenrockwell.com/canon/lenses/50mm-f18-stm.htm)          | ø49mm   | ES68      |          |
 
 ## Tripods
 I have two tripods. The Benro Slim Aluminium Video Tripod with S2 Head was purchased in 2021 for my [[Celestron SkyMaster 20x80 Binoculars]] but fell short in height. I have a Neewer Professional Tripod that gives me the height I need so I've swapped the S2 video head to that and use the Benro as my camera tripod.
