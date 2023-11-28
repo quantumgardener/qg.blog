@@ -2,7 +2,6 @@
 tags:
   - tv-show
   - rating/4-star
-  - completed-tv
 landscapes:
   - "[[hobby-together]]"
 date: 2023-11-25
