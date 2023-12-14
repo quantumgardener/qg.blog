@@ -7,7 +7,6 @@ landscapes:
   - "[[expand-my-way-of-being]]"
 growth: "[[Evergreen]]"
 ---
-
 Over the years I've learned to keep my cool when working on DIY projects. I'm apt to lose my cool when, despite my best amateur efforts, something doesn't go as planned. It could be a cut in the wrong place, an unlevel hanging, the wrong screw…
 
 Our mood predisposes us to see the world in a way. With DIY that can mean everything is the target of a hammer!
