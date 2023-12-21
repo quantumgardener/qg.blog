@@ -7,11 +7,15 @@ landscapes:
 ---
 My interests are [[Astrophotography]], [[Landscape Photography]] and [[Panoramas]].
 
+## Digital Asset Management
+- [[My Photo Dating Strategy]]
+
 ## Equipment
 -  [[My Photography Gear]]
 - [[My Camera History]]
 
 ## Resources
+- [[My Photography Teachers]]
 - [The Goldfields Track - A bike ride in Buninyong, Victoria](https://ridewithgps.com/routes/32598480)
 - [Map of Public Land](https://mapshare.vic.gov.au/mapsharevic/)
 - [Color Filters for Black-and-White Photography: A Complete Guide | PetaPixel](https://petapixel.com/color-filters-for-black-and-white-photography/)
