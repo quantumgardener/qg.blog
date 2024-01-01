@@ -55,3 +55,6 @@ Time is always set to 00:00:00 (midnight). There are zero photos taken at this t
 
 There is one example where a timestamp of 00:00:00 may be legitimate and that's the **exact second** New Year's Eve turns into New Year's Day. If that happened, confusion can be avoided by checking the date.
 
+
+
+
