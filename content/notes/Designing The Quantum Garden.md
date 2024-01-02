@@ -11,7 +11,7 @@ I have referred to my personal knowledge management system as a [[Digital Garden
 My evolution is not uncommon as explained in this Maggie Appleton article, [A Brief History & Ethos of the Digital Garden](https://maggieappleton.com/garden-history). I was feeling at an impasse with the future structure of this site so went looking for inspiration.
 
 ### The Situation as it Stands Today
-I have been a user of [[Obsidian]] for the past couple of years[Since January 2021] and prior to a year's flirtation with [[Roam Research]], had been a heavy user of [[TheBrain]]^[Known as PersonalBrain back then].
+I have been a user of [[Obsidian]] for the past couple of years[^3] and prior to a year's flirtation with [[Roam Research]], had been a heavy user of [[TheBrain]][^thebrain].
 
 My vault consists of truly personal notes and information (journal entries, remembrances of past events), reference material, blog entries and I recently began tracking books read, movies watched etc. More on that later. Until September 2023, I was also hosting blogs on a [[Wordpress]] site until I moved from [[Wordpress to Quartz]]. And that's before the PDF reference material stored in [[Zotero]].
 
@@ -70,3 +70,5 @@ There are no dates. Dates are used internally by me in [[Obsidian]] and are not 
 
 [^1]: [A Brief History & Ethos of the Digital Garden](https://omnivore.app/quantumgardener/a-brief-history-ethos-of-the-digital-garden-18a977b1a72), retrieved 17 September 2023.
 [^2]: From my emotional reaction to the sentence, we can assume I have decided that. It feels more right to do it that way but I will do so in a controlled way.
+[^thebrain]: Known as PersonalBrain back then.
+[^3]: Since January 2021.
