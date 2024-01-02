@@ -1,0 +1,29 @@
+---
+cssclasses:
+  - table-max
+tags:
+  - gear
+  - photography
+aliases:
+  - Canon R50
+date: 2024-01-03
+landscapes:
+  - "[[hobby-together]]"
+growth: "[[Seedling]]"
+---
+Santa brought me a [Canon R50](https://www.canon.com.au/cameras/eos-r50) camera for Christmas in 2024. It's a noticeable improvement on the [[Canon 400D DSLR|Canon 400D]].
+
+![[eos-r50.webp]]
+
+| Sensor Size | Resolution | Pixel Pitch[^1] |
+| :--- | :--- | :--- |
+| APS-C | 6000 x 4000 | 5.34 µm |
+
+
+## Lenses
+Refer [[My Camera Lenses]] for a list of the lenses I have available to me. The EF lenses attach using the base Canon EF-EFS/RF adaptor.
+
+## Battery
+LP-E17 (x2)
+
+[^1]: Used for [[Astrophotography]] planning.

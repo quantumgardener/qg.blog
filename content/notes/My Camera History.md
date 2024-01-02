@@ -5,8 +5,11 @@ landscapes:
   - "[[hobby-together]]"
 date: 2023-11-12
 growth: "[[Evergreen]]"
+publishDate: 2024-01-03
 ---
 My earliest memories of a camera come from my Dad and the 35mm SLR camera he had when I was young. The detachable lens, film canister and dust blower all fascinated me. I'm pretty sure it was a Canon as I've always associated that with cameras.
+
+> [!INFO] See [[My Photography Gear]] for gear I'm currently using.
 
 When I was in primary school, the wonder of the house was a Polariod camera with with self-developing film.
 
@@ -24,6 +27,10 @@ Upon our return from the UK, digital had arrived and the 500N was traded in for 
 
 ![[sony-DSCP72.webp]]
 
-In 2006 I purchased a [[My Photography Gear|Canon 400D]] which has remained my camera ever since -- with a number of smartphone cameras along the way.
+In 2006 I purchased a [[Canon 400D DSLR]] which has remained my camera ever since -- with a number of smartphone cameras along the way.
 
 ![[eos-400d.webp]]
+
+For Christmas 2023 I added a [[Canon R50 Mirrorless]] with twin lenses to the kit as a replacement for the 18+ year old 400D. It came with a lot of quality of life improvements.
+
+![[eos-r50.webp]]

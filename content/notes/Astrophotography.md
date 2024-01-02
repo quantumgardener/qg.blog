@@ -23,7 +23,7 @@ growth: "[[Seedling]]"
 [Input-referred Read Noise versus ISO Setting](https://www.photonstophotos.net/Charts/RN_e.htm)
 - find a point where it begins to level off
 - [[My Photography Gear|Canon 400D]] - needs to be ISO 1600 which is max ISO
-- [[Canon R50]] - ISO 800 but ISO 800 would be fine
+- [[Canon R50 Mirrorless]] - ISO 800 but ISO 800 would be fine
 
 ## Suitable telescopes
 - [[Telescopes I May Want to Buy]]
