@@ -9,5 +9,5 @@ table
   date as "Published", tags, landscapes, growth
 from "Quartz/blog"
 where date != null 
-sort date asc
+sort date desc
 ```

@@ -21,8 +21,8 @@ This is a list of TV series that I've fully completed watching. There are many m
 | ![[tv_Cunk on Earth_t.webp]] | [[Cunk on Earth]] ⭐️⭐️⭐️ |
 | ![[tv_Deadwood_t.webp]] | [[Deadwood]] ⭐️⭐️⭐️⭐️ |
 | ![[tv_Dispatches from Elsewhere_t.webp]] | [[Dispatches from Elsewhere]] ⭐️⭐️⭐️⭐️ |
-| ![[tv_Doctor Who (2005)_t.webp]] | [[Doctor Who (2005)]]  ⭐️⭐️⭐️⭐️⭐️ |
-| ![[tv_Dracula (tv series)_t.webp]] | [[Dracula (tv series)\|Dracula]] ⭐️⭐️⭐️ |
+| ![[tv_Doctor Who (2005)_t.webp]] | [[Doctor Who (2005)]]  ⭐️⭐️⭐️⭐️ |
+| ![[tv_Dracula (TV)_t.webp]] | [[Dracula (TV)]] ⭐️⭐️⭐️ |
 | ![[tv_Fawlty Towers_t.webp]] | [[Fawlty Towers]] ⭐️⭐️⭐️⭐️ |
 | ![[tv_Firefly_t.webp]] | [[Firefly]] ⭐️⭐️⭐️⭐️ |
 | ![[tv_From the Earth to the Moon_t.webp]] | [[From the Earth to the Moon]] ⭐️⭐️⭐️⭐️ |

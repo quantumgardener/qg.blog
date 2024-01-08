@@ -10,7 +10,7 @@ aliases:
 **Quantum OS** is my operating system which in no way suggests I am a computer. Rather, it is a set of notes that describe the rules and standards I have determined are best to manage my digital information as I see fit. 
 
 ## Overarching principles
-I [[Don't duplicate public knowledge]] because it is a waste of my time.
+I [[Don't Duplicate Public Knowledge]] because it is a waste of my time.
 
 ## Managing content
 | I want to...                 | ...manage the Digital Garden                |
