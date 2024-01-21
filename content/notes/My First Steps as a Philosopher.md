@@ -1,7 +1,6 @@
 ---
 date: 2024-01-03
 tags:
-  - philosophy
   - learning
   - second-order-learning
 landscapes:
@@ -10,7 +9,7 @@ growth: "[[Seedling]]"
 ---
 Whenever I'm asked what I would do if I didn't have to work, I've answered, "I'd be a philosopher." Those who know me nod in agreement and don't question it. 
 
-Although I know deeply intuitively this it the correct answer, I haven't been able to articulate why. [[My Mission Statement]] defines me as a scholar of life seeking wisdom. What I've shied away from is the philosophy that has gone before me. I want to generate my own insights and not regurgitate the past wisdom of others. In other words, I'm not learning philosophy to pass an exam, I'm learning it to apply to my own life.
+Although I know deeply intuitively this it the correct answer, I haven't been able to articulate why. [[My Mission Statement]] defines me as a scholar of life seeking wisdom. What I've shied away from is the [[Philosophy]] that has gone before me. I want to generate my own insights and not regurgitate the past wisdom of others. In other words, I'm not learning philosophy to pass an exam, I'm learning it to apply to my own life.
 
 > I leave each day a better person than I entered it. As a scholar of life I continually learn and improve myself. Where I lack wisdom or knowledge I seek it out.
 

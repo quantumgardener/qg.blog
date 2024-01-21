@@ -17,4 +17,4 @@ This prevents people who have purchased a digital book from reading it on non-Am
 
 It's equivalent to Amazon selling you a physical book that can only be read by the glasses they provide.
 
-Until now I've been able to successfully remove DRM from Amazon books using [Calibre](https://calibre-ebook.com/) and [DeDRM_tools](https://github.com/noDRM/DeDRM_tools) but have reached the end of that line. Going forward I'll be purchasing books from Kobo.
+Until now I've been able to successfully remove DRM from Amazon books using [Calibre](https://calibre-ebook.com/) and [DeDRM_tools](https://github.com/noDRM/DeDRM_tools) but have reached the end of that line. Going forward I'll be purchasing books from Kobo and Google Play.
