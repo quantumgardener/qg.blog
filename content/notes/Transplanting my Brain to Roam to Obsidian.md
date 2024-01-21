@@ -2,18 +2,19 @@
 tags:
   - personal-knowledge-management
   - obsidian
-date: 2021-01-28
+date: 2021-01-21
 aliases:
   - transplanting-my-brain-to-roam-to-obsidian
 landscapes:
   - "[[the-garden-shed]]"
 growth: "[[Evergreen]]"
+publishDate: 2024-01-21
 ---
-In mid-2020 I was introduced to the exciting new note-taking application [[Roam Research]] and I transferred my notes and tasks into the database, making use of the powerful backlinking and cross-referencing features of the database. Prior to that I had been using a mix of [TheBrain](https://thebrain.com) (notes and links), [Omnifocus](https://www.omnigroup.com/omnifocus/) (tasks and projects) and [OneNote](https://www.onenote.com) (mobile and synced notes).
+In mid-2020 I was introduced to the exciting new note-taking application [[Roam Research]] and I transferred my notes and tasks into the database, making use of the powerful backlinking and cross-referencing features of the database. Prior to that I had been using a mix of [[TheBrain]] (notes and links), [Omnifocus](https://www.omnigroup.com/omnifocus/) (tasks and projects) and [OneNote](https://www.onenote.com) (mobile and synced notes). [[TheB]]
 
 Roam was good, but not perfect, and that wasn't a particular problem. I've used enough software to know it rarely meets all needs and Roam went a long way to meet most of them.
 
-Last weekend, in looking up some videos on the Zettelkasten Learning Method, I came across [Obsidian](https//obsidian.md) as an alternative to Roam. Some research and testing later, and I decided to make the jump and commit to another note-taking/research application just 6 months later from my last jump.
+Last weekend, in looking up some videos on the Zettelkasten Learning Method, I came across [[Obsidian]] as an alternative to Roam. Some research and testing later, and I decided to make the jump and commit to another note-taking/research application just 6 months later from my last jump.
 
 ## The first jump
 To understand why I've jumped a second time and landed on Obsidian, it's worth taking you back to the beginning. The days before Roam.
@@ -21,7 +22,7 @@ To understand why I've jumped a second time and landed on Obsidian, it's worth t
 I was using 3 tools at the time to capture my notes and manage my projects. 
 
 1. TheBrain is graph based software for taking notes and creating relationships between "Thoughts". Over time it builds a nice graph showing the interlinking between ideas (both Roam and Obsidian do the same to different levels of success). My time using TheBrain covered a period of approx. 15 years.
-2. Omnifocus is to my mind the best implemtation of David Allen's [Getting Things Done](https://gettingthingsdone.com/) methodology I've ever come across and I had been a user for about 10 years. (*Aside: When I use project in this document I'm using the GTD definition of anything that requires more than one action (task) to complete.*)
+2. Omnifocus is to my mind the best implementation of David Allen's [Getting Things Done](https://gettingthingsdone.com/) methodology I've ever come across and I had been a user for about 10 years. (*Aside: When I use project in this document I'm using the GTD definition of anything that requires more than one action (task) to complete.*)
 3. OneNote was the newbie in my toolbox with around 18 months use. I came to value it for quickly entering notes and having them automatically sync from device to device.
 
 These apps gave me more control and capability than many people had access to but there were issues. In my experience,
@@ -75,4 +76,27 @@ It's early days with Obsidan but with the help of the community I'm making progr
 - I have [Drafts](https://getdrafts.com) set up on iOS to automatically send notes to Obsidian giving me a way to enter notes on my phone or when out walking via my Apple Watch.
 
 Where you get to in your note-taking journey I wish you the best. The great thing about software is that we all have choices and can find whatever suits us the best. For a time at least...
+
+## The Steps I Took
+1. Completed my initial research and testing (create a vault, format and import some items, test [[OneDrive]] sync)
+2. Speak with my daughter about her needing to transfer out of [[Roam Research]] if I stop using it (which I will) and before she starts her next semester.
+3. Export all items from [[Roam Research]] into a /import folder
+4. Start checking each one
+	1. Delete those with empty pages and nothing but [[Backlinks are Important]] - which seems to be 90% of them.
+	2. Rename date files (**before deleting** if there are just backlinks as this updates all existing references)
+	3. Use [[Sublime Text]]'s find/replace across files function to replace TODO/DONE/attributes/highlight
+	4. Regex find/replace YouTube and Embed instructions, replacing with iFrame
+	5. Find/Replace topics with : to _ before renaming file, as : is not allowed in filenames. For me this is projects and books.
+5. Install plugins
+	1. Third-party plugins
+		1. Calendar
+		2. Advanced Tables
+		3. Note Refactor
+		5. Natural Language Dates
+		6. Review
+6. Created a new structure for things such as Content I watched, Content I listened to, Content I read, Games I played
+7. Added some custom CSS for the tags I want to highlight with "buttons"
+	1. [Obsidian Publish - Obsidian Help - Obsidian Publish](https://publish.obsidian.md/help/Licenses+%26+add-on+services/Obsidian+Publish)
+8. Set to publish as subdomain of https://quantumgardener.blog
+9. [[Changing the look of your Obsidian site using fonts and CSS|Set my site's design]]
 
