@@ -1,5 +1,5 @@
 ---
-title: Now
+title: Blog
 growth: "[[Seedling]]"
 date: 2023-09-27
 ---
