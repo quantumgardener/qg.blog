@@ -1,7 +1,7 @@
 ---
-title: Index of Landscapes
+title: Landscapes
 tags:
   - MOC
 date: 2024-02-04
 ---
-An index of all landscapes within the [[Digital Garden]].
+Standing on the edge of the garden you can see several intriguing landscapes spread out in front of you. Where shall we head?

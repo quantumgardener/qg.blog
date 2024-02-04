@@ -3,7 +3,7 @@ date: 2023-09-14
 growth: "[[Evergreen]]"
 publishDate: 2023-10-12
 ---
-Standing on the edge of the garden you can see several intriguing landscapes spread out in front of you. Where shall we head?
+(page not used. Uses Landscapes/index instead)
 
 [[expand-my-way-of-being|Expand My Way of Being]] — My Way of Being is more than the behaviour I show. It’s the total sum of how I engage with the world, make meaning from my environment and take action. Expanding my Way of Being by being a learner in the world creates new possibilities for me to move forward in life.
 
