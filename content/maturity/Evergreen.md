@@ -1,5 +1,4 @@
 ---
-title: Evergreen
 date: 2023-09-17T10:06:00
 growth: "[[Evergreen]]"
 ---

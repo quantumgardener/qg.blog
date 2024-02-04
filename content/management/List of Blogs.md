@@ -2,7 +2,7 @@
 draft: "true"
 ---
 
-> [!INFO] [[Journal]] entries marked with `#journal/blogged` indicate entries which were originally blogged compared to `#journal/handwritten`.
+> [!INFO] [[19.01 Daily Journal]] entries marked with `#journal/blogged` indicate entries which were originally blogged compared to `#journal/handwritten`.
 
 ```dataview
 table

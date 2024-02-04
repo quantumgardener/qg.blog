@@ -1,8 +1,8 @@
 ---
 tags:
-- tv-show
-- status/✅
-- rating/5-star
+  - tv-show
+  - status/✅
+  - rating/5-star
 title: The Goodies
 landscapes:
   - "[[hobby-together]]"
