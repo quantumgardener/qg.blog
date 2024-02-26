@@ -1,7 +1,7 @@
 ---
 tags:
   - video-game
-  - completed-game
+  - status/completed
   - PlayStation-5-game
   - rating/5-star
 date: 2023-02-24

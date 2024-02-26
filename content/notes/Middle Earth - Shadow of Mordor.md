@@ -1,7 +1,7 @@
 ---
 tags:
   - video-game
-  - completed-game
+  - status/completed
   - rating/4-star
   - PlayStation-4-game
 date: 2015-07-26

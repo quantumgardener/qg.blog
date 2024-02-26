@@ -14,7 +14,7 @@ To achieve a **Platinum Trophy** on a PlayStation means completing a set of trop
 Some games require a multi-player component, or winning the game on a super-hard level (or both) and I'm just not interested in that. Most likely not capable either so though the game was great, platinum remains unachievable for me.
 
 ## Games Where I Have Achieved "Platinum"
-Many player never get one "plat". I've been proud to get each one. This list reflects the games I have most enjoyed. The first three games were on [[Playstation 4]] and those following on [[Playstation 5]].
+Many player never get one "plat". I've been proud to get each one. This list reflects the games I have most enjoyed. The first three games were on [[PlayStation 4]] and those following on [[PlayStation 5]].
 
 Achievement times are not always contiguous. I can leave a game for a long time before returning to it.
 

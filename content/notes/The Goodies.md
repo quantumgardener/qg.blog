@@ -1,7 +1,7 @@
 ---
 tags:
   - tv-show
-  - status/✅
+  - status/completed
   - rating/5-star
 title: The Goodies
 landscapes:

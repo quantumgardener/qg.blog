@@ -52,7 +52,7 @@ For a simple next action, **context** is option. If a person is involved, it wil
 
 The ➕ is a special [Dataview plugin annotation](https://blacksmithgu.github.io/obsidian-dataview/data-annotation/) that denotes the start date of a task. I use it when I create lists of next actions from the system. 
 
-**action date** is the date action is required or I need to follow up. This is despite my belief that [[Adding a due date to your tasks is a mistake]] I still have many tasks that need to be date based. An action date looks like this | 📆2022-01-14
+**action date** is the date action is required or I need to follow up. This is despite my belief that [[Adding a Due Date to Your Tasks is a Mistake]] I still have many tasks that need to be date based. An action date looks like this | 📆2022-01-14
 
 The 📆 is a special [Dataview plugin annotation](https://blacksmithgu.github.io/obsidian-dataview/data-annotation/) that denotes the due date of a task.
 

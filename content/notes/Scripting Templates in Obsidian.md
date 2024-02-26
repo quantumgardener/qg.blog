@@ -67,7 +67,7 @@ goodreads::
 ---
 A series of books by [[]] consisting of:
 ```dataviewjs
-await dv.view("/Extras/Scripts/book-series")
+await dv.view("/Atlas/Utilities/Scripts/book-series")
 ```
 ```
 ```

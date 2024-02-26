@@ -36,3 +36,7 @@ So, as of September 2023, back to Obsidian sync. I've solved the backup problem 
 - [Customize Obsidian Publish with CSS - by Eric Gregorich (substack.com)](https://focustivity.substack.com/p/obsidian-publish-css) -hide folders and backlinks on a page
 - [Use callouts - Obsidian Help](https://help.obsidian.md/How+to/Use+callouts)
 
+# Plugins
+
+# Styling
+[GitHub - efemkay/obsidian-modular-css-layout: CSS Layout hack for Obsidian.md](https://github.com/efemkay/obsidian-modular-css-layout) gives wide and multi-columns.

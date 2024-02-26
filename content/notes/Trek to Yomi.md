@@ -3,7 +3,7 @@ tags:
   - video-game
   - rating/3-star
   - PlayStation-5-game
-  - completed-game
+  - status/completed
 landscapes:
   - "[[expand-my-way-of-being]]"
   - "[[hobby-together]]"

@@ -12,7 +12,7 @@ All things video games.
 ## The environment
 | I want to... | ...learn about my game playing |
 | ---- | ---- |
-| See the games I've completed | [[completed-game]] |
+| See the games I've completed | [[completed]] |
 | View platform details | [[PlayStation 5]] |
 |  | [[PlayStation 4]] |
 |  | [[PlayStation 3]] |

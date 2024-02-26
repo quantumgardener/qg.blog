@@ -12,7 +12,7 @@ It's not the only system of this type. I've looked at, and tried quite a few. As
 
 Organising by numbered area and category seems easy enough to do[^1] but the secret sauce is in the index. 
 
-Here's my problem. I have information in [[Obisidan]], [[Zotero]], [[Calibre]]/[[calibre-web]], [[iMatch]] and to a lesser degree email.
+Here's my problem. I have information in [[Obisidan]], [[Zotero]], [[Calibre]]/[[calibre-web]], [[IMatch]] and to a lesser degree email.
 
 **The Index is multi-platform!**
 
