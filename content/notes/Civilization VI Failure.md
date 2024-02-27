@@ -3,7 +3,6 @@ date: 2022-10-26
 tags:
   - learning
   - learning-strategy
-  - video-game
 landscapes:
   - "[[expand-my-way-of-being]]"
 growth: "[[Seedling]]"

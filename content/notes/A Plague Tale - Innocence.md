@@ -1,16 +1,14 @@
 ---
+aliases:
+  - "A Plague Tale: Innocence"
 tags:
   - video-game
   - status/completed
   - rating/4-star
-sequence: 1
+  - platform/playstation-5
 title: "A Plague Tale: Innocence"
-finished: 2023-09-16
-aliases:
-  - "A Plague Tale: Innocence"
-firstplay: 
-date: 2024-02-27
-JS-ID: "[[26.01 A Plague Tale (Series)]]"
+sequence: 1
+JD-ID: "[[26.01 A Plague Tale (Series)]]"
 landscapes:
   - "[[hobby-together]]"
 growth: "[[Evergreen]]"
