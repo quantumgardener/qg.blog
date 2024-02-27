@@ -2,12 +2,13 @@
 tags:
   - video-game
   - status/completed
-  - PlayStation-5-game
+  - platform/playstation-5
   - rating/5-star
 date: 2023-02-24
 landscapes:
   - "[[hobby-together]]"
 growth: "[[Evergreen]]"
+JD-ID: "[[26.43 Forspoken]]"
 ---
 ![[vg_Forspoken.webp]]
 

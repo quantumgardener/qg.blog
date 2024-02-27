@@ -8,6 +8,7 @@ landscapes:
   - "[[expand-my-way-of-being]]"
 growth: "[[Seedling]]"
 description: On Sunday I started playing Sid Meier's Civilization VI. Today I lost badly and that’s ok because I was learning all the time.
+JD-ID: "[[26.45 Civilization (Series)]]"
 ---
 ![[vg_Sid Meier's Civilization VI.webp|200px]]
 

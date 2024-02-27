@@ -1,12 +1,9 @@
 ---
 tags:
   - video-game
-  - PlayStation-5-game
+  - platform/playstation-5
   - rating/4-star
   - status/completed
-firstplay: 2020-12-26
-finished: "[[2022-12-27]]"
-platinum: 2020-12-27
 JD-ID: "[[26.04 Astro's Playroom]]"
 landscapes:
   - "[[hobby-together]]"

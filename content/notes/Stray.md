@@ -4,11 +4,12 @@ tags:
   - review
   - rating/4-star
   - status/completed
-  - PlayStation-5-game
+  - platform/playstation-5
 date: 2023-02-03
 landscapes:
   - "[[hobby-together]]"
 growth: "[[Evergreen]]"
+JD-ID: "[[26.44 Stray]]"
 ---
 ![[vg_Stray.webp]]
 

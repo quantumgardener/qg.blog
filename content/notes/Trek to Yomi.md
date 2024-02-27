@@ -2,13 +2,14 @@
 tags:
   - video-game
   - rating/3-star
-  - PlayStation-5-game
+  - platform/playstation-5
   - status/completed
 landscapes:
   - "[[expand-my-way-of-being]]"
   - "[[hobby-together]]"
 date: 2023-11-25
 growth: "[[Evergreen]]"
+JD-ID: "[[26.42 Trek to Yomi]]"
 ---
 ![[vg_Trek_to_Yomi.webp]]
 
