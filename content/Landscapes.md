@@ -2,6 +2,8 @@
 date: 2023-09-14
 growth: "[[Evergreen]]"
 publishDate: 2023-10-12
+landscapes:
+  - "[[hobby-together]]"
 ---
 Standing on the edge of the garden you can see several intriguing landscapes spread out in front of you. Where shall we head?
 

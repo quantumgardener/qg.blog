@@ -11,7 +11,7 @@ JD-ID: "[[26.04 Astro's Playroom]]"
 landscapes:
   - "[[hobby-together]]"
 growth: "[[Evergreen]]"
-date:
+date: 2024-02-27
 ---
 ![[vg_Astro's Playroom.webp|200]]
 
