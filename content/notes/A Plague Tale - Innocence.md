@@ -8,7 +8,7 @@ tags:
   - platform/playstation-5
 title: "A Plague Tale: Innocence"
 sequence: 1
-JD-ID: "[[26.01 A Plague Tale (Series)]]"
+JD-ID: "[[26.001 A Plague Tale (Series)]]"
 landscapes:
   - "[[hobby-together]]"
 growth: "[[Evergreen]]"

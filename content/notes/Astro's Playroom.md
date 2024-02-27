@@ -4,7 +4,7 @@ tags:
   - platform/playstation-5
   - rating/4-star
   - status/completed
-JD-ID: "[[26.04 Astro's Playroom]]"
+JD-ID: "[[26.004 Astro's Playroom]]"
 landscapes:
   - "[[hobby-together]]"
 growth: "[[Evergreen]]"

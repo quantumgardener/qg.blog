@@ -4,7 +4,7 @@ tags:
   - status/completed
   - rating/5-star
   - platform/nintendo-game-and-watch
-JD-ID: "[[26.14 Donkey Kong (Series)]]"
+JD-ID: "[[26.014 Donkey Kong (Series)]]"
 landscapes:
   - "[[hobby-together]]"
 growth: "[[Evergreen]]"
