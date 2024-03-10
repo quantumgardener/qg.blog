@@ -22,3 +22,4 @@ Visit a landscape or learn a little more [[About|about me]]. Your choices of lan
 - [[quantum-os|Quantum OS]]
 
 [^1]: Check out [[Designing The Quantum Garden]] for the design philosophy behind the site.
+
