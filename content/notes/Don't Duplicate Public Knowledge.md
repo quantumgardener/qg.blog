@@ -1,4 +1,5 @@
 ---
+JD-ID: "[[01.01 Guiding Principles]]"
 tags:
   - metadata-strategy
 date: 2023-10-14

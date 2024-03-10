@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Maps of Content
 date: 2023-09-14
 growth: "[[Budding]]"
 publishDate: 2023-09-19T20:32:00

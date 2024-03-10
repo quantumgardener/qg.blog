@@ -8,7 +8,7 @@ growth: "[[Seedling]]"
 description: All things video games and the platforms I play on.
 JD-ID: "[[26.000 Management]]"
 ---
-All things video games. The [[Johnny Decimal]] category is [[26 Video Games]].
+All things video games. The [[Johnny.Decimal]] category is [[26 Video Games]].
 
 ## The environment
 | I want to...                 | ...learn about my game playing                                             |
