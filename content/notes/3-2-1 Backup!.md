@@ -1,13 +1,14 @@
 ---
-date: 2022-11-20
 tags:
   - backup-strategy
   - digital-asset-management
   - software-use
   - gear
-growth: "[[Evergreen]]"
+JD-ID: "[[12.01 Backups]]"
 landscapes:
   - "[[the-garden-shed]]"
+date: 2022-11-20
+growth: "[[Evergreen]]"
 ---
 I want to talk about backups. They are important, and always have been. Unlike grabbing photo albums on the way of of the house during a fire, the right backup system means we can focus on saving the most important thing in the house - ourselves.
 

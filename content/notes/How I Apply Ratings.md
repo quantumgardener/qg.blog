@@ -1,7 +1,8 @@
 ---
-date: 2023-10-12
+JD-ID: "[[01.01 Guiding Principles]]"
 landscapes:
   - "[[quantum-os]]"
+date: 2023-10-12
 growth: "[[Evergreen]]"
 ---
 There are as many systems to apply ratings as there are things which can be rated.

@@ -6,6 +6,7 @@ landscapes:
   - "[[quantum-os]]"
 date: 2023-12-03
 growth: "[[Evergreen]]"
+JD-ID: "[[12.01 Backups]]"
 ---
 
 I value backups of my data and systems. Having them means a level of security if something is lost, damaged, hacked, breaks. I may be over-compensating in some areas with multiple on-site and off-site backups. Where I do that, I'm also considering the other aspect of backups which is speed of restoration.

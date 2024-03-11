@@ -30,8 +30,6 @@ Compared to the 400D, this camera gives me:
 | Sensor Size | Resolution  | Pixel Pitch[^1] |
 | :---------- | :---------- | :-------------- |
 | APS-C       | 6000 x 4000 | 5.34 µm         |
-
-
 ## Lenses
 Refer [[My Camera Lenses]] for a list of the lenses I have available to me. The EF lenses attach using the base Canon EF-EFS/RF adaptor.
 ## Battery
