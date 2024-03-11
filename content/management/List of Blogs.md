@@ -1,5 +1,6 @@
 ---
 draft: "true"
+date: 2024-03-11
 ---
 
 > [!INFO] [[19.01 Daily Journal]] entries marked with `#journal/blogged` indicate entries which were originally blogged compared to `#journal/handwritten`.

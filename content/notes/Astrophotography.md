@@ -4,6 +4,7 @@ tags:
 landscapes:
   - "[[hobby-together]]"
 growth: "[[Seedling]]"
+date: 2024-03-11
 ---
 > [!TIP] For sure this page is a bit of a mess.
 
