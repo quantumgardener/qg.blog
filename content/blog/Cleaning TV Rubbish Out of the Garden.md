@@ -12,7 +12,7 @@ I've since cleaned out all the TV series and removed:
 - Publication Year
 - Seasons
 - Cast
-- List of Episdoes
+- List of Episodes
 
 The list of episodes was presented as tasks and I could tick off each as I watched it. This wasted time on 2 levels. Firstly, the place where I watch an episode tracks that for me, and secondly, if there is a later series added I either have to regenerate the page to type up the list of episodes.
 
