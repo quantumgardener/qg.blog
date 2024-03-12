@@ -2,7 +2,6 @@
 tags:
   - photography
   - metadata-strategy
-  - personal-knowledge-management
 date: 2023-08-24
 landscapes:
   - "[[hobby-together]]"

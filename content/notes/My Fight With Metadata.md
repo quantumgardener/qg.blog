@@ -1,14 +1,12 @@
 ---
 tags:
-  - personal-knowledge-management
   - digital-asset-management
-  - personal-knowledge-management
 date: 2023-04-25
 landscapes:
   - "[[productive-laziness]]"
 growth: "[[Evergreen]]"
 ---
-For the last 2 weeks I’ve been working with metadata and the information that I want to track in [[Obsidian]]. As my digital garden, keeping information about the books I read, the movies I watch and the games I play, creates a full picture of my life (hey, maybe one day someone will be interested). 
+For the last 2 weeks I’ve been working with metadata and the information that I want to track in [[Obsidian]]. As my [[Digital Garden]], keeping information about the books I read, the movies I watch and the games I play, creates a full picture of my life (hey, maybe one day someone will be interested). 
 
 Two factors triggered this latest dive into an all to familiar rabbit hole.
 1. Learning some people have moved away from Goodreads to track their reading provides another way to pull data from the cloud to my control, and
@@ -17,13 +15,12 @@ Two factors triggered this latest dive into an all to familiar rabbit hole.
 Rather than detail everything I’ve done, I’m going to share what I’ve learned for years and years of applying metadata to my images and records.
 
 ## Rule 1 - Don’t track what’s available elsewhere
-The amount of metadata you could track is amazingly large. My advice. Don’t. Especially if the metadata is available elsewhere. It’s very tempting to rebuild the Internet and not realise you are doing it. Here’s are some examples.
+The amount of metadata you could track is amazingly large. My advice. [[Don't Duplicate Public Knowledge]], especially if the metadata is available elsewhere. It’s very tempting to rebuild the Internet and not realise you are doing it. Here’s are some examples.
 
 - I know all the states and territories of Australia and their capital cities. There is no need for me to track this because it I have immediate recall. If I wanted to know the population of a city, I can quickly look it up.
 - I may want to know when a book is published, but it’s very unlikely I need to track who the publisher is. Again, I can look that up.
 
 The purpose behind this rule is to cut down on effort. It takes time to hunt down extraneous metadata and more time to massage it into the format you need. Then, if you every change systems, more metadata to be converted from one format to another.
-
 ## Rule 2 - Break rule 1 when you need to
 If adding metadata to a record makes it more useful to you, then add it. Again, some examples.
 

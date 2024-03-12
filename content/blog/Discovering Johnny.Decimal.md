@@ -1,12 +1,11 @@
 ---
-tags:
-  - personal-knowledge-management
+tags: []
 landscapes:
   - "[[productive-laziness]]"
 growth: "[[Evergreen]]"
 date: 2024-01-31
 ---
-This evening I've been reading through the documentation on the [Johnny.Decimal](https://johnnydecimal.com/) system. It's a method for organising documentation across multiple areas and categories.
+This evening I've been reading through the documentation on the [Johnny.Decimal](https://johnnydecimal.com/) system. It's a method for organising documentation across multiple areas and categories and so falls within the realm of [[Personal Knowledge Management]].
 
 It's not the only system of this type. I've looked at, and tried quite a few. As times and tools change, organisation structures change with them. Johnny.Decimal is a system that I will be investing time into.
 

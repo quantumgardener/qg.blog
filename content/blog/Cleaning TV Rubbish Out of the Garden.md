@@ -1,12 +1,11 @@
 ---
-tags:
-  - personal-knowledge-management
+tags: []
 date: 2024-01-08
 growth: "[[Evergreen]]"
 ---
 This morning I looked at my [[Obsidian]] graph and saw an entry for [[The Crown]] that had a lot of missing notes attached to it. I've not written any notes about The Crown so it should not have shown prominently in the graph.
 
-It turns out that I had inadventently broken my rule of [[Don't Duplicate Public Knowledge]]. A script I have that pulls in information about a TV series was including the full list of actors as outbound links and this is what threw off the graph.
+It turns out that I had inadvertently broken my [[Personal Knowledge Management]] rule of [[Don't Duplicate Public Knowledge]]. A script I have that pulls in information about a TV series was including the full list of actors as outbound links and this is what threw off the graph.
 
 I've since cleaned out all the TV series and removed:
 - Publication Year

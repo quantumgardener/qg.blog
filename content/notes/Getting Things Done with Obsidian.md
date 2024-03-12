@@ -1,6 +1,5 @@
 ---
 tags:
-  - personal-knowledge-management
   - extending-obsidian
 landscapes:
   - "[[productive-laziness]]"
