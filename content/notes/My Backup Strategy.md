@@ -38,4 +38,4 @@ My backup software is
 - [[3-2-1 Backup!]]
 
 ## Restore media
-- [[Macrium Reflect Home Edition]] - last build [[2022-10-15]]
+- [[Macrium Reflect Home Edition]] - last build [[2024-03-15]]
