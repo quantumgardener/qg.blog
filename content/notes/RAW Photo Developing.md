@@ -1,22 +1,22 @@
 ---
-tags:
-  - photography
+tags: []
 date: 2023-10-30
 landscapes:
   - "[[hobby-together]]"
 growth: "[[Seedling]]"
 description: The workflow I use to develop RAW photos.
 ---
-1. Lens correction - I do this automatically on import in to [[Lightroom]]
-2. Transform
-3. Crop
-4. White Balance
-5. Exposure
-6. Contrast
-7. Colour
-8. Dodging & Burning
-9. Cleanup
-10. Sharpening
+[[Photography]]
+2. Lens correction - I do this automatically on import in to [[Lightroom]]
+3. Transform
+4. Crop
+5. White Balance
+6. Exposure
+7. Contrast
+8. Colour
+9. Dodging & Burning
+10. Cleanup
+11. Sharpening
 
 As seen in:
 

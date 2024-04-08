@@ -1,6 +1,5 @@
 ---
 tags:
-  - photography
   - digital-asset-management
 date: 2023-08-13
 landscapes:

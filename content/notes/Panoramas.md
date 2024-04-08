@@ -1,11 +1,11 @@
 ---
 growth: "[[Seedling]]"
-tags:
-  - photography
+tags: []
 landscapes:
   - "[[hobby-together]]"
 date: 2023-10-22
 ---
+General info on panorama [[Photography]].
 ## Tips to Shooting Panoramas
 Ideally use a tripod, but can be done handheld.
 

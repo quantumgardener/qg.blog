@@ -1,21 +1,23 @@
 ---
 tags:
-  - photography
   - digital-asset-management
 date: 2023-12-21
 growth: "[[Evergreen]]"
 landscapes:
   - "[[hobby-together]]"
   - "[[quantum-os]]"
+JD-ID: "[[12.02 Mediabank Photos and Videso]]"
 ---
-Digital photos have the date and time taken embedded. Scanned prints, negatives and slides do not. This is a problem when the original non-digital image is scanned and there is no record alongside it of the date the photo was made.
+Digital photos have the date and time taken embedded. Scanned prints, negatives and slides do not. This is a problem in [[Photography]] when the original non-digital image is scanned and there is no record alongside it of the date the photo was made.
 
 Digital Asset Management software such as [[IMatch]] or [[Lightroom]] requires a date. You can't have just a year, or know it was December but not which day. The software requires a year, month and date. And if you're thinking ahead, it requires a time as well (and a timezone).
 
-I have many thousands of scanned photos in my system and have settled on the following system. I will always try to get the most accurate date I can and depending on the information in the image and surrounding images, I can usually get pretty close - if not to the month, they certainly the year.
+I have many thousands of scanned photos in my system and have settled on the following system. I will always try to get the most accurate date I can and depending on the information in the image and surrounding images, I can usually get pretty close - if not to the month, they certainly 
+the year.
+
+![[imatch-media-and-folders.webp]]
 
 > [!DANGER] Part of me hates that I can't get accurate dates for all my photos. I have to live with that daily.
-
 ## Handling Certainty and Uncertainty
 
 Whenever I have a certainty or a high confidence in the date I will use the *Date Created* field and nothing else. For other dates, I use a combination of *Date Created*[^XMP::photoshop\DateCreated], *Circa Date Created*[^{XMP::iptcExt\CircaDateCreated] and *Coverage*[^XMP::dc\coverage].

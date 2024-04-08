@@ -9,10 +9,12 @@ date: 2024-03-11
 My interests are [[Astrophotography]], [[Landscape Photography]] and [[Panoramas]].
 
 ## Digital Asset Management
-- [[My Photo Dating Strategy]]
+- [[Mediabank]]
+- [[My Photo Dating Strategy for Uncertain Dates]]
+- [[IMatch]] - digital asset management application
 
 ## Equipment
--  [[My Photography Gear]]
+- [[My Photography Gear]]
 - [[My Camera History]]
 
 ## Resources

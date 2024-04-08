@@ -1,7 +1,6 @@
 ---
 tags:
   - gear
-  - photography
 date: 2023-09-27
 growth: "[[Evergreen]]"
 aliases:
@@ -10,7 +9,7 @@ description: Info on my Canon 400D camera.
 landscapes:
   - "[[hobby-together]]"
 ---
-My [Canon 400D DSLR](https://en.wikipedia.org/wiki/Canon_EOS_400D) was purchased in September 2006. I purchased it with a Canon EF-S 17-85mm f4/f5.6 lens.
+My [Canon 400D DSLR](https://en.wikipedia.org/wiki/Canon_EOS_400D) was purchased in September 2006 for personal [[Photography]]. I purchased it with a Canon EF-S 17-85mm f4/f5.6 lens.
 
 ![[eos-400d.webp]]
 
