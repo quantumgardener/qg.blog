@@ -42,17 +42,18 @@ IMatchAssets --> Publish
 
 Photos and video from DSLR or Mirrorless cameras are copied to the `import` folder using a card reader (preferred), local wi-fi connection between camera and computer, or USB cable. 
 ### Mobile Phones
-With 3 iPhones[^samsung] in the house, I needed a way to reliably get photos from the phone to the PC. Plugging each into a USB port and copying files is unworkable. Photo files are typically not stored with dates in the filename, so although the first copy is easy, the next requires I keep track of the last number photo I copied.
+With 3 iPhones[^samsung] in the house, it is difficult to reliably get photos from the phone to the PC in a way that makes managing them once imported easy. Plugging each into a USB port and copying files is unworkable because I need to keep track of the last number photo copied from each phone. The file names do not include the date and time the photo was taken.
 
-Initially I used Dropbox to automatically upload photos in the background. That worked until Apple removed the ability for an application to constantly run in the background. And I would sometimes run into issues filling a family member's Dropbox capacity. I've moved to OneDrive now, and that has fixed the space problem but the background download problem remains. Periodically I have to remind everyone to go into OneDrive on their phone which reignites the transfer for a few days and catches everything up.
+OneDrive uploads files and renames them on the way[^dropbox].  However, Apple does disable the app from running the background after a while so periodically I have to remind everyone to go into OneDrive on their phone which reignites the transfer for a few days and catches everything up.
 
-> [!warning] iCloud for Windows is so unreliable in our household I don't go near it.
+> [!warning] iCloud for Windows is so unreliable in our household I don't go near it. 
+> It would frequently fail to sync files, and at other times would chew up 40% of the CPU doing nothing at all. That type of unreliability is unacceptable when dealing with family memories.
 
-OneDrive, and Dropbox before it, rename photos on the way in to a date-time format. Sometimes, when importing photo from iPhones they end up in the wrong day (more on that later) but usually within the same month so I can easily see the date corrections I need to make. The two main culprits are `.mov` files which reference UTC instead of local time, and photos sent from someone else's phone. They have the date sent, not the date taken.
+Sometimes, when importing photo from iPhones they end up in the wrong day (more on that later) but usually within the same month so I can easily see the date corrections I need to make. The two main culprits are `.mov` files which reference UTC instead of local time, and photos sent from someone else's phone. They have the date received, not the date originally taken.
 
-My daughter and wife's Camera Roll folders are shared into my OneDrive account, and those three folders are indexed in situ by [[IMatch]]. I'll perform an initial cull right here before moving the files to the `import` folder to remove the many screenshots of whatever has taken their fancy on social media, or in the shops, or... Approximately half- to two-thirds of images disappear here.
+My daughter and wife's Camera Roll folders are shared into my OneDrive account, and those along with my own are indexed in situ by [[IMatch]]. I perform an initial cull of screenshots of whatever has taken our fancy on social media, or in the shops, before moving the files to the `import` folder. Approximately half- to two-thirds of images disappear here. The iPhone as a camera is used very differently from a dedicated camera such as my [[Canon R50 Mirrorless|Canon R50]].
 
-I use IMatch's [Renamer](https://www.photools.com/help/imatch/index.html#ren_basics.htm) to move and rename files for me. 
+Rather than move files manually, I use IMatch's [Renamer](https://www.photools.com/help/imatch/index.html#ren_basics.htm) to move and rename files for me. 
 
 > [!example] The "To Import" renamer definition
 > ![[imatch-import-renamer.webp]]
@@ -69,7 +70,7 @@ I use IMatch's [Renamer](https://www.photools.com/help/imatch/index.html#ren_bas
 
 # 2. Cataloging
 
-To be fully cataloged, every digital asset will have:
+To be fully cataloged, I aim to have every digital asset with:
 - Date/Time (When)
 - Location (Where)
 - GPS coordinates (a bit more where)
@@ -85,13 +86,16 @@ Every image has the date and time set.
 	- May need adjustment if taken in a different time zone
 	- May need setting if photos come from someone else
 - Movie files
-	- From iPhones need the correct time zone set and a subsequent file rename
+	- From iPhones need the correct time zone set and a subsequent file rename. This is a weird quirk that iPhone photos have the correct timezone, yet movie files have their time referenced to UTC. IMatch makes it easy to adjust the time and add a timezone. 
 - Scanned files
 	- Dates and times are entered by hand as a best effort guess.
 
 Ingestion files images by day within a month. This makes it easier to identify and correct date time errors across different media sources. A `.mov` file that has not been corrected will normally be the day before (one advantage of being +10/+11 hours ahead of UTC).
 
 When I have to set a date and I don't know the exact details I follow [[My Photo Dating Strategy for Uncertain Dates]].
+
+> [!TIP] Metadata for Dates
+> Dates are stored in the `Date Created` and `DateTimeOriginal` fields.
 ### Location
 
 Location is a keywords hierarchy. It follows:
@@ -178,3 +182,4 @@ Refer to [[My Backup Strategy]] for how digital assets and the database are back
 
 [^pack]: [Pack & Go Help](https://www.photools.com/help/imatch/index.html#packandgo.htm)
 [^samsung]: And previously 1 Samsung as well.
+[^dropbox]: Initially I used Dropbox to automatically upload photos in the background. That worked until Apple removed the ability for an application to constantly run in the background. And I would sometimes run into issues filling a family member's Dropbox capacity. OneDrive still has the same background upload timeout, but there are no storage limits to worry about so no need to change back.

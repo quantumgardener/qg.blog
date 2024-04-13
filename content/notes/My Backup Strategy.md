@@ -16,6 +16,34 @@ I value backups of my data and systems. Having them means a level of security if
 - Personal photos/home video library
 - Documents/files
 
+```mermaid
+flowchart LR
+    subgraph Family-PC
+    Users[fa:fa-desktop Users] --" fa:fa-code-compare Duplicacy"--> QG-NAS-02-Documents
+    iTunes[fa:fa-desktop iTunes] --"fa:fa-code-compare Duplicacy"--> QG-NAS-02-Media
+    Memories[fa:fa-desktop Memories] --"fa:fa-code-compare Duplicacy"--> QG-NAS-01-Memories
+    Plex[fa:fa-desktop Plex] --"fa:fa-code-compare Duplicacy"--> QG-NAS-02-Media
+    PC-OS[fa:fa-desktop PC] --"fa:fa-code-compare Macrium Reflect" --> QG-NAS-01-Images[fa:fa-server QG-NAS-01-Images]
+    end
+    subgraph QG-NAS-01
+    Zotero[fa:fa-server Zotero] --"fa:fa-code-compare Duplicacy"--> QG-NAS-02-Documents
+    OneDrive[fa:fa-cloud OneDrive Accounts] --"CloudSync"--> OneDriveBackup[fa:fa-server QG-NAS-01-OneDriveBackup]
+    Books[fa:fa-server eBooks/Audiobooks] --"fa:fa-code-compare Duplicacy"--> QG-NAS-02-Media
+    OneDriveBackup[fa:fa-server OneDrive Backup] --"fa:fa-code-compare Duplicacy"--> QG-NAS-02-Documents
+    end
+    subgraph My-Macbook
+    Macbook[fa:fa-laptop Macbook Docs] --" fa:fa-code-compare Duplicacy"--> QG-NAS-02-Documents
+    MacBook[fa:fa-laptop Macbook OS] --"Carbon Copy Cloner"--> ExternalSSD[fa:fa-hard-drive External Clone SSD]
+    end
+
+    %% Cloud Offsite backups
+    QG-NAS-02-Documents[fa:fa-database QG-NAS-02-Documents] --" Duplicacy"--> WAB-OneDrive-Documents[fa:fa-cloud fa:fa-database OneDrive Documents]
+    QG-NAS-02-Media[fa:fa-database QG-NAS-02-Media] --"Duplicacy"--> WAB-OneDrive-Media[fa:fa-cloud fa:fa-database OneDrive Media]
+    QG-NAS-01-Memories[fa:fa-database QG-NAS-01-Memories] --"Duplicacy"--> DCB-OneDrive-Memories[fa:fa-cloud fa:fa-database OneDrive Memories]
+
+    %% External Drive Offsite Backups
+    QG-NAS-01-Images --"SyncBack Pro"--> External[fa:fa-hard-drive Spanned External Drives]
+```
 ## Where do I back up to?
 My backup targets are:
 - [[Synology DiskStation DS920+]]- 4 x 4TB drives, with single-redundancy. I can lose any drive and still operate/recover. 
