@@ -1,4 +1,6 @@
 ---
+cssclasses:
+  - wide-page
 tags:
   - backup-strategy
 landscapes:
@@ -19,35 +21,39 @@ I value backups of my data and systems. Having them means a level of security if
 ```mermaid
 flowchart LR
     subgraph Family-PC
-    Users[fa:fa-desktop Users] --" fa:fa-code-compare Duplicacy"--> QG-NAS-02-Documents
-    iTunes[fa:fa-desktop iTunes] --"fa:fa-code-compare Duplicacy"--> QG-NAS-02-Media
-    Memories[fa:fa-desktop Memories] --"fa:fa-code-compare Duplicacy"--> QG-NAS-01-Memories
-    Plex[fa:fa-desktop Plex] --"fa:fa-code-compare Duplicacy"--> QG-NAS-02-Media
-    PC-OS[fa:fa-desktop PC] --"fa:fa-code-compare Macrium Reflect" --> QG-NAS-01-Images[fa:fa-server QG-NAS-01-Images]
+    Users[fa:fa-desktop Users] --"Duplicacy"--> QG-NAS-02-Documents
+    iTunes[fa:fa-desktop iTunes] --"Duplicacy"--> QG-NAS-02-Media
+    Memories[fa:fa-desktop Memories] --"Duplicacy"--> QG-NAS-01-Memories
+    Plex[fa:fa-desktop Plex] --"Duplicacy"--> QG-NAS-02-Media
+    PC-OS[fa:fa-desktop PC] --"Macrium Reflect" --> QG-NAS-01-Images[fa:fa-server fa:fa-code-compare QG-NAS-01-Images]
     end
     subgraph QG-NAS-01
-    Zotero[fa:fa-server Zotero] --"fa:fa-code-compare Duplicacy"--> QG-NAS-02-Documents
+    Zotero[fa:fa-server Zotero] --"Duplicacy"--> QG-NAS-02-Documents
     OneDrive[fa:fa-cloud OneDrive Accounts] --"CloudSync"--> OneDriveBackup[fa:fa-server QG-NAS-01-OneDriveBackup]
-    Books[fa:fa-server eBooks/Audiobooks] --"fa:fa-code-compare Duplicacy"--> QG-NAS-02-Media
-    OneDriveBackup[fa:fa-server OneDrive Backup] --"fa:fa-code-compare Duplicacy"--> QG-NAS-02-Documents
+    Books[fa:fa-server eBooks/Audiobooks] --"Duplicacy"--> QG-NAS-02-Media
+    OneDriveBackup[fa:fa-server OneDrive Backup] --"Duplicacy"--> QG-NAS-02-Documents
     end
     subgraph My-Macbook
-    Macbook[fa:fa-laptop Macbook Docs] --" fa:fa-code-compare Duplicacy"--> QG-NAS-02-Documents
+    Macbook[fa:fa-laptop Macbook Docs] --"Duplicacy"--> QG-NAS-02-Documents
     MacBook[fa:fa-laptop Macbook OS] --"Carbon Copy Cloner"--> ExternalSSD[fa:fa-hard-drive External Clone SSD]
     end
 
-    subgraph legend
-        a[fa:fa-database Duplicacy Storage]
-        e[fa:fa-code-compare Point of Encryption]
-    end
+    QG-NAS-02-Documents[fa:fa-database fa:fa-code-compare QG-NAS-02-Documents] --" Duplicacy"--> WAB-OneDrive-Documents[fa:fa-cloud fa:fa-database fa:fa-code-compare OneDrive Documents]
+    QG-NAS-02-Media[fa:fa-database fa:fa-code-compare QG-NAS-02-Media] --"Duplicacy"--> WAB-OneDrive-Media[fa:fa-cloud fa:fa-database fa:fa-code-compare OneDrive Media]
+    QG-NAS-01-Memories[fa:fa-database fa:fa-code-compare QG-NAS-01-Memories] --"Duplicacy"--> DCB-OneDrive-Memories[fa:fa-cloud fa:fa-database fa:fa-code-compare OneDrive Memories]
 
 
-    QG-NAS-02-Documents[fa:fa-database QG-NAS-02-Documents] --" Duplicacy"--> WAB-OneDrive-Documents[fa:fa-cloud fa:fa-database OneDrive Documents]
-    QG-NAS-02-Media[fa:fa-database QG-NAS-02-Media] --"Duplicacy"--> WAB-OneDrive-Media[fa:fa-cloud fa:fa-database OneDrive Media]
-    QG-NAS-01-Memories[fa:fa-database QG-NAS-01-Memories] --"Duplicacy"--> DCB-OneDrive-Memories[fa:fa-cloud fa:fa-database OneDrive Memories]
+    QG-NAS-01-Images --"SyncBack Pro"--> External[fa:fa-hard-drive fa:fa-code-compare Spanned External Drives]
+```
 
-
-    QG-NAS-01-Images --"SyncBack Pro"--> External[fa:fa-hard-drive Spanned External Drives]
+```mermaid
+flowchart TD
+    subgraph Legend
+    a[fa:fa-database Duplicacy Storage]
+    c[fa:fa-cloud Cloud Storage]
+    e[fa:fa-code-compare Encrypted Backup]
+    n[fa:fa-server NAS Storage]
+    end
 ```
 ## Where do I back up to?
 My backup targets are:
