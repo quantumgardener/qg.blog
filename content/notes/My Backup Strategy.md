@@ -36,12 +36,17 @@ flowchart LR
     MacBook[fa:fa-laptop Macbook OS] --"Carbon Copy Cloner"--> ExternalSSD[fa:fa-hard-drive External Clone SSD]
     end
 
-    %% Cloud Offsite backups
+    subgraph legend
+        a[fa:fa-database Duplicacy Storage]
+        e[fa:fa-code-compare Point of Encryption]
+    end
+
+
     QG-NAS-02-Documents[fa:fa-database QG-NAS-02-Documents] --" Duplicacy"--> WAB-OneDrive-Documents[fa:fa-cloud fa:fa-database OneDrive Documents]
     QG-NAS-02-Media[fa:fa-database QG-NAS-02-Media] --"Duplicacy"--> WAB-OneDrive-Media[fa:fa-cloud fa:fa-database OneDrive Media]
     QG-NAS-01-Memories[fa:fa-database QG-NAS-01-Memories] --"Duplicacy"--> DCB-OneDrive-Memories[fa:fa-cloud fa:fa-database OneDrive Memories]
 
-    %% External Drive Offsite Backups
+
     QG-NAS-01-Images --"SyncBack Pro"--> External[fa:fa-hard-drive Spanned External Drives]
 ```
 ## Where do I back up to?
