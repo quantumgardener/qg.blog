@@ -23,6 +23,8 @@ Standing here at the main gate you can see several intriguing [[Landscapes|lands
 > - [[productive-laziness|Productive Laziness]] 
 > - [[the-garden-shed|The Garden Shed]] 
 > - [[quantum-os|Quantum OS]]
+> 
+>> [!TIP] A page's landscapes will show below the page heading.
 
 [^1]: Check out [[Designing The Quantum Garden]] for the design philosophy behind the site.
 
