@@ -8,6 +8,10 @@ Welcome to The Quantum Garden, a site where I share what interests me in the hop
 
 Time spent in the garden is all about cultivating possibilities in life. Often the possibility is already there and waiting to be seen.
 
+## Articles I'm Actively Working on
+- [[Mediabank]]
+- [[IMatch to Socials]]
+- [[My Backup Strategy]]
 ## Getting Around the Garden
 Where do you want to head first? There are many paths before you, and you are welcome to create your own[^1]. 
 
