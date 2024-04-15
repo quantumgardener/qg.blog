@@ -6,7 +6,7 @@ growth: "[[Evergreen]]"
 landscapes:
   - "[[hobby-together]]"
   - "[[quantum-os]]"
-JD-ID: "[[12.02 Mediabank Photos and Videso]]"
+JD-ID: "[[12.02 Mediabank Photos and Videos]]"
 ---
 Digital photos have the date and time taken embedded. Scanned prints, negatives and slides do not. This is a problem in [[Photography]] when the original non-digital image is scanned and there is no record alongside it of the date the photo was made.
 

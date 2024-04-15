@@ -59,7 +59,7 @@ flowchart TD
 My backup targets are:
 - [[Synology DiskStation DS920+]]- 4 x 4TB drives, with single-redundancy. I can lose any drive and still operate/recover. 
 - [[Synology DS115 NAS]] - 1 unit each of 4TB and 3TB.
-- [Wasabi cloud storage](https://wasabi.com/) - (Amazon S3 compatible)
+- ~~[Wasabi cloud storage](https://wasabi.com/) - (Amazon S3 compatible)~~
 - [OneDrive](https://www.microsoft.com/en-au/microsoft-365/onedrive/online-cloud-storage) - comes with Microsoft Office subscription
 - Any number of external USB drives 
 	- 3 x 4TB drives as a single Bitlocker encrypted Windows spanned drive

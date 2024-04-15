@@ -1,7 +1,7 @@
 ---
 tags:
   - metadata-strategy
-JD-ID: "[[12.02 Mediabank Photos and Videso]]"
+JD-ID: "[[12.02 Mediabank Photos and Videos]]"
 landscapes:
   - "[[hobby-together]]"
 growth: "[[Budding]]"
@@ -107,11 +107,29 @@ Location is a keywords hierarchy. It follows:
 				- Street
 					- Building address
 
-The category is colour-coded ==blue== for a visual indicator of an address being present.
+A building's address will be `number` - `descriptor` e.g.
+
+- Australia
+	- Victoria
+		- Bendigo
+			- CBD
+				- High Street
+					- 63 - McDonalds
+
+I don't use the IPTC Country, State/Province, City, Location fields at all. 
+
+If I can't determine a location with specificity, I'll set the lowest category I can. For example, a photo taken in a car whilst travelling in Victoria, without GPS, will be tagged `Australia | Victoria.`
+
+The category is colour-coded blue for a thumbnail's visual indicator of an address being present.
+
 ### GPS
 
-==Describe how GPS is added==
+If the device doesn't add GPS directly, it is added via the in-built map function. Photos that are all in the same location eg. home, all have the same GPS address and make use of IMatch's various location features.
 
+![[imatch-geocoding example.webp]]
+When it's easy to separate pins to where a photo was taken I set separate pins. For searched results, I will use the pin provided.
+
+Not all images will have GPS, just as not all will have a location.
 ### People
 Uses the built in "People" tab. Information is stored and managed by [[IMatch]]. The connection from asset to People is via an annotation. Either through face matching, or direct application (without a matched face). IMatch also stores names in the *XMP:Person in Image* field.
 - Each person record made up of
@@ -134,13 +152,34 @@ Pets use the same system.
 		- Any relevant ie. domestic cat, budgie...
 	- Add category - broad class of pet ie. dog, cat, bird, fish
 
-The top-level Who category is dynamically calculated directly off the *XMP:Person in Image* field.
+The top-level Who category is dynamically calculated directly off the *XMP:Person in Image* field. 
+## Events
+I do not use IMatch's built-in Events feature. It's good, but neither fast enough, nor flexible enough for my needs. Event media thumbnails have a pink marker.
+
+![[imatch-top-level-events.webp]]
+
+Events all have their own keyword category. Most are tagged `year - event` e.g.
+
+- Travel & Time Away
+	- 1995 - Melbourne Zoo
+	- 2000 - Denmark
+- Visitors
+	- 2007 - Sophie
+
+You'll see Christmas is just the one category. There is one "Decorating the Tree" sub-category. A dynamic category splits the photos out by year.
+
+![[imatch-christmas-category-by-year.webp]]
+
+It's a simple filter by keyword then split by year on the first 4 numbers of the DateCreated field.
+
+![[imatch-christmas-data-driven-category.webp]]
+
+I also split Easter by year, Travel by year, then event, and Who by Year, then name.
+## General Keywording
 
 ### The Final Flag
 
 Once I'm happy with everything and have added all the metadata I can, I add a label called `Final`.
-
-==Add some examples and more explanation==
 
 ## Words on the Working Folder
 

@@ -4,7 +4,7 @@ tags:
   - digital-asset-management
   - software-use
   - gear
-JD-ID: "[[12.02 Storage]]"
+JD-ID: "[[12.03 Storage]]"
 landscapes:
   - "[[the-garden-shed]]"
 date: 2022-11-20
