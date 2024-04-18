@@ -8,7 +8,7 @@ Welcome to The Quantum Garden, a site where I share what interests me in the hop
 
 Time spent in the garden is all about cultivating possibilities in life. Often the possibility is already there and waiting to be seen.
 
-> [!WRITING] Articles I'm working on
+> [!writing] Articles I'm working on
 > - [[Mediabank]]
 > - [[IMatch to Socials]]
 > - [[My Backup Strategy]]
@@ -23,8 +23,8 @@ Standing here at the main gate you can see several intriguing [[Landscapes|lands
 > - [[productive-laziness|Productive Laziness]] 
 > - [[the-garden-shed|The Garden Shed]] 
 > - [[quantum-os|Quantum OS]]
-> 
->> [!TIP] A page's landscapes will show below the page heading.
+ 
+> [!TIP] A page's landscapes will show below the page heading.
 
 [^1]: Check out [[Designing The Quantum Garden]] for the design philosophy behind the site.
 
