@@ -14,8 +14,9 @@ SSDs have a limited amount of times they can be written to.
 
 Use CrystalDiskInfo to check.
 
-| Drive                               | Total Terabyte Writes (TBW) |
-| ----------------------------------- | --------------------------- |
-| Kingston 480G [[Dumbledor]] `C:\`   | 160TBW                      |
-| Samsung 970 Evo [[Dumbledor]] `S:\` | 600TBW                      |
+| Drive                                    | Total Terabyte Writes (TBW) |
+| ---------------------------------------- | --------------------------- |
+| Kingston 480G [[Dumbledore]] `C:\`       | 160TBW                      |
+| Samsung 860 EVO 250GB External           | 150TBW                      |
+| Samsung 970 Evo 1TB [[Dumbledore]] `S:\` | 600TBW                      |
 Last checked [[2024-04-13]], both drives with ample life left.

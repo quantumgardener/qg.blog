@@ -84,7 +84,7 @@ Every image has the date and time set.
 - Photo date and time from a camera
 	- Usually reliable
 	- May need adjustment if taken in a different time zone
-	- May need setting if photos come from someone else
+	- Usually need setting if photos come from someone else (sharing photos seems to strip the original date and time out)
 - Movie files
 	- From iPhones need the correct time zone set and a subsequent file rename. This is a weird quirk that iPhone photos have the correct timezone, yet movie files have their time referenced to UTC. IMatch makes it easy to adjust the time and add a timezone. 
 - Scanned files
@@ -129,9 +129,15 @@ If the device doesn't add GPS directly, it is added via the in-built map functio
 ![[imatch-geocoding example.webp]]
 When it's easy to separate pins to where a photo was taken I set separate pins. For searched results, I will use the pin provided.
 
+Common locations, such as our house, family member's houses, or other locations we visit regularly are created as a location with a n-metre radius. Media within that radius are all set to the same location. It's enough to know a photo has been taken on our house property. Nobody needs to know which room.
+
 Not all images will have GPS, just as not all will have a location.
 ### People
-Uses the built in "People" tab. Information is stored and managed by [[IMatch]]. The connection from asset to People is via an annotation. Either through face matching, or direct application (without a matched face). IMatch also stores names in the *XMP:Person in Image* field.
+The decision to tag people is difficult to navigate. Do you tag only those people close to you, or do you tag everyone you know. The latter makes for a lot of work, particularly in those media when I personally don't know everyone. That happens a lot with my daughter's friends.
+
+> [!NOTE] My default has been to tag everyone, but I recognise there is limited value in that and may change. 
+
+People are identified using the [built-in "People" function](https://www.photools.com/help/imatch/index.html#people.htm). Metadata about a person is stored and managed by [[IMatch]]. The connection from asset to People is via an XMP annotation either through face matching, or direct application (without a matched face). IMatch also stores names in the *XMP:Person in Image* field.
 - Each person record made up of
 	- Name Surname
 	- Sort order (Surname, Name)
@@ -152,7 +158,9 @@ Pets use the same system.
 		- Any relevant ie. domestic cat, budgie...
 	- Add category - broad class of pet ie. dog, cat, bird, fish
 
-The top-level Who category is dynamically calculated directly off the *XMP:Person in Image* field. 
+> [!TIP] Relationships via category means information is stored in the database but not in the images themselves. For my daughters, the grandparents category brings together images of all their four grandparents.
+
+A top-level Who category is dynamically calculated directly off the *XMP:Person in Image* field. 
 ## Events
 I do not use IMatch's built-in Events feature. It's good, but neither fast enough, nor flexible enough for my needs. Event media thumbnails have a pink marker.
 
@@ -178,9 +186,7 @@ I also split Easter by year, Travel by year, then event, and Who by Year, then n
 ## General Keywording
 
 ### The Final Flag
-
 Once I'm happy with everything and have added all the metadata I can, I add a label called `Final`.
-
 ## Words on the Working Folder
 
 ==Some explanation to come on how I QA what metadata is there==
