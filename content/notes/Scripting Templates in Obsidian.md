@@ -56,7 +56,7 @@ if(books.length > 0) {
 ## Book series template file
 My file is called `book-series.md`.
 
-```
+~~~
 ---
 tags:
 - #status/▶️
@@ -69,7 +69,7 @@ A series of books by [[]] consisting of:
 ```dataviewjs
 await dv.view("/Atlas/Utilities/Scripts/book-series")
 ```
-```
-```
+~~~
+
 
 The last call to my script is what does the magic.
