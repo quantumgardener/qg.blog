@@ -68,7 +68,7 @@ For this system to run you need:
 - For pixelfed
 	- [Mastodon.py](https://pypi.org/project/Mastodon.py/) - once you have Python installed run `pip3 install Mastodon.py`
 	- Your own Pixelfed account and 'personal access token'
-- Code downloaded from [GitHub](https://github.com/quantumgardener/IMatch-to-Socials)
+- Code downloaded from GitHub at https://github.com/quantumgardener/IMatch-to-Socials
 
 ### Get Your Application Keys
 Create application keys and record the keys and secrets you're given. These will go into IMatch application variables.
@@ -142,13 +142,15 @@ The steps are simple. Create a version of an image, and add that image to a cate
 The code can be run from the command line or from with IMatch using an IMatch app. Here's how I set up mine.
 
 1. Close IMatch
-2. Place the github code in a location of your choice. The `IMatch app` folder is the one we are concerned with.
+2. Place the [GitHub](https://github.com/quantumgardener/IMatch-to-Socials) code in a location of your choice. The `IMatch app` folder is the one we are concerned with.
 3. Create a symlink from the `C:\ProgramData\photools.com\imatch6\webroot\user` folder to the location of your `IMatch App` folder.
 4. Start IMatch. You **should** see the application registered.
 5. Point the `imatch_to_socials_python_script_path` application variable to the location where `share_images.py` is located.
 6. 🤞
+
 ### Versions and Metadata
 My location hierarchy is quite deep and runs to personal information (see [[Mediabank]]). I don't want flickr to be creating keywords for my home address, but if the information is in the hierarchical keywords field in the uploaded file, it will. I attempted to get around this by deleting all keywords after an upload and though there were no errors, it didn't seem to work. Instead, I've set IMatch to not transfer keywords to versions of images. For some this will not be idea, but for me it works. The master image has all the keywording and versions have none. The script walks up from the version to the master, grabs the keywords from there, and then only sets the based on the in-code filters I have set up.
+
 ## Understanding the Code
 ### Main Code Loop (share_images.py)
 What does this actually do? The main script `share_images.py` is a [[Python]] script that controls the main processing loop. There is a `platform_controller` for each platform (flickr, pixelfed). These gather `images` from [[IMatch]] and connect to the respective platforms for the API calls. In the pseudocode below an "image" is all the metadata associated with an image in IMatch.
