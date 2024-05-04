@@ -2,8 +2,8 @@
 tags: 
 landscapes:
   - "[[hobby-together]]"
-growth: "[[Seedling]]"
-date: 2024-04-14
+growth: "[[Evergreen]]"
+date: 2024-05-04
 ---
 The **IMatch to Socials** system automates the addition, update and deletion of images between [[IMatch]] and [flickr](https://flickr.com) or [pixelfed](https://pixelfed.org). I created it to reduce the time taken updating and managing photos across all three platforms.
 ## Features
