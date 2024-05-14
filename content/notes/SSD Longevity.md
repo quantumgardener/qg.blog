@@ -17,6 +17,6 @@ Use CrystalDiskInfo to check.
 | Drive                                    | Total Terabyte Writes (TBW) |
 | ---------------------------------------- | --------------------------- |
 | Kingston 480G [[Dumbledore]] `C:\`       | 160TBW                      |
-| Samsung 860 EVO 250GB External           | 150TBW                      |
+| Samsung 860 EVO 250GB External `P:\`     | 150TBW                      |
 | Samsung 970 Evo 1TB [[Dumbledore]] `S:\` | 600TBW                      |
-Last checked [[2024-04-13]], both drives with ample life left.
+Last checked [[2024-05-11]], all drives with ample life left.
