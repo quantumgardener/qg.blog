@@ -5,3 +5,4 @@
 /pages/* /notes/:splat 301
 /:year/:month/:day/*/ /blog/:splat 301
 /:year/:month/:day/* /blog/:splat 301
+/blog/welcome-to-the-garden /blog/2023-09-27,-welcome-to-the-garden
