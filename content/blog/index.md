@@ -9,5 +9,5 @@ The notes in this folder are more temporary in nature. I'm not sure what I'm doi
 > "Once a blogger, always a blogger"
 
 > [!Warning] Files have been moved
-> I'm in the middle of rearranging my blog entries into the conventional `YYYY/MM//DD/topic` organisation. That has broken this page.
+> I'm in the middle of rearranging my blog entries into the conventional `YYYY/MM//topic` organisation. This may have broken the RSS feed.
 

@@ -33,11 +33,13 @@ flowchart TD
 The modifications I've made from [the original codebase](https://github.com/jackyzha0/quartz) are listed below with the file(s) where the change has been made. You're more than welcome to view them in-situ at the [site's Github repository](https://github.com/quantumgardener/qg.blog). The majority are to support [[Designing The Quantum Garden]] and others are purely informational/cosmetic.
 
 ### Generate RSS for only certain pages
-By default [[Quartz 4]] considers every page for RSS inclusion. That doesn't suit the way I write and use content. Some is reference, other is commentary and there is too much reference material to blog it. I've modified the RSS generation to only include files in the `/blog` folder.
+By default [[Quartz 4]] considers every page for RSS inclusion in the [Blog](/blog/index). That doesn't suit the way I write and use content. Some is reference, other is commentary and there is too much reference material to blog it. I've modified the RSS generation to only include files in the `/blog` folder.
 - `quartz\plugins\emitters\contentIndex.ts`
 	- Code in feed location, copyright year from start to dynamic current year and filter for only files that start with `rssRootFolder`
-- `\quartz.config.ts` - to set up RSS and pass through the root folder "blog" - look at `Plugin.ContentIndex` emitter parameters.
-
+	- Set 
+- `\quartz.config.ts`
+	- to set up RSS and pass through the root folder "blog" - look at `Plugin.ContentIndex` emitter parameters.
+	- `includeEmptyFiles` is set to `False` so that the year and month index files are not included in the RSS feed
 ### Remove Links to Pages That Don't Exist
 I believe it's poor design to link to any pages that I can know don't exist.
 - `\quartz\plugins\transformers\ofm.ts`
