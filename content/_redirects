@@ -5,6 +5,3 @@
 /pages/* /notes/:splat 301
 /:year/:month/:day/*/ /blog/:splat 301
 /:year/:month/:day/* /blog/:splat 301
-/blog/welcome-to-the-garden /blog/(2023-09-27)-welcome-to-the-garden
-/blog/now,-22-october-2023 /blog/(2023-10-22)-now
-/blog/reflecting-on-the-last-few-weeks /blog/(2023-08-20)-reflecting-on-the-last-few-weeks
