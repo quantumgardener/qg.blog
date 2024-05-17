@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Obsidian's
 tags:
   - note-making
   - software-use

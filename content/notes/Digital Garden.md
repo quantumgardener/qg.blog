@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Digital Gardening
 date: 2023-09-14
 growth: "[[Budding]]"
 publishDate: 2023-09-17T20:43:00
