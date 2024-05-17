@@ -3,11 +3,11 @@ title: Blog
 growth: "[[Seedling]]"
 date: 2023-09-27
 ---
-The notes in this folder are more temporary in nature. I'm not sure what I'm doing with this folder yet and if they will continue to exist, or not. See [[My Decision to Stop Blogging]] for my exploration of this topic.
 
-> [!NOTE] Still blogging 🤷
+
+> [!NOTE] Time-based notes as I share my thinking. 
 > "Once a blogger, always a blogger"
+> 
 
-> [!Warning] Files have been moved
-> I'm in the middle of rearranging my blog entries into the conventional `YYYY/MM//topic` organisation. This may have broken the RSS feed.
+Use the links below to access the blog's archives, and you can also access my many thoughts on [[Blogging]]. I'm subscribed to [EchoFeed](https://echofeed.app) for publication of blogs to Mastodon where I can reshare them.
 
