@@ -1,6 +1,7 @@
 ---
 tags:
   - MOC
+date: 2024-05-17
 landscapes:
   - "[[the-garden-shed]]"
 growth: "[[Budding]]"

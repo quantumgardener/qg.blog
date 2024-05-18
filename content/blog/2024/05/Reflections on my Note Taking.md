@@ -25,4 +25,4 @@ Notes vs blogging - This I may be close to finally sorting out. Notes are knowle
 **Other actions**
 - Revisit landscapes. There are a couple that are sailing too close to one another. Using [[Johnny.Decimal]] principles, if can't decide which to choose, something is unclear in the underlying structure.
 - Potentially add a [blog][/blog] related landscape or other way to mark blog entries clearly
-- Potentially add the blog date programmatically to the index page titles entries and order them accordingly
+- ~~Potentially add the blog date programmatically to the index page titles entries and order them accordingly~~
