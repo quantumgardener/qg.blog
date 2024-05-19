@@ -1,5 +1,5 @@
 ---
-date: 2024-05-18
+date: 2024-05-18T08:58:00
 growth: "[[Evergreen]]"
 ---
 Week 2 of my experiment taking Friday's off work. The first four weeks are annual leave but I hope to be able to move that to a permanent work arrangement thereafter. The goal is to allow me to relax and pursue that which makes my heart sing.

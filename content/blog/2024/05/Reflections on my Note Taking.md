@@ -1,5 +1,5 @@
 ---
-date: 2024-05-18
+date: 2024-05-18T09:10:00
 growth: "[[Evergreen]]"
 ---
 I'm conscious as I head into a period of more writing that my note taking isn't very good, or at least my note viewing after I take them. 
