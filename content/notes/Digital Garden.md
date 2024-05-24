@@ -3,7 +3,7 @@ aliases:
   - Digital Gardening
 date: 2023-09-14
 growth: "[[Budding]]"
-publishDate: 2023-09-17T20:43:00
+datetime: 2023-09-17T20:43:00
 ---
 A **digital garden** is a form of website where the author creates and curates ideas in public. 
 

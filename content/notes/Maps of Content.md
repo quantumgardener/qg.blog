@@ -1,9 +1,7 @@
 ---
-aliases:
-  - Maps of Content
 date: 2023-09-14
 growth: "[[Budding]]"
-publishDate: 2023-09-19T20:32:00
+datetime: 2023-09-19T20:32:00
 ---
 Maps are ways to access notes quickly, in a context. Much more than just an index, they organise and relate, include searches/tags even for quick access.
 

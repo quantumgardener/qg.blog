@@ -1,6 +1,6 @@
 ---
 tags: 
-date: 2023-05-06
+datetime: 2023-05-06T00:00:00
 growth: "[[Evergreen]]"
 ---
 Ever since I first understood kings, queens and coronations I’ve wanted to see one in my lifetime. Of course it did mean someone had to die first but that is honestly part of the wonder of it all.

@@ -10,7 +10,7 @@ growth: "[[Evergreen]]"
 landscapes:
   - "[[expand-my-way-of-being]]"
 ---
-The [[Apnea-Hypopnea Index]] (AHI) is an average measure of how many times you have a full or partial loss of breath for more than 10 seconds. It's not hard to imagine this is not a good thing if it occurs too often.
+The [[Apnea-Hypopnea Index]] (AHI) is an average measure of how many times you have a full or partial loss of breath for more than 10 seconds. It's not hard to imagine this is not a good thing if it occurs too often. We all know that [[sleep]] is very important to our [[health]].
 
 My recent sleep study resulted in a AHI value of 45.1. I knew I was constantly tired, and have been feeling the negative impacts for too long. I would never have imagined that on average I stop breathing for at least **7.5 minutes per HOUR!**
 

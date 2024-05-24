@@ -25,7 +25,7 @@ Knowledge and records stored within my [[Personal Knowledge Management]] system 
 | ---------------------------- | --------------------------------------------- |
 | Attach a file                | [[Photo, image and attachments guidelines]]   |
 | Tag a journal entry          | [[Tagging Journal Entries]]                   |
-| Add [[Map of Contents]]      | [[Maps of Contents Guidelines]]               |
+| Add [[Maps of Content]]      | [[Maps of Contents Guidelines]]               |
 | Add a source                 | [[Source guidelines]]                         |
 | Add a property or tag        | [[Property Guidelines]] \| [[Tag Guidelines]] |
 | Check for consistency/errors | [[+Index for QA]]                             |

@@ -1,6 +1,6 @@
 ---
 tags: []
-date: 2023-08-20
+datetime: 2023-08-20T00:00:00
 growth: "[[Evergreen]]"
 ---
 I am awake. For a little under 6 weeks now I've been sleeping with a CPAP machine every night and it has made a significant difference to my mental awareness. I felt the change the first morning and half way through the second week I was at work wondering why everyone was thinking so slowly!

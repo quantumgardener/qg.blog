@@ -8,7 +8,7 @@ description: I'm listening to the complete discworld series of audiobooks. All 4
 growth: "[[Budding]]"
 landscapes:
   - "[[hobby-together]]"
-publishDate: 2024-01-28
+datetime: 2024-01-28
 ---
 ## My Listening Challenge
 I am listening my way through the complete [[Discworld]] series of audiobooks. All 40 books were released across 2022-23 and it will take me much, much longer to listen to them all.

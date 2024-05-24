@@ -14,7 +14,7 @@ As for Wordpress itself, I'm sick and tired of all the, "Life will be so much be
 
 I'm moving platforms again and have settled on [[Quartz 4]]. I tried something similar in the past but found it all too confusing and I still had the step of copying posts outside of Obsidian. Now, I can publish directly from within Obsidian without the need to change anything. It's a fast process that delivers a fast website.
 
-Navigation and [[Map of Contents]] still need some working, but you can see the beginnings at https://quantumgardener.info.
+Navigation and [[Maps of Content]] still need some working, but you can see the beginnings at https://quantumgardener.info.
 
 Quartz is still under development. As of today I'm teaching myself Typescript to better understand what's going on under the hood so that I can tweak some changes my way.
 

@@ -3,7 +3,7 @@ tags:
   - software-use
 date: 2023-09-14
 growth: "[[Budding]]"
-publishDate: 2023-09-27
+datetime: 2023-09-27
 landscapes:
   - "[[the-garden-shed]]"
 description: Overview of how I use Quartz to display this digital garden. Includes a list of customisations I've made.

@@ -5,7 +5,7 @@ landscapes:
 date: 2024-03-10
 growth: "[[Evergreen]]"
 ---
-These are the tags I apply to [[31 Journal|Journal entries]]. They are a means of quickly bringing related entries together so that I can see themes. Journals can have more than one tag.
+These are the tags I apply to [[31 Journal|Journal entries]]. They are a means of quickly bringing related entries together so that I can see themes. Journals can have more than one tag. These tags follow the [[Tag Guidelines]].
 
 > [!TIP] I'm slowly working through all past entries checking they are correctly tagged and doing things like adding a photo when I know there is one of relevance.
 

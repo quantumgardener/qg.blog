@@ -8,7 +8,7 @@ date: 2023-09-14
 growth: "[[Seedling]]"
 landscapes:
   - "[[the-garden-shed]]"
-publishDate: 2023-09-29
+datetime: 2023-09-29
 ---
 **Obsidian** is primarily a note-taking tool that uses [[Markdown]] files for speed and flexibility. The official site is https://obsidian.md/.
 

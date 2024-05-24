@@ -2,7 +2,7 @@
 tags:
   - scanning
   - digital-asset-management
-date: 2023-12-21
+datetime: 2023-12-21T00:00:00
 growth: "[[Evergreen]]"
 ---
 I've started my Christmas holidays a couple of days early due to some extremely good planning on my part that means:

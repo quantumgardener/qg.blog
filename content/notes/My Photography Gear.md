@@ -6,7 +6,7 @@ growth: "[[Budding]]"
 description: A summary of my current photography gear (cameras, lenses and accessories). With a bit of a wishlist as well 😉.
 landscapes:
   - "[[hobby-together]]"
-publishDate: 2024-01-03
+datetime: 2024-01-03
 ---
 > [!INFO] This is my current [[Photography]] gear. I have also recorded [[My Camera History]].
 

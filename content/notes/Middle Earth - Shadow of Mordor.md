@@ -8,7 +8,7 @@ date: 2015-07-26
 landscapes:
   - "[[hobby-together]]"
 growth: "[[Evergreen]]"
-publishDate: 2023-10-07
+datetime: 2023-10-07
 JD-ID: "[[26.041 Middle Earth (Series)]]"
 ---
 ![[vg_Middle Earth - Shadow of Mordor.webp]] 

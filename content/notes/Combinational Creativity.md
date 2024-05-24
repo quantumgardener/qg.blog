@@ -25,5 +25,5 @@ Techniques to support [[Combinational Creativity]]:
 2. Clustering. What does A and B have in common? Strengthens each idea. 
 3. Compare and contrast. How is A similar and different from B (and vice-versa)?
 
-These are similar to the questions put forward in [[The NoMa Method]]. Linking them can be done through [[Map of Contents]] or [[Concept Mapping]]. Although [[The Map is Not the Terrritory]] it is an important guide to my knowledge. [[Backlinks are Important]] in a text tool for identifying previously unseen relationships.
+These are similar to the questions put forward in [[The NoMa Method]]. Linking them can be done through [[Maps of Content]] or [[Concept Mapping]]. Although [[The Map is Not the Terrritory]] it is an important guide to my knowledge. [[Backlinks are Important]] in a text tool for identifying previously unseen relationships.
 

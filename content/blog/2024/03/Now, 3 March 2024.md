@@ -1,6 +1,6 @@
 ---
 growth: "[[Evergreen]]"
-date: 2024-03-03
+datetime: 2024-03-03T00:00:00
 ---
 I've been quieter than usual here and on the socials. A few weeks ago I came across the [[Johnny.Decimal]] system for filing and that has taken me down more than one rabbit hole. Fundamentally, it's been a major exercise in organising digital information and finding a long-term sustainable way to do so that works. Until now, I've been software driven in my solutions, and while software is still important, what I've been able to build is cross-system.
 
