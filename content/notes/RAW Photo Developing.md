@@ -3,7 +3,6 @@ tags: []
 date: 2023-10-30
 landscapes:
   - "[[hobby-together]]"
-growth: "[[Seedling]]"
 description: The workflow I use to develop RAW photos.
 ---
 [[Photography]]

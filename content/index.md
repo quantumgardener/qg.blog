@@ -2,7 +2,6 @@
 title: The Stream of Thought That Waters the Garden
 date: 2023-09-14
 datetime: 2023-09-16T15:04:00
-growth: "[[Evergreen]]"
 ---
 Welcome to The Quantum Garden, a site where I share what interests me in the hope you'll find it interesting as well.
 

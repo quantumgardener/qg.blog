@@ -3,7 +3,6 @@ title: Why Have All the Backups Failed?
 tags:
   - backup-strategy
 date: 2023-02-02
-growth: "[[Evergreen]]"
 landscapes:
   - "[[the-garden-shed]]"
 ---

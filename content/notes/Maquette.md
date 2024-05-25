@@ -7,7 +7,6 @@ tags:
 JD-ID: "[[26.025 Maquette]]"
 landscapes:
   - "[[hobby-together]]"
-growth: "[[Evergreen]]"
 date: 2024-02-27
 ---
 ![[vg_Maquette.webp|200]]

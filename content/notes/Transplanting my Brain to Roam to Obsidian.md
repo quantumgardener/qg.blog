@@ -5,12 +5,11 @@ aliases:
   - transplanting-my-brain-to-roam-to-obsidian
 landscapes:
   - "[[the-garden-shed]]"
-growth: "[[Evergreen]]"
 datetime: 2024-01-21
 ---
 In mid-2020 I was introduced to the exciting new note-taking application [[Roam Research]] and I transferred my notes and tasks into the database, making use of the powerful backlinking and cross-referencing features of the database. Prior to that I had been using a mix of [[TheBrain]] (notes and links), [Omnifocus](https://www.omnigroup.com/omnifocus/) (tasks and projects) and [OneNote](https://www.onenote.com) (mobile and synced notes). [[TheB]]
 
-Roam was good, but not perfect, and that wasn't a particular problem. I've used enough [[Personal Knowledge Management]] software to know it rarely meets all needs and Roam went a long way to meet most of them.
+Roam was good, but not perfect, and that wasn't a particular problem. I've used enough [[personal knowledge management]] software to know it rarely meets all needs and Roam went a long way to meet most of them.
 
 Last weekend, in looking up some videos on the Zettelkasten Learning Method, I came across [[Obsidian]] as an alternative to Roam. Some research and testing later, and I decided to make the jump and commit to another note-taking/research application just 6 months later from my last jump.
 

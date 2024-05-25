@@ -3,7 +3,6 @@ tags:
   - MOC
   - list
 date: 2023-10-08
-growth: "[[Seedling]]"
 landscapes:
   - "[[hobby-together]]"
 ---

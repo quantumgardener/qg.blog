@@ -7,7 +7,6 @@ title: The Goodies
 landscapes:
   - "[[hobby-together]]"
 date: 2024-01-08
-growth: "[[Evergreen]]"
 ---
 
 ![[tv_The Goodies.webp]]

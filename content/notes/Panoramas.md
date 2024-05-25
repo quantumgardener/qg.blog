@@ -1,5 +1,4 @@
 ---
-growth: "[[Seedling]]"
 tags: []
 landscapes:
   - "[[hobby-together]]"

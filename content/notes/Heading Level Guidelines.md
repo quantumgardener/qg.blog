@@ -3,7 +3,6 @@ JD-ID: "[[01.02 Managing Knowledge & Content]]"
 landscapes:
   - "[[quantum-os]]"
 date: 2024-03-10
-growth: "[[Evergreen]]"
 ---
 > [!INFO] Within a note, headings start at Heading 2. 
 

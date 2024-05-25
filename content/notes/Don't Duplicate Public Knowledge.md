@@ -5,9 +5,8 @@ tags:
 date: 2023-10-14
 landscapes:
   - "[[quantum-os]]"
-growth: "[[Budding]]"
 ---
-Within a [[Digital Garden]] it's very easy to get caught in the trap of duplicating public knowledge that can be found elsewhere, or is otherwise known.
+Within a [[digital garden]] it's very easy to get caught in the trap of duplicating public knowledge that can be found elsewhere, or is otherwise known.
 
 For example, *The Lord of the Rings* is made up of *[[Fellowship of the Ring]]*, *[[The Two Towers]]* and *[[The Return of the King]]*. There is no benefit in me re-creating that structure here.
 

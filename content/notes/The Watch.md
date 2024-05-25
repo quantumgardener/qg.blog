@@ -5,7 +5,6 @@ tags:
 date: 2023-11-25
 landscapes:
   - "[[hobby-together]]"
-growth: "[[Evergreen]]"
 ---
 ![[tv_The Watch.webp]]
 

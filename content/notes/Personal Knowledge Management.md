@@ -1,8 +1,10 @@
 ---
+aliases:
+  - pkm
 landscapes:
   - "[[productive-laziness]]"
 date: 2024-03-11
-growth: "[[Evergreen]]"
+class: concept
 ---
 **Personal Knowledge Management** or **PKM** is the art of taking personal responsibility for the knowledge that you need to refer to in going about your daily life.
 

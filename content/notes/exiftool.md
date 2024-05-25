@@ -2,7 +2,6 @@
 date: 2024-05-23T19:03:00
 landscapes:
   - "[[the-garden-shed]]"
-growth: "[[Budding]]"
 ---
 ## Move and rename
 Command to organise and rename from SD card to IMatch import.

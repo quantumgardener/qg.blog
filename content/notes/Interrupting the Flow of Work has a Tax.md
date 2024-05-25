@@ -2,7 +2,6 @@
 date: 2022-07-10
 tags:
   - frequently-quoted
-growth: "[[Evergreen]]"
 landscapes:
   - "[[productive-laziness]]"
 ---

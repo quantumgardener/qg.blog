@@ -8,7 +8,6 @@ tags:
 date: 2002-07-29
 landscapes:
   - "[[expand-my-way-of-being]]"
-growth: "[[Evergreen]]"
 ---
 I walked to the middle of the circle holding my name tag in my hands. Turning around to face the other course participants I held up my name tag and declared in a voice from the centre of my being, "This is my name tag but this is me and I am legitimate!"
 

@@ -4,7 +4,6 @@ tags:
 date: 2023-10-19
 landscapes:
   - "[[the-garden-shed]]"
-growth: "[[Evergreen]]"
 description: Instructions on how I added Google Fonts to Obsidian Publish.
 ---
 The right font is everything. You can add more options for fonts on your site by hooking into [Google Fonts](https://fonts.google.com/). With [[Obsidian Publish]] and a [custom publish.css file](https://help.obsidian.md/Licenses+%26+add-on+services/Obsidian+Publish#Custom+CSS) this is remarkably easy to do.

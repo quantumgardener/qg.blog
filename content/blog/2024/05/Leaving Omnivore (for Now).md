@@ -1,6 +1,5 @@
 ---
 datetime: 2024-05-21T19:49:00
-growth: "[[Evergreen]]"
 ---
 I've been a big fan of [[Omnivore]], but for now I'm pulling all my [[RSS Feed]]s. The team has been open about RSS being a beta feature, and my patience has run out.
 

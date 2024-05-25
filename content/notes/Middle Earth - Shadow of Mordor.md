@@ -7,7 +7,6 @@ tags:
 date: 2015-07-26
 landscapes:
   - "[[hobby-together]]"
-growth: "[[Evergreen]]"
 datetime: 2023-10-07
 JD-ID: "[[26.041 Middle Earth (Series)]]"
 ---

@@ -8,7 +8,6 @@ aliases:
 date: 2024-01-03
 landscapes:
   - "[[hobby-together]]"
-growth: "[[Seedling]]"
 ---
 > [!INFO] Santa brought me a [Canon R50](https://www.canon.com.au/cameras/eos-r50) camera for Christmas in 2023. It's a noticeable improvement on the [[Canon 400D DSLR|Canon 400D]] for [[Photography]].
 

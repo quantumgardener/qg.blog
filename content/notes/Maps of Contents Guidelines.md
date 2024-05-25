@@ -3,7 +3,6 @@ JD-ID: "[[01.02 Managing Knowledge & Content]]"
 landscapes:
   - "[[quantum-os]]"
 date: 2024-03-10
-growth: "[[Evergreen]]"
 ---
 The [Library of Congress Classification](https://en.wikipedia.org/wiki/Library_of_Congress_Classification) is used as a guide for the [[Maps of Content]] naming strategy used here.
 [[Maps of Content]] can take any form necessary to assist with the organisation of data.

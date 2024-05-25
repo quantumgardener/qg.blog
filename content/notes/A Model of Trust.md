@@ -4,7 +4,6 @@ tags:
 date: 2023-07-02
 landscapes:
   - "[[expand-my-way-of-being]]"
-growth: "[[Evergreen]]"
 ---
 Trust involves making a ongoing series of [[Assessment|Assessments]] that you will take action which takes care of me, including not taking action to harm me.
 

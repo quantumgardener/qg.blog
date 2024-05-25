@@ -4,7 +4,6 @@ tags:
 landscapes:
   - "[[hobby-together]]"
 date: 2023-11-09
-growth: "[[Evergreen]]"
 ---
 During my time at University, I owned a Commodore Amiga. I can't remember exactly where I got the money (may have been selling the family [[Commodore 64]]). Mum drove me down to [[Geelong]] one afternoon to pick it up.
 

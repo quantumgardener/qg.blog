@@ -4,11 +4,10 @@ tags:
   - digital-asset-management
   - software-use
 date: 2023-02-20
-growth: "[[Budding]]"
 landscapes:
   - "[[productive-laziness]]"
 ---
-I curate a lot of digital documentation for myself and my family. Within this [[Personal Knowledge Management]] it is important to remove as much friction from the system. There are so many demands on our time, that the smallest resistance can easily provide an excuse to switch on _Australian Idol_ or _Survivor_ and do nothing.
+I curate a lot of digital documentation for myself and my family. Within this [[personal knowledge management]] it is important to remove as much friction from the system. There are so many demands on our time, that the smallest resistance can easily provide an excuse to switch on _Australian Idol_ or _Survivor_ and do nothing.
 
 At the moment I’m in one of those rare golden-ages where the tools I have at my disposal are working for me.
 

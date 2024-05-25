@@ -7,7 +7,6 @@ tags:
 date: 2023-02-24
 landscapes:
   - "[[hobby-together]]"
-growth: "[[Evergreen]]"
 JD-ID: "[[26.043 Forspoken]]"
 ---
 ![[vg_Forspoken.webp]]

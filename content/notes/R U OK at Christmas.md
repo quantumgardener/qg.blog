@@ -6,7 +6,6 @@ tags:
 landscapes:
   - "[[expand-my-way-of-being]]"
 date: 2023-11-09
-growth: "[[Evergreen]]"
 ---
 I posted this to  my work colleagues in December 2022. It was as much for me to set myself up for a break as it was for others. My [[18 Days Until I Can Fully Rest]] was something I directed at myself. Then, in [[The Indicators of my Impending Burnout|February 2023 I had time off due to burnout]].
 

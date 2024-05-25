@@ -1,11 +1,10 @@
 ---
 date: 2023-09-14
-growth: "[[Evergreen]]"
 description: Jumping off point for all things LEGO.
 tags:
   - MOC
 ---
-Lots of LEGO threaded in-an-out of this [[Digital Garden]].
+Lots of LEGO threaded in-an-out of this [[digital garden]].
 
 ## I Want to
 

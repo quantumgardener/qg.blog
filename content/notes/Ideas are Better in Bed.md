@@ -8,7 +8,6 @@ tags:
 landscapes:
   - "[[expand-my-way-of-being]]"
   - "[[productive-laziness]]"
-growth: "[[Evergreen]]"
 ---
 Conversations such as blog posts that I write in my head lying in bed or when walking are always better than they end up when I type them.
 

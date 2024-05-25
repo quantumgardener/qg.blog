@@ -4,7 +4,6 @@ tags:
 date: 2023-09-28
 landscapes:
   - "[[hobby-together]]"
-growth: "[[Seedling]]"
 description: All things video games and the platforms I play on.
 JD-ID: "[[26.000 Management]]"
 ---

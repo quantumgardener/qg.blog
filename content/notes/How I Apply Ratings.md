@@ -3,7 +3,6 @@ JD-ID: "[[01.01 Guiding Principles]]"
 landscapes:
   - "[[quantum-os]]"
 date: 2023-10-12
-growth: "[[Evergreen]]"
 ---
 There are as many systems to apply ratings as there are things which can be rated.
 
@@ -11,7 +10,7 @@ There are as many systems to apply ratings as there are things which can be rate
 
 > [!INFO] Anything can be rated.
  
-This [[Digital Garden]] uses a 5-star scale applied as follows:
+This [[digital garden]] uses a 5-star scale applied as follows:
 
 [[5-star|⭐️⭐️⭐️⭐️⭐️]] — Life defining. Part of my identity.
 

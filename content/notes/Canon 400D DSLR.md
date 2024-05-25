@@ -2,7 +2,6 @@
 tags:
   - gear
 date: 2023-09-27
-growth: "[[Evergreen]]"
 aliases:
   - Canon 400D
 description: Info on my Canon 400D camera.

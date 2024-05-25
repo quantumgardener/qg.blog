@@ -6,7 +6,6 @@ tags:
   - overwhelm
 landscapes:
   - "[[expand-my-way-of-being]]"
-growth: "[[Evergreen]]"
 ---
 Around this time each year people start to say how the Christmas/New Year break is just what they need as a holiday.
 

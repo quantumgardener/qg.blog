@@ -4,7 +4,6 @@ tags:
 date: 2024-01-03
 landscapes:
   - "[[hobby-together]]"
-growth: "[[Seedling]]"
 ---
 Lenses for my [[Canon R50 Mirrorless|Canon R50]] and [[Canon 400D DSLR|Canon 400D]] [[Photography]].
 

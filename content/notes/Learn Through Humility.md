@@ -6,7 +6,6 @@ tags:
   - humanity
 landscapes:
   - "[[expand-my-way-of-being]]"
-growth: "[[Evergreen]]"
 ---
 ![[how-to-take-smart-notes-humility-quote.webp]]
 

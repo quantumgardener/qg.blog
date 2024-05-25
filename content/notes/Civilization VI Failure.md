@@ -5,7 +5,6 @@ tags:
   - learning-strategy
 landscapes:
   - "[[expand-my-way-of-being]]"
-growth: "[[Seedling]]"
 description: On Sunday I started playing Sid Meier's Civilization VI. Today I lost badly and that’s ok because I was learning all the time.
 JD-ID: "[[26.045 Civilization (Series)]]"
 ---

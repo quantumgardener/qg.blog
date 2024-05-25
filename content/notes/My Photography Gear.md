@@ -2,7 +2,6 @@
 tags:
   - gear
 date: 2023-09-27
-growth: "[[Budding]]"
 description: A summary of my current photography gear (cameras, lenses and accessories). With a bit of a wishlist as well 😉.
 landscapes:
   - "[[hobby-together]]"

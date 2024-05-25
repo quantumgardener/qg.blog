@@ -4,7 +4,6 @@ tags:
 date: 2023-01-25
 landscapes:
   - "[[expand-my-way-of-being]]"
-growth: "[[Evergreen]]"
 ---
 Me, earlier this evening…
 

@@ -4,7 +4,6 @@ tags:
 date: 2023-10-12
 landscapes:
   - "[[expand-my-way-of-being]]"
-growth: "[[Budding]]"
 ---
 **Metadata:** #note-making #LYT #media/streaming/video 
 	presenter:: [[Nick Milo]], [[Anne-Laure Le Cunff]]

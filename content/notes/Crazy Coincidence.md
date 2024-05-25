@@ -4,7 +4,6 @@ tags:
   - wonder
 landscapes:
   - "[[expand-my-way-of-being]]"
-growth: "[[Evergreen]]"
 ---
 I have a relatively new car. It’s done just over 3,000km. Here is a crazy coincidence from earlier today.
 

@@ -3,7 +3,6 @@ date: 2022-12-31
 tags:
   - reading
   - review
-growth: "[[Evergreen]]"
 landscapes:
   - "[[hobby-together]]"
 ---

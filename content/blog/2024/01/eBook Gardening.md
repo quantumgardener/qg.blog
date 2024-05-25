@@ -1,6 +1,5 @@
 ---
 datetime: 2024-01-21T00:00:00
-growth: "[[Evergreen]]"
 ---
 I'm almost as divorced from [[Goodreads]] as I can be. I think I'll always have some tie to it because of the [[Amazon Kindle|Kindle]]. There are only about a dozen books left for me to process.
 

@@ -5,7 +5,6 @@ tags:
 landscapes:
   - "[[hobby-together]]"
 date: 2023-11-25
-growth: "[[Evergreen]]"
 ---
 ![[tv_Babylon 5.webp]]
 

@@ -2,7 +2,6 @@
 date: 2022-08-08
 tags:
   - learning
-growth: "[[Evergreen]]"
 landscapes:
   - "[[expand-my-way-of-being]]"
   - "[[hobby-together]]"

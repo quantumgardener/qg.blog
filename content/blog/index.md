@@ -1,6 +1,5 @@
 ---
 title: Blog
-growth: "[[Seedling]]"
 date: 2024-05-18
 ---
 

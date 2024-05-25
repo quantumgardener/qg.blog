@@ -7,7 +7,6 @@ tags:
 JD-ID: "[[26.014 Donkey Kong (Series)]]"
 landscapes:
   - "[[hobby-together]]"
-growth: "[[Evergreen]]"
 date: 2024-02-27
 ---
 ![[vg_Donkey Kong Jr.webp|200]]

@@ -1,6 +1,5 @@
 ---
 datetime: 2024-05-18T20:58:00
-growth: "[[Evergreen]]"
 ---
 You make one simple change. A few days ago I reorganised blog posts into a `YYYY/MM` folder structure. Within the processing, this added a two `../` into the links because the articles have moved downwards two folders.
 

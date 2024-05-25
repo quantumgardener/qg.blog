@@ -3,7 +3,6 @@ tags: []
 landscapes:
   - "[[hobby-together]]"
 date: 2023-11-12
-growth: "[[Evergreen]]"
 datetime: 2024-01-03
 ---
 My earliest memories of [[Photography]] come from my Dad and the 35mm SLR camera he had when I was young. The detachable lens, film canister and dust blower all fascinated me. I'm pretty sure it was a Canon as I've always associated that with cameras.

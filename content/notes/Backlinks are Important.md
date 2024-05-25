@@ -5,14 +5,13 @@ categories:
 tags: []
 landscapes:
   - "[[productive-laziness]]"
-growth: "[[Evergreen]]"
 ---
-*Backlinks* are links on a web page/note that list other web pages/notes which refer to it. Within my [[Digital Garden]], backlinks are critical in making connections between ideas. They are important because content does not always flow in one direction and knowing what links to a particular page can create a more informative context or open up new avenues of learning.
+*Backlinks* are links on a web page/note that list other web pages/notes which refer to it. Within my [[digital garden]], backlinks are critical in making connections between ideas. They are important because content does not always flow in one direction and knowing what links to a particular page can create a more informative context or open up new avenues of learning.
 
-The backlinks I create assist my [[Personal Knowledge Management]].
+The backlinks I create assist my [[personal knowledge management]].
 ## Backlinks are not hierarchical
 
-If *TopicA* links to *TopicB*, it may not be obvious that there is a connection when looking at *TopicB* particularly as content in a [[Digital Garden]] is almost always non-hierarchical. Instead of:
+If *TopicA* links to *TopicB*, it may not be obvious that there is a connection when looking at *TopicB* particularly as content in a [[digital garden]] is almost always non-hierarchical. Instead of:
 
 ```mermaid
 flowchart TD

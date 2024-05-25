@@ -5,7 +5,6 @@ tags:
 date: 2023-10-11
 landscapes:
   - "[[the-garden-shed]]"
-growth: "[[Seedling]]"
 ---
 Too many businesses collect personal information from individuals for their benefit. Under the guise of "providing better service" private data is held, often insecurely, well beyond it's need. If it was ever really needed at all.
 

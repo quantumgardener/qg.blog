@@ -6,7 +6,6 @@ tags:
   - frequently-quoted
 landscapes:
   - "[[expand-my-way-of-being]]"
-growth: "[[Evergreen]]"
 ---
 One of those small pieces of advice I picked up years ago was “pause and savour the first sip of tea or coffee.”
 

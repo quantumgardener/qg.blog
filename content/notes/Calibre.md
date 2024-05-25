@@ -4,7 +4,6 @@ tags:
   - gear
 landscapes:
   - "[[the-garden-shed]]"
-growth: "[[Seedling]]"
 date: 2024-03-11
 ---
 [Calibre](https://calibre-ebook.com/) is a cross-platform eBook management tool. It allows you to manage the metadata present in your eBooks.

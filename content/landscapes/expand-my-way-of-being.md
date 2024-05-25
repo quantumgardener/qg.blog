@@ -2,7 +2,6 @@
 title: Expand My Way of Being
 tags:
   - MOC
-growth: "[[Budding]]"
 date: 2023-09-25T11:47:00
 aliases:
   - Expand My Way of Being

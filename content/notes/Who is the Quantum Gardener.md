@@ -1,7 +1,6 @@
 ---
 title: Who is the Quantum Gardener?
 date: 2003-07-07
-growth: "[[Evergreen]]"
 landscapes:
   - "[[expand-my-way-of-being]]"
 ---

@@ -2,7 +2,6 @@
 landscapes:
   - "[[the-garden-shed]]"
 date: 2024-03-10
-growth: "[[Budding]]"
 ---
 > [!INFO] [Obsidian Sync](https://obsidian.md/sync) is a paid sync service from the developers of [[Obsidian]]. It is the most reliable sync solution I've found.
 ## Fix Uninitialized Sync Error

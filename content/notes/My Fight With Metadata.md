@@ -4,9 +4,8 @@ tags:
 date: 2023-04-25
 landscapes:
   - "[[productive-laziness]]"
-growth: "[[Evergreen]]"
 ---
-For the last 2 weeks I’ve been working with metadata and the information that I want to track in [[Obsidian]]. As my [[Digital Garden]], keeping information about the books I read, the movies I watch and the games I play, creates a full picture of my life (hey, maybe one day someone will be interested). 
+For the last 2 weeks I’ve been working with metadata and the information that I want to track in [[Obsidian]]. As my [[digital garden]], keeping information about the books I read, the movies I watch and the games I play, creates a full picture of my life (hey, maybe one day someone will be interested). 
 
 Two factors triggered this latest dive into an all to familiar rabbit hole.
 1. Learning some people have moved away from Goodreads to track their reading provides another way to pull data from the cloud to my control, and

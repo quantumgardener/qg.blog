@@ -2,7 +2,6 @@
 tags:
   - digital-asset-management
 date: 2023-12-21
-growth: "[[Evergreen]]"
 landscapes:
   - "[[hobby-together]]"
   - "[[quantum-os]]"

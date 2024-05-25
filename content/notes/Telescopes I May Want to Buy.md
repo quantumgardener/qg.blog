@@ -3,7 +3,6 @@ tags:
   - astronomy
 landscapes:
   - "[[hobby-together]]"
-growth: "[[Seedling]]"
 date: 2023-10-25
 ---
 Alongside my [[Celestron SkyMaster 20x80 Binoculars]] I'm will keep an eye on telescopes with a view to purchasing one in the future more suitable to my needs. That could be for deep sky viewing with my eyes or [[Astrophotography]].

@@ -4,9 +4,8 @@ landscapes:
   - "[[quantum-os]]"
   - "[[productive-laziness]]"
 date: 2024-03-11
-growth: "[[Evergreen]]"
 ---
-Tags, or other similar metadata, added to resources in a [[Personal Knowledge Management]] system are not content. They are best used to help you curate resources and can answer questions such as:
+Tags, or other similar metadata, added to resources in a [[personal knowledge management]] system are not content. They are best used to help you curate resources and can answer questions such as:
 
 - What was written in July 2023? (add a date)
 - Where are all the references to books? (add `#book`)

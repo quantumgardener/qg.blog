@@ -5,7 +5,6 @@ JD-ID: "[[01.00 Overview of Quantum OS]]"
 landscapes:
   - "[[quantum-os]]"
 date: 2024-03-10
-growth: "[[Budding]]"
 ---
 '**Quantum OS** is my operating system which in no way suggests I am a computer. Rather, it is a set of notes that describe the rules and standards I have determined are best to manage my digital information as I see fit. 
 
@@ -19,7 +18,7 @@ growth: "[[Budding]]"
 - [[Designing The Quantum Garden]]
 - [[Tags Are Not Knowledge]]
 ## Managing content
-Knowledge and records stored within my [[Personal Knowledge Management]] system are subject to the following rules and guidelines.
+Knowledge and records stored within my [[personal knowledge management]] system are subject to the following rules and guidelines.
 
 | I want to...                 | ...manage the Digital Garden                  |
 | ---------------------------- | --------------------------------------------- |

@@ -7,7 +7,6 @@ tags:
   - mental-health
   - health
   - role/my-wellness
-growth: "[[Evergreen]]"
 landscapes:
   - "[[expand-my-way-of-being]]"
 ---

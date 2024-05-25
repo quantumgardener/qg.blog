@@ -1,6 +1,5 @@
 ---
 date: 2023-09-14
-growth: "[[Evergreen]]"
 datetime: 2023-10-12
 landscapes:
   - "[[hobby-together]]"

@@ -5,7 +5,6 @@ tags:
   - requests
 landscapes:
   - "[[expand-my-way-of-being]]"
-growth: "[[Evergreen]]"
 ---
 
 I've become conscious that "just" has crept into my email vocabulary.

@@ -4,7 +4,6 @@ tags:
   - assessments
 date: 2012-01-12
 aliases: 
-growth: "[[Evergreen]]"
 landscapes:
   - "[[expand-my-way-of-being]]"
   - "[[the-garden-shed]]"

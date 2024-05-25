@@ -1,7 +1,6 @@
 ---
 tags:
   - MOC
-growth: "[[Budding]]"
 landscapes:
   - "[[hobby-together]]"
 date: 2024-03-11

@@ -5,7 +5,6 @@ tags:
 date: 2022-10-01
 landscapes:
   - "[[the-garden-shed]]"
-growth: "[[Seedling]]"
 ---
 This is the process each audiobook transitions through on the way from Audible to my listening ears.
 

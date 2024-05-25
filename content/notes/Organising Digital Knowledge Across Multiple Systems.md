@@ -4,9 +4,8 @@ landscapes:
   - "[[quantum-os]]"
   - "[[the-garden-shed]]"
 date: 2024-03-11
-growth: "[[Budding]]"
 ---
-Digital knowledge comes at us in all forms and it can be a challenge to manage. This note describes how I manage information in my [[Personal Knowledge Management]] system.
+Digital knowledge comes at us in all forms and it can be a challenge to manage. This note describes how I manage information in my [[personal knowledge management]] system.
 
 > [!success] My system works when...
 > - I am easily able to find something I've saved

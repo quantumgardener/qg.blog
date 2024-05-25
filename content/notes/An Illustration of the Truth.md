@@ -6,7 +6,6 @@ tags:
   - truth
 landscapes:
   - "[[expand-my-way-of-being]]"
-growth: "[[Evergreen]]"
 ---
 There is an interesting passage in [Rhythm of War](https://www.goodreads.com/book/show/49203999-rhythm-of-war) by [Brandon Sanderson](https://www.goodreads.com/author/show/38550.Brandon_Sanderson) where the protagonist, Kaladin Stormblessed has an altercation with his father Lirin. It shows what can happen when we hold an opinion as truth.
 

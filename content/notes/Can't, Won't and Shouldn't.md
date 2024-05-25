@@ -6,7 +6,6 @@ tags:
   - effective-conversation
 landscapes:
   - "[[expand-my-way-of-being]]"
-growth: "[[Evergreen]]"
 ---
 The other day a friend was saying to me that he'd been involved in an investigation at work, and colleagues were asking him for details (gossip).
 

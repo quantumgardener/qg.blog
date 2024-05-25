@@ -1,6 +1,5 @@
 ---
 date: 2023-11-28
-growth: "[[Budding]]"
 tags:
   - MOC
 description: A list of the TV series where I've seen every episode. There are many more TV seasons I've finished, but not the whole (yet!).

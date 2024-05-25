@@ -5,7 +5,6 @@ tags:
 date: 2023-10-22
 landscapes:
   - "[[hobby-together]]"
-growth: "[[Budding]]"
 ---
 ![[mu_darkside.webp|200]]
 

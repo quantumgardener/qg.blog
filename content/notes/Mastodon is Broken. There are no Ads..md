@@ -3,7 +3,6 @@ tags:
   - social-media
 date: 2023-04-10
 landscapes: 
-growth: "[[Evergreen]]"
 ---
 Clearly [Mastodon](https://joinmastodon.org) is broken as a social media platform 😄
 

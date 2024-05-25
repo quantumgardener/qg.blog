@@ -6,7 +6,6 @@ date: 2023-07-11
 aliases:
   - will-sleep-come
 title: Will sleep come?
-growth: "[[Evergreen]]"
 landscapes:
   - "[[expand-my-way-of-being]]"
 ---

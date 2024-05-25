@@ -4,7 +4,6 @@ landscapes:
   - "[[quantum-os]]"
 datetime: 2023-10-25T20:07:00
 updated: 2024-05-24T10:48:00
-growth: "[[Evergreen]]"
 ---
 These are guidelines, not rules. They recogise that [[Personal Knowledge Management Systems Must Be Flexible]].
 

@@ -2,13 +2,13 @@
 tags:
   - software-use
 date: 2023-09-14
-growth: "[[Budding]]"
-datetime: 2023-09-27
+datetime: 2023-09-01T22:01:00
+updated: 2024-05-25T15:38:00
 landscapes:
   - "[[the-garden-shed]]"
 description: Overview of how I use Quartz to display this digital garden. Includes a list of customisations I've made.
 ---
-An [[Obsidian]] to website publishing system that allows me to publish directly out of my [[Digital Garden]] and so retain the benefits of a single, frictionless workflow. The GitHub source is at  https://quartz.jzhao.xyz.
+An [[Obsidian]] to website publishing system that allows me to publish directly out of my [[digital garden]] and so retain the benefits of a single, frictionless workflow. The GitHub source is at  https://quartz.jzhao.xyz.
 
 [The Quantum Garden](https://quantumgardener.blog) moved to Quartz in September 2023.
 
@@ -17,14 +17,12 @@ An [[Obsidian]] to website publishing system that allows me to publish directly 
 flowchart TD
     A["/"] --> B(fa:fa-note-sticky notes)
     A --> C(fa:fa-square-rss blog)
-    A --> E(fa:fa-tree maturity)
     A --> F(fa:fa-mountain-sun landscapes)
     A --> D(fa:fa-lock assets)
     A --> G(fa:fa-lock management)
 ```
 - **[notes](/notes/index)** is the folder where most of the garden's content is kept.
 - **[blog](/blog/index)** holds transitional notes, relevant only to a point in time.
-- [maturity](/maturity/index) is the index of all note maturity levels.
 - [landscapes](/landscapes/index) is the index of all landscapes.
 - **assets** holds supporting images and attachments and is not publicly accessible.
 - **[[Quartz/management/index|Management]]** holds notes I use to support the site and requires [[Obsidian]] as queries are used. It's convenient to have them all together with the other notes.
@@ -68,9 +66,7 @@ Save me some work for any new social links in the footer. Solving for this chang
 Some small configuration options. Note that dates are no longer being shown as part of [[Designing The Quantum Garden]].
 - `\quartz\components\Date.tsx`
 
-### Display a Note's Growth Status
-Display [[Seedling]], [[Budding]] or [[Evergreen]] status -- Automated from a `growth` property on each page in preference to using tags because the purpose of the information is different.
-- `\quartz\components\ContentMeta.tsx`
+
 
 ### Display .webp images
 Include images for the new compressed web image format.
@@ -121,11 +117,22 @@ The default is to say "Topic: abcd". Now the [FontAwesome Message icon](https://
 - `\quartz\components\pages\LandscapeContent.tsx`
 - `\quartz\components\pages\TagContent.tsx`
 
-### Growth Maturity Index pages
-Add pages to index all notes with their maturity level of [[Seedling]], [[Budding]], or [[Evergreen]].
-- `\quartz\quartz.config.ts`
-- `\quartz\components\index.ts`
-- `\quartz\components\ContentMeta.tsx`
-- `\quartz\components\pages\GrowthContent.tsx`
-- `\quartz\plugins\emitters\index.ts`
-- `\quartz\plugins\emmiters\GrowthPage.tsx`
+---
+## Removal of growth status for pages
+
+> [!warning] 
+> As of [[2024-05-25]], I have disabled the display of maturity levels on posts and will no longer be applying a `growth` property to source notes within [[Obsidian]] . I don't find them useful myself, so I suspect any reader - who is a further degree away from the content than I am - will not find them useful either. See [[The Value of Growth Maturity in a Digital Garden is Marginal]].
+> 
+>> [!note] My original Mastodon post outlining my thoughts
+>> 
+>> My [[Personal Knowledge Management|pkm]] system in [[Obsidian]] and the flow onwards to my website use seedling, budding and evergreen markers to indicate a note's maturity.
+>> 
+>> The more content I put online, the more it starts as evergreen and I find it's obvious if something is a seedling or not - so the marker doesn't help much. Usually, if there is a note in progress I’ll mark it clearly as such anyway.
+>> 
+>> After a few days thinking I've decided to remove the cognitive overhead of seedling, budding and evergreen. They add zero value to me and I would be surprised if anyone who visits my site looks at them with more than a care factor of zero. 
+>> 
+>> Retrieved from [Aus.Social](https://aus.social/@dcbuchan/112496137021327763)
+> 
+>> [!example] List of items changed
+>> Code pre-changes can be [found on Github](https://github.com/quantumgardener/qg.info/commit/1b6a7bf9d713fd5d8525cb04926b27c9dc610a0e).
+

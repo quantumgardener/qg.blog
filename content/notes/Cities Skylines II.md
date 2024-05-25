@@ -9,7 +9,6 @@ JD-ID: "[[26.009 Cities Skylines (Series)]]"
 date: 2024-05-14
 landscapes:
   - "[[hobby-together]]"
-growth: "[[Seedling]]"
 ---
 ![[vg_cities_skylines_ii.webp|200]]
 

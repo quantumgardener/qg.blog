@@ -11,7 +11,6 @@ JD-ID: "[[26.009 Cities Skylines (Series)]]"
 date: 2024-05-14
 landscapes:
   - "[[hobby-together]]"
-growth: "[[Evergreen]]"
 ---
 ![[vg_cities_skylines.webp|200]]
 

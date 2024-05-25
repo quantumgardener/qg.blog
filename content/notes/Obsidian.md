@@ -5,7 +5,6 @@ tags:
   - note-making
   - software-use
 date: 2023-09-14
-growth: "[[Seedling]]"
 landscapes:
   - "[[the-garden-shed]]"
 datetime: 2023-09-29
@@ -14,7 +13,7 @@ datetime: 2023-09-29
 
 Within Obsidian I document and link:
 - Personal journal entries
-- [[Digital Garden]] notes
+- [[digital garden]] notes
 - My consumption of books, movies and TV shows
 
 This website is published directly from Obsidian using [[Quartz 4]]. Content is created in Obsidian using Markdown and then converted to static HTLM by Quartz.

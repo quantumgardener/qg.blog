@@ -2,7 +2,6 @@
 tags:
   - blogging
 date: 2023-09-01
-growth: "[[Evergreen]]"
 landscapes:
   - "[[the-garden-shed]]"
 ---

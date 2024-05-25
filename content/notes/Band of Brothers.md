@@ -6,7 +6,6 @@ tags:
 landscapes:
   - "[[hobby-together]]"
 date: 2023-11-25
-growth: "[[Evergreen]]"
 ---
 ![[tv_Band of Brothers.webp]]
 

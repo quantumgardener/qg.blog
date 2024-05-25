@@ -5,7 +5,6 @@ tags:
   - music
 landscapes:
   - "[[hobby-together]]"
-growth: "[[Budding]]"
 ---
 ## Tubular Bells 2003
 ![[cd_Tubular Bells 2003_t.webp]]

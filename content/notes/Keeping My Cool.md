@@ -5,7 +5,6 @@ tags:
   - moods
 landscapes:
   - "[[expand-my-way-of-being]]"
-growth: "[[Evergreen]]"
 ---
 Over the years I've learned to keep my cool when working on DIY projects. I'm apt to lose my cool when, despite my best amateur efforts, something doesn't go as planned. It could be a cut in the wrong place, an unlevel hanging, the wrong screw…
 

@@ -6,7 +6,6 @@ tags:
 date: 2023-10-11
 landscapes:
   - "[[the-garden-shed]]"
-growth: "[[Seedling]]"
 ---
 I read an article many years ago, that I can no longer find, which discussed the fear of blank videotape and how it would destroy the home-video market. Instead it created a market that was of a size unforeseen. Bottom line, digital rights management (DRM) is more of a hindrance than a protector.
 

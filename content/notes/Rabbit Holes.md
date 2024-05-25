@@ -4,7 +4,6 @@ tags:
 date: 2023-02-19
 landscapes:
   - "[[expand-my-way-of-being]]"
-growth: "[[Evergreen]]"
 ---
 Earlier this week I received notice [mastondon.au](https://mastodon.au) was being shut down (since taken over by someone else so staying). That lead me to thinking:
 

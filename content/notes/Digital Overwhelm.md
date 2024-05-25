@@ -6,7 +6,6 @@ tags:
   - effective-conversation
 landscapes:
   - "[[expand-my-way-of-being]]"
-growth: "[[Evergreen]]"
 ---
 [Euan Semple posted about the digital overwhelm](https://euansemple.blog/2022/10/07/digital-overwhelm/) we are facing more and more as online systems become ever more dictated yet poor interface design makes them unusable. If you're waving at someone to get their attention for assistance, and they continually ignore you, you will submit and put up with the pain.
 
