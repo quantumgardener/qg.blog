@@ -1,4 +1,6 @@
 ---
+tags:
+  - class/concept
 datetime: 2023-09-17T10:12:00
 updated: 2024-05-25T16:15:00
 ---

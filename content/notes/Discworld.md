@@ -3,11 +3,11 @@ tags:
   - reading
   - audiobook
   - book
-date: 2023-02-26
+datetime: 2023-09-02T00:00:00
+updated: 2024-05-26T08:56:00
 description: I'm listening to the complete discworld series of audiobooks. All 40 were released across 2022-23 and it will take me much, much longer to listen to them all.
 landscapes:
   - "[[hobby-together]]"
-datetime: 2024-01-28
 ---
 ## My Listening Challenge
 I am listening my way through the complete [[Discworld]] series of audiobooks. All 40 books were released across 2022-23 and it will take me much, much longer to listen to them all.
@@ -41,8 +41,8 @@ This is the Discworld publication release order. Any books in **bold** have been
 15. **Men at Arms (1993)**
 16. **Soul Music (1994)**
 17. **Interesting Times (1994)**
-18. 🎧 Maskerade (1995)
-19. Feet of Clay (1996)
+18. **Maskerade (1995)**
+19. 🎧Feet of Clay (1996)
 20. Hogfather (1996)
 21. Jingo (1997)
 22. The Last Continent (1998)
