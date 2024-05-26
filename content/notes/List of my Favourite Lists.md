@@ -1,7 +1,7 @@
 ---
 date: 2023-09-21T21:34:00
 tags:
-  - MOC
+  - moc
   - list
 description: These are all of my favourite things.
 ---

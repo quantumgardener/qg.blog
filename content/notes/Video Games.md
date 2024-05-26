@@ -1,6 +1,6 @@
 ---
 tags:
-  - MOC
+  - moc
 date: 2023-09-28
 landscapes:
   - "[[hobby-together]]"

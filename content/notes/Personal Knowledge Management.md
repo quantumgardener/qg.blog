@@ -2,7 +2,7 @@
 aliases:
   - pkm
 tags:
-  - class/concept
+  - concept
 landscapes:
   - "[[productive-laziness]]"
 date: 2024-03-11

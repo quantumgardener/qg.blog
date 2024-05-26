@@ -4,7 +4,7 @@ landscapes:
   - "[[hobby-together]]"
 date: 2024-02-27
 tags:
-  - MOC
+  - moc
 ---
 ## Computer Games
 A list of computer games I've completed, added to as I complete them (which is pretty rare I must say compared to some people but which did have a decided uplift during COVID-19 lockdown in 2020). "Completion" means playing through the main story line but for some games, they are not possible to complete so if I've played what I think is a sufficient amount, they are listed here.

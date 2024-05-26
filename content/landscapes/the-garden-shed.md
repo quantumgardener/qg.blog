@@ -1,7 +1,7 @@
 ---
 title: The Garden Shed
 tags:
-  - MOC
+  - moc
 aliases:
   - The Garden Shed
 date: 2023-09-25

@@ -4,6 +4,6 @@ landscapes:
   - "[[hobby-together]]"
 date: 2024-02-27
 tags:
-  - MOC
+  - moc
 ---
 Definitely going to get to this one day.

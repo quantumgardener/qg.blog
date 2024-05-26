@@ -13,7 +13,7 @@ Tags, or other similar metadata, added to resources in a [[personal knowledge ma
 
 When used as markers for the content of a resource - exactly like keywords - an issue arises where one tag can mean multiple things. Is `#philosophy` a reference to a note that discusses a philosophy, or is it about philosophy itself.
 
-In [Tags or Links](https://curtismchale.ca/2021/07/26/obsidian-tagnotes/), [[Curtis McHale]] distinguished between `tags`, `notes` and *tagnotes*. The latter are a flavour of note that summarise broad topics. They are similar to [[Maps of Content]] in that they bring together information with more context than a single word. Curtis writes,
+In [Tags or Links](https://curtismchale.ca/2021/07/26/obsidian-tagnotes/), [[Curtis McHale]] distinguished between `tags`, `notes` and *tagnotes*. The latter are a flavour of note that summarise broad topics. They are similar to [[map of content]] in that they bring together information with more context than a single word. Curtis writes,
 
 > ## Tagnotes vs Notes
 > The difference between `#tagnotes` and `notes` is that notes are summaries of reading and research I’ve been doing while `#tagnotes` are the connection points between that research.
@@ -23,7 +23,7 @@ In [Tags or Links](https://curtismchale.ca/2021/07/26/obsidian-tagnotes/), [[Cur
 >  
 >  I also use them to set the type of content. If I have a note on a specific person that note gets the `#people` tag. A note on an application like [[OmniFocus]] would get the `#app` tag. A note on a book gets the `#book` tag.
 
-In my system, I do not tag notes with markers of what knowledge is within them. If I am tempted to tag with a concept, I'll find a way to rewrite my text to use a `[[link]]` instead. Curtis stores these in a `Tags` folder and identifies them with a `#tagnotes` "proper" tag. I'm more likely to treat these as synonymous with [[Maps of Content]] rather than as another point of friction to track.
+In my system, I do not tag notes with markers of what knowledge is within them. If I am tempted to tag with a concept, I'll find a way to rewrite my text to use a `[[link]]` instead. Curtis stores these in a `Tags` folder and identifies them with a `#tagnotes` "proper" tag. I'm more likely to treat these as synonymous with [[map of content]] rather than as another point of friction to track.
 
 ## Naming Tagnotes
 The pros and cons between title-case and lower-case tagnote names are fairly even. Title-case is a clear indication of a concept, but lower-case reads better when text is copied from this system into another. For that reason I've decided to go with lower-case. In cases where there is a constant mix of case around a particular note I can use the alias function. This will occur less frequently if I begin with lower-case.

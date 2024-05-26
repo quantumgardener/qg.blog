@@ -21,7 +21,7 @@ Tags are used for:
 	- There are any number of "groups" something may belong to. Some of the grouping tags are `project`, `genre\...`
 
 Tags are not used for:
-- Classifying note content. Instead of tags, make copious use of [[Backlinks are Important|Links and Backlinks]] and [[Maps of Content]].
+- Classifying note content. Instead of tags, make copious use of [[Backlinks are Important|Links and Backlinks]] and [[map of content]].
 
 ## Naming tags
 - All tag names should be lowercase
@@ -46,7 +46,7 @@ Within a note, `[[link]]` is preferred unless discussing a tag in which case use
 > This situation usually points to the need for [[Maps of Content]] as described in [[Tags Are Not Knowledge]].
 
 ## Maintaining tags
-Tags can be renamed both the parent and child levels. This is one reason why they are unsuitable to classify note content.
+Tags can be renamed both [](map%20of%20content.md) This is one reason why they are unsuitable to classify note content.
 
 Be aware that when renaming tags, those within a [[Dataview (Obsidian Plugin)]] query will not be renamed even though the front-matter tag will have been changed.
 

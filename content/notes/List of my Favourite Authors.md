@@ -1,6 +1,6 @@
 ---
 tags:
-  - MOC
+  - moc
   - reading
   - list
 date: 2023-09-21T21:32:00

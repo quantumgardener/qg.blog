@@ -58,7 +58,7 @@ Flowing from the idea that [[Backlinks are Important]] the site is highly interc
 
 Individual notes with structure will show a ToC.
 
-[[Maps of Content]] are used extensively and are marked with the [MOC](/tags/moc) topic. Some topic pages are themselves maps of content.
+[[map of content]] are used extensively and are marked with the [MOC](/tags/moc) topic. Some topic pages are themselves maps of content.
 
 ### Note Metadata
 Each note has a growth status that indicates how "finished" it is. The growth values are [[seedling]], [[budding]] and [[evergreen]]. As a note matures, the growth marker will be changed.

@@ -1,6 +1,6 @@
 ---
 tags:
-  - MOC
+  - moc
 JD-ID: "[[01.00 Overview of Quantum OS]]"
 landscapes:
   - "[[quantum-os]]"
@@ -24,7 +24,7 @@ Knowledge and records stored within my [[personal knowledge management]] system 
 | ---------------------------- | --------------------------------------------- |
 | Attach a file                | [[Photo, image and attachments guidelines]]   |
 | Tag a journal entry          | [[Tagging Journal Entries]]                   |
-| Add [[Maps of Content]]      | [[Maps of Contents Guidelines]]               |
+| Add [[map of content]]      | [[Maps of Contents Guidelines]]               |
 | Add a source                 | [[Source guidelines]]                         |
 | Add a property or tag        | [[Property Guidelines]] \| [[Tag Guidelines]] |
 | Check for consistency/errors | [[+Index for QA]]                             |

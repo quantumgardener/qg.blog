@@ -1,6 +1,6 @@
 ---
 tags:
-  - MOC
+  - moc
 date: 2024-05-17
 landscapes:
   - "[[the-garden-shed]]"

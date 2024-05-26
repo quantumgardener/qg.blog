@@ -2,7 +2,7 @@
 aliases:
   - Digital Gardening
 tags:
-  - class/concept
+  - concept
 datetime: 2023-09-17T20:43:00
 ---
 A **digital garden** is a form of website where the author creates and curates ideas in public. 
