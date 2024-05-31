@@ -9,7 +9,7 @@ Blogging is inherently date bound. Most blogs have URLs with a YYYY\MM\DD or sim
 
 Date driven writing is incompatible with a [[digital garden]]. Here content is meant to be reviewed and updated, and even [[evergreen]] notes are subject to revision if necessary. Blogs aren't meant to be touched. The subscription mechanism doesn't re-post articles that have been modified. Blogging platforms also make posts difficult to link, which is in contract with inter-linking benefits of digital gardening. The best grouping comes from categories or tags. If further organisation is required, such as a [[map of content]], it can be done, but each page must be individually linked. In short, too much work. 
 
-For these reasons, and to help focus me on the quality of what I'm sharing rather than pushing content out, I've decided to stop blogging via my website. Instead, I'll use [[Mastodon]] to micro-blog anything I want to say that's not relevant to my digital garden. I may use something like a [[Now page]] to provide a list of updates but I have not yet decided how.
+For these reasons, and to help focus me on the quality of what I'm sharing rather than pushing content out, I've decided to stop blogging via my website. Instead, I'll use [[+/inherited/Mastodon]] to micro-blog anything I want to say that's not relevant to my digital garden. I may use something like a [[Now page]] to provide a list of updates but I have not yet decided how.
 
 Existing blog pages will either be:
 - Moved to notes, or

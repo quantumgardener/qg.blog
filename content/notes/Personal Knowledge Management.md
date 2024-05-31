@@ -1,8 +1,7 @@
 ---
 aliases:
   - pkm
-tags:
-  - concept
+tags: []
 landscapes:
   - "[[productive-laziness]]"
 date: 2024-03-11

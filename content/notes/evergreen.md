@@ -1,6 +1,5 @@
 ---
-tags:
-  - concept
+tags: []
 datetime: 2023-09-17T10:06:00
 updated: 2024-05-25T16:15:00
 ---

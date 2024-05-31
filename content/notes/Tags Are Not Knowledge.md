@@ -3,7 +3,8 @@ JD-ID: "[[01.01 Guiding Principles]]"
 landscapes:
   - "[[quantum-os]]"
   - "[[productive-laziness]]"
-date: 2024-03-11
+datetime: 2024-03-11
+updated: 2024-05-31T11:02:00
 ---
 Tags, or other similar metadata, added to resources in a [[personal knowledge management]] system are not content. They are best used to help you curate resources and can answer questions such as:
 
@@ -13,7 +14,7 @@ Tags, or other similar metadata, added to resources in a [[personal knowledge ma
 
 When used as markers for the content of a resource - exactly like keywords - an issue arises where one tag can mean multiple things. Is `#philosophy` a reference to a note that discusses a philosophy, or is it about philosophy itself.
 
-In [Tags or Links](https://curtismchale.ca/2021/07/26/obsidian-tagnotes/), [[Curtis McHale]] distinguished between `tags`, `notes` and *tagnotes*. The latter are a flavour of note that summarise broad topics. They are similar to [[map of content]] in that they bring together information with more context than a single word. Curtis writes,
+There is a difference between `tags`, `notes` and *[[tag note|tagnotes]]*[^1]. The latter are a flavour of note that summarise broad topics. They are similar to a [[map of content]] in that they bring together information with more context than a single word. Curtis writes,
 
 > ## Tagnotes vs Notes
 > The difference between `#tagnotes` and `notes` is that notes are summaries of reading and research I’ve been doing while `#tagnotes` are the connection points between that research.
@@ -25,5 +26,6 @@ In [Tags or Links](https://curtismchale.ca/2021/07/26/obsidian-tagnotes/), [[Cur
 
 In my system, I do not tag notes with markers of what knowledge is within them. If I am tempted to tag with a concept, I'll find a way to rewrite my text to use a `[[link]]` instead. Curtis stores these in a `Tags` folder and identifies them with a `#tagnotes` "proper" tag. I'm more likely to treat these as synonymous with [[map of content]] rather than as another point of friction to track.
 
-## Naming Tagnotes
-The pros and cons between title-case and lower-case tagnote names are fairly even. Title-case is a clear indication of a concept, but lower-case reads better when text is copied from this system into another. For that reason I've decided to go with lower-case. In cases where there is a constant mix of case around a particular note I can use the alias function. This will occur less frequently if I begin with lower-case.
+[[Naming Tagnotes]]
+
+[^1]: [[McHale (2021) -- Obsidian Tagnotes]]

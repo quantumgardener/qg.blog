@@ -1,8 +1,6 @@
 ---
-date: 2022-09-30
-tags:
-  - reading
-  - audiobook
+datetime: 2022-09-30
+tags: []
 landscapes:
   - "[[hobby-together]]"
 ---

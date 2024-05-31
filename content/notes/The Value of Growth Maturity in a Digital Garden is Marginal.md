@@ -1,6 +1,5 @@
 ---
-tags:
-  - idea
+tags: []
 datetime: 2024-05-25T15:58:00
 ---
 For some time I used [[seedling]], [[budding]] and [[evergreen]] as markers of note maturity. The idea was to inform an external reader of how advanced or stable a published note was. After six months it became apparent to me the value of tagging notes in this manner is marginal. I wasn't getting value from it personally as an author, so I am sure there was even less value for those one more degree distant from the notes than myself.

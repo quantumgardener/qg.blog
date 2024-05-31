@@ -1,8 +1,7 @@
 ---
 aliases:
   - main notes
-tags:
-  - concept
+tags: []
 datetime: 2024-05-26T13:30:00
 updated:
 ---
