@@ -7,7 +7,7 @@ I'm not happy with [[Reflections on my Note Taking|yesterday's note]] so I'm giv
 
 I have a capable system in [[Obsidian]] for collecting notes. In the whole there is a moderate level of organisation/categorisation, backed by a fast search function, and a graphical view /plugins that aid in finding disconnected notes.
 
-My writing usually comes from memory. I will link to existing notes but do so only if I think of them. I don't let my notes, and the [[Combinational Creativity]] insights from the connections between them drive my writing. It feels arse-about and even if it isn't, I'm not making use of the valuable written asset I have put so many hundreds of hours into.
+My writing usually comes from memory. I will link to existing notes but do so only if I think of them. I don't let my notes, and the [[combinational creativity]] insights from the connections between them drive my writing. It feels arse-about and even if it isn't, I'm not making use of the valuable written asset I have put so many hundreds of hours into.
 
 Note taking works best when as frictionless as possible. There are places in my system where I have too much friction and places where there is too little friction.
 
