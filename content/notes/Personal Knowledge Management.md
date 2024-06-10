@@ -16,7 +16,7 @@ There is a journey here. What works for you today, will not work for you tomorro
 
 > [!warning] Don't chase the perfect system. All you need is the system that works for you now.
 
-## Key Principles of My System
+## Key principles of my system
 
 ![[Personal knowledge management systems must be flexible]]
 

@@ -18,7 +18,7 @@ Trigger for this is a [[mental squeeze point]] - feeling uncomfortable things wi
 
 Maps of Content remind me of [[Concept mapping]] but in text form. They are similar because they link concepts together. The difference is that one is textual and the other visual. Maps of Content are great in a note-making tool (and the graph in [[Obsidian]] helps with relationships) but for getting ideas across to another person it is difficult to get the picture with text. The text is personal. Clustering of ideas is also more likely to be obvious with a visual representation.
 
-## A Helpful Explanation
+## A helpful explanation
 Explaining Maps of Content to someone who is unfamiliar with [[Personal knowledge management]], can be easily done as follows.
 
 > A Map of Content helps people navigate quickly to the content that is important to them. It can be followed to the letter, or used as a jumping off point.
