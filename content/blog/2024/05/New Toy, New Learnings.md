@@ -31,7 +31,7 @@ Some content is going to go. I have always been upfront about this site having t
 
 
 [^1]: I finally settled on a [[Canon R50 Mirrorless|Canon R50]]
-[^2]: [[Reflections on my Note Taking]], 18 May 2024
+[^2]: [[Reflections on my note taking]], 18 May 2024
 [^3]: I can actually load all of them. 600+ books in epub format total just 2.5GB and I have 11GB free on the reader.
 [^4]: [[Matla (2023) -- Stop Procrastinating with Note-Taking Apps Like Obsidian, Roam, Logseq]]
 [^5]: [[Designing The Quantum Garden#Nothing is Sacred]]

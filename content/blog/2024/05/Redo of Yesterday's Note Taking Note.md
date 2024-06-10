@@ -1,7 +1,7 @@
 ---
 datetime: 2024-05-19T20:25:00
 ---
-I'm not happy with [[Reflections on my Note Taking|yesterday's note]] so I'm giving it another go with more love and attention. I knew I wanted to write about note taking yesterday so I simply wrote. I didn't think. I realised I had flailed around so I pushed "print" anyway. For a note about note taking, where the underpinning goal is to write better, this was a sub-par effort, providing plenty to learn from.
+I'm not happy with [[Reflections on my note taking|yesterday's note]] so I'm giving it another go with more love and attention. I knew I wanted to write about note taking yesterday so I simply wrote. I didn't think. I realised I had flailed around so I pushed "print" anyway. For a note about note taking, where the underpinning goal is to write better, this was a sub-par effort, providing plenty to learn from.
 
 [[The Quantum Garden]] is a way for me to develop my thinking publicly, and to share knowledge with others. Both designed to help prompt others with their own learning.
 

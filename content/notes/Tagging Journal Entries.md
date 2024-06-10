@@ -28,4 +28,4 @@ These are the tags I apply to [[31 Journal|Journal entries]]. They are a means o
 | `#journal/sufferings` | moments that I am not present, worrying or looping in my head about something.                         |
 | `#journal/travel`     | An entry describing a day when travelling (including day trips). Can have sub-tags for specific trips. |
 | `#journal/UK-diary`   | An entry from our [[UK 1999-2000]] trip.                                                               |
-| `#journal/write`      | A specific type of journal entry in the form of [[Proprioceptive Writing]].                            |
+| `#journal/write`      | A specific type of journal entry in the form of [[Proprioceptive writing]].                            |
