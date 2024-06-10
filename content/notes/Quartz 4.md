@@ -8,7 +8,7 @@ landscapes:
   - "[[the-garden-shed]]"
 description: Overview of how I use Quartz to display this digital garden. Includes a list of customisations I've made.
 ---
-An [[Obsidian]] to website publishing system that allows me to publish directly out of my [[digital garden]] and so retain the benefits of a single, frictionless workflow. The GitHub source is at  https://quartz.jzhao.xyz.
+An [[Obsidian]] to website publishing system that allows me to publish directly out of my [[Digital garden]] and so retain the benefits of a single, frictionless workflow. The GitHub source is at  https://quartz.jzhao.xyz.
 
 [The Quantum Garden](https://quantumgardener.blog) moved to Quartz in September 2023.
 
@@ -127,7 +127,7 @@ The default is to say "Topic: abcd". Now the [FontAwesome Message icon](https://
 >> 
 >> My [[Personal Knowledge Management|pkm]] system in [[Obsidian]] and the flow onwards to my website use seedling, budding and evergreen markers to indicate a note's maturity.
 >> 
->> The more content I put online, the more it starts as evergreen and I find it's obvious if something is a seedling or not - so the marker doesn't help much. Usually, if there is a note in progress I’ll mark it clearly as such anyway.
+>>[](Personal%20knowledge%20management.md)ore it starts as evergreen and I find it's obvious if something is a seedling or not - so the marker doesn't help much. Usually, if there is a note in progress I’ll mark it clearly as such anyway.
 >> 
 >> After a few days thinking I've decided to remove the cognitive overhead of seedling, budding and evergreen. They add zero value to me and I would be surprised if anyone who visits my site looks at them with more than a care factor of zero. 
 >> 

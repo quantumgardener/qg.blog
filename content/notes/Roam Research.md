@@ -3,7 +3,7 @@ date: 2023-09-27
 tags:
   - software-use
 ---
-Roam Research is a [[personal knowledge management]] tool that gained significantly in popularity by word-of-mouth in 2020. The key benefit comes from the way it treats blocks of text and [[Backlinks are Important]].
+Roam Research is a [[Personal knowledge management]] tool that gained significantly in popularity by word-of-mouth in 2020. The key benefit comes from the way it treats blocks of text and [[Backlinks are important]].
 
 
 In January 2021 I moved from Roam to [[Obsidian]].

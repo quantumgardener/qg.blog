@@ -4,7 +4,7 @@ description: Jumping off point for all things LEGO.
 tags:
   - moc
 ---
-Lots of LEGO threaded in-an-out of this [[digital garden]].
+Lots of LEGO threaded in-an-out of this [[Digital garden]].
 
 ## I Want to
 

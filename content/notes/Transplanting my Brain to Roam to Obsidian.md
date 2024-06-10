@@ -9,7 +9,7 @@ datetime: 2024-01-21
 ---
 In mid-2020 I was introduced to the exciting new note-taking application [[Roam Research]] and I transferred my notes and tasks into the database, making use of the powerful backlinking and cross-referencing features of the database. Prior to that I had been using a mix of [[TheBrain]] (notes and links), [Omnifocus](https://www.omnigroup.com/omnifocus/) (tasks and projects) and [OneNote](https://www.onenote.com) (mobile and synced notes). [[TheB]]
 
-Roam was good, but not perfect, and that wasn't a particular problem. I've used enough [[personal knowledge management]] software to know it rarely meets all needs and Roam went a long way to meet most of them.
+Roam was good, but not perfect, and that wasn't a particular problem. I've used enough [[Personal knowledge management]] software to know it rarely meets all needs and Roam went a long way to meet most of them.
 
 Last weekend, in looking up some videos on the Zettelkasten Learning Method, I came across [[Obsidian]] as an alternative to Roam. Some research and testing later, and I decided to make the jump and commit to another note-taking/research application just 6 months later from my last jump.
 
@@ -79,7 +79,7 @@ Where you get to in your note-taking journey I wish you the best. The great thin
 2. Speak with my daughter about her needing to transfer out of [[Roam Research]] if I stop using it (which I will) and before she starts her next semester.
 3. Export all items from [[Roam Research]] into a /import folder
 4. Start checking each one
-	1. Delete those with empty pages and nothing but [[Backlinks are Important]] - which seems to be 90% of them.
+	1. Delete those with empty pages and nothing but [[Backlinks are important]] - which seems to be 90% of them.
 	2. Rename date files (**before deleting** if there are just backlinks as this updates all existing references)
 	3. Use [[Sublime Text]]'s find/replace across files function to replace TODO/DONE/attributes/highlight
 	4. Regex find/replace YouTube and Embed instructions, replacing with iFrame

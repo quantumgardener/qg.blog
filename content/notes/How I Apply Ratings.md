@@ -10,7 +10,7 @@ There are as many systems to apply ratings as there are things which can be rate
 
 > [!INFO] Anything can be rated.
  
-This [[digital garden]] uses a 5-star scale applied as follows:
+This [[Digital garden]] uses a 5-star scale applied as follows:
 
 [[5-star|⭐️⭐️⭐️⭐️⭐️]] — Life defining. Part of my identity.
 

@@ -13,7 +13,7 @@ datetime: 2023-09-29
 
 Within Obsidian I document and link:
 - Personal journal entries
-- [[digital garden]] notes
+- [[Digital garden]] notes
 - My consumption of books, movies and TV shows
 
 This website is published directly from Obsidian using [[Quartz 4]]. Content is created in Obsidian using Markdown and then converted to static HTLM by Quartz.

@@ -5,9 +5,9 @@ updated: 2024-05-31T10:23:00
 landscapes:
   - "[[productive-laziness]]"
 ---
-![[backlink]]
+![[Backlink]]
 
-The backlinks I create assist my [[personal knowledge management]] and do a lot of heavy lifting in a [[zettelkasten]].
+The backlinks I create assist my [[Personal knowledge management]] and do a lot of heavy lifting in a [[Zettelkasten]].
 
 ![[Backlinks are not hierarchical]]
 

@@ -5,7 +5,7 @@ landscapes:
 datetime: 2023-10-25T20:07:00
 updated: 2024-05-24T10:48:00
 ---
-These are guidelines, not rules. They recogise that [[Personal Knowledge Management Systems Must Be Flexible]].
+These are guidelines, not rules. They recogise that [[Personal knowledge management systems must be flexible]].
 
 ## When to tag
 Tags are used for:
@@ -21,7 +21,7 @@ Tags are used for:
 	- There are any number of "groups" something may belong to. Some of the grouping tags are `project`, `genre\...`
 
 Tags are not used for:
-- Classifying note content. Instead of tags, make copious use of [[Backlinks are Important|Links and Backlinks]] and [[map of content]].
+- Classifying note content. Instead of tags, make copious use of [[Backlinks are important|Links and Backlinks]] and [[Map of content]].
 
 ## Naming tags
 - All tag names should be lowercase
@@ -46,7 +46,7 @@ Within a note, `[[link]]` is preferred unless discussing a tag in which case use
 > This situation usually points to the need for [[Maps of Content]] as described in [[Tags Are Not Knowledge]].
 
 ## Maintaining tags
-Tags can be renamed both [](map%20of%20content.md) This is one reason why they are unsuitable to classify note content.
+Tags can be renamed both [](Map%20of%20content.md) This is on[](Tags%20are%20not%20knowledge.md)itable to classify note content.
 
 Be aware that when renaming tags, those within a [[Dataview (Obsidian Plugin)]] query will not be renamed even though the front-matter tag will have been changed.
 

@@ -4,7 +4,7 @@ aliases:
 tags: []
 datetime: 2023-09-17T20:43:00
 ---
-A **digital garden** is a form of website where the author creates and curates ideas in public. 
+A *digital garden* is a form of website where the author creates and curates ideas in public. 
 
 As they collect information and write, notes are published in various stages of completeness (tagged [[seedling]], [[budding]] or [[evergreen]]) so that others can benefit from what's there and then, without the burden of having to finish an article. 
 

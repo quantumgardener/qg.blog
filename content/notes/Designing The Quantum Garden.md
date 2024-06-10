@@ -6,7 +6,7 @@ date: 2023-09-17T20:47:00
 datetime: 2023-09-29
 ---
 ## Background
-I have referred to my personal knowledge management system as a [[digital garden]] for several years now and it makes sense this online presence reflects that. Originally I used the term to mean tending the noise of digital records, but have now moved towards a place for the growing of ideas.
+I have referred to my personal knowledge management system as a [[Digital garden]] for several years now and it makes sense this online presence reflects that. Originally I used the term to mean tending the noise of digital records, but have now moved towards a place for the growing of ideas.
 
 My evolution is not uncommon as explained in this Maggie Appleton article, [A Brief History & Ethos of the Digital Garden](https://maggieappleton.com/garden-history). I was feeling at an impasse with the future structure of this site so went looking for inspiration.
 
@@ -54,11 +54,11 @@ I asked myself why am I even recording all this. It's because I don't feel known
 This is a garden. Ideas flourish and others will die. I make no promises that a note, topic or anything else will be present tomorrow if it's there today. [[Letters with Jason]] was originally six blog posts, and [[RSS Remains an Important Technology]] was four posts spanning 19 years. If combining content makes a better story I'll not hesitate. Notes that are clearly no longer relevant will be updated or deleted. 
 
 ### No Site Menu
-Flowing from the idea that [[Backlinks are Important]] the site is highly interconnected so the "standard" website menu is not required. Landing anywhere will allow easy navigation from one related note to another. And there is always search.
+Flowing from the idea that [[Backlinks are important]] the site is highly interconnected so the "standard" website menu is not required. Landing anywhere will allow easy navigation from one related note to another. And there is always search.
 
 Individual notes with structure will show a ToC.
 
-[[map of content]] are used extensively and are marked with the [MOC](/tags/moc) topic. Some topic pages are themselves maps of content.
+[[Map of content]] are used extensively and are marked with the [MOC](/tags/moc) topic. Some topic pages are themselves maps of content.
 
 ### Note Metadata
 Each note has a growth status that indicates how "finished" it is. The growth values are [[seedling]], [[budding]] and [[evergreen]]. As a note matures, the growth marker will be changed.

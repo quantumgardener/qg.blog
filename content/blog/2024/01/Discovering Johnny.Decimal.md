@@ -4,7 +4,7 @@ landscapes:
   - "[[productive-laziness]]"
 datetime: 2024-01-31T00:00:00
 ---
-This evening I've been reading through the documentation on the [Johnny.Decimal](https://johnnydecimal.com/) system. It's a method for organising documentation across multiple areas and categories and so falls within the realm of [[personal knowledge management]].
+This evening I've been reading through the documentation on the [Johnny.Decimal](https://johnnydecimal.com/) system. It's a method for organising documentation across multiple areas and categories and so falls within the realm of [[Personal knowledge management]].
 
 It's not the only system of this type. I've looked at, and tried quite a few. As times and tools change, organisation structures change with them. Johnny.Decimal is a system that I will be investing time into.
 
@@ -29,7 +29,7 @@ My mind is already racing with the possibilities. I've bought the workbook to he
 
 After reading the material on the website I felt quite unwell and out of sorts. That happens when I've been perturbed. It's a good thing.
 
-There are a few things to work though. Obsidian folders are an obvious way to organise content, but within Obsidian I have an internal [[Quartz 4]] structure for my website. Articles are moved to the sub-folder for publishing. So is it folders, or tags, or both? I may need to use projects but I don't feel that's right yet. I can see this [[digital garden]] mapping to the same structure[^3] which will help me and my readers.
+There are a few things to work though. Obsidian folders are an obvious way to organise content, but within Obsidian I have an internal [[Quartz 4]] structure for my website. Articles are moved to the sub-folder for publishing. So is it folders, or tags, or both? I may need to use projects but I don't feel that's right yet. I can see this [[Digital garden]] mapping to the same structure[^3] which will help me and my readers.
 
 
 [^1]: Past experience tells me it won't be and JD themself points this out in the excellent documentation.

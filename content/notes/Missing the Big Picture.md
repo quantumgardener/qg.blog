@@ -15,4 +15,4 @@ For this change to occur there must be an observer of how we observe. Only then 
 
 An episode of *Gordon Ramsey’s Kitchen Nightmares* is on in the background as I write. Gordon is the coach helps failing restaurant owners observe what they are unable to observe themselves.
 
-When you’ve hit a wall and don’t seem to be going where you need to, get someone to help you observe what you can’t see yourself. That somebody can be a coach, words written in a book/article, or a podcast. It can, with practice, even be ourselves. The process is called [[Second Order Learning]].
+When you’ve hit a wall and don’t seem to be going where you need to, get someone to help you observe what you can’t see yourself. That somebody can be a coach, words written in a book/article, or a podcast. It can, with practice, even be ourselves. The process is called [[Second-order learning]].
