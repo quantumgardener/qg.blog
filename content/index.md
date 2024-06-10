@@ -17,7 +17,7 @@ Time spent in the garden is all about cultivating possibilities in life. Often t
 > 
 > [Subscribe via RSS](https://quantumgardener.info/feed)
 
-## Getting Around the Garden
+## Getting around the garden
 Where do you want to head first? There are many paths before you, and you are welcome to create your own[^1]. 
 
 Standing here at the main gate you can see several intriguing [[Landscapes|landscapes]] spread out in front of you. 

@@ -10,7 +10,7 @@ I have referred to my personal knowledge management system as a [[Digital garden
 
 My evolution is not uncommon as explained in this Maggie Appleton article, [A Brief History & Ethos of the Digital Garden](https://maggieappleton.com/garden-history). I was feeling at an impasse with the future structure of this site so went looking for inspiration.
 
-### The Situation as it Stands Today
+### The situation as it stands today
 I have been a user of [[Obsidian]] for the past couple of years[^3] and prior to a year's flirtation with [[Roam Research]], had been a heavy user of [[TheBrain]][^thebrain].
 
 My vault consists of truly personal notes and information (journal entries, remembrances of past events), reference material, blog entries and I recently began tracking books read, movies watched etc. More on that later. Until September 2023, I was also hosting blogs on a [[Wordpress]] site until I moved from [[Wordpress to Quartz]]. And that's before the PDF reference material stored in [[Zotero]].
@@ -19,7 +19,7 @@ I can't share everything because of the personal/public nature of some of the in
 
 I now have a working system where I am able to create notes such as this within [[Obsidian]] and publish to the web via [[Quartz 4]]. A major point of friction is then removed, that of converting from one format to another. It's write-once, publish once. Though, as digital gardening suggests, that is more write-many, publish many.
 
-### My Thinking has Evolved to Green Thumb Level
+### My thinking has evolved to green thumb level
 Maggie's article perturbed me when I read it. The Sun came out and I could see different ways to approach my digital gardening.
 
 The concept of "publishing" to the web had bound me in ways I hadn't realised. Something like a blog post would be "published" on a date, never to change again apart from any corrections I may need to do. The status was always considered done, and the date was the date.
@@ -34,33 +34,33 @@ In contrast, this note is being written as I think and I fully expect it to chan
 
 I feel liberated in not having to think about time anymore.
 
-### But it Can't be That Easy
+### But it can't be that easy
 It's not. I have to rethink how existing content is presented and work my way through the necessary changes.
 
 The joy and wonder are in now understanding, that's perfectly ok. I don't have to get the garden website perfect the first time. It never will be and like a garden the visual aspect will change over time. Both plants (notes) and structure (landscaping) are all up for grabs to maximise the benefit of the knowledge shared.
 
-#### Blogging and RSS Feeds
+#### Blogging and RSS feeds
 The move from blogging to digital gardening means I have made [[My Decision to Stop Blogging]]. My mind has been rearranging content and I'll begin doing so for real once I finalise where everything will land. It's not 100% simple as the writing style of a blog post is different from that which is moving towards an [[evergreen]] note.
 
-#### Changing Obsidian's Structure
+#### Changing Obsidian's structure
 My Obsidian Vault's internal structure does not need to change too much. Anything that is published here sits within a "Quartz" folder off the root. This is the only folder that [[Quartz 4]] considers when publishing and eliminates the risk of my suddenly publishing 30 years of private journal entries.
 
 Last night I was thinking about all the books, movies, video games I've been tracking. I had begun to [[Replacing Goodreads With Obsidian]] and am now not so sure. It is taking a lot of time to transfer the backlog which is time better spent on developing my knowledge (in gardening terms I'm constantly weeding rather than growing).
 
 I asked myself why am I even recording all this. It's because I don't feel known. Someone who discovers my journals after I die could look at the list of my media consumption and somehow understand me. [[How I Apply Ratings]] would give them perfect insight into who I was. But, of course, it wouldn't. I'm wondering if I'd be better dumping all that overhead and simply listing my favourites and **WHY**[^2].
 
-## The Design as it Stands
-### Nothing is Sacred
+## The design as it stands
+### Nothing is sacred
 This is a garden. Ideas flourish and others will die. I make no promises that a note, topic or anything else will be present tomorrow if it's there today. [[Letters with Jason]] was originally six blog posts, and [[RSS Remains an Important Technology]] was four posts spanning 19 years. If combining content makes a better story I'll not hesitate. Notes that are clearly no longer relevant will be updated or deleted. 
 
-### No Site Menu
+### No site menu
 Flowing from the idea that [[Backlinks are important]] the site is highly interconnected so the "standard" website menu is not required. Landing anywhere will allow easy navigation from one related note to another. And there is always search.
 
 Individual notes with structure will show a ToC.
 
 [[Map of content]] are used extensively and are marked with the [MOC](/tags/moc) topic. Some topic pages are themselves maps of content.
 
-### Note Metadata
+### Note metadata
 Each note has a growth status that indicates how "finished" it is. The growth values are [[seedling]], [[budding]] and [[evergreen]]. As a note matures, the growth marker will be changed.
 
 One or more topic flags will be added to each note. Even topic pages can have their own topics. This is all to aid navigation.

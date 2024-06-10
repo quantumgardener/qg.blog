@@ -5,7 +5,7 @@ Earlier this week I realised I needed to improve my note taking/making into note
 
 Now that I've stopped for the week and have a few days of my own time ahead of me, the flood gate of thoughts have opened and I need to pin some of them down or I'll never relax.
 
-## Integrating Different Note Systems
+## Integrating different note systems
 
 The most important article I read today is [Zettelkasten, Linking Your Thinking, and Nick Milo's Search for Ground](https://writing.bobdoto.computer/zettelkasten-linking-your-thinking-and-nick-milos-search-for-ground/) by [[Bob Doto]]. I'm already familiar with [[Nick Milo|Nick Milo's]] [[Linking Your Thinking]] (LYT) work and I have structured my [[Digital garden]] around his ideas[^1]. What I learned was that [[Zettelkasten]] is a different way of thinking and not necessarily complimentary way of thinking. I'm not so sure. I can see how the process of creating notes using each method has its benefits. I like the idea of letting notes evolve (LYT) while I can see benefits in other notes starting from the bottom up.
 
@@ -17,7 +17,7 @@ I am not willing to split all this. The co-location and linking across all these
 
 I have created a rough note of the points I need to look at tomorrow. They cover folder structures, tagging, [[Map of content]], and properties (dates primarily). Some needs to go, some needs to stay, and some needs to be created.
 
-## Redefining the Digital Garden
+## Redefining the digital garden
 I may rephrase all "Digital Garden" references to "Thought Garden" as a way to remind me I'm detailing with a garden of thoughts and ideas that change and evolve over time, and not a garden of "digitals".
 
 I am likely to remove the [[evergreen]], [[budding]] and [[seedling]] markers from notes in the garden. I'm not convinced they add any real value. A note is finished or it's not, and they aren't ever fixed finished. I expect a visitor to the site doesn't care if they even notes. Nothing in the [[Zettelkasten]] process suggests this is necessary and that's what prompted the question.
