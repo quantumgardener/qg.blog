@@ -1,11 +1,10 @@
 ---
 tags: 
-date: 2023-02-15
+datetime: 2023-09-02T18:38:03
 landscapes:
   - "[[productive-laziness]]"
-description: My proposed list of alternative day names to help us organise time easier and avoid confusion across the week.
 ---
-Suggested names to save time. Some are already in use which leads me to believe I’m onto something.
+My proposed list of alternative day names to help us organise time easier and avoid confusion across the week. Some are already in use which leads me to believe I’m onto something.
 
 | Day       | Morning   | Afternoon | Evening     |
 | --------- | --------- | --------- | ----------- |

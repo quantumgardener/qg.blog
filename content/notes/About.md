@@ -1,7 +1,6 @@
 ---
-title: About
-date: 2023-09-14
-datetime: 2023-09-16T15:20:00
+datetime: 2023-08-30T20:30:55
+updated: 2023-09-16T15:20:00
 ---
 Welcome to The Quantum Garden, a site where I share what interests me in the hope you'll find it interesting as well.
 

@@ -1,7 +1,7 @@
 ---
 tags:
   - metadata-strategy
-date: 2023-08-24
+date: 2023-08-24T20:04:23
 landscapes:
   - "[[hobby-together]]"
 ---
