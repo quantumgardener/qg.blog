@@ -2,7 +2,6 @@
 date: 2022-10-08
 tags:
   - gratitude
-  - meditation
   - frequently-quoted
 landscapes:
   - "[[expand-my-way-of-being]]"

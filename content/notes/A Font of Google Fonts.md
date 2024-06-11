@@ -1,7 +1,7 @@
 ---
 tags:
   - sample-code
-date: 2023-10-19
+datetime: 2023-10-19T00:00:00
 landscapes:
   - "[[the-garden-shed]]"
 description: Instructions on how I added Google Fonts to Obsidian Publish.

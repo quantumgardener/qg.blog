@@ -1,12 +1,6 @@
 ---
-date: 2022-11-28
-tags:
-  - mental-wellness
-  - relaxation
-  - overwhelm
-  - mental-health
-  - health
-  - role/my-wellness
+tags: 
+datetime: 2022-11-28T00:00:00
 landscapes:
   - "[[expand-my-way-of-being]]"
 ---

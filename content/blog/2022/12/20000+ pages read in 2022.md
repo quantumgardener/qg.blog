@@ -1,8 +1,7 @@
 ---
 date: 2022-12-31
-tags:
-  - reading
-  - review
+tags: 
+datetime: 2022-12-31T00:00:00
 landscapes:
   - "[[hobby-together]]"
 ---
