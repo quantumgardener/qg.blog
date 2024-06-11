@@ -1,9 +1,6 @@
 ---
-date: 2022-07-05
-tags:
-  - assessments
-  - opinion
-  - truth
+datetime: 2022-07-05T00:00:00
+tags: []
 landscapes:
   - "[[expand-my-way-of-being]]"
 ---

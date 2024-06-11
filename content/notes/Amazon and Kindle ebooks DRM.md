@@ -1,5 +1,5 @@
 ---
-aliases: Amazon and Kindle Books DRMs
+aliases: []
 tags: 
 datetime: 2023-10-11T20:00:33
 updated:

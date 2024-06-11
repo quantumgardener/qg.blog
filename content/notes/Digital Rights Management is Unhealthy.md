@@ -9,4 +9,4 @@ I read an article many years ago, that I can no longer find, which discussed the
 
 Don't use the word "purchase" when you mean "rent".
 
-[[Amazon and Kindle Books DRM]]
+[[Amazon and Kindle ebooks DRM]]
