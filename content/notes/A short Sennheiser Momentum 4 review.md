@@ -1,8 +1,7 @@
 ---
 tags:
   - review
-  - gear
-date: 2023-01-05
+date: 2023-09-05T20:57:33
 landscapes:
   - "[[hobby-together]]"
 ---
