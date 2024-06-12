@@ -1,7 +1,7 @@
 ---
 tags:
   - social-media
-dattimee: 2023-02-16T00:00:00
+datetime: 2023-02-16T00:00:00
 landscapes:
   - "[[the-garden-shed]]"
 ---
