@@ -1,18 +1,18 @@
 ---
 title: The stream of thought that waters the garden
 datetime: 2023-09-16T15:04:00
-updated: 2024-06-10T17:11:00
+updated: 2024-06-12T21:17:00
 ---
 Welcome to The Quantum Garden, a site where I share what interests me in the hope you'll find it interesting as well.
 
 Time spent in the garden is all about cultivating possibilities in life. Often the possibility is already there and waiting to be seen.
 
 > [!writing] Recent blog entries
+> - 12 June 2024 -- [[Now, 12 June 2024]]
 > - 6 June 2024 -- [[Writing unexpectedly shifted my mood]]
 > - 31 May 2024 -- [[New toy, new learnings]]
 > - 23 May 2024 -- [[A flood of thinking]]
 > - 21 May 2024 -- [[Leaving Omnivore (for now)]]
-> - 19 May 2024 -- [[Redo of yesterday's note taking note]]
 > - [more...](/blog/)
 > 
 > [Subscribe via RSS](https://quantumgardener.info/feed)
