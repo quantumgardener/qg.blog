@@ -1,5 +1,5 @@
 ---
-datetime: 2022-09-30
+datetime: 2022-09-30T00:00:00
 tags: []
 landscapes:
   - "[[hobby-together]]"

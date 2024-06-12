@@ -121,7 +121,7 @@ The default is to say "Topic: abcd". Now the [FontAwesome Message icon](https://
 ## Removal of growth status for pages
 
 > [!warning] 
-> As of [[2024-05-25]], I have disabled the display of maturity levels on posts and will no longer be applying a `growth` property to source notes within [[Obsidian]] . I don't find them useful myself, so I suspect any reader - who is a further degree away from the content than I am - will not find them useful either. See [[The Value of Growth Maturity in a Digital Garden is Marginal]].
+> As of [[2024-05-25]], I have disabled the display of maturity levels on posts and will no longer be applying a `growth` property to source notes within [[Obsidian]] . I don't find them useful myself, so I suspect any reader - who is a further degree away from the content than I am - will not find them useful either. See [[The value of growth maturity in a digital garden is marginal]].
 > 
 >> [!note] My original Mastodon post outlining my thoughts
 >> 

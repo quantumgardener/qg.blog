@@ -1,4 +1,4 @@
 ---
 title: December 2023
-date: 2023-12-01
+datetime: 2023-12-01T00:00:00
 ---

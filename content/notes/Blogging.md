@@ -1,7 +1,8 @@
 ---
 tags:
   - moc
-date: 2024-05-17
+datetime: 2023-01-25T20:07:00
+updated: 2024-05-17T00:00:00
 landscapes:
   - "[[the-garden-shed]]"
 ---
@@ -24,21 +25,19 @@ I began blogging in the early 2000's using Radioland. I met many interesting peo
 ## What I've Written About Blogging
 ### The Practice
 - [[Writing is a Concernful Activity]]
-- [[Types of Bloggers]]
-- [[An Observational Blogger]]
+- [[Types of bloggers]]
+- [[I am an observational blogger]]
 - [[Comparing Digital Gardens to Blogging]]
 - [[Ideas are Better in Bed]]
 - [[RSS Remains an Important Technology]]
 - [[My Decision to Stop Blogging]]
+- [[Bloggers should support other bloggers]]
+
 ### Tools
 - [[My Document Toolkit]] 
 - [[Workflow for Importing my Old Blog Entries]]
-## Bloggers Supporting Bloggers
+- 
 
-> Wouldn't it be nice if there were a group of bloggers, people who write regularly, who are friends but might view things differently, but agree to read each other's pieces and speak up if they had something to say. They would know what they said would be read by other bloggers.
-> [[Dave Winer]] - [Scripting News: Thursday, September 29, 2022](http://scripting.com/2022/09/29.html#a151000)
-
-This is an important idea. It builds community and friends. It's one of the joys of blogging.
 
 ## Articles I've Not Yet Processed
 - [[Blog for Learning - Making a Blog with Roam]]

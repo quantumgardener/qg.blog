@@ -3,7 +3,7 @@ tags:
   - moc
   - music
   - list
-date: 2023-10-08
+datetime: 2023-10-08T00:00:00
 landscapes:
   - "[[hobby-together]]"
 ---

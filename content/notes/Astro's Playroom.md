@@ -7,7 +7,7 @@ tags:
 JD-ID: "[[26.004 Astro's Playroom]]"
 landscapes:
   - "[[hobby-together]]"
-date: 2024-02-27
+datetime: 2024-02-27T00:00:00 
 ---
 ![[vg_Astro's Playroom.webp|200]]
 

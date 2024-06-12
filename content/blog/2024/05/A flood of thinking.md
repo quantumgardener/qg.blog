@@ -20,7 +20,7 @@ I have created a rough note of the points I need to look at tomorrow. They cover
 ## Redefining the digital garden
 I may rephrase all "Digital Garden" references to "Thought Garden" as a way to remind me I'm detailing with a garden of thoughts and ideas that change and evolve over time, and not a garden of "digitals".
 
-I am likely to remove the [[evergreen]], [[budding]] and [[seedling]] markers from notes in the garden. I'm not convinced they add any real value. A note is finished or it's not, and they aren't ever fixed finished. I expect a visitor to the site doesn't care if they even notes. Nothing in the [[Zettelkasten]] process suggests this is necessary and that's what prompted the question.
+I am likely to remove the [[Evergreen]], [[Budding]] and [[Seedling]] markers from notes in the garden. I'm not convinced they add any real value. A note is finished or it's not, and they aren't ever fixed finished. I expect a visitor to the site doesn't care if they even notes. Nothing in the [[Zettelkasten]] process suggests this is necessary and that's what prompted the question.
 
 ## Blogs are sources too
 I have to remember to treat my blog and journal entries as first class sources. Clearly, journal entries won't be published online, but blog entries are. Another person would treat them no differently from the way I would treat one of their blogs as a source.

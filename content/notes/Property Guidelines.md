@@ -17,7 +17,7 @@ By convention, as there is no way to enforce this, the properties added to file 
 | 6.   | **JD-Category**          | A [[Johnny.Decimal]] category. Must be paired with JD-Storage.                                                                                                      |        N        |
 | 7.   | **JD-Storage**           | Lists locations where notes in the [[Johnny.Decimal]] system are stored. Must be paired with JD-Category.                                                           |        Y        |
 | 8    | **JD-ID**                | A [[Johnny.Decimal]] ID.                                                                                                                                            |        N        |
-| 9    | **date** or **datetime** | Original date of an artefact and typically the date of first creation by myself. `publicationYear` is used when dating an original source in a [[literature note]]. |        N        |
+| 9    | **date** or **datetime** | Original date of an artefact and typically the date of first creation by myself. `publicationYear` is used when dating an original source in a [[Literature note]]. |        N        |
 | 10   | **updated**              | The date and time an artefact was meaningfully updated and it's deemed worth recording the time of update.                                                          |        N        |
 | 11   | **landscapes**           | For published pages, which [[Landscapes]] the note belongs to.                                                                                                      |        Y        |
 | 12   | **description**          | For published pages, a description to override the automatically generated excerpt.                                                                                 |        N        |
@@ -33,4 +33,4 @@ By convention, as there is no way to enforce this, the properties added to file 
 ---
 [[2024-05-24]] - replaced `publishDate` with datetime to give me a distinction between dates without a known time and dates with a time. The use of `date` and `datetime` is consistent with programming language conventions. I find it easier to read and solves the problem of missing times which `publishDate` would also suffer from. As articles are updated I will progressively move from `date` to `datetime`. Added `updated` as a standard property.
 
-[[2024-05-25]] - remove `growth` as a marker of article maturity. See [[The Value of Growth Maturity in a Digital Garden is Marginal]] and [[Quartz 4#Removal of growth status for pages]] for more information.
+[[2024-05-25]] - remove `growth` as a marker of article maturity. See [[The value of growth maturity in a digital garden is marginal]] and [[Quartz 4#Removal of growth status for pages]] for more information.

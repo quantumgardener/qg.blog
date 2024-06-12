@@ -12,11 +12,11 @@ I’m a gamer, a miniature painter, a role-player, a cross-stitcher and enjoyer 
 - Take a photo: [[Photography]] | [[Astrophotography]]
 - Play a game: [[Video Games]]
 - Watch a Movie: [[Movie Theatre]] | [[Coming Soon]] | [[+Index of Series]]
-- Watch TV: [[List of my Favourite TV]]
+- Watch TV: [[List of my favourite TV]]
 - Paint miniatures: [[Miniature Painting]] | [[Painting Nagash]]
 - Play with [[LEGO]]
 
 ## Reading
-- [[List of my Favourite Authors]]
+- [[List of my favourite authors]]
 
 

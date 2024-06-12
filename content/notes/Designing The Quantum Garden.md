@@ -40,7 +40,7 @@ It's not. I have to rethink how existing content is presented and work my way th
 The joy and wonder are in now understanding, that's perfectly ok. I don't have to get the garden website perfect the first time. It never will be and like a garden the visual aspect will change over time. Both plants (notes) and structure (landscaping) are all up for grabs to maximise the benefit of the knowledge shared.
 
 #### Blogging and RSS feeds
-The move from blogging to digital gardening means I have made [[My Decision to Stop Blogging]]. My mind has been rearranging content and I'll begin doing so for real once I finalise where everything will land. It's not 100% simple as the writing style of a blog post is different from that which is moving towards an [[evergreen]] note.
+The move from blogging to digital gardening means I have made [[My Decision to Stop Blogging]]. My mind has been rearranging content and I'll begin doing so for real once I finalise where everything will land. It's not 100% simple as the writing style of a blog post is different from that which is moving towards an [[Evergreen]] note.
 
 #### Changing Obsidian's structure
 My Obsidian Vault's internal structure does not need to change too much. Anything that is published here sits within a "Quartz" folder off the root. This is the only folder that [[Quartz 4]] considers when publishing and eliminates the risk of my suddenly publishing 30 years of private journal entries.
@@ -61,7 +61,7 @@ Individual notes with structure will show a ToC.
 [[Map of content]] are used extensively and are marked with the [MOC](/tags/moc) topic. Some topic pages are themselves maps of content.
 
 ### Note metadata
-Each note has a growth status that indicates how "finished" it is. The growth values are [[seedling]], [[budding]] and [[evergreen]]. As a note matures, the growth marker will be changed.
+Each note has a growth status that indicates how "finished" it is. The growth values are [[Seedling]], [[Budding]] and [[Evergreen]]. As a note matures, the growth marker will be changed.
 
 One or more topic flags will be added to each note. Even topic pages can have their own topics. This is all to aid navigation.
 

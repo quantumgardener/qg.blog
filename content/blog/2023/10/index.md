@@ -1,4 +1,4 @@
 ---
 title: October 2023
-date: 2023-10-01
+datetime: 2023-10-01T00:00:00
 ---
