@@ -1,7 +1,7 @@
 ---
-JD-ID: "[[01.51 Johnny.Decimal System]]"
+JD-ID: "[[01.04 Johnny.Decimal System]]"
 aliases: 
-tags:
+tags: 
 datetime: 2024-02-03T05:18:30
 updated: 
 title: 
