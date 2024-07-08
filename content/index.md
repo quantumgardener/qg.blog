@@ -8,11 +8,11 @@ Welcome to The Quantum Garden, a site where I share what interests me in the hop
 Time spent in the garden is all about cultivating possibilities in life. Often the possibility is already there and waiting to be seen.
 
 > [!writing] Recent blog entries
+> - 8 July 2024 [[An intuitive approach to GTD]]
 > - 6 July 2024 - [[10,000 hours. Really|10,000 hours. Really?]]
 > - 12 June 2024 -- [[Now, 12 June 2024]]
 > - 6 June 2024 -- [[Writing unexpectedly shifted my mood]]
 > - 31 May 2024 -- [[New toy, new learnings]]
-> - 23 May 2024 -- [[A flood of thinking]]
 > - [more...](/blog/)
 > 
 > [Subscribe via RSS](https://quantumgardener.info/feed)
