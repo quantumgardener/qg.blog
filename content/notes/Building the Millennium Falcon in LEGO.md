@@ -129,7 +129,7 @@ I have really enjoyed this build. There is a joy in clicking bits of plastic tog
 
 ## Stand, 30 May 2021
 
-The Millennium Falcon is now finally displayed on an IDisplayIt stand specifically made for the model called the [\\# 2in1 Display Stand MK2 for 75192 UCS Millennium Falcon](https://www.idisplayit.co.uk/us/stands/2in1-display-stand-mk2-for-75192-ucs-millennium-falcon/).
+The Millennium Falcon is now finally displayed on an IDisplayIt stand specifically made for the model called the [2in1 Display Stand MK2 for 75192 UCS Millennium Falcon](https://www.idisplayit.co.uk/us/stands/2in1-display-stand-mk2-for-75192-ucs-millennium-falcon/).
 
 ![[2021-05-30-millennium-falcon-build_c.webp]]
 

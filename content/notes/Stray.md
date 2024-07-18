@@ -27,6 +27,6 @@ The last trophy was a speed run. Two hours to complete the game. I finished with
 
 > [!INFO] 
 > _Stray_ is my [11th Platinum trophy](https://psnprofiles.com/Quantum-Gardener/log?type=platinum)[^1] and the second this year. Trophy names are usually puns and [many of the _Stray_ trophies are](https://psnprofiles.com/trophies/17011-stray/Quantum-Gardener). They missed out by calling the last “All Done” and not “Catinum”.
----- 
+
 
 [^1]:	*[[Ghost of Tsushima]]* was first achieved on the [[PlayStation 4]] and then it popped on the [[PlayStation 5]] as well so I don’t count that amongst the 11.
