@@ -1,35 +1,17 @@
 ---
 title: The stream of thought that waters the garden
 datetime: 2023-09-16T15:04:00
-updated: 2024-06-12T21:17:00
+updated: 2024-07-21T17:32:00
 ---
 Welcome to The Quantum Garden, a site where I share what interests me in the hope you'll find it interesting as well.
 
 Time spent in the garden is all about cultivating possibilities in life. Often the possibility is already there and waiting to be seen.
 
-> [!writing] Recent blog entries
-> - 8 July 2024 [[An intuitive approach to GTD]]
-> - 6 July 2024 - [[10,000 hours. Really|10,000 hours. Really?]]
-> - 12 June 2024 -- [[Now, 12 June 2024]]
-> - 6 June 2024 -- [[Writing unexpectedly shifted my mood]]
-> - 31 May 2024 -- [[New toy, new learnings]]
-> - [more...](/blog/)
-> 
-> [Subscribe via RSS](https://quantumgardener.info/feed)
-
+Here I am opening sharing my learning. There is a mixture of well thought out concepts, half-baked concepts and even nebulous thoughts. Like any natural garden, [[A digital garden's content is always growing]]. You can learn more by reading [[Designing The Quantum Garden]].
 ## Getting around the garden
-Where do you want to head first? There are many paths before you, and you are welcome to create your own[^1]. 
+Any good garden needs a map and within this garden, content is heavily connected using [[Map of content|Maps of content]]. The best overview comes from the [[Universal Map of Concepts]] which provides the jumping in point for most of the notes and other more details maps (think of them as inserts on the main map).
 
-Standing here at the main gate you can see several intriguing [[Landscapes|landscapes]] spread out in front of you. 
+[[Backlinks are important]] and every page will list the others that link to it. Something similar is presented in the **Graph view**.
 
-> [!LANDSCAPE] Visit a landscape or learn a little more [[About|about me]]. Your choices of landscape are:
-> - [[expand-my-way-of-being|Expand My Way of Being]] 
-> - [[hobby-together|Hobby Together]] 
-> - [[productive-laziness|Productive Laziness]] 
-> - [[the-garden-shed|The Garden Shed]] 
-> - [[quantum-os|Quantum OS]]
- 
-> [!TIP] A page's landscapes will show below the page heading.
-
-[^1]: Check out [[Designing The Quantum Garden]] for the design philosophy behind the site.
+There is a traditional search accessible via the **Search bar** or via `CTRL-K` on the keyboard.
 

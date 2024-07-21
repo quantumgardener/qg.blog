@@ -3,7 +3,7 @@ JD-ID: "[[01.01 Guiding Principles]]"
 landscapes:
   - "[[the-garden-shed]]"
 date: 2023-09-17T20:47:00
-datetime: 2023-09-29
+datetime: 2024-07-21T17:36:00
 ---
 ## Background
 I have referred to my personal knowledge management system as a [[Digital garden]] for several years now and it makes sense this online presence reflects that. Originally I used the term to mean tending the noise of digital records, but have now moved towards a place for the growing of ideas.
@@ -58,8 +58,7 @@ Flowing from the idea that [[Backlinks are important]] the site is highly interc
 
 Individual notes with structure will show a ToC.
 
-[[Map of content]] are used extensively and are marked with the [MOC](/tags/moc) topic. Some topic pages are themselves maps of content.
-
+[[Map of content|Maps of content]] are used extensively and are saved in under `/maps` and tagged with `#moc.
 ### Note metadata
 Each note has a growth status that indicates how "finished" it is. The growth values are [[Seedling]], [[Budding]] and [[Evergreen]]. As a note matures, the growth marker will be changed.
 

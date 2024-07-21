@@ -15,4 +15,4 @@ Existing blog pages will either be:
 - Moved to notes, or
 - Deleted if there is no note to be found. 
 
-I do know that before [[Workflow for Importing my Old Blog Entries|uploading any further historical blog posts]], I should prepare the ground a little better and save myself some work.
+I do know that before [[Workflow for Importing my old blog entries|uploading any further historical blog posts]], I should prepare the ground a little better and save myself some work.

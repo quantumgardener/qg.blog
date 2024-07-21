@@ -18,9 +18,9 @@ The **IMatch to Socials** system automates the addition, update and deletion of 
 > ![[imatch-to-socials-pixelfed-example.webp]]
 > [link](https://pixelfed.au/i/web/post/679160491474985806)
 
-### Platform actions
+## Platform actions
 
-#### flickr
+### flickr
 - Add
 	- Upload image
 	- Set title and description
@@ -40,7 +40,7 @@ The **IMatch to Socials** system automates the addition, update and deletion of 
 	- Missing title or description
 	- Photo size > 200MB
 
-#### pixelfed
+### pixelfed
 - Add
 	- Upload image
 	- Set title, description and image alt-text

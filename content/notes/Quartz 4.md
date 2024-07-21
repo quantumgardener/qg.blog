@@ -66,8 +66,6 @@ Save me some work for any new social links in the footer. Solving for this chang
 Some small configuration options. Note that dates are no longer being shown as part of [[Designing The Quantum Garden]].
 - `\quartz\components\Date.tsx`
 
-
-
 ### Display .webp images
 Include images for the new compressed web image format.
 - `\quartz\plugins\transformers\ofm.ts`
@@ -86,7 +84,7 @@ If you are on a tag page, the list of notes with that tag no longer display the 
 - `\quartz\components\PageLiist.tsx`
 
 ### Landscape Index pages
-Add pages to index all notes within one or more [[Landscapes]].
+Add pages to index all notes within one or more landscapes.
 - `\quartz\quartz.config.ts`
 - `\quartz\components\index.ts`
 - `\quartz\components\ContentMeta.tsx`

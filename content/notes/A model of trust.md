@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: 
 date: 2023-07-02T00:00:00
 landscapes:
   - "[[expand-my-way-of-being]]"

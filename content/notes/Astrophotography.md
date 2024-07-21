@@ -9,7 +9,7 @@ date: 2024-03-11
 
 ## Instructional guides
 - [Astrophotography 101: A Lesson Series on Photographing the Milky Way – Lonely Speck](https://www.lonelyspeck.com/astrophotography-101/) - large MOC with multiple articles to work through on all topics
-- 
+- [[Astroforum (2023) -- This is why you have BLURRY Moon pictures!]]
 
 # Planning
 ## Light Pollution
