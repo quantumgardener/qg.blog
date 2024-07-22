@@ -1,6 +1,5 @@
 ---
-tags:
-  - moc
+tags: []
 JD-ID: "[[01.00 Overview of Quantum OS]]"
 landscapes:
   - "[[quantum-os]]"

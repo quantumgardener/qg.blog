@@ -1,7 +1,6 @@
 ---
-aliases: []
-tags:
-  - moc
+aliases: 
+tags: []
 datetime: 2024-07-21T17:40:02
 updated: 
 title:
