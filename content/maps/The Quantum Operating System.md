@@ -5,7 +5,7 @@ landscapes:
   - "[[quantum-os]]"
 date: 2024-03-10
 ---
-'**Quantum OS** is my operating system which in no way suggests I am a computer. Rather, it is a set of notes that describe the rules and standards I have determined are best to manage my digital information as I see fit. 
+**Quantum OS** is my operating system which in no way suggests I am a computer. Rather, it is a set of notes that describe the rules and standards I have determined are best to manage my digital information as I see fit. 
 
 > [!INFO] CORE CONCEPT
 > [[Organising Digital Knowledge Across Multiple Systems]] describes in detail where I store documents and how I organise them..
