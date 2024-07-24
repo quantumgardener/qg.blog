@@ -1,6 +1,6 @@
 ---
 tags: 
-date: 2023-07-02T00:00:00
+datetime: 2023-07-02T00:00:00
 landscapes:
   - "[[expand-my-way-of-being]]"
 ---
@@ -13,7 +13,7 @@ Trust is reducible into four interwoven components.
 - **Sincerity** - the belief that someone is being genuine in their intentions when they say they will take action that cares for something important to us (or refrains from taking action that will damage us). Of the four components, this is the easiest to damage when we find out there was incongruity between what was said and the other person's internal dialogue.
 - **Reliability** - an assessment that someone will take action *when* they said they would, and to the *standard* they said they would.
 - **Competence** - our judgement the person is also capable of performing the task they have said they would. 
-- **Involvement** - this component answers the question "Why are they helping me?". Are they doing it out of a genuine care for me, or is it purely for themselves. There will always be some component of personal involvement on the side of the other person, as they will also be involved in their own [[Concernful Activity]] (e.g., someone helping you out of a sense of community involvement is also doing it because that is important to them.) 
+- **Involvement** - this component answers the question "Why are they helping me?". Are they doing it out of a genuine care for me, or is it purely for themselves. There will always be some component of personal involvement on the side of the other person, as they will also be involved in their own [[Concernful activity]] (e.g., someone helping you out of a sense of community involvement is also doing it because that is important to them.) 
 
 My daughter could sincerely offer to perform brain emergency brain surgery on me, immediately, because it's the only way to save my life. I can't trust her to do this because she is, as far as I know, not a brain surgeon. She is not competent. In the moment, I may need to take that risk.
 

@@ -25,7 +25,7 @@ I began blogging in the early 2000's using [Radioland](http://radio.userland.com
 
 ## What I've Written About Blogging
 ### The Practice
-- [[Writing is a Concernful Activity]]
+- [[Writing is a concernful activity]]
 - [[Types of bloggers]]
 - [[I am an observational blogger]]
 - [[Comparing Digital Gardens to Blogging]]

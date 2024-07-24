@@ -1,8 +1,8 @@
 ---
 aliases: 
-tags: []
+tags: 
 datetime: 2024-07-21T17:40:02
-updated: 
+updated: 2024-07-24T19:14:00
 title:
 ---
 [[The Ontology of the Human Observer]]
@@ -14,9 +14,10 @@ title:
 - [[Ontological learning]]
 - [[Ontological shift]]
 - [[Legitimate other]]
+- [[Concernful activity]]
 ## Ontological domains of learning
 
-[[The three ontological domains]]
+- [[The three ontological domains]]
 ### Domain of Language
 - [[Basic Linguistic Acts]]
 - [[Distinction]]

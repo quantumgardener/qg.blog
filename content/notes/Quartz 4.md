@@ -1,9 +1,8 @@
 ---
 tags:
   - software-use
-date: 2023-09-14
 datetime: 2023-09-01T22:01:00
-updated: 2024-05-25T15:38:00
+updated: 2024-07-24T13:13:00
 landscapes:
   - "[[the-garden-shed]]"
 description: Overview of how I use Quartz to display this digital garden. Includes a list of customisations I've made.
@@ -18,17 +17,22 @@ flowchart TD
     A["/"] --> B(fa:fa-note-sticky notes)
     A --> C(fa:fa-square-rss blog)
     A --> F(fa:fa-mountain-sun landscapes)
+    A --> M(fa:fa-map maps)
     A --> D(fa:fa-lock assets)
     A --> G(fa:fa-lock management)
 ```
 - **[notes](/notes/index)** is the folder where most of the garden's content is kept.
 - **[blog](/blog/index)** holds transitional notes, relevant only to a point in time.
 - [landscapes](/landscapes/index) is the index of all landscapes.
+- [maps](/maps/index) is the index of all [[Map of content|maps of content]]
 - **assets** holds supporting images and attachments and is not publicly accessible.
 - **[[Quartz/management/index|Management]]** holds notes I use to support the site and requires [[Obsidian]] as queries are used. It's convenient to have them all together with the other notes.
 
 ## Customisations for *The Quantum Garden*
-The modifications I've made from [the original codebase](https://github.com/jackyzha0/quartz) are listed below with the file(s) where the change has been made. You're more than welcome to view them in-situ at the [site's Github repository](https://github.com/quantumgardener/qg.blog). The majority are to support [[Designing The Quantum Garden]] and others are purely informational/cosmetic.
+The modifications I've made from [the original quartz codebase](https://github.com/jackyzha0/quartz) are listed below with the file(s) where the change has been made. You're more than welcome to view them in-situ at the [site's Github repository](https://github.com/quantumgardener/qg.blog). The majority are to support [[Designing The Quantum Garden]] and others are purely informational/cosmetic.
+
+> [!note]
+> The number of deviations from the source code has grown too much for me to keep track of here. There are always little tweaks
 
 ### Generate RSS for only certain pages
 By default [[Quartz 4]] considers every page for RSS inclusion in the [Blog](/blog/index). That doesn't suit the way I write and use content. Some is reference, other is commentary and there is too much reference material to blog it. I've modified the RSS generation to only include files in the `/blog` folder.
@@ -58,7 +62,7 @@ The folder structure behind the site doesn't add as much value as good writing a
 - `\quartz.layout.ts`
 
 ### Automatically Show Social Icons for Social Links in Footer
-Save me some work for any new social links in the footer. Solving for this change improved my [[Javascript]] knowledge.
+Save me some work for any new social links in the footer. Solving for this change improved my Javascript and Typescript knowledge.
 - `\quartz\components\Footer.tsx`
 - `\quartz.layout.ts`
 
