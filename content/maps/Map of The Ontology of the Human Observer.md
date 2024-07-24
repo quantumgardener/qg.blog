@@ -2,7 +2,7 @@
 aliases: 
 tags: 
 datetime: 2024-07-21T17:40:02
-updated: 2024-07-24T19:14:00
+updated: 2024-07-24T20:56:00
 title:
 ---
 [[The Ontology of the Human Observer]]
@@ -18,6 +18,7 @@ title:
 ## Ontological domains of learning
 
 - [[The three ontological domains]]
+- [[The Linguistic Domain]]
 ### Domain of Language
 - [[Basic Linguistic Acts]]
 - [[Distinction]]
