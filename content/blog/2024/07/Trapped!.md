@@ -37,6 +37,6 @@ Here's the list again. I've highlighted the items that make a real difference.
 
 > [!example] Content changes
 > - Rewrote my start page. Check out [[Universal Map of Concepts|Universal Map of Concepts]] for a good idea of where it's going.  
-> - ==Added a lot of smaller notes==
+> - >>>**Added a lot of smaller notes**<<<
 
 Yep, that's the sum total of advancement for a week's work.
