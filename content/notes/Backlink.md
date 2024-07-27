@@ -1,6 +1,7 @@
 ---
 aliases:
   - backlinks
+  - Backlinks
 tags: 
 datetime: 2024-05-31T10:24:15
 updated: 2024-07-23T19:10:00

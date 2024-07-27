@@ -2,7 +2,7 @@
 tags:
   - moc
 datetime: 2023-01-25T20:07:00
-updated: 2024-07-19T10:29:00
+updated: 2024-07-28T09:42:00
 landscapes:
   - "[[the-garden-shed]]"
 ---
@@ -33,6 +33,7 @@ I began blogging in the early 2000's using [Radioland](http://radio.userland.com
 - [[RSS Remains an Important Technology]]
 - [[My Decision to Stop Blogging]]
 - [[Bloggers should support other bloggers]]
+- [[Blogs are public journal entries]]
 
 ### Tools
 - [[My Document Toolkit]] 

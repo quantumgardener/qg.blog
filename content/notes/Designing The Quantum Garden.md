@@ -2,14 +2,13 @@
 JD-ID: "[[01.01 Guiding Principles]]"
 landscapes:
   - "[[the-garden-shed]]"
-date: 2023-09-17T20:47:00
-datetime: 2024-07-21T17:36:00
+datetime: 2023-09-17T20:47:00
+updated: 2024-07-28T09:32:00
 ---
 ## Background
 I have referred to my personal knowledge management system as a [[Digital garden]] for several years now and it makes sense this online presence reflects that. Originally I used the term to mean tending the noise of digital records, but have now moved towards a place for the growing of ideas.
 
 My evolution is not uncommon as explained in this Maggie Appleton article, [A Brief History & Ethos of the Digital Garden](https://maggieappleton.com/garden-history). I was feeling at an impasse with the future structure of this site so went looking for inspiration.
-
 ### The situation as it stands today
 I have been a user of [[Obsidian]] for the past couple of years[^3] and prior to a year's flirtation with [[Roam Research]], had been a heavy user of [[TheBrain]][^thebrain].
 
@@ -33,38 +32,31 @@ Letting go of "published" and all that comes with it frees me to write what I'm 
 In contrast, this note is being written as I think and I fully expect it to change as I firm up the design of *[[The Quantum Garden]]*.
 
 I feel liberated in not having to think about time anymore.
-
 ### But it can't be that easy
 It's not. I have to rethink how existing content is presented and work my way through the necessary changes.
 
 The joy and wonder are in now understanding, that's perfectly ok. I don't have to get the garden website perfect the first time. It never will be and like a garden the visual aspect will change over time. Both plants (notes) and structure (landscaping) are all up for grabs to maximise the benefit of the knowledge shared.
-
 #### Blogging and RSS feeds
 The move from blogging to digital gardening means I have made [[My Decision to Stop Blogging]]. My mind has been rearranging content and I'll begin doing so for real once I finalise where everything will land. It's not 100% simple as the writing style of a blog post is different from that which is moving towards an [[Evergreen]] note.
-
 #### Changing Obsidian's structure
 My Obsidian Vault's internal structure does not need to change too much. Anything that is published here sits within a "Quartz" folder off the root. This is the only folder that [[Quartz 4]] considers when publishing and eliminates the risk of my suddenly publishing 30 years of private journal entries.
 
 Last night I was thinking about all the books, movies, video games I've been tracking. I had begun to [[Replacing Goodreads With Obsidian]] and am now not so sure. It is taking a lot of time to transfer the backlog which is time better spent on developing my knowledge (in gardening terms I'm constantly weeding rather than growing).
 
 I asked myself why am I even recording all this. It's because I don't feel known. Someone who discovers my journals after I die could look at the list of my media consumption and somehow understand me. [[How I Apply Ratings]] would give them perfect insight into who I was. But, of course, it wouldn't. I'm wondering if I'd be better dumping all that overhead and simply listing my favourites and **WHY**[^2].
-
 ## The design as it stands
 ### Nothing is sacred
 This is a garden. Ideas flourish and others will die. I make no promises that a note, topic or anything else will be present tomorrow if it's there today. [[Letters with Jason]] was originally six blog posts, and [[RSS Remains an Important Technology]] was four posts spanning 19 years. If combining content makes a better story I'll not hesitate. Notes that are clearly no longer relevant will be updated or deleted. 
-
 ### No site menu
 Flowing from the idea that [[Backlinks are important]] the site is highly interconnected so the "standard" website menu is not required. Landing anywhere will allow easy navigation from one related note to another. And there is always search.
 
 Individual notes with structure will show a ToC.
 
-[[Map of content|Maps of content]] are used extensively and are saved in under `/maps` and tagged with `#moc.
+[[Map of content|Maps of content]] are used extensively and are saved in under `/maps`.
 ### Note metadata
-Each note has a growth status that indicates how "finished" it is. The growth values are [[Seedling]], [[Budding]] and [[Evergreen]]. As a note matures, the growth marker will be changed.
+Notes have metadata added with additional information that is useful to have beyond the content of the note itself. Current practices are in the [[Property Guidelines]].
 
-One or more topic flags will be added to each note. Even topic pages can have their own topics. This is all to aid navigation.
-
-There are no dates. Dates are used internally by me in [[Obsidian]] and are not displayed with notes. Dates tend to suggest blogging more than digital gardening. There is a risk that recent notes are seen as more important than their older siblings.
+I try to follow the principle that [[Linking is more important than categories]].
 
 
 [^1]: [A Brief History & Ethos of the Digital Garden](https://omnivore.app/quantumgardener/a-brief-history-ethos-of-the-digital-garden-18a977b1a72), retrieved 17 September 2023.
