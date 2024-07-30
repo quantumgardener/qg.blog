@@ -2,4 +2,4 @@
 title: PlayStation VR2 Games
 date: 2024-03-11
 ---
-The list of games I've played that were written for the [[PlayStation 5]] console and [[Playstation VR2]] headset.
+The list of games I've played that were written for the [[PlayStation 5]] console and [[PlayStation VR2]] headset.

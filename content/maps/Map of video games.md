@@ -16,7 +16,7 @@ All things video games. The [[Johnny.Decimal]] category is [[26 Video Games]].
 |                              | [[PlayStation 4]]                                                          |
 |                              | [[PlayStation 3]]                                                          |
 |                              | [[PlayStation 2]]                                                          |
-|                              | [[Playstation VR2]]                                                        |
+|                              | [[PlayStation VR2]]                                                        |
 |                              | [[Nintendo Wii]]                                                           |
 |                              | [[Commodore 64]]                                                           |
 |                              | [[Commodore Amiga]]                                                        |
@@ -35,5 +35,5 @@ All things video games. The [[Johnny.Decimal]] category is [[26 Video Games]].
 | [[PlayStation 4]]           | [[PlayStation 4 Game List]]           |
 | [[PlayStation 3]]           | [[PlayStation 3 Game List]]           |
 | [[PlayStation 2]]           | [[PlayStation 2 Game List]]           |
-| [[Playstation VR2]]         | [[PlayStation VR2 Games List]]        |
+| [[PlayStation VR2]]         | [[PlayStation VR2 Games List]]        |
 

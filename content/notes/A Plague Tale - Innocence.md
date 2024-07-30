@@ -12,6 +12,7 @@ JD-ID: "[[26.001 A Plague Tale (Series)]]"
 landscapes:
   - "[[hobby-together]]"
 date: 2023-09-28
+playthroughs: 1
 ---
 ![[vg_A Plague Tale - Innocence.webp|200]]
 

@@ -11,6 +11,6 @@ Today I spent some time playing the original *[[Resident Evil]]*. Games have evo
 
 I played _[[Resident Evil 4]]_ on the [[Nintendo Wii]] console in 2007 as a third-person shooter. It was the first survival horror game I ever played. Quite a different experience and more what I was expecting of the original having known nothing about it before.
 
-I have _[[Resident Evil 7]]_ downloaded and ready to play and soon I hope to be able to play _[[Resident Evil Village]]_ on [[Playstation VR2]]. That will be quite a different experience again.
+I have _[[Resident Evil 7]]_ downloaded and ready to play and soon I hope to be able to play _[[Resident Evil Village]]_ on [[PlayStation VR2]]. That will be quite a different experience again.
 
 Franchise books don’t change format. Franchise movies may improve the graphics but tend to be similar in structure over time. Only gaming can give you such a difference in experience over the generations.
