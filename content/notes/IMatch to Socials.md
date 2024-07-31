@@ -2,7 +2,8 @@
 tags: 
 landscapes:
   - "[[hobby-together]]"
-date: 2024-05-04
+datetime: 2024-05-04
+updated: 2024-07-31T17:25:00
 ---
 The **IMatch to Socials** system automates the addition, update and deletion of images between [[IMatch]] and [flickr](https://flickr.com) or [pixelfed](https://pixelfed.org). I created it to reduce the time taken updating and managing photos across all three platforms.
 ## Features
@@ -146,10 +147,8 @@ The code can be run from the command line or from with IMatch using an IMatch ap
 4. Start IMatch. You **should** see the application registered.
 5. Point the `imatch_to_socials_python_script_path` application variable to the location where `share_images.py` is located.
 6. 🤞
-
 ### Versions and Metadata
 My location hierarchy is quite deep and runs to personal information (see [[Mediabank]]). I don't want flickr to be creating keywords for my home address, but if the information is in the hierarchical keywords field in the uploaded file, it will. I attempted to get around this by deleting all keywords after an upload and though there were no errors, it didn't seem to work. Instead, I've set IMatch to not transfer keywords to versions of images. For some this will not be idea, but for me it works. The master image has all the keywording and versions have none. The script walks up from the version to the master, grabs the keywords from there, and then only sets the based on the in-code filters I have set up.
-
 ## Understanding the Code
 ### Main Code Loop (share_images.py)
 What does this actually do? The main script `share_images.py` is a [[Python]] script that controls the main processing loop. There is a `platform_controller` for each platform (flickr, pixelfed). These gather `images` from [[IMatch]] and connect to the respective platforms for the API calls. In the pseudocode below an "image" is all the metadata associated with an image in IMatch.
@@ -183,11 +182,11 @@ Most of the work is performed by 3 classes, with inherited versions for flickr a
 - `wants_update` is this image in the `_update` category
 
 > [!caution] An image in both `_delete` and `_update` is flagged as an error and neither action is taken.
-##### `FlickrImage` (flickr.py)
+#### `FlickrImage` (flickr.py)
 > [!NOTE] Extends `IMatchImage`
 - `is_valid` flags an error if the image is > 200MB in size.
 - `prepare_for_upload` extends parent class function. Formats text for flickr. Populates the list of albums and groups the image should be in.
-##### `PixelfedImage` (pixelfed.py)
+#### `PixelfedImage` (pixelfed.py)
 > [!NOTE] Extends `IMatchImage`
 - `is_valid` flags an error if the image is > 15MB in size or if the 'headline' field is empty since this is used to populate the alt-text once uploaded.
 - `prepare_for_upload` extends parent class function. Formats text for pixelfed. 
@@ -212,14 +211,14 @@ Most of the work is performed by 3 classes, with inherited versions for flickr a
 > There is strong relationship between each pairing functions. Those beginning with add, delete, and update iterate across the images and make a call to the commit function for each. The looping is common, but the calls to the final platform vary a lot. 
 > 
 > The iteration function also test for `config.TESTING`. If this is true, the commit function is bypassed.
-##### `FlickrController` (flickr.py)
+#### `FlickrController` (flickr.py)
 > [!NOTE] Extends `PlatformController`
 - `__init__` collects privacy variables from IMatch (see [[#Create IMatch Application Variables]] below) and collects the album and group ids from the description field of the respective IMatch categories.
 - `connect` connects to flickr. First run will authenticate via browser.
 - `commit_add` adds an image to flickr in accordance with the privacy variables set. Adds the image to all albums and groups. Adds keywords as tags. Explicitly sets the date and time from the master metadata. Add attributes for the image so we know it's been added in the past.
 - `commit_delete` deletes the image from flickr. The deletion proceeds without confirmation.
 - `commit_update` replaces the image, updates the description and keywords and syncs album and group membership.
-##### `PixelfedController` (pixelfed.py)
+#### `PixelfedController` (pixelfed.py)
 > [!NOTE] Extends `PlatformController`
 - `connect` connects to pixelfed.
 - `commit_add` adds an image to pixelfed

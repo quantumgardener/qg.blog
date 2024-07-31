@@ -34,6 +34,6 @@ All things video games. The [[Johnny.Decimal]] category is [[26 Video Games]].
 | [[PlayStation 5]]           | [[PlayStation 5 Game List]]           |
 | [[PlayStation 4]]           | [[PlayStation 4 Game List]]           |
 | [[PlayStation 3]]           | [[PlayStation 3 Game List]]           |
-| [[PlayStation 2]]           | [[PlayStation 2 Game List]]           |
+| [[PlayStation 2]]           | [[List of PlayStation 2 games]]           |
 | [[PlayStation VR2]]         | [[PlayStation VR2 Games List]]        |
 
