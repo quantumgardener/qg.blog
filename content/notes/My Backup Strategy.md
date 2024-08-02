@@ -1,6 +1,6 @@
 ---
 cssclasses:
-  - wide-page
+  - max
 tags:
   - backup-strategy
 landscapes:

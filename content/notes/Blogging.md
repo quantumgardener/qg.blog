@@ -1,6 +1,6 @@
 ---
 tags:
-  - moc
+  - map
 datetime: 2023-01-25T20:07:00
 updated: 2024-07-28T09:42:00
 landscapes:

@@ -1,13 +1,11 @@
 ---
 tags:
   - video-game
-  - platform/playstation-5
-  - rating/4-star
   - status/completed
-JD-ID: "[[26.004 Astro's Playroom]]"
-landscapes:
-  - "[[hobby-together]]"
-datetime: 2024-02-27T00:00:00 
+datetime: 2024-02-27T00:00:00
+rating: "[[4-star|⭐️⭐️⭐️⭐️]]"
+platform:
+  - "[[PlayStation 5]]"
 ---
 ![[vg_Astro's Playroom.webp|200]]
 

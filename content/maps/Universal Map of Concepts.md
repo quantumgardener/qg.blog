@@ -44,7 +44,7 @@ Life is not black and white. A significant amount of time is spent dealing with 
 
 The focus of my hobbies at any point in time varies. At the moment I have keen interest in [[Photography]] with some [[Astrophotography]] attached.
 
-There is plenty to see in my [[Map of video games]]. Sometimes I also paint miniatures like I did when [[Painting Nagash]].
+There is plenty to see in my [[Map of video gaming]]. Sometimes I also paint miniatures like I did when [[Painting Nagash]].
 
 When I can afford it, I might also play with [[LEGO]].
 ## The Garden Shed

@@ -1,16 +1,15 @@
 ---
 tags:
   - video-game
-  - platform/windows
-  - rating/4-star
   - status/ongoing
 sequence: 1
-JD-ID: "[[26.009 Cities Skylines (Series)]]"
-date: 2024-05-14
-landscapes:
-  - "[[hobby-together]]"
+datetime: 2024-05-14T12:00:00
+updated:
+rating: "[[3-star|⭐️⭐️⭐️]]"
+platform:
+  - "[[Microsoft Windows]]"
 ---
-![[vg_cities_skylines_ii.webp|200]]
+![[vg_cities_skylines_ii.webp|media-cover|200]]
 
 I've just begun playing the successor to [[Cities Skylines]] after building a PC that's capable of playing it. I had been waiting for the [[PlayStation 5]] version (still delayed) but won't bother.
 

@@ -4,17 +4,16 @@ aliases:
 tags:
   - video-game
   - status/completed
-  - rating/4-star
-  - platform/playstation-5
 title: "A Plague Tale: Innocence"
 sequence: 1
-JD-ID: "[[26.001 A Plague Tale (Series)]]"
-landscapes:
-  - "[[hobby-together]]"
-date: 2023-09-28
+datetime: 2023-09-28T12:00:00
+updated: 
 playthroughs: 1
+rating: "[[4-star|⭐️⭐️⭐️⭐️]]"
+platform:
+  - "[[PlayStation 5]]"
 ---
-![[vg_A Plague Tale - Innocence.webp|200]]
+![[vg_A Plague Tale - Innocence.webp|media-cover|200]]
 
 # Synopsis
 In *A Plague Tale: Innocence* you play Amicia, a teenage girl who goes on a journey to save her little brother Hugo from an unknown affliction and the power hungry Church. It's a supernatural story set against the background of 14th Century France.

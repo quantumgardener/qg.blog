@@ -4,6 +4,6 @@ landscapes:
   - "[[hobby-together]]"
 date: 2024-02-27
 tags:
-  - moc
+  - map
 ---
 I'm in the middle of this. More thoughts to come.

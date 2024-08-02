@@ -10,9 +10,9 @@ There are as many systems to apply ratings as there are things which can be rate
 
 > [!INFO] Anything can be rated.
  
-This [[Digital garden]] uses a 5-star scale applied as follows:
+This [[Digital garden]] uses a 5-star scale applied as follows: 
 
-[[5-star|⭐️⭐️⭐️⭐️⭐️]] — Life defining. Part of my identity.
+[[5-star|⭐️⭐️⭐️⭐️⭐️]] — Life defining. Part of my identity. [[4-star|⭐️⭐️⭐️⭐️]]
 
 [[4-star|⭐️⭐️⭐️⭐️]] — I am certain to recommend this enthusiastically to people I think would be interested. More than happy to watch it again. Very likely to buy the movie if I've seen it in the cinema.
 

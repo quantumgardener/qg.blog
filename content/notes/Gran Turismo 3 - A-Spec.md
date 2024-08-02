@@ -1,15 +1,15 @@
 ---
 tags:
   - video-game
-  - platform/playstation-2
   - status/completed
-  - rating/3-star
 sequence: 3
-JD-ID: "[[26.019 Gran Turismo (Series)]]"
 playthroughs: 1
 datetime: 2023-05-28T19:43:49
 updated: 
-title:
+title: 
+rating: "[[3-star|⭐️⭐️⭐️]]"
+platform:
+  - "[[PlayStation 2]]"
 ---
 ![[vg_Gran Turismo 3 - A-Spec.webp|200]]
 

@@ -1,6 +1,6 @@
 ---
 tags:
-  - moc
+  - map
   - list
 datetime: 2023-09-21T21:34:00
 description: These are all of my favourite things.

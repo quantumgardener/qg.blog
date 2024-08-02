@@ -1,20 +1,18 @@
 ---
 tags:
   - video-game
-  - rating/3-star
-  - platform/playstation-5
   - status/completed
-landscapes:
-  - "[[expand-my-way-of-being]]"
-  - "[[hobby-together]]"
-date: 2023-11-25
-JD-ID: "[[26.042 Trek to Yomi]]"
+datetime: 2023-11-25T00:00:00
+updated: 
+rating: "[[3-star|⭐️⭐️⭐️]]"
+platform:
+  - "[[PlayStation 5]]"
 ---
-![[vg_Trek_to_Yomi.webp]]
+![[vg_Trek_to_Yomi.webp|media-cover|200]]
 
-Artistic, black and white, side-scrolling, button-mashing, samurai fighter. Short at about 5 hours to play. That's enough.
+Artistic, black-and-white, side-scrolling, button-mashing, samurai fighter. Short at about 5 hours to play. That's enough.
 
-Here's a screeshot.
+Here's a screenshot. No doubt the black-and-white is a throw back to [[The Seven Samurai]].
 
 ![[trek-to-yomi-screenshot.webp]]
-
+*Sample of moving through this very atmospheric game.*

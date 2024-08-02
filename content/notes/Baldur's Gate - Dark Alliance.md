@@ -1,15 +1,15 @@
 ---
 tags:
   - video-game
-  - platform/playstation-2
   - status/completed
-  - rating/4-star
 sequence: 1
 playthroughs: 2
-JD-ID: "[[26.005 Baldur's Gate (Series)]]"
 datetime: 2023-05-27T17:26:15
 updated: 
-title:
+title: 
+rating: "[[4-star|⭐️⭐️⭐️⭐️]]"
+platform:
+  - "[[PlayStation 2]]"
 ---
 
 ![[vg_Baldur's Gate - Dark Alliance.webp|200]]

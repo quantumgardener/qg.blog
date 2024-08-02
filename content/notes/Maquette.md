@@ -1,19 +1,17 @@
 ---
 tags:
   - video-game
-  - platform/playstation-5
-  - rating/3-star
   - status/dropped
-JD-ID: "[[26.025 Maquette]]"
-landscapes:
-  - "[[hobby-together]]"
-date: 2024-02-27
+datetime: 2024-02-27T00:00:00
+rating: "[[3-star|⭐️⭐️⭐️]]"
+platform:
+  - "[[PlayStation 5]]"
 ---
 ![[vg_Maquette.webp|200]]
 
 **Maquette** is a recursive puzzle game was free as part of March 2021's PlayStation Plus game subscription.
 
-It was clear right from the start this game has somethng unique to offer - starting with a song and teasers about a relationship. At present the story is involving me in recollections about the initial stage of the relationship.
+It was clear right from the start this game has something unique to offer - starting with a song and teasers about a relationship. At present the story is involving me in recollections about the initial stage of the relationship.
 
 > The world you navigate has a smaller replica within it, and a larger one outside of it. And if you look deep into the horizon, you can see the edges of a bigger, completely identical world, conveying that this place repeats itself into infinity. It’s a difficult concept to explain, and much easier to understand in action. The concept makes for ingenious, though at times frustrating, level design and puzzles, with a love story that progresses through narration and text.[^1]
 
