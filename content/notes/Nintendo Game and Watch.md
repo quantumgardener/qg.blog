@@ -1,5 +1,6 @@
 ---
-aliases: 
+aliases:
+  - Nintendo Game & Watch
 tags: 
 datetime: 2024-08-02T14:25:36
 updated: 

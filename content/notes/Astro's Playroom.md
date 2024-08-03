@@ -1,6 +1,6 @@
 ---
 tags:
-  - video-game
+  - class/video-game
   - status/completed
 datetime: 2024-02-27T00:00:00
 rating: "[[4-star|⭐️⭐️⭐️⭐️]]"

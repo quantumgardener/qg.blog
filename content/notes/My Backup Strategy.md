@@ -4,8 +4,8 @@ cssclasses:
 tags:
   - backup-strategy
 landscapes:
-  - "[[the-garden-shed]]"
-  - "[[quantum-os]]"
+  - "[[The Garden Shed]]"
+  - "[[Quantum OS]]"
 date: 2023-12-03
 JD-ID: "[[12.01 Backups]]"
 ---

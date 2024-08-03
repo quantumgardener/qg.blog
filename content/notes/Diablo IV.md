@@ -1,7 +1,7 @@
 ---
 aliases: 
 tags:
-  - video-game
+  - class/video-game
   - status/dropped
 datetime: 2023-06-08T20:02:06
 updated: 2024-08-02T15:57:00

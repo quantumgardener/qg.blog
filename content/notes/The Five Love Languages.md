@@ -4,7 +4,7 @@ tags:
   - concernful-activity
 date: 2023-09-20T21:31:00
 landscapes:
-  - "[[expand-my-way-of-being]]"
+  - "[[Expand My Way of Being]]"
 ---
 The Five Love Languages is a model that says we have a preference for how we mark love as received and how we prefer to show our love to others. The languages are:
 

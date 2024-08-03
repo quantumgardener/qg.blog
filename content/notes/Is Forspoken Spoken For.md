@@ -7,8 +7,8 @@ tags:
   - review
 date: 2023-01-24
 landscapes:
-  - "[[expand-my-way-of-being]]"
-  - "[[hobby-together]]"
+  - "[[Expand My Way of Being]]"
+  - "[[Hobby Together]]"
 JD-ID: "[[26.043 Forspoken]]"
 ---
 ![[vg_Forspoken.webp]]

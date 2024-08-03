@@ -4,8 +4,8 @@ tags:
   - anxiety
   - gaming
 landscapes:
-  - "[[expand-my-way-of-being]]"
-  - "[[hobby-together]]"
+  - "[[Expand My Way of Being]]"
+  - "[[Hobby Together]]"
 ---
 FOMO generates extra dollars for the gaming industry, both PC/console gaming and board/tabletop games.
 

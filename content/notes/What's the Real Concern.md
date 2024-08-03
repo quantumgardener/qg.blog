@@ -5,7 +5,7 @@ tags:
   - concernful-activity
   - concernful-activity
 landscapes:
-  - "[[expand-my-way-of-being]]"
+  - "[[Expand My Way of Being]]"
 ---
 I once heard the suggestion that a gravestone is more reflective of the people that commission it than the person who has died.
 

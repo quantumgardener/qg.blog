@@ -1,6 +1,6 @@
 ---
 tags:
-  - video-game
+  - class/video-game
   - status/dropped
 datetime: 2023-03-13T19:52:42
 updated: 2024-08-02T16:24:00

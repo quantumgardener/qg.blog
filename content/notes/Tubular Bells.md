@@ -4,7 +4,7 @@ tags:
   - review
   - music
 landscapes:
-  - "[[hobby-together]]"
+  - "[[Hobby Together]]"
 ---
 ## Tubular Bells 2003
 ![[cd_Tubular Bells 2003_t.webp]]

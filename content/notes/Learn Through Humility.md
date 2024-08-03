@@ -5,7 +5,7 @@ tags:
   - humility
   - humanity
 landscapes:
-  - "[[expand-my-way-of-being]]"
+  - "[[Expand My Way of Being]]"
 ---
 ![[how-to-take-smart-notes-humility-quote.webp]]
 

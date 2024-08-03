@@ -2,7 +2,7 @@
 tags:
   - extending-obsidian
 landscapes:
-  - "[[productive-laziness]]"
+  - "[[Productive Laziness]]"
 date: 2023-11-09
 ---
 This article is about how I have implemented the [Getting Things Done Methodology (GTD)](https://gettingthingsdone.com/) within the [Obsidian](https://obsidian.md/) note taking application. It is not commentary on how to follow the GTD methodology, nor will it necessarily reflect the methodology in its pure form^[Those familiar with GTD no there is no such thing as a pure implementation.].

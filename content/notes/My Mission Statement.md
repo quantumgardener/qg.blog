@@ -1,10 +1,9 @@
 ---
 tags:
-  - frequently-quoted
   - declarations
 date: 2023-09-14
 landscapes:
-  - "[[expand-my-way-of-being]]"
+  - "[[Expand My Way of Being]]"
 ---
 The behaviour and decisions in my life are made in accordance with this mission statement; the essence of which is grounded in the principles of truth, beauty, goodness and unity.
 

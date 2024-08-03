@@ -4,7 +4,7 @@ tags:
   - podcasts
 date: 2023-03-13
 landscapes:
-  - "[[expand-my-way-of-being]]"
+  - "[[Expand My Way of Being]]"
 ---
 My daughter and her friend have started a podcast called "You Know What I Mean?”.
 

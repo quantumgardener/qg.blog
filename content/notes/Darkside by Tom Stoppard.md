@@ -4,7 +4,7 @@ tags:
   - music
 date: 2023-10-22
 landscapes:
-  - "[[hobby-together]]"
+  - "[[Hobby Together]]"
 ---
 ![[mu_darkside.webp|200]]
 

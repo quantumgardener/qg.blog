@@ -1,8 +1,5 @@
 ---
-tags:
-  - gear
-landscapes:
-  - "[[hobby-together]]"
+tags: 
 date: 2024-03-30
 ---
 **IMatch** is the software used to manage our family library of photos and videos called [[Mediabank]]. It has supported the family's [[Photography]] in all forms for many years.

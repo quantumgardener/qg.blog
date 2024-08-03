@@ -4,7 +4,7 @@ tags:
   - dungeons-and-dragons
 date: 2022-10-22
 landscapes:
-  - "[[hobby-together]]"
+  - "[[Hobby Together]]"
 ---
 At the edge of your consciousness you may be aware that over the past few years there has been a resurgence in board games, tabletop role-playing games such as Dungeons & Dragons, and tabletop wargaming like Warhammer.
 

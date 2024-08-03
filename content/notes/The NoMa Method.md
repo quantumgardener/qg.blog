@@ -4,7 +4,7 @@ tags:
   - LYT
 date: 2024-05-18
 landscapes:
-  - "[[productive-laziness]]"
+  - "[[Productive Laziness]]"
 ---
 The NoMa Method reminds me of the framework of questions used in a coaching conversation. 
 

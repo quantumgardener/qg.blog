@@ -1,6 +1,6 @@
 ---
 tags:
-  - video-game
+  - class/video-game
   - status/completed
 sequence: 3
 playthroughs: 1

@@ -1,7 +1,7 @@
 ---
 JD-ID: "[[01.01 Guiding Principles]]"
 landscapes:
-  - "[[the-garden-shed]]"
+  - "[[The Garden Shed]]"
 datetime: 2023-09-17T20:47:00
 updated: 2024-07-28T09:32:00
 ---
@@ -46,7 +46,7 @@ Last night I was thinking about all the books, movies, video games I've been tra
 I asked myself why am I even recording all this. It's because I don't feel known. Someone who discovers my journals after I die could look at the list of my media consumption and somehow understand me. [[How I Apply Ratings]] would give them perfect insight into who I was. But, of course, it wouldn't. I'm wondering if I'd be better dumping all that overhead and simply listing my favourites and **WHY**[^2].
 ## The design as it stands
 ### Nothing is sacred
-This is a garden. Ideas flourish and others will die. I make no promises that a note, topic or anything else will be present tomorrow if it's there today. [[Letters with Jason]] was originally six blog posts, and [[RSS Remains an Important Technology]] was four posts spanning 19 years. If combining content makes a better story I'll not hesitate. Notes that are clearly no longer relevant will be updated or deleted. 
+This is a garden. Ideas flourish and others will die. I make no promises that a note, topic or anything else will be present tomorrow if it's there today. [[Letters with Jason]] was originally six blog posts, and [[RSS remains an important technology]] was four posts spanning 19 years. If combining content makes a better story I'll not hesitate. Notes that are clearly no longer relevant will be updated or deleted. 
 ### No site menu
 Flowing from the idea that [[Backlinks are important]] the site is highly interconnected so the "standard" website menu is not required. Landing anywhere will allow easy navigation from one related note to another. And there is always search.
 

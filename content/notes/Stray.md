@@ -1,6 +1,6 @@
 ---
 tags:
-  - video-game
+  - class/video-game
   - review
   - status/completed
 datetime: 2023-02-03T12:00:00

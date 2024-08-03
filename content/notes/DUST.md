@@ -4,7 +4,7 @@ tags:
   - tv
   - science-fiction
 landscapes:
-  - "[[hobby-together]]"
+  - "[[Hobby Together]]"
 description: DUST is a wonderful and wide-ranging collection of short science-fiction stories on YouTube.
 ---
 *[DUST](https://www.youtube.com/@watchdust)* is a wonderful and wide-ranging collection of short science-fiction stories on YouTube.

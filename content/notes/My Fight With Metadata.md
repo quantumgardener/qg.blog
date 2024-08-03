@@ -3,7 +3,7 @@ tags:
   - digital-asset-management
 date: 2023-04-25
 landscapes:
-  - "[[productive-laziness]]"
+  - "[[Productive Laziness]]"
 ---
 For the last 2 weeks I’ve been working with metadata and the information that I want to track in [[Obsidian]]. As my [[Digital garden]], keeping information about the books I read, the movies I watch and the games I play, creates a full picture of my life (hey, maybe one day someone will be interested). 
 

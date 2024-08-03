@@ -1,8 +1,8 @@
 ---
 tags:
-  - map
+  - class/map
 landscapes:
-  - "[[hobby-together]]"
+  - "[[Hobby Together]]"
 date: 2024-03-11
 ---
 > [!TIP] For sure this page is a bit of a mess.
@@ -22,7 +22,7 @@ date: 2024-03-11
 
 [Input-referred Read Noise versus ISO Setting](https://www.photonstophotos.net/Charts/RN_e.htm)
 - find a point where it begins to level off
-- [[My Photography Gear|Canon 400D]] - needs to be ISO 1600 which is max ISO
+- [[My current photography gear|Canon 400D]] - needs to be ISO 1600 which is max ISO
 - [[Canon R50 Mirrorless]] - ISO 800 but ISO 800 would be fine
 
 ## Suitable telescopes

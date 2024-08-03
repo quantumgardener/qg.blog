@@ -12,11 +12,13 @@ For how I came up with "Quantum Gardener" read [[Who is the Quantum Gardener|Who
 
 Currently working as an IT Strategy Consultant with an interest in how we use technology to hold meaningful and productive conversation.
 
-My downtime is frequently spent on the Playstation with action adventure games such as [[Horizon Forbidden West]], [[Forspoken]], [[Uncharted]] and [[The Last of Us]]. I also paint Warhammer miniatures when I can be bothered setting up a place to paint. Same with my binoculars for astronomy. I would play D&D if I could commit the time.
+My downtime is frequently spent on the [[PlayStation 5]] with action adventure games such as [[Horizon Forbidden West]], [[Forspoken]], [[Uncharted]] and [[The Last of Us]]. I also paint Warhammer miniatures when I can be bothered setting up a place to paint. Same with my binoculars for astronomy. I would play D&D if I could commit the time.
 
 My reading is mostly science fiction/fantasy.
 
 I enjoy non-processional car racing which means a thumbs up for GT3, Indycar and of course the Bathurst 1000. My go-to racing sim games are [[Assetto Corsa Competizione]] and [[Gran Turismo 7]] with a wheel.
+
+There are some topics I repeatedly come back to in conversations with others and these are [[Frequently quoted ideas]].
 
 I don't much enjoy long walks on the beach.
 

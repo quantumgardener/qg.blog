@@ -4,7 +4,7 @@ tags:
   - basic-linguistic-acts
   - requests
 landscapes:
-  - "[[expand-my-way-of-being]]"
+  - "[[Expand My Way of Being]]"
 ---
 
 I've become conscious that "just" has crept into my email vocabulary.

@@ -4,7 +4,7 @@ tags:
   - rating/4-star
   - status/completed
 landscapes:
-  - "[[hobby-together]]"
+  - "[[Hobby Together]]"
 date: 2023-11-25
 ---
 ![[tv_Band of Brothers.webp]]

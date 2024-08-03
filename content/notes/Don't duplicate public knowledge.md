@@ -4,7 +4,7 @@ tags:
   - metadata-strategy
 date: 2023-10-14
 landscapes:
-  - "[[quantum-os]]"
+  - "[[Quantum OS]]"
 ---
 Within a [[Digital garden]] it's very easy to get caught in the trap of duplicating public knowledge that can be found elsewhere, or is otherwise known.
 

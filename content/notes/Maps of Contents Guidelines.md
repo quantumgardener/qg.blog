@@ -1,7 +1,7 @@
 ---
 JD-ID: "[[01.02 Managing Knowledge & Content]]"
 landscapes:
-  - "[[quantum-os]]"
+  - "[[Quantum OS]]"
 date: 2024-03-10
 ---
 The [Library of Congress Classification](https://en.wikipedia.org/wiki/Library_of_Congress_Classification) is used as a guide for the [[Map of content]] naming strategy used here.

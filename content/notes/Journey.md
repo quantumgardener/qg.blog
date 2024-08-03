@@ -2,7 +2,7 @@
 aliases:
   - Journeys
 tags:
-  - video-game
+  - class/video-game
   - status/completed
 datetime: 2023-06-13T19:11:13
 updated: 

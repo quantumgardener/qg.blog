@@ -2,7 +2,7 @@
 title: Who is the Quantum Gardener?
 date: 2003-07-07
 landscapes:
-  - "[[expand-my-way-of-being]]"
+  - "[[Expand My Way of Being]]"
 ---
 I set my self-consciousness a task as I went to bed. To come up with a title for myself by the morning. I awoke as the Quantum Gardener.
 

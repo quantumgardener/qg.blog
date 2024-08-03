@@ -1,10 +1,10 @@
 ---
 tags:
   - review
-  - book
+  - class/book
 date: 2022-12-18
 landscapes:
-  - "[[hobby-together]]"
+  - "[[Hobby Together]]"
 ---
 I've been a fan of [[Stephen King]] since I first read _The Bachman Books_ and *[[IT]]* in 1988.
 

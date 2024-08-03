@@ -2,7 +2,7 @@
 aliases:
   - "Elite: Dangerous"
 tags:
-  - video-game
+  - class/video-game
   - status/completed
 sequence: 3
 datetime: 2023-01-25T20:07:24

@@ -1,7 +1,7 @@
 ---
 date: 2024-05-17
 landscapes:
-  - "[[expand-my-way-of-being]]"
+  - "[[Expand My Way of Being]]"
 ---
 This seems intuitive but what do we mean by it?
 ## What is Space?

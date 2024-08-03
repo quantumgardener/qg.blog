@@ -1,9 +1,10 @@
 ---
-aliases: 
+aliases:
+  - ⭐️⭐️⭐️⭐️ games
 tags:
-  - map
+  - class/map
   - serialised-dataview
-  - list
+  - class/list
 datetime: 2024-08-02T13:54:00
 updated: 
 title: ⭐️⭐️⭐️⭐️ games
@@ -11,18 +12,19 @@ description: List of 4-star computer games
 ---
 All games on this list are rated [[4-star|⭐️⭐️⭐️⭐️]].
 
-<!-- QueryToSerialize: table without id file.link as Title, platform as Platform from #video-game where contains(rating, [[4-star]]) sort file.name -->
-<!-- SerializedQuery: table without id file.link as Title, platform as Platform from #video-game where contains(rating, [[4-star]]) sort file.name -->
+<!-- QueryToSerialize: table without id file.link as Title, platform as Platform from #class/video-game where contains(rating, [[4-star]]) sort file.name -->
+<!-- SerializedQuery: table without id file.link as Title, platform as Platform from #class/video-game where contains(rating, [[4-star]]) sort file.name -->
 
 | Title                                                                                | Platform                                                                                                                                                                                  |
 | ------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[Quartz/notes/A Plague Tale - Innocence.md\|A Plague Tale - Innocence]]             | <ul><li>[[Quartz/notes/PlayStation 5.md\|PlayStation 5]]</li></ul>                                                                                                                       |
 | [[Quartz/notes/Assassin's Creed Valhalla.md\|Assassin's Creed Valhalla]]             | <ul><li>[[Quartz/notes/PlayStation 5.md\|PlayStation 5]]</li></ul>                                                                                                                       |
-| [[Atlas/Notes/Assetto Corsa Competizione.md\|Assetto Corsa Competizione]]            | <ul><li>[[Atlas/Notes/PlayStation 4.md\|PlayStation 4]]</li><li>[[Quartz/notes/PlayStation 5.md\|PlayStation 5]]</li><li>[[Microsoft Windows\|Microsoft Windows]]</li></ul>            |
+| [[Atlas/Notes/Assetto Corsa Competizione.md\|Assetto Corsa Competizione]]            | <ul><li>[[Atlas/Notes/PlayStation 4.md\|PlayStation 4]]</li><li>[[Quartz/notes/PlayStation 5.md\|PlayStation 5]]</li><li>[[+/Microsoft Windows.md\|Microsoft Windows]]</li></ul>       |
 | [[Quartz/notes/Astro's Playroom.md\|Astro's Playroom]]                               | <ul><li>[[Quartz/notes/PlayStation 5.md\|PlayStation 5]]</li></ul>                                                                                                                       |
 | [[Quartz/notes/Baldur's Gate - Dark Alliance.md\|Baldur's Gate - Dark Alliance]]     | <ul><li>[[Quartz/notes/PlayStation 2.md\|PlayStation 2]]</li></ul>                                                                                                                       |
 | [[Atlas/Notes/Baldur's Gate 3.md\|Baldur's Gate 3]]                                  | <ul><li>[[Quartz/notes/PlayStation 5.md\|PlayStation 5]]</li></ul>                                                                                                                       |
-| [[Quartz/notes/Cities Skylines.md\|Cities Skylines]]                                 | <ul><li>[[Atlas/Notes/PlayStation 4.md\|PlayStation 4]]</li><li>[[Quartz/notes/PlayStation 5.md\|PlayStation 5]]</li><li>[[Microsoft Windows\|Microsoft Windows]]</li></ul>            |
+| [[Atlas/Notes/Bastion.md\|Bastion]]                                                  | <ul><li>[[iOS\|iOS]]</li></ul>                                                                                                                                                           |
+| [[Quartz/notes/Cities Skylines.md\|Cities Skylines]]                                 | <ul><li>[[Atlas/Notes/PlayStation 4.md\|PlayStation 4]]</li><li>[[Quartz/notes/PlayStation 5.md\|PlayStation 5]]</li><li>[[+/Microsoft Windows.md\|Microsoft Windows]]</li></ul>       |
 | [[Quartz/notes/Colin McCrae Rally 3.md\|Colin McCrae Rally 3]]                       | <ul><li>[[Quartz/notes/PlayStation 2.md\|PlayStation 2]]</li></ul>                                                                                                                       |
 | [[Atlas/Notes/Elden Ring.md\|Elden Ring]]                                            | <ul><li>[[Quartz/notes/PlayStation 5.md\|PlayStation 5]]</li></ul>                                                                                                                       |
 | [[Quartz/notes/Forspoken.md\|Forspoken]]                                             | <ul><li>[[Quartz/notes/PlayStation 5.md\|PlayStation 5]]</li></ul>                                                                                                                       |

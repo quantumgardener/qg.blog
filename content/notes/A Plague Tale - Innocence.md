@@ -2,7 +2,7 @@
 aliases:
   - "A Plague Tale: Innocence"
 tags:
-  - video-game
+  - class/video-game
   - status/completed
 title: "A Plague Tale: Innocence"
 sequence: 1

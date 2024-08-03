@@ -2,7 +2,7 @@
 tags: []
 date: 2023-10-30
 landscapes:
-  - "[[hobby-together]]"
+  - "[[Hobby Together]]"
 description: The workflow I use to develop RAW photos.
 ---
 [[Photography]]

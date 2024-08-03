@@ -4,7 +4,7 @@ tags:
   - learning
   - second-order-learning
 landscapes:
-  - "[[expand-my-way-of-being]]"
+  - "[[Expand My Way of Being]]"
 ---
 Whenever I'm asked what I would do if I didn't have to work, I've answered, "I'd be a philosopher." Those who know me nod in agreement and don't question it. 
 

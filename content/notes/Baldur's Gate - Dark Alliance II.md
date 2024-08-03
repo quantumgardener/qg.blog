@@ -1,6 +1,6 @@
 ---
 tags:
-  - video-game
+  - class/video-game
   - status/completed
 sequence: 2
 playthroughs: 2
@@ -11,6 +11,6 @@ rating: "[[3-star|⭐️⭐️⭐️]]"
 platform:
   - "[[PlayStation 2]]"
 ---
-![[vg_Baldur's Gate - Dark Alliance II.webp|200]]
+![[vg_Baldur's Gate - Dark Alliance II.webp|media-cover|200]]
 
 A great isometric view game, with a good story to back it.

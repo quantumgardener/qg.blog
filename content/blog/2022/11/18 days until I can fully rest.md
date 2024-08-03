@@ -2,7 +2,7 @@
 tags: 
 datetime: 2022-11-28T00:00:00
 landscapes:
-  - "[[expand-my-way-of-being]]"
+  - "[[Expand My Way of Being]]"
 ---
 I’m now down to 18 work days before I get 2 weeks off work over Christmas/New Year.
 

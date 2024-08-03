@@ -2,8 +2,8 @@
 cssclasses:
   - max
 tags:
-  - map
-  - list
+  - class/map
+  - class/list
   - serialised-dataview
 datetime: 2023-05-25T20:59:00
 updated: 2024-08-02T14:22:00
@@ -11,16 +11,16 @@ title:
 ---
 My [[Commodore 64]] games.
 
-<!-- QueryToSerialize: table without id file.link as Game, rating as Rating, split( filter(file.tags, (t) => startswith(t, "#status") )[0], "/" )[1] as Status from #video-game where contains(platform, [[Commodore 64]]) sort file.name -->
-<!-- SerializedQuery: table without id file.link as Game, rating as Rating, split( filter(file.tags, (t) => startswith(t, "#status") )[0], "/" )[1] as Status from #video-game where contains(platform, [[Commodore 64]]) sort file.name -->
+<!-- QueryToSerialize: table without id file.link as Game, rating as Rating, playthroughs as "Plays", link(split( filter(file.tags, (t) => startswith(t, "#status") )[0], "/" )[1]) as Status from #class/video-game where contains(platform, [[Commodore 64]]) sort file.name -->
+<!-- SerializedQuery: table without id file.link as Game, rating as Rating, playthroughs as "Plays", link(split( filter(file.tags, (t) => startswith(t, "#status") )[0], "/" )[1]) as Status from #class/video-game where contains(platform, [[Commodore 64]]) sort file.name -->
 
-| Game                                   | Rating                                         | Status    |
-| -------------------------------------- | ---------------------------------------------- | --------- |
-| [[Quartz/notes/Elite.md\|Elite]]       | [[Quartz/topics/rating/5-star.md\|⭐️⭐️⭐️⭐️⭐️]] | completed |
-| [[Quartz/notes/Lazarian.md\|Lazarian]] | [[Quartz/topics/rating/3-star.md\|⭐️⭐️⭐️]]     | completed |
-| [[Quartz/notes/Zork I.md\|Zork I]]     | [[Quartz/topics/rating/5-star.md\|⭐️⭐️⭐️⭐️⭐️]] | completed |
-| [[Atlas/Notes/Zork II.md\|Zork II]]    | [[Quartz/topics/rating/3-star.md\|⭐️⭐️⭐️]]     | completed |
-| [[Atlas/Notes/Zork III.md\|Zork III]]  | [[Quartz/topics/rating/3-star.md\|⭐️⭐️⭐️]]     | completed |
+| Game                                   | Rating                                 | Plays | Status                                   |
+| -------------------------------------- | -------------------------------------- | ----- | ---------------------------------------- |
+| [[Quartz/notes/Elite.md\|Elite]]       | [[Quartz/notes/5-star.md\|⭐️⭐️⭐️⭐️⭐️]] | \-    | [[Quartz/notes/completed.md\|completed]] |
+| [[Quartz/notes/Lazarian.md\|Lazarian]] | [[Quartz/notes/3-star.md\|⭐️⭐️⭐️]]     | \-    | [[Quartz/notes/completed.md\|completed]] |
+| [[Quartz/notes/Zork I.md\|Zork I]]     | [[Quartz/notes/5-star.md\|⭐️⭐️⭐️⭐️⭐️]] | \-    | [[Quartz/notes/completed.md\|completed]] |
+| [[Atlas/Notes/Zork II.md\|Zork II]]    | [[Quartz/notes/3-star.md\|⭐️⭐️⭐️]]     | \-    | [[Quartz/notes/completed.md\|completed]] |
+| [[Atlas/Notes/Zork III.md\|Zork III]]  | [[Quartz/notes/3-star.md\|⭐️⭐️⭐️]]     | \-    | [[Quartz/notes/completed.md\|completed]] |
 <!-- SerializedQuery END -->
 
 > [!note]

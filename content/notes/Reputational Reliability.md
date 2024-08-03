@@ -4,7 +4,7 @@ tags:
   - way-of-being
 date: 2023-05-17
 landscapes:
-  - "[[expand-my-way-of-being]]"
+  - "[[Expand My Way of Being]]"
 ---
 A cornerstone of my career reputation has been built on my reliability. When others learn that I deliver what I say I will, on time and to the standard expected, they form a positive opinion of my work practices. In turn, that contributes to their assessment that I can be trusted.
 

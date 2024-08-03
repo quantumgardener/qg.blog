@@ -5,8 +5,8 @@ tags:
   - conversation
   - learning
 landscapes:
-  - "[[expand-my-way-of-being]]"
-  - "[[productive-laziness]]"
+  - "[[Expand My Way of Being]]"
+  - "[[Productive Laziness]]"
 ---
 
 I've noticed recently a tendency in myself and others to add layer upon layer of explanation when we are talking. Once I saw it, I realised how counter-productive it is.

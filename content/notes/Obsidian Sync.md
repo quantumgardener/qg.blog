@@ -1,6 +1,6 @@
 ---
 landscapes:
-  - "[[the-garden-shed]]"
+  - "[[The Garden Shed]]"
 datetime: 2024-03-10
 updated: 2024-07-23T19:30:00
 ---

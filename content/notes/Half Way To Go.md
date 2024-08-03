@@ -3,7 +3,7 @@ date: 2022-11-20
 tags:
   - wonder
 landscapes:
-  - "[[expand-my-way-of-being]]"
+  - "[[Expand My Way of Being]]"
 ---
 Each time I hear the Sun is 50% through its life and only has 5 billion years to go, I feel sad.
 

@@ -1,6 +1,6 @@
 ---
 tags:
-  - video-game
+  - class/video-game
   - status/ongoing
 sequence: 1
 datetime: 2024-05-14T12:00:00

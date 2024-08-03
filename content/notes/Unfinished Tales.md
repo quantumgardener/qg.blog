@@ -4,7 +4,7 @@ tags:
   - reading
   - audiobook
 landscapes:
-  - "[[hobby-together]]"
+  - "[[Hobby Together]]"
 ---
 Every now and then I use [Amazon/Audible’s Matchmaker tool](https://www.amazon.com.au/hz/audible/matchmaker) to see if there are any Kindle books for which I’d like to purchase the audiobook cheaply.
 

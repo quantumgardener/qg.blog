@@ -3,7 +3,7 @@ tags:
   - tv-show
   - rating/4-star
 landscapes:
-  - "[[hobby-together]]"
+  - "[[Hobby Together]]"
 date: 2023-11-25
 ---
 ![[tv_Babylon 5.webp]]

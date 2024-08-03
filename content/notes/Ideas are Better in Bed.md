@@ -6,8 +6,8 @@ tags:
   - emotions
   - effective-conversation
 landscapes:
-  - "[[expand-my-way-of-being]]"
-  - "[[productive-laziness]]"
+  - "[[Expand My Way of Being]]"
+  - "[[Productive Laziness]]"
 ---
 Conversations such as blog posts that I write in my head lying in bed or when walking are always better than they end up when I type them.
 

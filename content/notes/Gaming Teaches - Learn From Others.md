@@ -3,8 +3,8 @@ tags:
   - learning
 date: 2023-05-14
 landscapes:
-  - "[[expand-my-way-of-being]]"
-  - "[[hobby-together]]"
+  - "[[Expand My Way of Being]]"
+  - "[[Hobby Together]]"
 ---
 > [!INFO] This note is part of the [[Gaming Teaches]] series of observations about what gaming can teach me when its use as a lens on life.
 

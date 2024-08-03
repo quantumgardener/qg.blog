@@ -6,7 +6,7 @@ tags:
   - review
 date: 2023-02-11
 landscapes:
-  - "[[expand-my-way-of-being]]"
+  - "[[Expand My Way of Being]]"
 ---
 Last night I watched _[Everything Everywhere All at Once](https://www.imdb.com/title/tt6710474/)_ and this morning followed up with a _[The Terror of Everything Everywhere All at Once](https://youtu.be/VvclV0_o0JE)_, a commentary on the movie by Thomas Flight on YouTube.
 

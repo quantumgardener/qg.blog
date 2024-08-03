@@ -1,9 +1,10 @@
 ---
-aliases: 
+aliases:
+  - ⭐️⭐️⭐️ games
 tags:
-  - map
+  - class/map
   - serialised-dataview
-  - list
+  - class/list
 datetime: 2024-08-01T19:24:49
 updated: 
 title: ⭐️⭐️⭐️ games
@@ -11,8 +12,8 @@ description: List of 3-star computer games
 ---
 All games on this list are rated [[3-star|⭐️⭐️⭐️]].
 
-<!-- QueryToSerialize: table without id file.link as Title, platform as Platform from #video-game where contains(rating, [[3-star]]) sort file.name -->
-<!-- SerializedQuery: table without id file.link as Title, platform as Platform from #video-game where contains(rating, [[3-star]]) sort file.name -->
+<!-- QueryToSerialize: table without id file.link as Title, platform as Platform from #class/video-game where contains(rating, [[3-star]]) sort file.name -->
+<!-- SerializedQuery: table without id file.link as Title, platform as Platform from #class/video-game where contains(rating, [[3-star]]) sort file.name -->
 
 | Title                                                                                                                         | Platform                                                                                                                                                                 |
 | ----------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -23,7 +24,7 @@ All games on this list are rated [[3-star|⭐️⭐️⭐️]].
 | [[Atlas/Notes/Call of Duty - WWII.md\|Call of Duty - WWII]]                                                                   | <ul><li>[[Atlas/Notes/PlayStation 4.md\|PlayStation 4]]</li></ul>                                                                                                       |
 | [[Atlas/Notes/Call of Duty 3.md\|Call of Duty 3]]                                                                             | <ul><li>[[Nintendo Wii\|Nintendo Wii]]</li></ul>                                                                                                                        |
 | [[Atlas/Notes/Call of Duty 4 - Modern Warfare.md\|Call of Duty 4 - Modern Warfare]]                                           | <ul><li>[[Atlas/Notes/PlayStation 3.md\|PlayStation 3]]</li></ul>                                                                                                       |
-| [[Quartz/notes/Cities Skylines II.md\|Cities Skylines II]]                                                                    | <ul><li>[[Microsoft Windows\|Microsoft Windows]]</li></ul>                                                                                                              |
+| [[Quartz/notes/Cities Skylines II.md\|Cities Skylines II]]                                                                    | <ul><li>[[+/Microsoft Windows.md\|Microsoft Windows]]</li></ul>                                                                                                         |
 | [[Atlas/Notes/Cyberpunk 2077.md\|Cyberpunk 2077]]                                                                             | <ul><li>[[Quartz/notes/PlayStation 5.md\|PlayStation 5]]</li></ul>                                                                                                      |
 | [[Atlas/Notes/Death Stranding.md\|Death Stranding]]                                                                           | <ul><li>[[Atlas/Notes/PlayStation 4.md\|PlayStation 4]]</li><li>[[Quartz/notes/PlayStation 5.md\|PlayStation 5]]</li></ul>                                             |
 | [[Atlas/Notes/Diablo III - Reaper of Souls - Ultimate Evil Edition.md\|Diablo III - Reaper of Souls - Ultimate Evil Edition]] | <ul><li>[[Atlas/Notes/PlayStation 4.md\|PlayStation 4]]</li></ul>                                                                                                       |

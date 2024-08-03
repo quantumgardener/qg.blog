@@ -1,6 +1,6 @@
 ---
 tags:
-  - video-game
+  - class/video-game
   - status/completed
 datetime: 2023-01-25T20:07:23
 updated: 
@@ -11,7 +11,7 @@ platform:
   - "[[PlayStation 5]]"
   - "[[PlayStation VR2]]"
 ---
-![[vg_No Man's Sky.webp|media_cover|200]]
+![[vg_No Man's Sky.webp|media-cover|200]]
 
 **No Man's Sky** is a space exploration game, notorious for a horrible launch where the developer's game play promises were not met, and its redemption over time into a really good and well developed game. 
 

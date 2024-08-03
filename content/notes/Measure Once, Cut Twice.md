@@ -3,8 +3,8 @@ date: 2022-08-08
 tags:
   - learning
 landscapes:
-  - "[[expand-my-way-of-being]]"
-  - "[[hobby-together]]"
+  - "[[Expand My Way of Being]]"
+  - "[[Hobby Together]]"
 ---
 
 Have you ever carefully considered a purchase from a store then when you got home realised there was an aspect you'd missed that made it completely unsuitable?

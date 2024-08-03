@@ -1,8 +1,8 @@
 ---
 JD-ID: "[[01.01 Guiding Principles]]"
 landscapes:
-  - "[[quantum-os]]"
-  - "[[productive-laziness]]"
+  - "[[Quantum OS]]"
+  - "[[Productive Laziness]]"
 datetime: 2024-03-11
 updated: 2024-06-06T16:35:00
 ---

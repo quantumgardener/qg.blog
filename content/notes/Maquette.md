@@ -1,6 +1,6 @@
 ---
 tags:
-  - video-game
+  - class/video-game
   - status/dropped
 datetime: 2024-02-27T00:00:00
 rating: "[[3-star|⭐️⭐️⭐️]]"

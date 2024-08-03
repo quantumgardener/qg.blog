@@ -3,7 +3,7 @@ tags:
   - metadata-strategy
 JD-ID: "[[12.02 Mediabank Photos and Videos]]"
 landscapes:
-  - "[[hobby-together]]"
+  - "[[Hobby Together]]"
 date: 2024-04-08
 ---
 **Mediabank** is the name given to our family [[Photography]] and video archive. It collects all digital media assets (hereafter media) into a single location managed by [[IMatch]]. As of March 2024 there are close to 38,000 items being catalogued and managed consuming 525GB.

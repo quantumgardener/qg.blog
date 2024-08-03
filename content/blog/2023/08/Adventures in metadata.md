@@ -3,7 +3,7 @@ tags:
   - metadata-strategy
 date: 2023-08-24T20:04:23
 landscapes:
-  - "[[hobby-together]]"
+  - "[[Hobby Together]]"
 ---
 I've been wanting to document and share my [[Photography]] workflow — from camera to archive — for a few weeks now. The introduction of Adobe [[Lightroom]] into my workflow recently has meant a delay which has ultimate turned out for the best. I've changed my workflow significantly several times over the last few weeks as I manage two applications that do similar, complementary, yet quite different functions.
 
@@ -14,7 +14,7 @@ My challenge has been working through the issues caused by both applications tou
 
 Here is my high-level process. The detail will come over the coming weeks.
 
-1. Copy RAW photos from my [[My Photography Gear|Canon 400D]] into Lightroom. Cull those I don't like and develop (edit) them. Once I've edited, move the photos into IMatch. No metadata beyond editing instructions is added in Lightroom.
+1. Copy RAW photos from my [[My current photography gear|Canon 400D]] into Lightroom. Cull those I don't like and develop (edit) them. Once I've edited, move the photos into IMatch. No metadata beyond editing instructions is added in Lightroom.
 2. Copy JPEG/HEIC photos from the family's phones direct into IMatch. Cull those I don't want/need to keep.
 3. Add Metadata in IMatch for Event, Location and GPS, People and correct Dates.
 4. File away into my archive folder structure (YYYY\YYYY-MM).

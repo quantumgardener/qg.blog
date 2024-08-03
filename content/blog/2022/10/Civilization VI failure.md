@@ -2,7 +2,7 @@
 datetime: 2022-10-26T00:00:00
 tags: []
 landscapes:
-  - "[[expand-my-way-of-being]]"
+  - "[[Expand My Way of Being]]"
 description: On Sunday I started playing Sid Meier's Civilization VI. Today I lost badly and that’s ok because I was learning all the time.
 JD-ID: "[[26.045 Civilization (Series)]]"
 ---

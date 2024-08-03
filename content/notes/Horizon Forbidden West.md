@@ -1,6 +1,6 @@
 ---
 tags:
-  - video-game
+  - class/video-game
   - status/completed
 datetime: 2023-01-25T20:07:23
 updated: 2024-08-02T17:21:00

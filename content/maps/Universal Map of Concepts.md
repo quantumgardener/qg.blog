@@ -2,10 +2,10 @@
 aliases: 
 tags: 
 datetime: 2023-01-25T20:07:26
-updated: 2024-07-22T19:32:00
+updated: 2024-08-02T19:32:00
 title:
 ---
-Most of what I think about and enjoy doing can be tied the concepts listed in this [[Universal Map of Concepts]]. Keeping with the metaphor of a [[Digital garden]], the map is organised into five landscapes of activity and thinking.
+Most of what I think about and enjoy doing can be tied the concepts listed in this [[Universal Map of Concepts]]. Keeping with the metaphor of a [[Digital garden]], the map is organised into five [[Landscapes]]s of activity and thinking.
 ## Expanding my Way of Being
 
 > My [[Way of Being]] is more than the behaviour I show. It’s the total sum of how I engage with the world, make meaning from my environment and take action. Expanding my Way of Being by being a learner in the world creates new possibilities for me to move forward in life.
@@ -27,7 +27,7 @@ The [[Promise Cycle]] is a model for understanding how people come together to c
 
 [[Time Management]] is the process of managing one's time. It is a limited resource, as is the time of others. Therefore time management is essential in treating people as a [[Legitimate other]]. Something that makes [[Time Management]] easier is a strong practice of [[Personal knowledge management]].
 
-[[Wonder]] is my favourite of the [[Basic moods of life]] and to access wonder, I use [[Meditation]], [[Astronomy]] and [[Mathematics]].
+[[Wonder]] is my favourite of the [[Basic moods of life]] and to access wonder, I use [[Meditation]], [[Map of astronomy]] and [[Mathematics]].
 
 A [[Mood]] predisposes me to act in a particular ways which includes my thinking. The orientation of the mood (positive or negative) will expand or constrict my [[Thought Horizon]]. Moods can therefore also be useful in [[Expanding my comfort zone]].
 
@@ -44,7 +44,7 @@ Life is not black and white. A significant amount of time is spent dealing with 
 
 The focus of my hobbies at any point in time varies. At the moment I have keen interest in [[Photography]] with some [[Astrophotography]] attached.
 
-There is plenty to see in my [[Map of video gaming]]. Sometimes I also paint miniatures like I did when [[Painting Nagash]].
+There is plenty to see in my [[Map of video gaming]] which links out to all the games I've played one the gaming systems I've owned. Sometimes I also paint miniatures like I did when [[Painting Nagash]].
 
 When I can afford it, I might also play with [[LEGO]].
 ## The Garden Shed

@@ -5,7 +5,7 @@ tags:
   - rating/5-star
 title: The Goodies
 landscapes:
-  - "[[hobby-together]]"
+  - "[[Hobby Together]]"
 date: 2024-01-08
 ---
 

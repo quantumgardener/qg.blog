@@ -3,7 +3,7 @@ tags:
 datetime: 2023-09-28T12:00:00
 updated: 2024-08-02T14:12:00
 landscapes:
-  - "[[hobby-together]]"
+  - "[[Hobby Together]]"
 description: All things video games and the platforms I play on.
 ---
 All things video gaming.

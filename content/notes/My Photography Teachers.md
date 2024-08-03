@@ -2,7 +2,7 @@
 tags: []
 date: 2023-09-29
 landscapes:
-  - "[[hobby-together]]"
+  - "[[Hobby Together]]"
 datetime: 2023-11-28
 ---
 There is a growing list of people I'm following on YouTube who are my go-to for learning about [[Photography]]. They are all people I can imagine spending the day with.

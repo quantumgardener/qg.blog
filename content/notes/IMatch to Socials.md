@@ -1,7 +1,7 @@
 ---
 tags: 
 landscapes:
-  - "[[hobby-together]]"
+  - "[[Hobby Together]]"
 datetime: 2024-05-04
 updated: 2024-07-31T17:25:00
 ---

@@ -4,7 +4,7 @@ tags:
   - rating/3-star
 date: 2023-11-25
 landscapes:
-  - "[[hobby-together]]"
+  - "[[Hobby Together]]"
 ---
 ![[tv_The Watch.webp]]
 

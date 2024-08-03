@@ -1,6 +1,6 @@
 ---
-date: 2023-09-27
-datetime: 2023-10-03
+datetime: 2023-09-27T12:00:00
+updated: 2023-10-03T12:00:00
 ---
 *quantumgardener.info* is cookie and tracker free.
 

@@ -2,9 +2,8 @@
 date: 2022-10-08
 tags:
   - gratitude
-  - frequently-quoted
 landscapes:
-  - "[[expand-my-way-of-being]]"
+  - "[[Expand My Way of Being]]"
 ---
 One of those small pieces of advice I picked up years ago was “pause and savour the first sip of tea or coffee.”
 

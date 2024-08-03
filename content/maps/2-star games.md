@@ -1,9 +1,10 @@
 ---
-aliases: 
+aliases:
+  - ⭐️⭐️ games
 tags:
-  - map
+  - class/map
   - serialised-dataview
-  - list
+  - class/list
 datetime: 2024-08-01T19:24:49
 updated: 
 title: ⭐️⭐️ games
@@ -11,8 +12,8 @@ description: List of 2-star computer games
 ---
 All games on this list are rated [[2-star|⭐️⭐️]].
 
-<!-- QueryToSerialize: table without id file.link as Title, platform as Platform from #video-game where contains(rating, [[2-star]]) sort file.name -->
-<!-- SerializedQuery: table without id file.link as Title, platform as Platform from #video-game where contains(rating, [[2-star]]) sort file.name -->
+<!-- QueryToSerialize: table without id file.link as Title, platform as Platform from #class/video-game where contains(rating, [[2-star]]) sort file.name -->
+<!-- SerializedQuery: table without id file.link as Title, platform as Platform from #class/video-game where contains(rating, [[2-star]]) sort file.name -->
 
 | Title                                                | Platform                                                            |
 | ---------------------------------------------------- | ------------------------------------------------------------------- |

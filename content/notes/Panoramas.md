@@ -1,7 +1,7 @@
 ---
 tags: []
 landscapes:
-  - "[[hobby-together]]"
+  - "[[Hobby Together]]"
 date: 2023-10-22
 ---
 General info on panorama [[Photography]].

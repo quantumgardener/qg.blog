@@ -1,7 +1,7 @@
 ---
 date: 2022-01-27
 landscapes:
-  - "[[the-garden-shed]]"
+  - "[[The Garden Shed]]"
 ---
 - Observational - people who observe the world and make comment on it through their experience as a way to prompt thinking in others. A great example is [The Obvious? – Euan Semple's Weblog](https://euansemple.blog/). I'd put [PostSecret -](https://postsecret.com/) in this group as well.
 - News aggregators - people with interest in a field, company or product who bring scan for the latest news of interest. An example is [The Loop (loopinsight.com)](https://www.loopinsight.com/) which is primarly Apple news based, but not completely.

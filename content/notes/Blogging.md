@@ -1,10 +1,10 @@
 ---
 tags:
-  - map
+  - class/map
 datetime: 2023-01-25T20:07:00
 updated: 2024-07-28T09:42:00
 landscapes:
-  - "[[the-garden-shed]]"
+  - "[[The Garden Shed]]"
 ---
 Blogging is a timeline of shared information. It is a conversation between one person and a wider, unknown audience. It is just as valid if the audience is the blogger alone.
 
@@ -30,13 +30,13 @@ I began blogging in the early 2000's using [Radioland](http://radio.userland.com
 - [[I am an observational blogger]]
 - [[Comparing Digital Gardens to Blogging]]
 - [[Ideas are Better in Bed]]
-- [[RSS Remains an Important Technology]]
+- [[RSS remains an important technology]]
 - [[My Decision to Stop Blogging]]
 - [[Bloggers should support other bloggers]]
 - [[Blogs are public journal entries]]
 
 ### Tools
-- [[My Document Toolkit]] 
+- [[My document toolkit]] 
 - [[Workflow for Importing my old blog entries]]
 
 
