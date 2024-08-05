@@ -29,7 +29,7 @@ Games for the [[PlayStation 5]]. See also [[PlayStation VR2 games]] which were o
 | [[Atlas/Notes/Elden Ring.md\|Elden Ring]]                                                   | [[Quartz/notes/4-star.md\|⭐️⭐️⭐️⭐️]]   | \-    | [[Quartz/notes/dropped.md\|dropped]]     |
 | [[Quartz/notes/Elite - Dangerous.md\|Elite - Dangerous]]                                    | [[Quartz/notes/5-star.md\|⭐️⭐️⭐️⭐️⭐️]] | \-    | [[Quartz/notes/completed.md\|completed]] |
 | [[Quartz/notes/Forspoken.md\|Forspoken]]                                                    | [[Quartz/notes/4-star.md\|⭐️⭐️⭐️⭐️]]   | \-    | [[Quartz/notes/completed.md\|completed]] |
-| [[Atlas/Notes/Ghost of Tsushima.md\|Ghost of Tsushima]]                                     | [[Quartz/notes/4-star.md\|⭐️⭐️⭐️⭐️]]   | \-    | [[Quartz/notes/completed.md\|completed]] |
+| [[Quartz/notes/Ghost of Tsushima.md\|Ghost of Tsushima]]                                    | [[Quartz/notes/4-star.md\|⭐️⭐️⭐️⭐️]]   | \-    | [[Quartz/notes/completed.md\|completed]] |
 | [[Atlas/Notes/God of War Ragnarök.md\|God of War Ragnarök]]                                 | [[Quartz/notes/4-star.md\|⭐️⭐️⭐️⭐️]]   | \-    | [[Quartz/notes/completed.md\|completed]] |
 | [[Atlas/Notes/Gran Turismo 7.md\|Gran Turismo 7]]                                           | [[Quartz/notes/4-star.md\|⭐️⭐️⭐️⭐️]]   | \-    | [[Quartz/notes/ongoing.md\|ongoing]]     |
 | [[Quartz/notes/Hogwarts Legacy.md\|Hogwarts Legacy]]                                        | [[Quartz/notes/2-star.md\|⭐️⭐️]]       | \-    | [[Quartz/notes/dropped.md\|dropped]]     |
@@ -39,7 +39,7 @@ Games for the [[PlayStation 5]]. See also [[PlayStation VR2 games]] which were o
 | [[Quartz/notes/Maquette.md\|Maquette]]                                                      | [[Quartz/notes/3-star.md\|⭐️⭐️⭐️]]     | \-    | [[Quartz/notes/dropped.md\|dropped]]     |
 | [[Atlas/Notes/Marvel's Spider-Man - Miles Morales.md\|Marvel's Spider-Man - Miles Morales]] | [[Quartz/notes/3-star.md\|⭐️⭐️⭐️]]     | \-    | [[Quartz/notes/completed.md\|completed]] |
 | [[Quartz/notes/No Man's Sky.md\|No Man's Sky]]                                              | [[Quartz/notes/4-star.md\|⭐️⭐️⭐️⭐️]]   | \-    | [[Quartz/notes/completed.md\|completed]] |
-| [[Atlas/Notes/Ratchet & Clank - Rift Apart.md\|Ratchet & Clank - Rift Apart]]               | [[Quartz/notes/4-star.md\|⭐️⭐️⭐️⭐️]]   | \-    | [[Quartz/notes/completed.md\|completed]] |
+| [[Quartz/notes/Ratchet and Clank - Rift Apart.md\|Ratchet and Clank - Rift Apart]]          | [[Quartz/notes/4-star.md\|⭐️⭐️⭐️⭐️]]   | \-    | [[Quartz/notes/completed.md\|completed]] |
 | [[Atlas/Notes/Resident Evil 4.md\|Resident Evil 4]]                                         | [[Quartz/notes/3-star.md\|⭐️⭐️⭐️]]     | \-    | [[Quartz/notes/completed.md\|completed]] |
 | [[Quartz/notes/Stray.md\|Stray]]                                                            | [[Quartz/notes/4-star.md\|⭐️⭐️⭐️⭐️]]   | \-    | [[Quartz/notes/completed.md\|completed]] |
 | [[Atlas/Notes/The Last of Us.md\|The Last of Us]]                                           | [[Quartz/notes/5-star.md\|⭐️⭐️⭐️⭐️⭐️]] | 3     | [[Quartz/notes/completed.md\|completed]] |

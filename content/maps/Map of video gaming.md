@@ -21,7 +21,7 @@ All things video gaming.
 |                              | [[Commodore Amiga]] ([[Commodore Amiga games\|games]])                     |
 |                              | [[Nintendo Game and Watch]] ([[Nintendo Game and Watch games\|games]])     |
 |                              | [[Microsoft Windows]] ([[Microsoft Windows games\|games]])                 |
-| Check out my achievements    | [[Platinum Trophy]]                                                        |
+| Check out my achievements    | [[Platinum trophy]]                                                        |
 | Check progress               | [Quantum-Gardener's PSN Profile](https://psnprofiles.com/Quantum-Gardener) |
 | View by ranking              | [[5-star games]]                                                           |
 |                              | [[4-star games]]                                                           |

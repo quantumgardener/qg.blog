@@ -22,7 +22,7 @@ The main story was engaging and the game a challenge throughout. Towards the end
 I completed the main story line, including all my side-adventures, in 76 hours.
 
 ## Platinum Trophy
-I was on track to complete the [[Platinum Trophy]] not long after the main story line. The trophy for killing all Acquisition machines would not drop. I went through the list 3 times, killed one of every type of machine at least once, and it still wouldn't trigger.
+I was on track to complete the [[Platinum trophy]] not long after the main story line. The trophy for killing all Acquisition machines would not drop. I went through the list 3 times, killed one of every type of machine at least once, and it still wouldn't trigger.
 
 I put it down to a bug. With each patch I tried again to no avail. Eventually it turned out I was misreading a key component of the list. 
 

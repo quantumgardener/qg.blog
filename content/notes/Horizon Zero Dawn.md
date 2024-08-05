@@ -13,7 +13,7 @@ platform:
 ## Main Game
 ![[vg_Horizon Zero Dawn.webp|media-cover|200]]
 
-With [[Horizon Forbidden West]] on the *horizon* later in 2022, I revisited Zero Dawn in order to refamiliarise myself with the lore and gameplay. I've achieved a [[Platinum Trophy]] in 3 years and 11 months since starting and enjoyed getting another 10-15 hours out a game where I'd previously finished the main story line. I think 70-75 hours all up.
+With [[Horizon Forbidden West]] on the *horizon* later in 2022, I revisited Zero Dawn in order to refamiliarise myself with the lore and gameplay. I've achieved a [[Platinum trophy]] in 3 years and 11 months since starting and enjoyed getting another 10-15 hours out a game where I'd previously finished the main story line. I think 70-75 hours all up.
 
 Aloy is such an amazing character and great fun to play. Her strength of character as it develops over this game (and subsequent) makes her a true hero and example of leadership.
 

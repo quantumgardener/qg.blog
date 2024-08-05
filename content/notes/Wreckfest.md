@@ -12,4 +12,4 @@ platform:
 
 Wreckfest is a lot of fun to play. Demolition Derby racing. No more to say than that.
 
-I finished it on [[2021-07-03]], and also achieved the [[Platinum Trophy]]. My seventh.
+I finished it on [[2021-07-03]], and also achieved the [[Platinum trophy]]. My seventh.

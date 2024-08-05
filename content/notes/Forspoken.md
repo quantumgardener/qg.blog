@@ -12,4 +12,4 @@ platform:
 
 This game got a lot of negative press just before release. It was a game I'd been looking forward to since it was first announced at around the time of the [[PlayStation 5]] launch.
 
-I thoroughly enjoyed it and achieved the [[Platinum Trophy]] on 24 February 2023.
+I thoroughly enjoyed it and achieved the [[Platinum trophy]] on 24 February 2023.

@@ -11,6 +11,6 @@ For me, trial once meant install, play around a bit and then forget. Now trial m
 
 More often than not, 'trial' translates to 'buy' as the value of the software becomes evident.
 
-Some software comes with extras, add-ins and so forth than increase it's power. When first trying software don't include them even if they are free. The number of features available swamps any useful assessment. Add them only when you are familiar with and have a proven need for the base product.
+Some software comes with extras, add-ins and so forth than increase it's power. When first trying software don't include them even if they are free. The number of features available swamps any useful assessment. Add them only when you are familiar with and have a proven need for the base product. In other words, [[Don’t buy the expansion pack]] until you are ready for it.
 
 Reading the manual also serves as a good generator of ideas on what the software can do for you.

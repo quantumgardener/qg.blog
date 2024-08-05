@@ -20,7 +20,7 @@ All notes should be treated as [[Permanent note|permanent notes]] by default to 
 
 [^1]: [[Ahrens (2017) -- How to Take Smart Notes]]
 [^2]: Writing of [[Bob Doto]], especially [What is a Fleeting Note?](https://writing.bobdoto.computer/what-is-a-fleeting-note/), [[Doto (2022) -- What is a Literature Note|What is a Literature Note?]], [[Doto (2022) -- What is a Permanent Note (Correcting Some Common Misunderstandings)|What is a Permanent Note?]] and [Zettelkasten, Linking Your Thinking, and Nick Milo's Search for Ground](https://writing.bobdoto.computer/zettelkasten-linking-your-thinking-and-nick-milos-search-for-ground/)
-[^3]: My [[Platinum Trophy]] note is personal and historical covering the video games I've played, and also shareable. An entry from my personal journal is not shareable.
+[^3]: My [[Platinum trophy]] note is personal and historical covering the video games I've played, and also shareable. An entry from my personal journal is not shareable.
 [^journaltags]: Refer to [[Tagging journal entries]] for all the different journal tags in use.
 [^4]:  [[Doto (2023) -- Using Diaries and Journals as Source Material for Zettelkasten Notes]]
 [^quartz]: Notes in this folder are published to [[The Quantum Garden]].

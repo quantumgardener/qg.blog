@@ -3,9 +3,6 @@ datetime: 2024-05-18T08:58:00
 ---
 Week 2 of my experiment taking Friday's off work. The first four weeks are annual leave but I hope to be able to move that to a permanent work arrangement thereafter. The goal is to allow me to relax and pursue that which makes my heart sing.
 
-> [!tip] My last blog entry
-> My Wednesday blog entry generated a "Page Not Found" 404 error and may not have shown up in your feed. It provides some context for this entry. Access it at [[Now, 15 May 2024]].
-
 I noticed that during the week I was looking forward to yesterday. Not just for the time off which would be expected, but I was actively planning what to do. I have not planned a weekend in living memory unless there was something pressing planning me.
 
 The freedom to do what I wanted was exhilarating and provided a level of recovery in itself. I didn't get everything planned that I wanted. Managed to side-track myself quite easily by partnering my wife on her daily flower delivery run and looking into email aliases, but I did manage two good pieces of writing.
