@@ -9,4 +9,4 @@ These are all of my favourite things.
 
 - [[List of my favourite authors]]
 - [[List of my favourite music]]
-- [[List of my favourite TV]]
+- [[List of my favourite TV shows]]

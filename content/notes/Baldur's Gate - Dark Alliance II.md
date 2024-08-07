@@ -10,7 +10,8 @@ title:
 rating: "[[3-star|⭐️⭐️⭐️]]"
 platform:
   - "[[PlayStation 2]]"
+thumbnail: "[[vg_Baldur's Gate - Dark Alliance II_t.webp]]"
 ---
-![[vg_Baldur's Gate - Dark Alliance II.webp|media-cover|200]]
+![[vg_Baldur's Gate - Dark Alliance II.webp|media-cover]]
 
 A great isometric view game, with a good story to back it.

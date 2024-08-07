@@ -1,6 +1,6 @@
 ---
 tags:
-  - tv-show
+  - class/tv-show
   - status/completed
   - rating/5-star
 title: The Goodies

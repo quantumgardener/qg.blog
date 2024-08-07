@@ -1,7 +1,7 @@
 ---
 date: 2023-09-26
 tags:
-  - tv
+  - class/tv-show
   - science-fiction
 landscapes:
   - "[[Hobby Together]]"

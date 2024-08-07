@@ -4,7 +4,7 @@ datetime: 2024-07-26T13:32:23
 landscapes: 
 updated: 2024-07-27T18:38:00
 ---
-Last weekend, and through the week since, I made a lot of changes to [[The Quantum Garden]] ([)website)[http://quantumgardener.info]. 
+Last weekend, and through the week since, I made a lot of changes to [[The Quantum Garden]] [website](http://quantumgardener.info). 
 
 > [!example] Website changes
 > - Properly mapped quantumgardener.blog to quantumgardener.info so links rewrite. Next year once I know all old RSS links have moved on I'll let .blog lapse.  

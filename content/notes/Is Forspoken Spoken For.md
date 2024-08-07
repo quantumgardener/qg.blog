@@ -11,7 +11,7 @@ landscapes:
   - "[[Hobby Together]]"
 JD-ID: "[[26.043 Forspoken]]"
 ---
-![[vg_Forspoken.webp]]
+![[vg_Forspoken.webp|media-cover]]
 
 This week sees the release of _[[Forspoken]]_, a new RPG for the [[PlayStation 5]] and PC. My copy should arrive in a few days and I’ve been looking forward to it since I saw the trailer alongside the original PS5 release.
 

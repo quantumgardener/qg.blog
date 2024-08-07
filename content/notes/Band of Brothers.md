@@ -1,13 +1,13 @@
 ---
 tags:
-  - tv-show
-  - rating/4-star
+  - class/tv-show
   - status/completed
-landscapes:
-  - "[[Hobby Together]]"
-date: 2023-11-25
+datetime: 2023-11-25T12:00:00
+updated: 
+rating: "[[4-star|⭐️⭐️⭐️⭐️]]"
+thumbnail: "[[tv_Band of Brothers_txxxx.webp]]"
 ---
-![[tv_Band of Brothers.webp]]
+![[tv_Band of Brothers.webp|media-cover]]
 
 I first saw Band of Brothers on TV, then DVD, then Blu-ray. A 4K version would be visually amazing.
 

@@ -10,7 +10,8 @@ title:
 rating: "[[3-star|⭐️⭐️⭐️]]"
 platform:
   - "[[PlayStation 2]]"
+thumbnail: "[[vg_Gran Turismo 3 - A-Spec_t.webp]]"
 ---
-![[vg_Gran Turismo 3 - A-Spec.webp|200]]
+![[vg_Gran Turismo 3 - A-Spec.webp|media-cover]]
 
 My first [[Gran Turismo]] game. I remember playing with [[Craig Buchan|Craig]] and [[Shannon Buchan|Shannon]] at [[85 Bond Street, Ivanhoe, VIC, Australia|home in Melbourne]] when they came down to visit one weekend.

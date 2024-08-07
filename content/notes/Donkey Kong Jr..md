@@ -7,8 +7,10 @@ updated: 2024-08-02T16:50:00
 rating: "[[5-star|⭐️⭐️⭐️⭐️⭐️]]"
 platform:
   - "[[Nintendo Game and Watch]]"
+thumbnail: "[[vg_Donkey Kong Jr_t.webp]]"
+playthroughs: 50
 ---
-![[vg_Donkey Kong Jr.webp|media-cover|200]]
+![[vg_Donkey Kong Jr.webp|media-cover]]
 
 This has to go down as my first computer game. A perfect Christmas present when [[Nintendo Game and Watch|Nintendo Game & Watch]] devices were all the rage. My brothers got a game as well. I always thought mine was the best (as I'm sure each of us did). 
 

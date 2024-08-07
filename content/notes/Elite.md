@@ -9,9 +9,10 @@ rating: "[[5-star|⭐️⭐️⭐️⭐️⭐️]]"
 platform:
   - "[[Commodore 64]]"
   - "[[Commodore Amiga]]"
-title:
+thumbnail: "[[vg_Elite_t.webp]]"
+playthroughs: 1
 ---
-![[vg_Elite.webp|media-cover|200]]
+![[vg_Elite.webp|media-cover]]
 
 There is something about the wireframe graphics, space and trading that made this game amazing. I have a clear image of it on a screen [[118 Maple Street, Golden Square, VIC, Australia|in the bedroom of the house of my teenage years]].
 
