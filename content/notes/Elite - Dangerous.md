@@ -13,7 +13,7 @@ platform:
   - "[[PlayStation 4]]"
   - "[[PlayStation 5]]"
 ---
-![[vg_Elite - Dangerous.webp|media-cover|200]]
+![[vg_Elite - Dangerous.webp|media-cover]]
 
 I first played Elite on my [[Commodore 64]] computer in the mid-80's and then on the [[Commodore Amiga]]. There was something fascinating about the mix of flying in space, battling pirates and trading to improve my equipment. 
 

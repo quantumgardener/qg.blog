@@ -1,15 +1,11 @@
 ---
-title: Is Forspoken Spoken For?
+title: Is Forspoken spoken for?
 tags:
   - assertions
   - assessments
   - authority
   - review
-date: 2023-01-24
-landscapes:
-  - "[[Expand My Way of Being]]"
-  - "[[Hobby Together]]"
-JD-ID: "[[26.043 Forspoken]]"
+datetime: 2023-09-05T20:32:51
 ---
 ![[vg_Forspoken.webp|media-cover]]
 

@@ -10,7 +10,7 @@ platform:
   - "[[PlayStation 5]]"
 ---
 
-![[vg_Assassin's Creed Valhalla.webp|media-cover|200]]
+![[vg_Assassin's Creed Valhalla.webp|media-cover]]
 
 Completed the main storyline after almost 2 years since first playing. There was a long break in the middle. Overall I enjoyed the game. Could have done without the Assassin's Creed Animus storyline. It didn't anything to my experience and took up time. By the time I finished I was so overpowered I was invincible. Even the end-game boss battles were trivial. 
 

@@ -11,6 +11,6 @@ platform:
   - "[[PlayStation 5]]"
   - "[[Microsoft Windows]]"
 ---
-![[vg_cities_skylines.webp|media-cover|200]]
+![[vg_cities_skylines.webp|media-cover]]
 
 I got into [[Cities Skylines]] during COVID and i played a lot of it. Something like 200 hours which puts it second behind [[Elite - Dangerous]] for overall game time. There is something I find compelling in layout out roads, zoning areas of development and then fixing all the problems I created.

@@ -8,7 +8,7 @@ rating: "[[4-star|⭐️⭐️⭐️⭐️]]"
 platform:
   - "[[PlayStation 5]]"
 ---
-![[vg_Forspoken.webp|media-cover|200]]
+![[vg_Forspoken.webp|media-cover]]
 
 This game got a lot of negative press just before release. It was a game I'd been looking forward to since it was first announced at around the time of the [[PlayStation 5]] launch.
 

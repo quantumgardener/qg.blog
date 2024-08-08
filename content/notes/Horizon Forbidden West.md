@@ -9,7 +9,7 @@ rating: "[[4-star|⭐️⭐️⭐️⭐️]]"
 platform:
   - "[[PlayStation 5]]"
 ---
-![[vg_Horizon Forbidden West.webp|media-cover|200]]
+![[vg_Horizon Forbidden West.webp|media-cover]]
 
 This is the sequel to [[Horizon Zero Dawn]].
 
@@ -46,6 +46,6 @@ Another 5 hours and I properly completed the my 10th platinum
 *Hanging on for dear life*
 
 ## Burning Shores DLC
- ![[vg_Horizon Forbidden West (Burning Shores).webp|media-cover|200]]
+ ![[vg_Horizon Forbidden West (Burning Shores).webp|media-cover]]
 
 I completed the Burning Shores DLC on [[2023-11-26]] after starting it the day before. A great storyline that could easily have been part of the main story it was so well integrated. Starting at level 50 Aloy was simply over-powered and that made it adventurous fun. No complaints at all.

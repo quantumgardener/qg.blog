@@ -9,8 +9,9 @@ updated: 2024-08-06T17:58:00
 platform:
   - "[[PlayStation 3]]"
 playthroughs: 1
+thumbnail: "[[vg_BioShock Infinite_t.webp]]"
 ---
-![[vg_BioShock Infinite.webp|media-cover|200]]
+![[vg_BioShock Infinite.webp|media-cover]]
 
 This is the first Bioshock game that I played and only because it was a free monthly game on the [[PlayStation 3]].
 

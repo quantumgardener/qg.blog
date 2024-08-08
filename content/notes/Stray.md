@@ -9,7 +9,7 @@ rating: "[[4-star|⭐️⭐️⭐️⭐️]]"
 platform:
   - "[[PlayStation 5]]"
 ---
-![[vg_Stray.webp|media-cover|200]]
+![[vg_Stray.webp|media-cover]]
 
 A game where I got to play as a cat.
 

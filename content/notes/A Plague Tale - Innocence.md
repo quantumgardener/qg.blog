@@ -13,7 +13,7 @@ rating: "[[4-star|⭐️⭐️⭐️⭐️]]"
 platform:
   - "[[PlayStation 5]]"
 ---
-![[vg_A Plague Tale - Innocence.webp|media-cover|200]]
+![[vg_A Plague Tale - Innocence.webp|media-cover]]
 
 # Synopsis
 In *A Plague Tale: Innocence* you play Amicia, a teenage girl who goes on a journey to save her little brother Hugo from an unknown affliction and the power hungry Church. It's a supernatural story set against the background of 14th Century France.

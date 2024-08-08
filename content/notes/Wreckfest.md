@@ -8,7 +8,7 @@ rating: "[[3-star|⭐️⭐️⭐️]]"
 platform:
   - "[[PlayStation 5]]"
 ---
-![[vg_Wreckfest.webp|media-cover|200]]
+![[vg_Wreckfest.webp|media-cover]]
 
 Wreckfest is a lot of fun to play. Demolition Derby racing. No more to say than that.
 

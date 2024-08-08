@@ -10,7 +10,7 @@ datetime: 2023-01-25T20:07:23
 updated: 2024-08-05T20:10:00
 title:
 ---
-![[vg_Marvel's Spider-Man.webp|media-cover|200]]
+![[vg_Marvel's Spider-Man.webp|media-cover]]
 
 What a romp this game was. Taking on the persona of Spider-Man, swinging through New York and taking down criminals along the way.
 

@@ -11,7 +11,7 @@ title: "Ratchet & Clank: Rift Apart"
 aliases:
   - "Ratchet & Clank: Rift Apart"
 ---
-![[vg_Ratchet and Clank - Rift Apart.webp|media-cover|200]]
+![[vg_Ratchet and Clank - Rift Apart.webp|media-cover]]
 
 This is a sequel to [[Ratchet and Clank|Ratchet & Clank]] which I thoroughly enjoyed playing. I started this on 15 June 2021. It's the first dedicated [[PlayStation 5]] title that I have been looking forward to with all the bells and whistles.
 

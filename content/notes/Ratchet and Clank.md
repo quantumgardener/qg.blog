@@ -11,6 +11,6 @@ updated:
 title: Ratchet & Clank
 aliases: Ratchet & Clank
 ---
-![[vg_Ratchet & Clank.webp|media-cover|200]]
+![[vg_Ratchet & Clank.webp|media-cover]]
 
 This was a great game. I enjoyed the gameplay and humour. Would not have played it if it weren't for it being part of the PlayStation Plus Collection.

@@ -10,7 +10,7 @@ platform:
   - "[[Commodore 64]]"
   - "[[iOS]]"
 ---
-![[vg_Zork I.webp|media-cover|200]]
+![[vg_Zork I.webp|media-cover]]
 
 The first computer game I ever owned. I remember fondly playing it on a [[Commodore 64]] on Christmas Day as my family were out playing the park across the road. Some quiet time on the day. 5&frac14;" floppy disc and all.
 

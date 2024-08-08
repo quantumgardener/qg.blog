@@ -9,7 +9,7 @@ rating: "[[3-star|⭐️⭐️⭐️]]"
 platform:
   - "[[PlayStation 4]]"
 ---
-![[vg_Project CARS 2.webp|media-cover|200]]
+![[vg_Project CARS 2.webp|media-cover]]
 
 Purchased on eBay second hand for $22.
 

@@ -11,7 +11,7 @@ platform:
   - "[[PlayStation 5]]"
 ---
 ## Main Game
-![[vg_Horizon Zero Dawn.webp|media-cover|200]]
+![[vg_Horizon Zero Dawn.webp|media-cover]]
 
 With [[Horizon Forbidden West]] on the *horizon* later in 2022, I revisited Zero Dawn in order to refamiliarise myself with the lore and gameplay. I've achieved a [[Platinum trophy]] in 3 years and 11 months since starting and enjoyed getting another 10-15 hours out a game where I'd previously finished the main story line. I think 70-75 hours all up.
 
@@ -20,6 +20,6 @@ Aloy is such an amazing character and great fun to play. Her strength of charact
 Even now, when you see someone online easily take down a machine in 90-120 seconds that takes me 5-10 minutes, I have some improving to do.
 
 ## Frozen Wilds DLC
-![[vg_Horizon Zero Dawn (The Frozen Wilds).webp|media-cover|200]]
+![[vg_Horizon Zero Dawn (The Frozen Wilds).webp|media-cover]]
 
 Aloy in the snow was a challenging addition to the base game.

@@ -8,7 +8,7 @@ rating: "[[3-star|⭐️⭐️⭐️]]"
 platform:
   - "[[PlayStation 5]]"
 ---
-![[vg_Trek_to_Yomi.webp|media-cover|200]]
+![[vg_Trek_to_Yomi.webp|media-cover]]
 
 Artistic, black-and-white, side-scrolling, button-mashing, samurai fighter. Short at about 5 hours to play. That's enough.
 

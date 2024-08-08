@@ -11,4 +11,4 @@ title:
 ---
 My [[Nintendo Wii]] games.
 
-<!-- QueryToSerialize: table without id fembed(link(thumbnail)) as "Game", file.link as "", rating as Rating, playthroughs as "Plays", link(split( filter(file.tags, (t) => startswith(t, "#status") )[0], "/" )[1]) as Status from #class/video-game where contains(platform, [[Nintendo Wii]]) sort file.name -->
+<!-- QueryToSerialize: table without id embed(link(thumbnail)) as "Game", file.link as "", rating as Rating, link(split( filter(file.tags, (t) => startswith(t, "#status") )[0], "/" )[1]) as Status from #class/video-game where contains(platform, [[Nintendo Wii]]) sort file.name -->

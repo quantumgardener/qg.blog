@@ -11,12 +11,12 @@ title:
 ---
 Games for the [[PlayStation VR2]] headset.
 
-<!-- QueryToSerialize: table without id embed(link(thumbnail)) as "Game", file.link as "", rating as Rating, playthroughs as "Plays", link(split( filter(file.tags, (t) => startswith(t, "#status") )[0], "/" )[1]) as Status from #class/video-game where contains(platform, [[PlayStation VR2]]) sort file.name -->
-<!-- SerializedQuery: table without id embed(link(thumbnail)) as "Game", file.link as "", rating as Rating, playthroughs as "Plays", link(split( filter(file.tags, (t) => startswith(t, "#status") )[0], "/" )[1]) as Status from #class/video-game where contains(platform, [[PlayStation VR2]]) sort file.name -->
+<!-- QueryToSerialize: table without id embed(link(thumbnail)) as "Game", file.link as "", rating as Rating, link(split( filter(file.tags, (t) => startswith(t, "#status") )[0], "/" )[1]) as Status from #class/video-game where contains(platform, [[PlayStation VR2]]) sort file.name -->
+<!-- SerializedQuery: table without id embed(link(thumbnail)) as "Game", file.link as "", rating as Rating, link(split( filter(file.tags, (t) => startswith(t, "#status") )[0], "/" )[1]) as Status from #class/video-game where contains(platform, [[PlayStation VR2]]) sort file.name -->
 
-| Game |                                                     | Rating                               | Plays | Status                                   |
-| ---- | --------------------------------------------------- | ------------------------------------ | ----- | ---------------------------------------- |
-| \-   | [[Atlas/Notes/Gran Turismo 7.md\|Gran Turismo 7]]   | [[Quartz/notes/4-star.md\|⭐️⭐️⭐️⭐️]] | \-    | [[Quartz/notes/ongoing.md\|ongoing]]     |
-| \-   | [[Quartz/notes/No Man's Sky.md\|No Man's Sky]]      | [[Quartz/notes/4-star.md\|⭐️⭐️⭐️⭐️]] | \-    | [[Quartz/notes/completed.md\|completed]] |
-| \-   | [[Atlas/Notes/Resident Evil 4.md\|Resident Evil 4]] | [[Quartz/notes/3-star.md\|⭐️⭐️⭐️]]   | \-    | [[Quartz/notes/completed.md\|completed]] |
+| Game |                                                     | Rating                               | Status                                   |
+| ---- | --------------------------------------------------- | ------------------------------------ | ---------------------------------------- |
+| \-   | [[Atlas/Notes/Gran Turismo 7.md\|Gran Turismo 7]]   | [[Quartz/notes/4-star.md\|⭐️⭐️⭐️⭐️]] | [[Quartz/notes/ongoing.md\|ongoing]]     |
+| \-   | [[Quartz/notes/No Man's Sky.md\|No Man's Sky]]      | [[Quartz/notes/4-star.md\|⭐️⭐️⭐️⭐️]] | [[Quartz/notes/completed.md\|completed]] |
+| \-   | [[Atlas/Notes/Resident Evil 4.md\|Resident Evil 4]] | [[Quartz/notes/3-star.md\|⭐️⭐️⭐️]]   | [[Quartz/notes/completed.md\|completed]] |
 <!-- SerializedQuery END -->
