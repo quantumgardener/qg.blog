@@ -8,6 +8,7 @@ rating: "[[4-star|⭐️⭐️⭐️⭐️]]"
 platform:
   - "[[PlayStation 4]]"
 title: "Middle Earth: Shadow of Mordor"
+thumbnail: "[[vg_Middle Earth - Shadow of Mordor_t.webp]]"
 ---
 ![[vg_Middle Earth - Shadow of Mordor.webp|media-cover]] 
 

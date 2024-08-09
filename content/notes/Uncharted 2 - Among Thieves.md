@@ -2,6 +2,7 @@
 tags:
   - class/video-game
   - status/completed
+series: "[[Uncharted (Series)]]"
 sequence: 2
 playthroughs: 3
 datetime: 2023-06-10T14:49:53

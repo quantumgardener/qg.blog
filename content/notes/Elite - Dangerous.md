@@ -4,6 +4,7 @@ aliases:
 tags:
   - class/video-game
   - status/completed
+series: "[[Elite (Series)]]"
 sequence: 3
 datetime: 2023-01-25T20:07:24
 updated: 2024-08-02T16:29:00
@@ -12,6 +13,7 @@ rating: "[[5-star|⭐️⭐️⭐️⭐️⭐️]]"
 platform:
   - "[[PlayStation 4]]"
   - "[[PlayStation 5]]"
+thumbnail: "[[vg_Elite - Dangerous_t.webp]]"
 ---
 ![[vg_Elite - Dangerous.webp|media-cover]]
 

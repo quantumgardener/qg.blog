@@ -7,7 +7,7 @@ rating: "[[3-star|⭐️⭐️⭐️]]"
 platform:
   - "[[PlayStation 5]]"
 ---
-![[vg_Maquette.webp|200]]
+![[vg_Maquette.webp|media-cover]]
 
 **Maquette** is a recursive puzzle game was free as part of March 2021's PlayStation Plus game subscription.
 

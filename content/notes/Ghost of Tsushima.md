@@ -8,7 +8,7 @@ platform:
   - "[[PlayStation 5]]"
 datetime: 2023-01-25T20:07:24
 updated: 2024-08-05T20:08:00
-title:
+thumbnail: "[[vg_Ghost of Tsushima_t.webp]]"
 ---
 ## Ghost of Tsushima (Original release)
 ![[vg_Ghost of Tsushima.webp|media-cover]]

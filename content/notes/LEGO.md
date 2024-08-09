@@ -10,7 +10,7 @@ Lots of LEGO threaded in-an-out of this [[Digital garden]].
 
 - Build a model: [[LEGO build instructions]]
 - Play a game: 
-	- [[LEGO Harry Potter]]
+	- [[LEGO Harry Potter (Series)]]
 	- [[LEGO Star Wars - The Skywalker Saga]]
 - Check out a [[lego-builds|LEGO Build]]: 
 	- [[Building the Millennium Falcon in LEGO]]

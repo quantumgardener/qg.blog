@@ -16,7 +16,7 @@ Many player never get one "plat". I've been proud to get each one. This list ref
 
 Achievement times are not always contiguous. I can leave a game for a long time before returning to it.
 
-| Cover                                          | Game                                                                | Platinum Achieved (by date) | Duration                    |     |
+| Game                                           |                                                                     | Platinum Achieved (by date) | Duration                    |     |
 | :--------------------------------------------- | :------------------------------------------------------------------ | :-------------------------- | :-------------------------- | --- |
 | ![[vg_Middle Earth - Shadow of Mordor_t.webp]] | [[Middle Earth - Shadow of Mordor\|Middle Earth: Shadow of Mordor]] | 26 July 2015                | 1 month, 1 week, 5 days     |     |
 | ![[vg_Ghost of Tsushima_t.webp]]               | [[Ghost of Tsushima]]                                               | 22 August 2020              | 1 month                     |     |

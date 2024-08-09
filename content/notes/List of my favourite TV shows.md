@@ -14,10 +14,10 @@ I did previously keep a list of all completed TV series/seasons but have decided
 <!-- QueryToSerialize: table without id embed(link(thumbnail)) as "TV Show", file.link as "", rating  as Rating from #class/tv-show where contains(rating, [[4-star]]) sort file.name -->
 <!-- SerializedQuery: table without id embed(link(thumbnail)) as "TV Show", file.link as "", rating  as Rating from #class/tv-show where contains(rating, [[4-star]]) sort file.name -->
 
-| TV Show                                                                                  |                                                        | Rating                               |
-| ---------------------------------------------------------------------------------------- | ------------------------------------------------------ | ------------------------------------ |
-| ![[Quartz/assets/covers/tv_Babylon 5_t.webp\|tv_Babylon 5_t.webp]]                       | [[Quartz/notes/Babylon 5.md\|Babylon 5]]               | [[Quartz/notes/4-star.md\|⭐️⭐️⭐️⭐️]] |
-| ![[Quartz/assets/covers/tv_Band of Brothers_txxxx.webp\|tv_Band of Brothers_txxxx.webp]] | [[Quartz/notes/Band of Brothers.md\|Band of Brothers]] | [[Quartz/notes/4-star.md\|⭐️⭐️⭐️⭐️]] |
+| TV Show                                                                          |                                                        | Rating                               |
+| -------------------------------------------------------------------------------- | ------------------------------------------------------ | ------------------------------------ |
+| ![[Quartz/assets/covers/tv_Babylon 5_t.webp\|tv_Babylon 5_t.webp]]               | [[Quartz/notes/Babylon 5.md\|Babylon 5]]               | [[Quartz/notes/4-star.md\|⭐️⭐️⭐️⭐️]] |
+| ![[Quartz/assets/covers/tv_Band of Brothers_t.webp\|tv_Band of Brothers_t.webp]] | [[Quartz/notes/Band of Brothers.md\|Band of Brothers]] | [[Quartz/notes/4-star.md\|⭐️⭐️⭐️⭐️]] |
 <!-- SerializedQuery END -->
 
 

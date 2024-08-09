@@ -3,11 +3,12 @@ tags:
   - class/video-game
   - status/completed
 datetime: 2023-01-25T20:07:23
-updated: 
+updated: 2024-08-09T17:34:00
 sequence: 2
 rating: "[[3-star|⭐️⭐️⭐️]]"
 platform:
   - "[[PlayStation 4]]"
+thumbnail: "[[vg_Project CARS 2_t.webp]]"
 ---
 ![[vg_Project CARS 2.webp|media-cover]]
 
@@ -18,3 +19,5 @@ I've been enjoying the game. More "realistic" than [[Gran Turismo Sport]] but on
 If only they weren't so expensive.
 
 ...I now have a [[Thrustmaster T300 RS GT]] wheel.
+
+Still, this game is more simcade racing than sim-racing. My preferred go to race game is [[Assetto Corsa Competizione]]. 

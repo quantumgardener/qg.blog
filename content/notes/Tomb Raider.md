@@ -2,6 +2,7 @@
 tags:
   - class/video-game
   - status/completed
+series: "[[Tomb Raider (Series)]]"
 sequence: 1
 playthroughs: 2
 datetime: 2023-06-10T11:14:53

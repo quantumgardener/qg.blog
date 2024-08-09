@@ -2,9 +2,10 @@
 tags:
   - class/video-game
   - status/ongoing
-sequence: 1
+series: "[[Cities Skylines (Series)]]"
+sequence: 2
 datetime: 2024-05-14T12:00:00
-updated:
+updated: 
 rating: "[[3-star|⭐️⭐️⭐️]]"
 platform:
   - "[[Microsoft Windows]]"

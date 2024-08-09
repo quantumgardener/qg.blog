@@ -1,11 +1,10 @@
 ---
-aliases: 
 tags:
   - class/video-game
   - status/dropped
 datetime: 2023-06-08T20:02:06
 updated: 2024-08-02T15:57:00
-title: 
+series: "[[Diablo (Series)]]"
 sequence: 4
 rating: "[[2-star|⭐️⭐️]]"
 platform:
