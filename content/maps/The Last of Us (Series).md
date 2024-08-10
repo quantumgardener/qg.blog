@@ -13,5 +13,5 @@ updated:
 | --- | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
 | 1   | ![[Quartz/assets/covers/vg_The Last of Us_t.webp\|vg_The Last of Us_t.webp]]                             | [[Quartz/notes/The Last of Us.md\|The Last of Us]]                             |
 | 1.5 | ![[Quartz/assets/covers/vg_The Last of Us - Left Behind_t.webp\|vg_The Last of Us - Left Behind_t.webp]] | [[Quartz/notes/The Last of Us - Left Behind.md\|The Last of Us - Left Behind]] |
-| 2   | \-                                                                                                       | [[Atlas/Notes/The Last of Us Part II.md\|The Last of Us Part II]]              |
+| 2   | ![[Quartz/assets/covers/vg_The Last of Us Part II_t.webp\|vg_The Last of Us Part II_t.webp]]             | [[Quartz/notes/The Last of Us Part II.md\|The Last of Us Part II]]             |
 <!-- SerializedQuery END -->

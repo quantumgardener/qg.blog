@@ -8,6 +8,7 @@ updated: 2024-08-02T17:39:00
 rating: "[[4-star|⭐️⭐️⭐️⭐️]]"
 platform:
   - "[[PlayStation 5]]"
+thumbnail: "[[vg_Stray_t.webp]]"
 ---
 ![[vg_Stray.webp|media-cover]]
 

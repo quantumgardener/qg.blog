@@ -3,9 +3,11 @@ tags:
   - class/video-game
   - status/dropped
 datetime: 2024-02-27T00:00:00
+updated: 
 rating: "[[3-star|⭐️⭐️⭐️]]"
 platform:
   - "[[PlayStation 5]]"
+thumbnail: "[[vg_Maquette_t.webp]]"
 ---
 ![[vg_Maquette.webp|media-cover]]
 

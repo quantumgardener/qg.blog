@@ -2,7 +2,7 @@
 tags:
   - class/video-game
   - status/completed
-sequence: 11
+sequence: 8
 rating: "[[4-star|⭐️⭐️⭐️⭐️]]"
 datetime: 2023-01-25T20:07:24
 updated: 

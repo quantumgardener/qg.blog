@@ -20,7 +20,3 @@ With [[Horizon Forbidden West]] on the *horizon* later in 2022, I revisited Zero
 Aloy is such an amazing character and great fun to play. Her strength of character as it develops over this game (and subsequent) makes her a true hero and example of leadership.
 
 Even now, when you see someone online easily take down a machine in 90-120 seconds that takes me 5-10 minutes, I have some improving to do.
-## Frozen Wilds DLC
-![[vg_Horizon Zero Dawn (The Frozen Wilds).webp|media-cover]]
-
-Aloy in the snow was a challenging addition to the base game.

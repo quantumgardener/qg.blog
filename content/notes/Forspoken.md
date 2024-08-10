@@ -7,6 +7,7 @@ updated:
 rating: "[[4-star|⭐️⭐️⭐️⭐️]]"
 platform:
   - "[[PlayStation 5]]"
+thumbnail: "[[vg_Forspoken_t.webp]]"
 ---
 ![[vg_Forspoken.webp|media-cover]]
 
