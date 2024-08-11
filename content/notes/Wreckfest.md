@@ -7,6 +7,7 @@ updated:
 rating: "[[3-star|⭐️⭐️⭐️]]"
 platform:
   - "[[PlayStation 5]]"
+thumbnail: "[[vg_Wreckfest_t.webp]]"
 ---
 ![[vg_Wreckfest.webp|media-cover]]
 

@@ -11,7 +11,7 @@ platform:
   - "[[PlayStation 5]]"
 datetime: 2023-01-25T20:07:22
 title: "Ratchet & Clank: Rift Apart"
-thumbnail: "[[vg_Ratchet & Clank - Rift Apart_t.webp]]"
+thumbnail: "[[vg_Ratchet and Clank - Rift Apart_t.webp]]"
 ---
 ![[vg_Ratchet and Clank - Rift Apart.webp|media-cover]]
 

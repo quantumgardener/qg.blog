@@ -12,7 +12,7 @@ aliases:
 
 | #  | Game                                                                                                           |                                                                                      |
 | -- | -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
-| 3  | \-                                                                                                             | [[Atlas/Notes/Call of Duty 3.md\|Call of Duty 3]]                                    |
+| 3  | ![[Quartz/assets/covers/vg_Call of Duty 3_t.webp\|vg_Call of Duty 3_t.webp]]                                   | [[Quartz/notes/Call of Duty 3.md\|Call of Duty 3]]                                   |
 | 4  | ![[Quartz/assets/covers/vg_Call of Duty 4 - Modern Warfare_t.webp\|vg_Call of Duty 4 - Modern Warfare_t.webp]] | [[Quartz/notes/Call of Duty 4 - Modern Warfare.md\|Call of Duty 4 - Modern Warfare]] |
 | 7  | ![[Quartz/assets/covers/vg_Call of Duty - Modern Warfare 2_t.webp\|vg_Call of Duty - Modern Warfare 2_t.webp]] | [[Quartz/notes/Call of Duty - Modern Warfare 2.md\|Call of Duty - Modern Warfare 2]] |
 | 16 | ![[Quartz/assets/covers/vg_Call of Duty - Modern Warfare_t.webp\|vg_Call of Duty - Modern Warfare_t.webp]]     | [[Quartz/notes/Call of Duty - Modern Warfare.md\|Call of Duty - Modern Warfare]]     |

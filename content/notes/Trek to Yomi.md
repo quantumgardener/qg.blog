@@ -7,6 +7,7 @@ updated:
 rating: "[[3-star|⭐️⭐️⭐️]]"
 platform:
   - "[[PlayStation 5]]"
+thumbnail: "[[vg_Trek_to_Yomi_t.webp]]"
 ---
 ![[vg_Trek_to_Yomi.webp|media-cover]]
 

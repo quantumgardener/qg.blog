@@ -13,6 +13,7 @@ updated:
 | --- | ------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------- |
 | 1   | ![[Quartz/assets/covers/vg_Horizon Zero Dawn_t.webp\|vg_Horizon Zero Dawn_t.webp]]                                             | [[Quartz/notes/Horizon Zero Dawn.md\|Horizon Zero Dawn]]                                             |
 | 1.5 | ![[Quartz/assets/covers/vg_Horizon Zero Dawn (The Frozen Wilds)_t.webp\|vg_Horizon Zero Dawn (The Frozen Wilds)_t.webp]]       | [[Quartz/notes/Horizon Zero Dawn - Frozen Wilds.md\|Horizon Zero Dawn - Frozen Wilds]]               |
+| 1.9 | ![[Quartz/assets/covers/vg_Horizon - Call of the Mountain_t.webp\|vg_Horizon - Call of the Mountain_t.webp]]                   | [[Quartz/notes/Horizon - Call of the Mountain.md\|Horizon - Call of the Mountain]]                   |
 | 2   | ![[Quartz/assets/covers/vg_Horizon Forbidden West_t.webp\|vg_Horizon Forbidden West_t.webp]]                                   | [[Quartz/notes/Horizon Forbidden West.md\|Horizon Forbidden West]]                                   |
 | 2.5 | ![[Quartz/assets/covers/vg_Horizon Forbidden West (Burning Shores)_t.webp\|vg_Horizon Forbidden West (Burning Shores)_t.webp]] | [[Quartz/notes/Horizon Forbidden West - Burning Shores.md\|Horizon Forbidden West - Burning Shores]] |
 <!-- SerializedQuery END -->
