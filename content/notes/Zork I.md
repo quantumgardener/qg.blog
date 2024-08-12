@@ -2,6 +2,7 @@
 tags:
   - class/video-game
   - status/completed
+series: "[[Zork (Series)]]"
 datetime: 2023-01-25T20:07:20
 updated: 
 sequence: 1
@@ -9,6 +10,7 @@ rating: "[[5-star|⭐️⭐️⭐️⭐️⭐️]]"
 platform:
   - "[[Commodore 64]]"
   - "[[iOS]]"
+thumbnail: "[[vg_Zork I_t.webp]]"
 ---
 ![[vg_Zork I.webp|media-cover]]
 

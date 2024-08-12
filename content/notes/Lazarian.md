@@ -7,6 +7,7 @@ updated:
 rating: "[[3-star|⭐️⭐️⭐️]]"
 platform:
   - "[[Commodore 64]]"
+thumbnail: "[[vg_Lazarian_t.webp]]"
 ---
 ![[vg_Lazarian.webp|media-cover]]
 

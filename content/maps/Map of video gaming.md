@@ -1,7 +1,7 @@
 ---
 tags: 
 datetime: 2023-09-28T12:00:00
-updated: 2024-08-08T19:16:00
+updated: 2024-08-12T18:34:00
 description: All things video games and the platforms I play on.
 ---
 All things video gaming.
@@ -18,6 +18,7 @@ All things video gaming.
 |                           | [[Commodore Amiga]] ([[Commodore Amiga games\|games]])                     |
 |                           | [[Nintendo Game and Watch]] ([[Nintendo Game and Watch games\|games]])     |
 |                           | [[Microsoft Windows]] ([[Microsoft Windows games\|games]])                 |
+|                           | [[iOS]] ([[iOS games\|games]])                                             |
 | Check out my achievements | [[Platinum trophy]]                                                        |
 | Check progress            | [Quantum-Gardener's PSN Profile](https://psnprofiles.com/Quantum-Gardener) |
 | View by ranking           | [[5-star games\|⭐️⭐️⭐️⭐️⭐️ games]]                                         |

@@ -8,7 +8,6 @@ tags:
 datetime: 2024-08-02T13:54:00
 updated: 
 title: ⭐️⭐️⭐️⭐️⭐️ games
-description: List of 5-star computer games
 ---
 All games on this list are rated [[5-star|⭐️⭐️⭐️⭐️⭐️]].
 
@@ -22,5 +21,5 @@ All games on this list are rated [[5-star|⭐️⭐️⭐️⭐️⭐️]].
 | ![[Quartz/assets/covers/vg_Elite - Dangerous_t.webp\|vg_Elite - Dangerous_t.webp]] | [[Quartz/notes/Elite - Dangerous.md\|Elite - Dangerous]] | <ul><li>[[Atlas/Notes/PlayStation 4.md\|PlayStation 4]]</li><li>[[Quartz/notes/PlayStation 5.md\|PlayStation 5]]</li></ul>                                                          |
 | ![[Quartz/assets/covers/vg_Horizon Zero Dawn_t.webp\|vg_Horizon Zero Dawn_t.webp]] | [[Quartz/notes/Horizon Zero Dawn.md\|Horizon Zero Dawn]] | <ul><li>[[Atlas/Notes/PlayStation 4.md\|PlayStation 4]]</li><li>[[Quartz/notes/PlayStation 5.md\|PlayStation 5]]</li></ul>                                                          |
 | ![[Quartz/assets/covers/vg_The Last of Us_t.webp\|vg_The Last of Us_t.webp]]       | [[Quartz/notes/The Last of Us.md\|The Last of Us]]       | <ul><li>[[Atlas/Notes/PlayStation 3.md\|PlayStation 3]]</li><li>[[Atlas/Notes/PlayStation 4.md\|PlayStation 4]]</li><li>[[Quartz/notes/PlayStation 5.md\|PlayStation 5]]</li></ul> |
-| \-                                                                                 | [[Quartz/notes/Zork I.md\|Zork I]]                       | <ul><li>[[Atlas/Notes/Commodore 64.md\|Commodore 64]]</li><li>[[iOS\|iOS]]</li></ul>                                                                                                |
+| ![[Quartz/assets/covers/vg_Zork I_t.webp\|vg_Zork I_t.webp]]                       | [[Quartz/notes/Zork I.md\|Zork I]]                       | <ul><li>[[Atlas/Notes/Commodore 64.md\|Commodore 64]]</li><li>[[iOS\|iOS]]</li></ul>                                                                                                |
 <!-- SerializedQuery END -->
