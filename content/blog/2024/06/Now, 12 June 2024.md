@@ -1,7 +1,7 @@
 ---
 tags:
+  - class/now
 datetime: 2024-06-12T20:31:06
-landscapes:
 ---
 For the last 2-3 weeks I've been concentrating on taking meaningful notes that are my own thinking and which I can use for later writing. It has been an interesting and rewarding journey.
 

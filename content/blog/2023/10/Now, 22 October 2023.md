@@ -1,5 +1,6 @@
 ---
-tags: 
+tags:
+  - class/now
 datetime: 2023-10-22T00:00:00
 ---
 It's been an interesting month. I've been slowly transferring notes into the [[Digital garden]] from multiple sources. Certainly, the system I have in place now is much better for me to manage. Single points of truth, all interlinked. Old blog posts have been deleted for not being relevant, combined because over time there is a single idea across multiple points, or posted as is.

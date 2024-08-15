@@ -1,5 +1,6 @@
 ---
-tags: 
+tags:
+  - class/now
 datetime: 2023-12-11T00:00:00
 ---
 Christmas and the end of the work year are upon us. Last year my mental state was poor though I didn't fully realise that until after the holidays. I wrote [[R U OK at Christmas]] not realising it was for me more than anyone else.

@@ -1,4 +1,6 @@
 ---
+tags:
+  - class/now
 datetime: 2024-05-03T18:27:00
 ---
 Today I posted the documentation on my [[IMatch to Socials]] project. It's been somewhat of a labour of love over the past couple of months to write code that will automate the upload and update of images from [[IMatch]] to my [flickr](https://www.flickr.com/photos/dcbuchan/) and [pixelfed](https://pixelfed.au/dcbuchan) accounts.

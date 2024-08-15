@@ -1,5 +1,6 @@
 ---
-tags: 
+tags:
+  - class/now
 datetime: 2024-08-11T19:43:18
 ---
 The Paris Olympics are on their final day and life will return to normal for another 4 years. It's always enjoyable to see new sports but I haven't really connected with the coverage this year. I don't know if it's the time difference, or Channel 9 having too many channels. There is no through-line of story and Channel 9 seem to have drowned in too much choice. Now, if they could only leave Mark Taylor in Paris so that we never hear from him as a commentator again I'll be happy.

@@ -1,7 +1,7 @@
 ---
 tags:
+  - class/now
 datetime: 2024-08-05T19:39:59
-landscapes:
 ---
 I've been going to start this entry multiple times and never started. In the spirit of something is better than nothing, here I go.
 
