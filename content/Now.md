@@ -5,6 +5,8 @@ tags:
 datetime: 2024-08-15T19:57:16
 updated:
 ---
+What am I up to now?
+
 <!-- QueryToSerialize: list rows.file.link from #class/now group by dateformat(datetime, "yyyy-MM") AS mon sort mon desc -->
 <!-- SerializedQuery: list rows.file.link from #class/now group by dateformat(datetime, "yyyy-MM") AS mon sort mon desc -->
 - 2024-08: 
