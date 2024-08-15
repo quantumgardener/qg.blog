@@ -31,4 +31,7 @@ updated:
 - 2023-10: 
     - [[Quartz/blog/2023/10/Now, 22 October 2023.md|Now, 22 October 2023]]
 
+- 2023-04: 
+    - [[Quartz/blog/2023/04/Now, 2 April 2023.md|Now, 2 April 2023]]
+
 <!-- SerializedQuery END -->
