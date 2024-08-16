@@ -13,6 +13,7 @@ The 50 most recently updated notes.
 
 | File                                                                                                                           | Date                       |
 | ------------------------------------------------------------------------------------------------------------------------------ | -------------------------- |
+| [[Quartz/notes/PlayStation 4.md\|PlayStation 4]]                                                                               | 5:23 PM - August 16, 2024  |
 | [[Quartz/notes/Basic Linguistic Acts.md\|Basic Linguistic Acts]]                                                               | 3:56 PM - August 16, 2024  |
 | [[Quartz/notes/Gran Turismo 7.md\|Gran Turismo 7]]                                                                             | 3:56 PM - August 16, 2024  |
 | [[Quartz/notes/Marvel's Spider-Man - Miles Morales.md\|Marvel's Spider-Man - Miles Morales]]                                   | 3:56 PM - August 16, 2024  |
@@ -62,5 +63,4 @@ The 50 most recently updated notes.
 | [[Quartz/notes/Diablo IV.md\|Diablo IV]]                                                                                       | 3:57 PM - August 02, 2024  |
 | [[Quartz/notes/Nintendo Game and Watch.md\|Nintendo Game and Watch]]                                                           | 2:25 PM - August 02, 2024  |
 | [[Quartz/notes/Middle Earth - Shadow of Mordor.md\|Middle Earth - Shadow of Mordor]]                                           | 1:23 PM - August 02, 2024  |
-| [[Quartz/notes/My document toolkit.md\|My document toolkit]]                                                                   | 1:23 PM - August 02, 2024  |
 <!-- SerializedQuery END -->
