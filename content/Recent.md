@@ -13,6 +13,10 @@ The 50 most recently updated notes.
 
 | File                                                                                                                           | Date                       |
 | ------------------------------------------------------------------------------------------------------------------------------ | -------------------------- |
+| [[Quartz/notes/FLAC.md\|FLAC]]                                                                                                 | 8:23 PM - August 16, 2024  |
+| [[Quartz/notes/Plex streams securely outside the home.md\|Plex streams securely outside the home]]                             | 8:19 PM - August 16, 2024  |
+| [[Quartz/notes/Plexamp setup is easy.md\|Plexamp setup is easy]]                                                               | 8:16 PM - August 16, 2024  |
+| [[Quartz/notes/Plexamp.md\|Plexamp]]                                                                                           | 8:13 PM - August 16, 2024  |
 | [[Quartz/notes/PlayStation 4.md\|PlayStation 4]]                                                                               | 5:23 PM - August 16, 2024  |
 | [[Quartz/notes/Basic Linguistic Acts.md\|Basic Linguistic Acts]]                                                               | 3:56 PM - August 16, 2024  |
 | [[Quartz/notes/Gran Turismo 7.md\|Gran Turismo 7]]                                                                             | 3:56 PM - August 16, 2024  |
@@ -59,8 +63,4 @@ The 50 most recently updated notes.
 | [[Quartz/notes/Donkey Kong Jr..md\|Donkey Kong Jr.]]                                                                           | 4:50 PM - August 02, 2024  |
 | [[Quartz/notes/Elite.md\|Elite]]                                                                                               | 4:46 PM - August 02, 2024  |
 | [[Quartz/notes/Elite - Dangerous.md\|Elite - Dangerous]]                                                                       | 4:29 PM - August 02, 2024  |
-| [[Quartz/notes/Hogwarts Legacy.md\|Hogwarts Legacy]]                                                                           | 4:24 PM - August 02, 2024  |
-| [[Quartz/notes/Diablo IV.md\|Diablo IV]]                                                                                       | 3:57 PM - August 02, 2024  |
-| [[Quartz/notes/Nintendo Game and Watch.md\|Nintendo Game and Watch]]                                                           | 2:25 PM - August 02, 2024  |
-| [[Quartz/notes/Middle Earth - Shadow of Mordor.md\|Middle Earth - Shadow of Mordor]]                                           | 1:23 PM - August 02, 2024  |
 <!-- SerializedQuery END -->
