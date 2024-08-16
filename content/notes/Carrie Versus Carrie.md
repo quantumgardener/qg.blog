@@ -3,9 +3,9 @@ tags:
   - review
   - movie
   - class/book
-date: 2023-02-02
 landscapes:
   - "[[Hobby Together]]"
+datetime: 2023-02-02T12:00:00
 ---
 This morning I finished _[[Carrie]]_ the book and this afternoon I watched the 1976 movie.
 

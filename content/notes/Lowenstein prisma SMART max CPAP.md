@@ -4,7 +4,7 @@ aliases:
 tags: 
 datetime: 2024-07-18T16:07:48
 updated: 
-title:
+title: 
 ---
 [[Tap water or rust]] looks at my decision to use regular tap or distilled water.
 ## Humidity

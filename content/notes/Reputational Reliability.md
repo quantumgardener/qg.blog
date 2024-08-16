@@ -2,9 +2,9 @@
 tags:
   - promises
   - way-of-being
-date: 2023-05-17
 landscapes:
   - "[[Expand My Way of Being]]"
+datetime: 2023-05-17T12:00:00
 ---
 A cornerstone of my career reputation has been built on my reliability. When others learn that I deliver what I say I will, on time and to the standard expected, they form a positive opinion of my work practices. In turn, that contributes to their assessment that I can be trusted.
 

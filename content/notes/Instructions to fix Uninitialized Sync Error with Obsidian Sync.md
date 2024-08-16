@@ -1,6 +1,6 @@
 ---
 aliases: Instructions to fix Uninitialized Sync Error with Obsidian Syncs
-tags:
+tags: 
 datetime: 2024-07-23T19:36:52
 updated: 
 title: 

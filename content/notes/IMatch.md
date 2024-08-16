@@ -1,6 +1,6 @@
 ---
 tags: 
-date: 2024-03-30
+datetime: 2024-03-30T12:00:00
 ---
 **IMatch** is the software used to manage our family library of photos and videos called [[Mediabank]]. It has supported the family's [[Photography]] in all forms for many years.
 

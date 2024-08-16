@@ -1,8 +1,8 @@
 ---
 tags: []
-date: 2023-07-09
 landscapes:
   - "[[Hobby Together]]"
+datetime: 2023-07-09T12:00:00
 ---
 This week I pulled my [[My current photography gear|Canon 400D]] DSLR out of the cupboard and clicked the shutter button a few times. I'm through my camera gear and familiarising myself with everything [[Photography]] again.
 

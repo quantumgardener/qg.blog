@@ -2,9 +2,9 @@
 tags:
   - note-making
   - metadata-strategy
-date: 2023-10-12
 landscapes:
   - "[[Expand My Way of Being]]"
+datetime: 2023-10-12T12:00:00
 ---
 This concept is an attempt to get people to remember there is more than just the map. Yet, maps show relationships. In the case of a road map, it's the relationships between A and B and importantly how to get there. 
 

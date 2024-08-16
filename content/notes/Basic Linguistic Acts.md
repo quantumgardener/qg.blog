@@ -1,7 +1,8 @@
 ---
 tags:
- - ontological-distinction
- - class/map
+  - ontological-distinction
+  - class/map
+datetime: 2024-08-16T15:56:59
 ---
 [[Basic Linguistic Acts]] are conversational patterns that cause a change in the world *when they are used effectively*. Ineffective use will more often than not lead to problems.
 

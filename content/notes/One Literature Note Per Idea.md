@@ -3,7 +3,7 @@ aliases: []
 tags: 
 datetime: 2024-05-26T13:01:45
 updated: 
-title:
+title: 
 ---
 Ahrens[^1], and others[^2], prefer to create a separate [[Literature note]] for each idea they find relevant in the source. This dramatically slows up the initial reading process and offloads the [[reference note]] function to [[fleeting note|fleeting notes]] and confuses their function.
 

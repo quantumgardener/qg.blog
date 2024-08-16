@@ -2,9 +2,9 @@
 tags:
   - review
   - music
-date: 2023-10-22
 landscapes:
   - "[[Hobby Together]]"
+datetime: 2023-10-22T12:00:00
 ---
 ![[mu_darkside.webp|media-cover]]
 

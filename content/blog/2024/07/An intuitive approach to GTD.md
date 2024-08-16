@@ -1,7 +1,7 @@
 ---
 tags: 
 datetime: 2024-07-08T19:27:00
-landscapes:
+landscapes: 
 ---
 [@TfTHacker@pkm.social](https://aus.social/@TfTHacker@pkm.social) [wrote a thread](https://aus.social/@TfTHacker@pkm.social/112739862018136878) about reconnecting with the greater purpose of the [[Getting Things Done]] methodology. They spoke of how the higher levels, known as 20,000ft to 50,000ft horizons of focus, is something they've struggled with prior to stepping back and taking another look.
 

@@ -1,6 +1,6 @@
 ---
 aliases: The content in a digital garden is not statics
-tags:
+tags: 
 datetime: 2024-07-21T17:20:52
 updated: 
 title: 

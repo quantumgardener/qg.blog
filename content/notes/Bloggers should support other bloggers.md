@@ -3,7 +3,7 @@ aliases: []
 tags: 
 datetime: 2024-06-12T18:00:21
 updated: 
-title:
+title: 
 ---
 
 > Wouldn't it be nice if there were a group of bloggers, people who write regularly, who are friends but might view things differently, but agree to read each other's pieces and speak up if they had something to say. They would know what they said would be read by other bloggers.

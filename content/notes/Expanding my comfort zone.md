@@ -2,9 +2,9 @@
 tags:
   - learning
   - concernful-activity
-date: 2022-10-11
 landscapes:
   - "[[Expand My Way of Being]]"
+datetime: 2022-10-11T12:00:00
 ---
 I have never liked the phrase "Step outside your comfort zone". Why do that uncomfortable or scary thing? An implication of stepping outside is that I can't step back inside when I may need to. I have had to commit to something I don't yet understand.
 

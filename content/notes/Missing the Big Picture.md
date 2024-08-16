@@ -1,11 +1,11 @@
 ---
-date: 2022-11-01
 tags:
   - second-order-learning
   - way-of-being
   - observing
 landscapes:
   - "[[Expand My Way of Being]]"
+datetime: 2022-11-01T12:00:00
 ---
 Today I recalled the tendency for my early career performance reviews to be positive, “but David, you need to learn to see the Big Picture.” I always left feeling a little stupid because I didn’t know what to do about it. I also felt frustrated because those telling me I needed to see the big picture couldn’t even explain what it was, let alone how I should get there.”You just need to learn how."
 

@@ -17,7 +17,7 @@ Me? Getting to grips with it. Lots of muscle memory to unlearn regarding key com
 
 [[2022-05-07]] - over 30 hours in now and still wandering around trying to work out what's going in. Had a good day today. Have certainly improved my character's abilities. Took down the Tree Sentinel on my 4th go and Flying Dragon Agheel on my first, with just shield and sword. The big boss Godrick the Grafted is my next target. After 10-15 goes the best I had him down to was 20% health. I need a bit more in the tank.
 
-[[Now, 19 March 2023]] - putting this game aside again after quite a bit of time the past 2 weeks. 85 hours in and I'm not sure what I'm doing. Proud of my effort so far and I like to think I can complete it, but practically too much investment against all the other games I'd like to be playing.
+[[2023-03-19]] - putting this game aside again after quite a bit of time the past 2 weeks. 85 hours in and I'm not sure what I'm doing. Proud of my effort so far and I like to think I can complete it, but practically too much investment against all the other games I'd like to be playing.
 
 
 ## Progress route

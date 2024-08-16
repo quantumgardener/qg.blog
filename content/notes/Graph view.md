@@ -3,7 +3,7 @@ aliases: []
 tags: 
 datetime: 2024-07-23T19:14:55
 updated: 
-title:
+title: 
 ---
 The graph view provides a visual indication of the connection between notes. The more interconnected the graph, the richer the [[Digital garden]].
 

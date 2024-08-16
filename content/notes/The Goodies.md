@@ -6,7 +6,7 @@ tags:
 title: The Goodies
 landscapes:
   - "[[Hobby Together]]"
-date: 2024-01-08
+datetime: 2024-01-08T12:00:00
 ---
 
 ![[tv_The Goodies.webp]]

@@ -1,9 +1,9 @@
 ---
 tags:
   - learning
-date: 2002-08-22
 landscapes:
   - "[[The Garden Shed]]"
+datetime: 2002-08-22T12:00:00
 ---
 These days it is possible to trial most computer software before you buy it. But what does 'trial' actually mean.
 

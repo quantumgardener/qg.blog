@@ -2,9 +2,9 @@
 JD-ID: "[[01.01 Guiding Principles]]"
 tags:
   - metadata-strategy
-date: 2023-10-14
 landscapes:
   - "[[Quantum OS]]"
+datetime: 2023-10-14T12:00:00
 ---
 Within a [[Digital garden]] it's very easy to get caught in the trap of duplicating public knowledge that can be found elsewhere, or is otherwise known.
 

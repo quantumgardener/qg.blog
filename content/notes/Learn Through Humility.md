@@ -1,11 +1,11 @@
 ---
-date: 2022-09-05
 tags:
   - second-order-learning
   - humility
   - humanity
 landscapes:
   - "[[Expand My Way of Being]]"
+datetime: 2022-09-05T12:00:00
 ---
 ![[how-to-take-smart-notes-humility-quote.webp]]
 

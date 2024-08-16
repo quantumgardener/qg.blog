@@ -3,7 +3,7 @@ JD-ID: "[[12.06 Spotify]]"
 tags: 
 landscapes:
   - "[[The Garden Shed]]"
-date: 2024-05-04
+datetime: 2024-05-04T12:00:00
 ---
 The whole family is on [[Spotify]] for our music streaming[^1]
 

@@ -3,7 +3,7 @@ aliases:
 tags: []
 datetime: 2023-01-25T20:07:23
 updated: 
-title:
+title: 
 ---
 *Ontology* is the branch of [[Metaphysics]] concerned with the study of being, or what it means to be and live as a human. 
 

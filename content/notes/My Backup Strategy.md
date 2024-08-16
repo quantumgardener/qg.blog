@@ -6,8 +6,8 @@ tags:
 landscapes:
   - "[[The Garden Shed]]"
   - "[[Quantum OS]]"
-date: 2023-12-03
 JD-ID: "[[12.01 Backups]]"
+datetime: 2023-12-03T12:00:00
 ---
 I value backups of my data and systems. Having them means a level of security if something is lost, damaged, hacked, breaks. I may be over-compensating in some areas with multiple on-site and off-site backups. Where I do that, I'm also considering the other aspect of backups which is speed of restoration.
 ## 3-2-1 Backup!

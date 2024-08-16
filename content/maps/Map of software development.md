@@ -3,7 +3,7 @@ aliases: []
 tags: 
 datetime: 2024-07-31T16:30:52
 updated: 
-title:
+title: 
 ---
 [[Software development]] is the art of creating software by creating instructions for a computer to follow in a programming language.
 

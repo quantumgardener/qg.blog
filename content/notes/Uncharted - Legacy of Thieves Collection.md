@@ -1,6 +1,6 @@
 ---
 aliases: Uncharted - Legacy of Thieves Collections
-tags:
+tags: 
 datetime: 2023-01-25T20:07:21
 updated: 
 title: 

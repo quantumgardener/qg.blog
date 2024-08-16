@@ -4,7 +4,7 @@ tags:
   - ontological-distinction
 datetime: 2023-01-25T20:07:23
 updated: 
-title:
+title: 
 ---
 *Ontological learning* is the process of learning about how we observe, perceive and react to the world. [[Way of Being is a core domain of learning]] for humans. 
 

@@ -3,7 +3,7 @@ aliases: []
 tags: 
 datetime: 2024-07-23T19:34:11
 updated: 
-title:
+title: 
 ---
 I like to have a solid backup of my [[Obsidian]] vault. File sync of any kind provides this to a degree, but not at the "restore a whole folder" level and on my first pass of using Sync I would make sure to have Obsidian open on a Windows PC at home that I knew to be backed up nightly.
 

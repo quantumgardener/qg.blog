@@ -6,7 +6,7 @@ tags:
   - class/list
   - serialised-dataview
 datetime: 2023-01-25T20:07:23
-updated:
+updated: 
 ---
 Games for the [[PlayStation 5]]. See also [[PlayStation VR2 games]] which were only playable on the PS5.
 

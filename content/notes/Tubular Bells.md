@@ -1,10 +1,10 @@
 ---
-date: 2022-10-06
 tags:
   - review
   - music
 landscapes:
   - "[[Hobby Together]]"
+datetime: 2022-10-06T12:00:00
 ---
 ## Tubular Bells 2003
 ![[cd_Tubular Bells 2003_t.webp]]

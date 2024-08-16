@@ -1,6 +1,6 @@
 ---
 datetime: 2022-10-26T00:00:00
-tags:
+tags: 
 ---
 ![[vg_Sid Meier's Civilization VI.webp|media-cover]]
 

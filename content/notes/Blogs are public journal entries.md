@@ -1,6 +1,6 @@
 ---
 aliases: Blogs are public journal entriess
-tags:
+tags: 
 datetime: 2024-07-28T09:40:14
 updated: 
 title: 

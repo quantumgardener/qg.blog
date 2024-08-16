@@ -13,7 +13,13 @@ The 50 most recently updated notes.
 
 | File                                                                                                                           | Date                       |
 | ------------------------------------------------------------------------------------------------------------------------------ | -------------------------- |
-| [[Quartz/notes/iOS games.md\|iOS games]]                                                                                       | 6:03 PM - August 12, 2024  |
+| [[Quartz/notes/Basic Linguistic Acts.md\|Basic Linguistic Acts]]                                                               | 3:56 PM - August 16, 2024  |
+| [[Quartz/notes/Gran Turismo 7.md\|Gran Turismo 7]]                                                                             | 3:56 PM - August 16, 2024  |
+| [[Quartz/notes/Marvel's Spider-Man - Miles Morales.md\|Marvel's Spider-Man - Miles Morales]]                                   | 3:56 PM - August 16, 2024  |
+| [[Quartz/notes/PlayStation 2.md\|PlayStation 2]]                                                                               | 3:56 PM - August 16, 2024  |
+| [[Quartz/notes/The Last of Us - Left Behind.md\|The Last of Us - Left Behind]]                                                 | 3:56 PM - August 16, 2024  |
+| [[Quartz/notes/Zork II.md\|Zork II]]                                                                                           | 3:56 PM - August 16, 2024  |
+| [[Quartz/notes/Zork III.md\|Zork III]]                                                                                         | 3:56 PM - August 16, 2024  |
 | [[Quartz/notes/The Room Two.md\|The Room Two]]                                                                                 | 6:02 PM - August 12, 2024  |
 | [[Quartz/notes/The Room.md\|The Room]]                                                                                         | 6:01 PM - August 12, 2024  |
 | [[Quartz/notes/Horizon - Call of the Mountain.md\|Horizon - Call of the Mountain]]                                             | 5:41 PM - August 11, 2024  |
@@ -57,10 +63,4 @@ The 50 most recently updated notes.
 | [[Quartz/notes/Nintendo Game and Watch.md\|Nintendo Game and Watch]]                                                           | 2:25 PM - August 02, 2024  |
 | [[Quartz/notes/Middle Earth - Shadow of Mordor.md\|Middle Earth - Shadow of Mordor]]                                           | 1:23 PM - August 02, 2024  |
 | [[Quartz/notes/My document toolkit.md\|My document toolkit]]                                                                   | 1:23 PM - August 02, 2024  |
-| [[Quartz/notes/PlayStation 5.md\|PlayStation 5]]                                                                               | 7:34 PM - August 01, 2024  |
-| [[Quartz/notes/IMatch to Socials.md\|IMatch to Socials]]                                                                       | 5:25 PM - July 31, 2024    |
-| [[Quartz/notes/I am a multi-lingual programmer.md\|I am a multi-lingual programmer]]                                           | 4:36 PM - July 31, 2024    |
-| [[Quartz/notes/Software development.md\|Software development]]                                                                 | 4:29 PM - July 31, 2024    |
-| [[Quartz/notes/Python.md\|Python]]                                                                                             | 4:26 PM - July 31, 2024    |
-| [[Quartz/notes/The domain of body.md\|The domain of body]]                                                                     | 1:47 PM - July 30, 2024    |
 <!-- SerializedQuery END -->

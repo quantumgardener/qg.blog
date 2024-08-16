@@ -1,8 +1,8 @@
 ---
 title: ⭐️⭐️⭐️ rating
-date: 2023-10-12T00:03:00
 aliases:
   - ⭐️⭐️⭐️
+datetime: 2023-10-12T00:03:00
 ---
 Run of the mill good. Enjoyed it. 
 

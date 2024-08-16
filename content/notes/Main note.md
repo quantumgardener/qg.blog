@@ -3,7 +3,7 @@ aliases:
   - Main notes
 tags: []
 datetime: 2024-05-26T13:30:00
-updated:
+updated: 
 ---
 A [[Main note]] is a central concept or idea in a [[Zettelkasten]] system. It is formed by the thoughtful conjunction of multiple notes (including other main notes) into something new.
 

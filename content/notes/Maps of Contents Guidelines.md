@@ -2,7 +2,7 @@
 JD-ID: "[[01.02 Managing Knowledge & Content]]"
 landscapes:
   - "[[Quantum OS]]"
-date: 2024-03-10
+datetime: 2024-03-10T12:00:00
 ---
 The [Library of Congress Classification](https://en.wikipedia.org/wiki/Library_of_Congress_Classification) is used as a guide for the [[Map of content]] naming strategy used here.
 [[Map of content]] can take any form necessary to assist with the organisation of data.

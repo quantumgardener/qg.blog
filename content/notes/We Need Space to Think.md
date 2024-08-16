@@ -1,7 +1,7 @@
 ---
-date: 2024-05-17
 landscapes:
   - "[[Expand My Way of Being]]"
+datetime: 2024-05-17T12:00:00
 ---
 This seems intuitive but what do we mean by it?
 ## What is Space?

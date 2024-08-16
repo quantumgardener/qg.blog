@@ -3,7 +3,7 @@ aliases:
 tags: 
 datetime: 2023-01-25T20:07:26
 updated: 2024-08-02T19:32:00
-title:
+title: 
 ---
 Most of what I think about and enjoy doing can be tied the concepts listed in this [[Universal Map of Concepts]]. Keeping with the metaphor of a [[Digital garden]], the map is organised into five [[Landscapes]]s of activity and thinking.
 ## Expanding my Way of Being

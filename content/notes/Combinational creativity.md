@@ -3,7 +3,7 @@ aliases: []
 tags: 
 datetime: 2024-06-07T09:27:46
 updated: 
-title:
+title: 
 ---
 Creativity does not come from a muse. It all comes from combining pre-existing ideas. That's important because it means you can make a process out of being creative. It can be driven, rather than waiting for inspiration.[^1]
 
