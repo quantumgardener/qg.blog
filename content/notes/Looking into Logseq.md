@@ -1,9 +1,9 @@
 ---
 tags:
   - review
-date: 2023-07-01
 landscapes:
   - "[[The Garden Shed]]"
+datetime: 2023-07-01T12:00:00
 ---
 [[+/inherited/logseq]] has been appearing a lot in my Mastodon feed lately as a [[Personal knowledge management]] solution. Many sing its praises over [[Obsidian]] so with a slow afternoon at work yesterday I thought to take a look.
 

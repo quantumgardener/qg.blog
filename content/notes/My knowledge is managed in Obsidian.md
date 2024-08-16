@@ -3,7 +3,7 @@ aliases: []
 tags: 
 datetime: 2024-07-23T19:27:34
 updated: 
-title:
+title: 
 ---
 Within [[Obsidian]] I document and link:
 - Personal journal entries

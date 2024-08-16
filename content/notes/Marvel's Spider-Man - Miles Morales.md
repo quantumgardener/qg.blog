@@ -8,6 +8,7 @@ rating: "[[3-star|⭐️⭐️⭐️]]"
 platform:
   - "[[PlayStation 5]]"
 thumbnail: "[[vg_Marvel's Spider-Man - Miles Morales_t.webp]]"
+datetime: 2024-08-16T15:56:59
 ---
 ![[vg_Marvel's Spider-Man - Miles Morales.webp|media-cover]]
 Sequel to [[Marvel's Spider-Man]], and a launch title for the [[PlayStation 5]]. As is often the case, sequels to ground-breaking games are not quite the same.

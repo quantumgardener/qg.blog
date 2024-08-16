@@ -2,9 +2,9 @@
 tags:
   - standards
   - assessments
-date: 2023-03-02
 landscapes:
   - "[[Expand My Way of Being]]"
+datetime: 2023-03-02T12:00:00
 ---
 Let’s say I'm measuring my behaviour, success, etc. and I fail to meet the ideals of the standard I'm comparing to. I will either:
 

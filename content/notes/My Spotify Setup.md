@@ -1,12 +1,9 @@
 ---
 JD-ID: "[[12.06 Spotify]]"
 tags: 
-landscapes:
-  - "[[The Garden Shed]]"
-date: 2024-05-04
+datetime: 2024-05-04T12:00:00
 ---
 The whole family is on [[Spotify]] for our music streaming[^1]
-
 ## Mobile Play of Out-of-Catalogue Items
 I have some old CDs and some which will never be on a streaming service. Playing them in the house via the desktop app is not a problem. The CDs have been ripped to flac format using [fre:ac](https://www.freac.org) and are stored in my Windows Music folder for easy access and recognition by [[Spotify]]. Getting them to mobile has proven to be an exercise in frustration. Overly complicated. It took me a couple of hours to get working.
 1. Spotify Desktop: Settings | Your Library | Show Local Files = On

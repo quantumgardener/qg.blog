@@ -4,7 +4,7 @@ tags:
   - ontological-distinction
 datetime: 2024-06-11T14:12:09
 updated: 2024-06-12T20:21:00
-title:
+title: 
 ---
 The set of actions available for us to take in the moment are a function of our [[Way of Being]]. It impacts directly our ability to communicate and therefore act upon the world to take care of ourselves and others.[^1] 
 

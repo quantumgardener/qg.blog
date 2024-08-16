@@ -3,7 +3,7 @@ aliases:
 tags: 
 datetime: 2024-08-05T19:57:00
 updated: 
-title:
+title: 
 ---
 It is tempting if you come to something late, to buy the Game of the Year Edition, the full Omnibus, or Complete Series of whatever game, book series or movie you are interested in.
 

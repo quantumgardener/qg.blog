@@ -4,7 +4,7 @@ tags:
   - ontological-distinction
 datetime: 2023-01-25T20:07:26
 updated: 2024-07-24T20:53:00
-title:
+title: 
 ---
 [[Ontology]] is the study of being and *The Ontology of the Human Observer* is a study into what it means to be human through understanding how we combine perception, communication and behaviour[^1] as our [[Way of Being]].
 

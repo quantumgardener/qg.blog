@@ -1,7 +1,7 @@
 ---
 tags: []
 datetime: 2024-05-26T13:48:00
-updated:
+updated: 
 ---
 
 An [[Unrequited note]] in [[Obsidian]] is a note where backlinks exist, but the notes are only linked in one direction. When dealing with [[Map of content]], this is an indicator the MOC can be further improved.

@@ -2,9 +2,9 @@
 tags:
   - privacy
   - cyber-security
-date: 2023-10-11
 landscapes:
   - "[[The Garden Shed]]"
+datetime: 2023-10-11T12:00:00
 ---
 Too many businesses collect personal information from individuals for their benefit. Under the guise of "providing better service" private data is held, often insecurely, well beyond it's need. If it was ever really needed at all.
 

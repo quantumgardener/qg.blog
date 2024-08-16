@@ -6,7 +6,7 @@ tags:
   - class/list
   - serialised-dataview
 datetime: 2023-05-21T16:12:30
-updated:
+updated: 
 ---
 My [[Nintendo Wii]] games. I've not listed all the standard family games such as tennis and bowling. These were the most adult games I had.
 

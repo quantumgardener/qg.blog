@@ -2,9 +2,9 @@
 title: Why Have All the Backups Failed?
 tags:
   - backup-strategy
-date: 2023-02-02
 landscapes:
   - "[[The Garden Shed]]"
+datetime: 2023-02-02T12:00:00
 ---
 I woke this morning to a slew of emails informing me of backups that had failed due to insufficient space on the target drive. Why had they all failed? Well, it was because one had succeeded.
 

@@ -4,7 +4,7 @@ tags:
   - ontological-distinction
 datetime: 2024-06-13T13:36:57
 updated: 
-title:
+title: 
 ---
 The three ontological domains are:
 

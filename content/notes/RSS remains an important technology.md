@@ -1,10 +1,10 @@
 ---
-date: 2022-10-29
 tags:
   - blogging
   - effective-conversation
 landscapes:
   - "[[Productive Laziness]]"
+datetime: 2022-10-29T12:00:00
 ---
 I’ve written several times over the past 20 years that RSS feeds are important yet can be a hinderance as much as a help.
 

@@ -3,7 +3,7 @@ aliases: []
 tags: 
 datetime: 2024-07-31T16:36:41
 updated: 
-title:
+title: 
 ---
 I have programmed in many languages during my time as a software developer. 
 

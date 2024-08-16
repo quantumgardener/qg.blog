@@ -2,7 +2,7 @@
 tags: 
 datetime: 2024-08-02T16:57:00
 updated: 
-title:
+title: 
 ---
 During my time at University, I owned a [[Commodore Amiga]]. I can't remember exactly where I got the money (may have been work selling the family [[Commodore 64]] which for all intents and purposes was practically mine).
 

@@ -7,7 +7,7 @@ tags:
   - class/list
 datetime: 2023-05-21T16:10:46
 updated: 
-title:
+title: 
 ---
 Games for the [[PlayStation VR2]] headset.
 

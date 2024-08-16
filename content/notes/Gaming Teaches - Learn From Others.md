@@ -1,10 +1,10 @@
 ---
 tags:
   - learning
-date: 2023-05-14
 landscapes:
   - "[[Expand My Way of Being]]"
   - "[[Hobby Together]]"
+datetime: 2023-05-14T12:00:00
 ---
 > [!INFO] This note is part of the [[Gaming Teaches]] series of observations about what gaming can teach me when its use as a lens on life.
 

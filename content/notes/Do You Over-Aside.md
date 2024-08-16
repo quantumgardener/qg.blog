@@ -1,12 +1,12 @@
 ---
 title: Do you over-aside?
-date: 2022-08-04
 tags:
   - conversation
   - learning
 landscapes:
   - "[[Expand My Way of Being]]"
   - "[[Productive Laziness]]"
+datetime: 2022-08-04T12:00:00
 ---
 
 I've noticed recently a tendency in myself and others to add layer upon layer of explanation when we are talking. Once I saw it, I realised how counter-productive it is.

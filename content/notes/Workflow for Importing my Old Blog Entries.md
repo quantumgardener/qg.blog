@@ -1,8 +1,8 @@
 ---
 tags: []
-date: 2022-10-16
 landscapes:
   - "[[Productive Laziness]]"
+datetime: 2022-10-16T12:00:00
 ---
 Since discovering my old blog entries I’ve been developing a workflow to import them into my current Wordpress blog. Spanning 2002–2012 there is value in bringing it all together, even if it takes some time. There are a lot of ideas in there which were valuable at the time, and are still valuable now.
 

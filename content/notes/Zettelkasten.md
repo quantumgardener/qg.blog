@@ -2,7 +2,7 @@
 aliases: []
 tags: 
 datetime: 2024-05-31T10:09:32
-updated:
+updated: 
 ---
 A [[Zettelkasten]] is a collection of interconnected notes to create new meaning across domains and concepts. 
 

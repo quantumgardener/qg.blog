@@ -9,6 +9,7 @@ platform:
   - "[[PlayStation 5]]"
   - "[[PlayStation VR2]]"
 thumbnail: "[[vg_Gran Turismo 7_t.webp]]"
+datetime: 2024-08-16T15:56:59
 ---
  ![[vg_Gran Turismo 7.webp|media-cover]]
  

@@ -4,7 +4,7 @@ tags:
 JD-ID: "[[01.01 Guiding Principles]]"
 landscapes:
   - "[[Productive Laziness]]"
-date: 2024-03-10
+datetime: 2024-03-10T12:00:00
 ---
 Any [[Personal knowledge management]] system must be flexible. It needs to accommodate:
 

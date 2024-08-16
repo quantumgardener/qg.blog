@@ -3,7 +3,7 @@ aliases:
 tags: 
 datetime: 2024-07-21T17:40:02
 updated: 2024-07-24T20:56:00
-title:
+title: 
 ---
 [[The Ontology of the Human Observer]]
 

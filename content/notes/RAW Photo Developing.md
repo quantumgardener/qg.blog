@@ -1,9 +1,9 @@
 ---
 tags: []
-date: 2023-10-30
 landscapes:
   - "[[Hobby Together]]"
 description: The workflow I use to develop RAW photos.
+datetime: 2023-10-30T12:00:00
 ---
 [[Photography]]
 2. Lens correction - I do this automatically on import in to [[Lightroom]]

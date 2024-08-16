@@ -1,6 +1,6 @@
 ---
 aliases: List of useful Obsidian resourcess
-tags:
+tags: 
 datetime: 2024-07-23T19:39:43
 updated: 
 title: 

@@ -1,6 +1,6 @@
 ---
 aliases: Linking is more important than categoriess
-tags:
+tags: 
 datetime: 2024-07-28T09:33:06
 updated: 
 title: 

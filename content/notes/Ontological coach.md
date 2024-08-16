@@ -4,7 +4,7 @@ tags:
   - ontological-distinction
 datetime: 2024-06-11T14:23:52
 updated: 
-title:
+title: 
 ---
 An *ontological coach* is someone who is trained in using the [[The Ontology of the Human Observer]] during a coaching conversation as a way to help a coachee understanding their [[Way of Being]]. 
 

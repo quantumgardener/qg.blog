@@ -1,7 +1,7 @@
 ---
-date: 2023-09-14
 tags:
   - class/map
+datetime: 2023-09-14T12:00:00
 ---
 There is a lot computer gaming can teach us if we step back from the gaming and take a look at what is really going on.
 

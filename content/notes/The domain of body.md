@@ -4,7 +4,7 @@ tags:
   - ontological-distinction
 datetime: 2024-07-30T13:47:32
 updated: 
-title:
+title: 
 ---
 A resourceful body is necessary to take on the world. Taking care of it is important. It is one of [[The three ontological domains]].
 

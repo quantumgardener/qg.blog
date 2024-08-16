@@ -2,7 +2,7 @@
 aliases: []
 tags: 
 datetime: 2023-10-11T20:00:33
-updated:
+updated: 
 ---
 Books purchased through Amazon are protected against copying and distribution by a level of digital rights management that can no longer be bypassed.
 

@@ -2,10 +2,10 @@
 tags:
   - lego-builds
   - star-wars
-date: 2021-05-30
 description: This is a record of my effort building the LEGO Millenniuum Falcon (75192). It has a total 7541 pieces. Finished it is over 21cm (8”) high, 84cm (33”) long and 56cm (22”) wide.
 landscapes:
   - "[[Hobby Together]]"
+datetime: 2021-05-30T12:00:00
 ---
 This is a record of my effort building the [Millennium Falcon Ultimate Collections Edition (75192)](https://www.lego.com/en-au/product/millennium-falcon-75192). It has a total 7541 pieces and at build time is [the second largest Lego set by pieces, and the heaviest by weight](https://www.beautifullife.info/industrial-design/15-biggest-lego-sets-ever-made/). Finished it is over 21cm (8”) high, 84cm (33”) long and 56cm (22”) wide.
 

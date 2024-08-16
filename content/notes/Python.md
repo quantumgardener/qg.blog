@@ -1,6 +1,6 @@
 ---
 aliases: Pythons
-tags:
+tags: 
 datetime: 2024-07-31T16:26:58
 updated: 
 title: 
