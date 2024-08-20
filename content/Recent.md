@@ -13,6 +13,9 @@ The 50 most recently updated notes.
 
 | File                                                                                                                           | Date                       |
 | ------------------------------------------------------------------------------------------------------------------------------ | -------------------------- |
+| [[Quartz/notes/Use Case is a barrier word.md\|Use Case is a barrier word]]                                                     | 7:24 PM - August 20, 2024  |
+| [[Quartz/notes/Language.md\|Language]]                                                                                         | 7:15 PM - August 20, 2024  |
+| [[Quartz/notes/Barrier words stop us from learning.md\|Barrier words stop us from learning]]                                   | 7:04 PM - August 20, 2024  |
 | [[Quartz/notes/FLAC.md\|FLAC]]                                                                                                 | 8:23 PM - August 16, 2024  |
 | [[Quartz/notes/Plex streams securely outside the home.md\|Plex streams securely outside the home]]                             | 8:19 PM - August 16, 2024  |
 | [[Quartz/notes/Plexamp setup is easy.md\|Plexamp setup is easy]]                                                               | 8:16 PM - August 16, 2024  |
@@ -27,6 +30,7 @@ The 50 most recently updated notes.
 | [[Quartz/notes/Zork III.md\|Zork III]]                                                                                         | 3:56 PM - August 16, 2024  |
 | [[Quartz/notes/The Room Two.md\|The Room Two]]                                                                                 | 6:02 PM - August 12, 2024  |
 | [[Quartz/notes/The Room.md\|The Room]]                                                                                         | 6:01 PM - August 12, 2024  |
+| [[Quartz/notes/Nintendo Wii.md\|Nintendo Wii]]                                                                                 | 5:45 PM - August 11, 2024  |
 | [[Quartz/notes/Horizon - Call of the Mountain.md\|Horizon - Call of the Mountain]]                                             | 5:41 PM - August 11, 2024  |
 | [[Quartz/notes/Resident Evil 4.md\|Resident Evil 4]]                                                                           | 5:17 PM - August 11, 2024  |
 | [[Quartz/notes/Horizon Zero Dawn - Frozen Wilds.md\|Horizon Zero Dawn - Frozen Wilds]]                                         | 5:35 PM - August 10, 2024  |
@@ -59,8 +63,4 @@ The 50 most recently updated notes.
 | [[Quartz/notes/The Muscle Memory of Conversations.md\|The Muscle Memory of Conversations]]                                     | 6:08 PM - August 02, 2024  |
 | [[Quartz/notes/Stray.md\|Stray]]                                                                                               | 5:39 PM - August 02, 2024  |
 | [[Quartz/notes/Horizon Forbidden West.md\|Horizon Forbidden West]]                                                             | 5:21 PM - August 02, 2024  |
-| [[Quartz/notes/Commodore Amiga.md\|Commodore Amiga]]                                                                           | 4:57 PM - August 02, 2024  |
-| [[Quartz/notes/Donkey Kong Jr..md\|Donkey Kong Jr.]]                                                                           | 4:50 PM - August 02, 2024  |
-| [[Quartz/notes/Elite.md\|Elite]]                                                                                               | 4:46 PM - August 02, 2024  |
-| [[Quartz/notes/Elite - Dangerous.md\|Elite - Dangerous]]                                                                       | 4:29 PM - August 02, 2024  |
 <!-- SerializedQuery END -->
