@@ -5,7 +5,7 @@ tags:
   - learning
 landscapes:
   - "[[Expand My Way of Being]]"
-  - "[[Productive Laziness]]"
+  - "[[Productive laziness]]"
 datetime: 2022-08-04T12:00:00
 ---
 

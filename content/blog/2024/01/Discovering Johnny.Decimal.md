@@ -1,7 +1,7 @@
 ---
 tags: []
 landscapes:
-  - "[[Productive Laziness]]"
+  - "[[Productive laziness]]"
 datetime: 2024-01-31T00:00:00
 ---
 This evening I've been reading through the documentation on the [Johnny.Decimal](https://johnnydecimal.com/) system. It's a method for organising documentation across multiple areas and categories and so falls within the realm of [[Personal knowledge management]].
