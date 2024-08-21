@@ -4,7 +4,7 @@ tags:
   - requests
 landscapes:
   - "[[Expand My Way of Being]]"
-datetime: 2022-08-31T12:00:00
+datetime: 2022-08-31T00:00:00
 ---
 
 I've become conscious that "just" has crept into my email vocabulary.

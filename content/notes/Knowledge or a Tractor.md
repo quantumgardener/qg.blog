@@ -5,7 +5,7 @@ tags:
   - concernful-activity
 landscapes:
   - "[[Expand My Way of Being]]"
-datetime: 2022-07-24T12:00:00
+datetime: 2022-07-24T00:00:00
 ---
 A group of farmers was asked what they would do if they woke up in the morning to find their $100,000 tractor had been stolen from the shed. They indicated a rush of activity around police, insurance and other such matters. If all else failed they would seek to buy a new tractor. As soon as possible.
 

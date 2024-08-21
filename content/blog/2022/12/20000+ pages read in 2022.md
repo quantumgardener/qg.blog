@@ -1,9 +1,5 @@
 ---
-date: 2022-12-31
-tags: 
 datetime: 2022-12-31T00:00:00
-landscapes:
-  - "[[Hobby Together]]"
 ---
 My 2022 reading stats are in and this year I clocked 20,871 over 46 books. Since first purchasing a Kindle some years ago my reading has increased substantially, and my annual target is 20,000 pages.
 

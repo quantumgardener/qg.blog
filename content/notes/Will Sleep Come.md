@@ -7,7 +7,7 @@ aliases:
 title: Will sleep come?
 landscapes:
   - "[[Expand My Way of Being]]"
-datetime: 2023-07-11T12:00:00
+datetime: 2023-07-11T00:00:00
 ---
 The [[Apnea-Hypopnea Index]] (AHI) is an average measure of how many times you have a full or partial loss of breath for more than 10 seconds. It's not hard to imagine this is not a good thing if it occurs too often. We all know that [[sleep]] is very important to our [[health]].
 

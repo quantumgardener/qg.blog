@@ -37,7 +37,7 @@ Mine actually looks like this as I have multiple fonts coming in.
 ```
 
 ## Testing it out
-Try changing `<h2>` to use the new font by adding this to your `publish.css` file &mdash; change the name to match whatever font you selected (if your font has a space in the name you'll need to enclose the font name in single quotes)
+Try changing `<h2>` to use the new font by adding this to your `publish.css` file — change the name to match whatever font you selected (if your font has a space in the name you'll need to enclose the font name in single quotes)
 
 ```css
 h2 {

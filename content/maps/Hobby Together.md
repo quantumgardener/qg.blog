@@ -2,7 +2,7 @@
 tags:
   - class/map
 datetime: 2023-09-25T11:11:00
-updated: 
+updated: 2024-08-21T23:55:00
 ---
 Here’s where I share my progress on whatever project currently takes my fancy, plus any relevant discussion on supporting technologies.
 ## I Want to...
@@ -17,4 +17,4 @@ Here’s where I share my progress on whatever project currently takes my fancy,
 ## Reading
 - [[List of my favourite authors]]
 
-
+[[Saving the sound of Saving Private Ryan]] discusses technologies such as 4K TVs and Ultra-HD Blu-ray.

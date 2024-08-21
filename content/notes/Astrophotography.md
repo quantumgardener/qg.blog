@@ -3,7 +3,7 @@ tags:
   - class/map
 landscapes:
   - "[[Hobby Together]]"
-datetime: 2024-03-11T12:00:00
+datetime: 2024-03-11T00:00:00
 ---
 > [!TIP] For sure this page is a bit of a mess.
 

@@ -4,7 +4,7 @@ tags:
   - status/ongoing
 series: "[[Cities Skylines (Series)]]"
 sequence: 2
-datetime: 2024-05-14T12:00:00
+datetime: 2024-05-14T00:00:00
 updated: 
 rating: "[[3-star|⭐️⭐️⭐️]]"
 platform:

@@ -2,7 +2,7 @@
 JD-ID: "[[01.02 Managing Knowledge & Content]]"
 landscapes:
   - "[[Quantum OS]]"
-datetime: 2024-03-10T12:00:00
+datetime: 2024-03-10T00:00:00
 ---
 > [!INFO] Within a note, headings start at Heading 2. 
 

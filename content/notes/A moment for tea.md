@@ -3,7 +3,7 @@ tags:
   - gratitude
 landscapes:
   - "[[Expand My Way of Being]]"
-datetime: 2022-10-08T12:00:00
+datetime: 2022-10-08T00:00:00
 ---
 One of those small pieces of advice I picked up years ago was “pause and savour the first sip of tea or coffee.”
 

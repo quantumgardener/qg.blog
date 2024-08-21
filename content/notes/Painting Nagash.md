@@ -2,7 +2,7 @@
 tags:
   - miniature-painting
   - warhammer
-datetime: 2021-09-06T12:00:00
+datetime: 2021-09-06T00:00:00
 ---
 > **Nagash**, known by many names such as the _**Great Necromancer**_, the _**Great Betrayer**_, the _**Usurper**_, the _**Undying King**_, the _**Supreme Lord of Undeath**_ or simply _**He Who Shall Not Be Named**_, is the ultimate personification of death and the undead, an ancient, evil being who sought to conquer this cruel, chaotic world and bring about an age of undeath that will rule for all eternity. Nagash is darkness and unreasoning hatred given form, the father and creator of foul necromancy and lord of allvampire-kind. His every action and deeds is self-serving, his achievement horrific and loathsome, and his every whim are bent solely to ensure that no one shall ever deny nor challenge his right to rule ever again.[^1]
 

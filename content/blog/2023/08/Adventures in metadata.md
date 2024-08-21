@@ -1,9 +1,5 @@
 ---
-tags:
-  - metadata-strategy
-date: 2023-08-24T20:04:23
-landscapes:
-  - "[[Hobby Together]]"
+datetime: 2023-08-24T20:04:23
 ---
 I've been wanting to document and share my [[Photography]] workflow — from camera to archive — for a few weeks now. The introduction of Adobe [[Lightroom]] into my workflow recently has meant a delay which has ultimate turned out for the best. I've changed my workflow significantly several times over the last few weeks as I manage two applications that do similar, complementary, yet quite different functions.
 

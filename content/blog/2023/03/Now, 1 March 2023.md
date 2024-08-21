@@ -1,7 +1,7 @@
 ---
 tags:
   - class/now
-datetime: 2023-03-01T12:00:00
+datetime: 2023-03-01T00:00:00
 updated: 
 ---
 > [!note] Old style now page

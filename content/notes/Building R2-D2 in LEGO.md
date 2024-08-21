@@ -5,7 +5,7 @@ tags:
 description: This is a record of my effort building the R2-D2 in (73508). It has a total 2314 pieces. Finished it is over 31cm (13”) high, 19cm (8”) wide and 15cm (6”) deep.
 landscapes:
   - "[[Hobby Together]]"
-datetime: 2022-04-09T12:00:00
+datetime: 2022-04-09T00:00:00
 ---
 This is a record of my effort building [R2-D2 in lego](https://www.lego.com/en-au/product/r2-d2-75308). It has a total 2314 pieces. Finished it is over 31cm (13”) high, 19cm (8”) wide and 15cm (6”) deep.
 

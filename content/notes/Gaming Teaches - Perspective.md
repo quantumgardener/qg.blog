@@ -6,7 +6,7 @@ description: Gaming teaches us the usefulness of chasing our perspective if what
 landscapes:
   - "[[Expand My Way of Being]]"
   - "[[Hobby Together]]"
-datetime: 2023-04-02T12:00:00
+datetime: 2023-04-02T00:00:00
 ---
 > [!INFO] This note is part of the [[Gaming Teaches]] series of observations about what gaming can teach me when its use as a lens on life.
 

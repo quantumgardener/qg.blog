@@ -2,7 +2,7 @@
 description: Jumping off point for all things LEGO.
 tags:
   - class/map
-datetime: 2023-09-14T12:00:00
+datetime: 2023-09-14T00:00:00
 ---
 Lots of LEGO threaded in-an-out of this [[Digital garden]].
 

@@ -4,7 +4,7 @@ tags:
 landscapes:
   - "[[Expand My Way of Being]]"
   - "[[Hobby Together]]"
-datetime: 2022-08-08T12:00:00
+datetime: 2022-08-08T00:00:00
 ---
 
 Have you ever carefully considered a purchase from a store then when you got home realised there was an aspect you'd missed that made it completely unsuitable?

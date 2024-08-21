@@ -3,7 +3,7 @@ tags:
   - humanity
 landscapes:
   - "[[Expand My Way of Being]]"
-datetime: 2023-10-12T12:00:00
+datetime: 2023-10-12T00:00:00
 ---
 A business has a soul just as people do. 
 

@@ -5,7 +5,7 @@ tags:
   - overwhelm
 landscapes:
   - "[[Expand My Way of Being]]"
-datetime: 2022-12-11T12:00:00
+datetime: 2022-12-11T00:00:00
 ---
 Around this time each year people start to say how the Christmas/New Year break is just what they need as a holiday.
 

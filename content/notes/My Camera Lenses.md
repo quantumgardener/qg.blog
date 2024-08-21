@@ -1,6 +1,6 @@
 ---
 tags: 
-datetime: 2024-01-03T12:00:00
+datetime: 2024-01-03T00:00:00
 ---
 Lenses for my [[Canon R50 Mirrorless|Canon R50]] and [[Canon 400D DSLR|Canon 400D]] [[Photography]].
 

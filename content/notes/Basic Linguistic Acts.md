@@ -21,5 +21,5 @@ Learn about each of the Basic Linguistic Acts
 
 ## Related Items
 - [[The Linguistic Domain]]
-- [[The Basic Linguistic Act of a Celebrity Leaving the Jungle]]
+- [[The basic linguistic act of a celebrity Leaving the jungle]]
 - [[Escaping the Box - Using a New Process Model to Support Participation and Improve Coordination]]

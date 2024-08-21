@@ -3,7 +3,7 @@ tags:
   - learning
 landscapes:
   - "[[Expand My Way of Being]]"
-datetime: 2023-02-19T12:00:00
+datetime: 2023-02-19T00:00:00
 ---
 Earlier this week I received notice [mastondon.au](https://mastodon.au) was being shut down (since taken over by someone else so staying). That lead me to thinking:
 

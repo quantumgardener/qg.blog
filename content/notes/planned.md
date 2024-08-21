@@ -1,6 +1,6 @@
 ---
 title: Status (planned)
-datetime: 2024-02-27T12:00:00
+datetime: 2024-02-27T00:00:00
 tags:
   - class/map
 ---

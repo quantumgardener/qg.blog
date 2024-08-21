@@ -3,7 +3,7 @@ title: Do you ever get distracted?
 tags: 
 landscapes:
   - "[[Expand My Way of Being]]"
-datetime: 2023-01-25T12:00:00
+datetime: 2023-01-25T00:00:00
 ---
 Me, earlier this evening…
 

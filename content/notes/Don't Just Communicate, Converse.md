@@ -7,7 +7,7 @@ tags:
   - effective-conversation
 landscapes:
   - "[[Expand My Way of Being]]"
-datetime: 2023-02-06T12:00:00
+datetime: 2023-02-06T00:00:00
 ---
 When employees in the workplace complain about a lack of communication, what they really mean is a lack of conversation with a capital C.
 

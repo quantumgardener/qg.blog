@@ -3,7 +3,7 @@ tags:
   - wonder
 landscapes:
   - "[[Expand My Way of Being]]"
-datetime: 2022-10-25T12:00:00
+datetime: 2022-10-25T00:00:00
 ---
 I have a relatively new car. It’s done just over 3,000km. Here is a crazy coincidence from earlier today.
 

@@ -5,7 +5,7 @@ tags:
   - class/book
 landscapes:
   - "[[Hobby Together]]"
-datetime: 2023-02-02T12:00:00
+datetime: 2023-02-02T00:00:00
 ---
 This morning I finished _[[Carrie]]_ the book and this afternoon I watched the 1976 movie.
 

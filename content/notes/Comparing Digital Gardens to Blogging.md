@@ -2,7 +2,7 @@
 tags:
   - blogging
 landscapes: 
-datetime: 2023-10-02T12:00:00
+datetime: 2023-10-02T00:00:00
 ---
 ## A Different Audience
 I am the primary audience of my [[Digital garden]]. When I'm blogging, the audience is primarily an external reader. Writing for myself means I'm happy leaving something half-baked knowing I **may** come back it later. When I blogged, there was a different pressure and everything needed to be done before publishing.

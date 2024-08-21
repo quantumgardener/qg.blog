@@ -1,6 +1,6 @@
 ---
 tags: 
-datetime: 2023-09-28T12:00:00
+datetime: 2023-09-28T00:00:00
 updated: 2024-08-12T18:34:00
 description: All things video games and the platforms I play on.
 ---

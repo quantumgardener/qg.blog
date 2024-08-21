@@ -1,6 +1,6 @@
 ---
 tags: 
-datetime: 2023-09-27T12:00:00
+datetime: 2023-09-27T00:00:00
 ---
 Roam Research is a [[Personal knowledge management]] tool that gained significantly in popularity by word-of-mouth in 2020. The key benefit comes from the way it treats blocks of text and [[Backlinks are important]].
 

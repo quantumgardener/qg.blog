@@ -3,7 +3,7 @@ tags:
   - habit
 landscapes:
   - "[[Expand My Way of Being]]"
-datetime: 2023-06-05T12:00:00
+datetime: 2023-06-05T00:00:00
 ---
 I'm reading  *[[Self-Discipline (book)|Self-Discipline: a guide to taking control of your mind, your time, and your life]]* by Mark Manson and it's given me cause to think about my habits. Following on from *[[The Power of Habit]]* by Charles Duhigg, he reminds us that habits are built from 
 

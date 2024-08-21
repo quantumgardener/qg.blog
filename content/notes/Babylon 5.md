@@ -4,7 +4,7 @@ tags:
   - status/completed
 landscapes:
   - "[[Hobby Together]]"
-datetime: 2023-11-25T12:00:00
+datetime: 2023-11-25T00:00:00
 rating: "[[4-star|⭐️⭐️⭐️⭐️]]"
 thumbnail: "[[tv_Babylon 5_t.webp]]"
 ---

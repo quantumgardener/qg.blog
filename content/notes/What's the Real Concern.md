@@ -5,7 +5,7 @@ tags:
   - concernful-activity
 landscapes:
   - "[[Expand My Way of Being]]"
-datetime: 2022-11-18T12:00:00
+datetime: 2022-11-18T00:00:00
 ---
 I once heard the suggestion that a gravestone is more reflective of the people that commission it than the person who has died.
 

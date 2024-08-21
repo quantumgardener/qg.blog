@@ -3,7 +3,7 @@ tags:
   - cultural-stories
 landscapes:
   - "[[Expand My Way of Being]]"
-datetime: 2004-10-27T12:00:00
+datetime: 2004-10-27T00:00:00
 ---
 My daughter is an avid reader and loves the library. This week she brought home a copy of ["What Dad's Can't Do"](https://douglaswood.com/product/what-dads-cant-do/) by Douglas Wood.
 

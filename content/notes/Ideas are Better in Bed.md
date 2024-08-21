@@ -7,7 +7,7 @@ tags:
 landscapes:
   - "[[Expand My Way of Being]]"
   - "[[Productive laziness]]"
-datetime: 2022-10-05T12:00:00
+datetime: 2022-10-05T00:00:00
 ---
 Conversations such as blog posts that I write in my head lying in bed or when walking are always better than they end up when I type them.
 

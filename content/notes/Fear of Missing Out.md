@@ -5,7 +5,7 @@ tags:
 landscapes:
   - "[[Expand My Way of Being]]"
   - "[[Hobby Together]]"
-datetime: 2022-10-23T12:00:00
+datetime: 2022-10-23T00:00:00
 ---
 FOMO generates extra dollars for the gaming industry, both PC/console gaming and board/tabletop games.
 

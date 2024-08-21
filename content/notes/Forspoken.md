@@ -2,7 +2,7 @@
 tags:
   - class/video-game
   - status/completed
-datetime: 2023-02-24T12:00:00
+datetime: 2023-02-24T00:00:00
 updated: 
 rating: "[[4-star|⭐️⭐️⭐️⭐️]]"
 platform:

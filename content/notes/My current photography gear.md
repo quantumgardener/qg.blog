@@ -1,6 +1,6 @@
 ---
 tags: []
-datetime: 2023-09-27T12:00:00
+datetime: 2023-09-27T00:00:00
 updated: 
 ---
 > [!INFO] This is my current [[Photography]] gear. I have also recorded [[My camera history]].

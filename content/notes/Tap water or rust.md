@@ -1,7 +1,7 @@
 ---
 tags:
   - health
-datetime: 2023-08-24T12:00:00
+datetime: 2023-08-24T00:00:00
 ---
 [[2024-08-25|Tomorrow]] I take delivery of my CPAP machine and have been researching what water I should use in the humidifier. The prevailing wisdom for CPAP machines is that one **must** use distilled water. From my research tonight I put this in the same category as "You **must** drink 2 litres of water a day". Sounds good, but is incorrect.
 

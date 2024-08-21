@@ -4,7 +4,7 @@ tags:
   - effective-conversation
 landscapes:
   - "[[Productive laziness]]"
-datetime: 2022-10-29T12:00:00
+datetime: 2022-10-29T00:00:00
 ---
 I’ve written several times over the past 20 years that RSS feeds are important yet can be a hinderance as much as a help.
 

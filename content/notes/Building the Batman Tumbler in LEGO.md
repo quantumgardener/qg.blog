@@ -4,7 +4,7 @@ tags:
 description: This is a record of my effort building the LEGO DC Batman Batmobile Tumbler (76240). It has a total 2049 pieces. Finished it is sized 16 cm (6”) high, 45 cm (17”) long and 25 cm (9”) wide.
 landscapes:
   - "[[Hobby Together]]"
-datetime: 2023-02-03T12:00:00
+datetime: 2023-02-03T00:00:00
 ---
 ![[lego_batman_01.webp]]
 
@@ -38,15 +38,15 @@ I was expecting an easy build today; putting the wheels on. It was by far the mo
 
 > [!TIP] I found some instructions ambiguous and difficult when completed strictly in the order given. Here are some useful tips.
 
-- Instructions **240** and **244** &mdash; Be careful to to have the large pre-fab piece oriented the right way. Photo below shows which way you want to end up. I had it wrong.
-- Instruction **253** &mdash; Fair amount of pressure to pin the suspension to the side of the body. Be careful where you apply the counter-pressure as you hold. Every reaction has an equal and opposite reaction = pieces detaching elsewhere.
-- Instructions **254** and **258** &mdash; Same as for 240 and 244.
-- Instruction **267** &mdash; Same as for 253.
-- Instructions **276** and **277** &mdash; Big wheels, big rims. The tick and cross guide instruction is trying to tell you that. Match the tyre tread to the instruction. There is a clear inside/outside of the rim. It won’t really matter which you use, but at least be consistent across all wheels. **Don’t attach the wheel at this point. Do instruction **278** first.** Personal note: remove cat hair from between wheel rim and tyre.
-- Instruction **278** &mdash; Put the access through the wheels, then attach them. It’s easier to line up.
-- Instruction **279** &mdash; Pay attention to the orientation of the “spokes” you are adding. If correct, you could run a string through one to the other in a circle.
-- Instructions **280** and **281** &mdash; Match the tyre tread to the instruction as in 276, 277.
-- Instruction **282** &mdash; Be careful how you have the rims on the tyres when attaching so you keep the preferred side out. Once attached, you won’t be easily removing them to switch around. Slide the tyre in on an angle - there is room - and pin into place.
+- Instructions **240** and **244** — Be careful to to have the large pre-fab piece oriented the right way. Photo below shows which way you want to end up. I had it wrong.
+- Instruction **253** — Fair amount of pressure to pin the suspension to the side of the body. Be careful where you apply the counter-pressure as you hold. Every reaction has an equal and opposite reaction = pieces detaching elsewhere.
+- Instructions **254** and **258** — Same as for 240 and 244.
+- Instruction **267** — Same as for 253.
+- Instructions **276** and **277** — Big wheels, big rims. The tick and cross guide instruction is trying to tell you that. Match the tyre tread to the instruction. There is a clear inside/outside of the rim. It won’t really matter which you use, but at least be consistent across all wheels. **Don’t attach the wheel at this point. Do instruction **278** first.** Personal note: remove cat hair from between wheel rim and tyre.
+- Instruction **278** — Put the access through the wheels, then attach them. It’s easier to line up.
+- Instruction **279** — Pay attention to the orientation of the “spokes” you are adding. If correct, you could run a string through one to the other in a circle.
+- Instructions **280** and **281** — Match the tyre tread to the instruction as in 276, 277.
+- Instruction **282** — Be careful how you have the rims on the tyres when attaching so you keep the preferred side out. Once attached, you won’t be easily removing them to switch around. Slide the tyre in on an angle - there is room - and pin into place.
 
 I’ve included a 1.25l bottle for scale to show you how large the tyres are and a lovely nod back to 60’s Batman.
 ![[lego_batman_17_w.webp]]

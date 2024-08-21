@@ -5,7 +5,7 @@ landscapes:
   - "[[Hobby Together]]"
   - "[[Quantum OS]]"
 JD-ID: "[[12.02 Mediabank Photos and Videos]]"
-datetime: 2023-12-21T12:00:00
+datetime: 2023-12-21T00:00:00
 ---
 Digital photos have the date and time taken embedded. Scanned prints, negatives and slides do not. This is a problem in [[Photography]] when the original non-digital image is scanned and there is no record alongside it of the date the photo was made.
 

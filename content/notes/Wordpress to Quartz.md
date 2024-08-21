@@ -3,7 +3,7 @@ tags:
   - blogging
 landscapes:
   - "[[The Garden Shed]]"
-datetime: 2023-09-01T12:00:00
+datetime: 2023-09-01T00:00:00
 ---
 For the last year or so I've been publishing my blog on Wordpress. I began using [Ulysses.app](https://ulysses.app) to write in Markdown and publish to Wordpress, then about March this year I started publishing directly from [[Obsidian]].
 

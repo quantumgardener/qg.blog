@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "Uncharted: The Lost Legacy"
 tags:
   - class/video-game
   - status/completed

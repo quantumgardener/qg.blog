@@ -1,9 +1,7 @@
 ---
 tags:
-  - review
-date: 2023-09-05T20:57:33
-landscapes:
-  - "[[Hobby Together]]"
+  - class/review
+datetime: 2023-09-05T20:57:33
 ---
 For the last 4-5 years I've used my Sennheiser 4.50BTNC headphones every day. The BTNC stands for Bluetooth and Noise Cancelling.
 

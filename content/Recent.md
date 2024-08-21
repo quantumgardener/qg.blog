@@ -6,13 +6,22 @@ datetime: 2024-08-16T15:37:15
 updated: 
 title: Recently updated notes
 ---
-The 50 most recently updated notes.
+The 50 most recently updated notes, excluding [[/blog|blog]] entries.
 
 <!-- QueryToSerialize: table default(date(updated),date(datetime)) as Date from "Quartz/notes" sort default(date(updated),date(datetime)) desc limit 50 -->
 <!-- SerializedQuery: table default(date(updated),date(datetime)) as Date from "Quartz/notes" sort default(date(updated),date(datetime)) desc limit 50 -->
 
 | File                                                                                                                           | Date                       |
 | ------------------------------------------------------------------------------------------------------------------------------ | -------------------------- |
+| [[Quartz/notes/Zotero.md\|Zotero]]                                                                                             | 11:37 PM - August 21, 2024 |
+| [[Quartz/notes/Zotero is my filing cabinet.md\|Zotero is my filing cabinet]]                                                   | 11:28 PM - August 21, 2024 |
+| [[Quartz/notes/Uncharted 4 - A Thief's End.md\|Uncharted 4 - A Thief's End]]                                                   | 8:32 PM - August 21, 2024  |
+| [[Quartz/notes/1Password.md\|1Password]]                                                                                       | 8:18 PM - August 21, 2024  |
+| [[Quartz/notes/Getting Things Done with Obsidian.md\|Getting Things Done with Obsidian]]                                       | 2:07 PM - August 21, 2024  |
+| [[Quartz/notes/Some examples of productive laziness.md\|Some examples of productive laziness]]                                 | 2:05 PM - August 21, 2024  |
+| [[Quartz/notes/Expanso.md\|Expanso]]                                                                                           | 1:47 PM - August 21, 2024  |
+| [[Quartz/notes/How to start WSL.md\|How to start WSL]]                                                                         | 9:01 AM - August 21, 2024  |
+| [[Quartz/notes/How to install WSL.md\|How to install WSL]]                                                                     | 9:01 AM - August 21, 2024  |
 | [[Quartz/notes/Use Case is a barrier word.md\|Use Case is a barrier word]]                                                     | 7:24 PM - August 20, 2024  |
 | [[Quartz/notes/Language.md\|Language]]                                                                                         | 7:15 PM - August 20, 2024  |
 | [[Quartz/notes/Barrier words stop us from learning.md\|Barrier words stop us from learning]]                                   | 7:04 PM - August 20, 2024  |
@@ -36,7 +45,6 @@ The 50 most recently updated notes.
 | [[Quartz/notes/Horizon Zero Dawn - Frozen Wilds.md\|Horizon Zero Dawn - Frozen Wilds]]                                         | 5:35 PM - August 10, 2024  |
 | [[Quartz/notes/Horizon Forbidden West - Burning Shores.md\|Horizon Forbidden West - Burning Shores]]                           | 5:32 PM - August 10, 2024  |
 | [[Quartz/notes/Wolfenstein - The New Order.md\|Wolfenstein - The New Order]]                                                   | 4:40 PM - August 10, 2024  |
-| [[Quartz/notes/Uncharted 4 - A Thief's End.md\|Uncharted 4 - A Thief's End]]                                                   | 4:32 PM - August 10, 2024  |
 | [[Quartz/notes/The right time to play Left Behind.md\|The right time to play Left Behind]]                                     | 7:27 PM - August 09, 2024  |
 | [[Quartz/notes/Project CARS 2.md\|Project CARS 2]]                                                                             | 5:34 PM - August 09, 2024  |
 | [[Quartz/notes/No Man's Sky.md\|No Man's Sky]]                                                                                 | 5:26 PM - August 09, 2024  |
@@ -55,12 +63,4 @@ The 50 most recently updated notes.
 | [[Quartz/notes/Call of Duty - Modern Warfare 2.md\|Call of Duty - Modern Warfare 2]]                                           | 6:02 PM - August 06, 2024  |
 | [[Quartz/notes/BioShock Infinite.md\|BioShock Infinite]]                                                                       | 5:58 PM - August 06, 2024  |
 | [[Quartz/notes/Marvel's Spider-Man.md\|Marvel's Spider-Man]]                                                                   | 8:10 PM - August 05, 2024  |
-| [[Quartz/notes/Ghost of Tsushima.md\|Ghost of Tsushima]]                                                                       | 8:08 PM - August 05, 2024  |
-| [[Quartz/notes/Don't buy the expansion pack.md\|Don't buy the expansion pack]]                                                 | 7:57 PM - August 05, 2024  |
-| [[Quartz/notes/Landscapes.md\|Landscapes]]                                                                                     | 10:15 AM - August 03, 2024 |
-| [[Quartz/notes/Property Guidelines.md\|Property Guidelines]]                                                                   | 10:11 AM - August 03, 2024 |
-| [[Quartz/notes/Gear that I use.md\|Gear that I use]]                                                                           | 9:57 AM - August 03, 2024  |
-| [[Quartz/notes/The Muscle Memory of Conversations.md\|The Muscle Memory of Conversations]]                                     | 6:08 PM - August 02, 2024  |
-| [[Quartz/notes/Stray.md\|Stray]]                                                                                               | 5:39 PM - August 02, 2024  |
-| [[Quartz/notes/Horizon Forbidden West.md\|Horizon Forbidden West]]                                                             | 5:21 PM - August 02, 2024  |
 <!-- SerializedQuery END -->

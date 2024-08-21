@@ -5,7 +5,7 @@ tags:
   - conversation
 landscapes:
   - "[[Expand My Way of Being]]"
-datetime: 2023-02-12T12:00:00
+datetime: 2023-02-12T00:00:00
 ---
 In October 2016 I attended a session for HR professionals where the topic of the day was mental wellness. The idea was someone could be mentally unwell but not necessarily mentally ill. The audience were asked to call out signs which could indicate a person was mentally unwell. I had 11/14 and found another 5 when I got home.
 

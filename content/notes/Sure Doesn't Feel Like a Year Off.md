@@ -4,7 +4,7 @@ tags:
   - time
 landscapes:
   - "[[Productive laziness]]"
-datetime: 2023-06-10T12:00:00
+datetime: 2023-06-10T00:00:00
 ---
 Monday will be the first King's Birthday public holiday. It's not feeling like a typical long weekend for me. Maybe I've had too many public holidays and they are all the same. That got me thinking...
 

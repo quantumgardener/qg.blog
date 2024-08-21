@@ -1,7 +1,7 @@
 ---
 tags:
   - class/map
-datetime: 2024-03-10T12:00:00
+datetime: 2024-03-10T00:00:00
 ---
 [[Quantum OS]] is what I call the underlying organisation and structural rules underpinning this [[Digital garden]] and non-online notes.
 

@@ -7,7 +7,7 @@ tags:
 title: "A Plague Tale: Innocence"
 series: "[[A Plague Tale (Series)]]"
 sequence: 1
-datetime: 2023-09-28T12:00:00
+datetime: 2023-09-28T00:00:00
 updated: 
 playthroughs: 1
 rating: "[[4-star|⭐️⭐️⭐️⭐️]]"

@@ -1,12 +1,8 @@
 ---
-tags:
-  - extending-obsidian
-landscapes:
-  - "[[Productive laziness]]"
-datetime: 2023-11-09T12:00:00
+datetime: 2023-11-09T00:00:00
+updated: 2024-08-21T14:07:00
 ---
-This article is about how I have implemented the [Getting Things Done Methodology (GTD)](https://gettingthingsdone.com/) within the [Obsidian](https://obsidian.md/) note taking application. It is not commentary on how to follow the GTD methodology, nor will it necessarily reflect the methodology in its pure form^[Those familiar with GTD no there is no such thing as a pure implementation.].
-
+This article is about how I have implemented the [Getting Things Done Methodology (GTD)](https://gettingthingsdone.com/) within the [[Obsidian]] note taking application. It is not commentary on how to follow the GTD methodology, nor will it necessarily reflect the methodology in its pure form^[Those familiar with GTD no there is no such thing as a pure implementation.].
 ## My needs
 I have used many systems for GTD over the years. My current implementation within Obsidian is proving to be the fastest and most effective at tracking next actions and projects.
 
@@ -24,7 +20,7 @@ Before I get into configuration and use, here is a list of the various bits and 
 | [[Obsidian Sync]]                                                             | Used to sync across multiple computers and iOS - fast and reliable.                                                       |     |
 | [Obsidian-dataview plugin](https://github.com/blacksmithgu/obsidian-dataview) | A high-performance data index and query language over Obsidian files. Brings together lists of information super quickly. |     |
 | [Obsidian Templater plugin](https://github.com/SilentVoid13/Templater)        | Templates for projects, meetings, organisations                                                                           |     |
-| [PhraseExpress](https://www.phraseexpress.com/)                               | Text expander used primary for the entry of dates against next actions.                                                   |     |
+| [[Expanso]]                                                                   | Text expander used primary for the entry of dates against next actions.                                                   |     |
 | [Font Awesome](https://fontawesome.com/), emojis and CSS                      | Formatting highlights for quick status identification.                                                                    |     |
 ## Describing the system
 I'll describe the system I use from the ground up. Starting with next actions, I'll move to how I bring them together in useful lists, allocate them to projects, and provide organisation summaries of current projects. I'll finish off with how this all ties together for a weekly review.
@@ -48,7 +44,7 @@ For a simple next action, **context** is option. If a person is involved, it wil
 
 The ➕ is a special [Dataview plugin annotation](https://blacksmithgu.github.io/obsidian-dataview/data-annotation/) that denotes the start date of a task. I use it when I create lists of next actions from the system. 
 
-**action date** is the date action is required or I need to follow up. This is despite my belief that [[Adding a Due Date to Your Tasks is a Mistake]] I still have many tasks that need to be date based. An action date looks like this | 📆2022-01-14
+**action date** is the date action is required or I need to follow up. This is despite my belief that [[Adding a due date to your tasks is a mistake]] I still have many tasks that need to be date based. An action date looks like this | 📆2022-01-14
 
 The 📆 is a special [Dataview plugin annotation](https://blacksmithgu.github.io/obsidian-dataview/data-annotation/) that denotes the due date of a task.
 

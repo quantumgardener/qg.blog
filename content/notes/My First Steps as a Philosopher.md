@@ -4,7 +4,7 @@ tags:
   - second-order-learning
 landscapes:
   - "[[Expand My Way of Being]]"
-datetime: 2024-01-03T12:00:00
+datetime: 2024-01-03T00:00:00
 ---
 Whenever I'm asked what I would do if I didn't have to work, I've answered, "I'd be a philosopher." Those who know me nod in agreement and don't question it. 
 

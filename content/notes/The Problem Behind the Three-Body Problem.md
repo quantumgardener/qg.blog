@@ -5,7 +5,7 @@ tags:
 landscapes:
   - "[[Expand My Way of Being]]"
   - "[[Hobby Together]]"
-datetime: 2023-06-24T12:00:00
+datetime: 2023-06-24T00:00:00
 ---
 With notice that Netflix has made a series of *[[The Three-Body Problem]]* I'm revisiting the novel as an audiobook. Though I read it first only 18 months ago, I only have the barest memory of the story. 
 

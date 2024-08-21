@@ -1,7 +1,7 @@
 ---
 JD-ID: "[[12.06 Spotify]]"
 tags: 
-datetime: 2024-05-04T12:00:00
+datetime: 2024-05-04T00:00:00
 ---
 The whole family is on [[Spotify]] for our music streaming[^1]
 ## Mobile Play of Out-of-Catalogue Items
