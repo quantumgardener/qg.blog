@@ -22,6 +22,7 @@ The 50 most recently updated notes, excluding [[/blog|blog]] entries.
 | [[Quartz/notes/Expanso.md\|Expanso]]                                                                                           | 1:47 PM - August 21, 2024  |
 | [[Quartz/notes/How to start WSL.md\|How to start WSL]]                                                                         | 9:01 AM - August 21, 2024  |
 | [[Quartz/notes/How to install WSL.md\|How to install WSL]]                                                                     | 9:01 AM - August 21, 2024  |
+| [[Quartz/notes/Windows Subsystem for Linux.md\|Windows Subsystem for Linux]]                                                   | 8:46 AM - August 21, 2024  |
 | [[Quartz/notes/Use Case is a barrier word.md\|Use Case is a barrier word]]                                                     | 7:24 PM - August 20, 2024  |
 | [[Quartz/notes/Language.md\|Language]]                                                                                         | 7:15 PM - August 20, 2024  |
 | [[Quartz/notes/Barrier words stop us from learning.md\|Barrier words stop us from learning]]                                   | 7:04 PM - August 20, 2024  |
@@ -62,5 +63,4 @@ The 50 most recently updated notes, excluding [[/blog|blog]] entries.
 | [[Quartz/notes/The Last of Us.md\|The Last of Us]]                                                                             | 6:32 PM - August 06, 2024  |
 | [[Quartz/notes/Call of Duty - Modern Warfare 2.md\|Call of Duty - Modern Warfare 2]]                                           | 6:02 PM - August 06, 2024  |
 | [[Quartz/notes/BioShock Infinite.md\|BioShock Infinite]]                                                                       | 5:58 PM - August 06, 2024  |
-| [[Quartz/notes/Marvel's Spider-Man.md\|Marvel's Spider-Man]]                                                                   | 8:10 PM - August 05, 2024  |
 <!-- SerializedQuery END -->
