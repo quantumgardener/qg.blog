@@ -3,7 +3,7 @@ tags:
   - review
   - music
 landscapes:
-  - "[[Hobby Together]]"
+  - "[[Quartz/maps/Hobby Together]]"
 datetime: 2022-10-06T00:00:00
 ---
 ## Tubular Bells 2003

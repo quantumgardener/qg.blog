@@ -1,7 +1,7 @@
 ---
 JD-ID: "[[01.02 Managing Knowledge & Content]]"
 landscapes:
-  - "[[Quantum OS]]"
+  - "[[Quartz/maps/Quantum OS]]"
 datetime: 2024-05-24T10:58:00
 updated: 2024-07-28T09:39:00
 ---

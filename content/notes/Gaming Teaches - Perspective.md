@@ -5,7 +5,7 @@ tags:
 description: Gaming teaches us the usefulness of chasing our perspective if what we are doing isn’t working for us. I use sim-racing to help explain.
 landscapes:
   - "[[Expand My Way of Being]]"
-  - "[[Hobby Together]]"
+  - "[[Quartz/maps/Hobby Together]]"
 datetime: 2023-04-02T00:00:00
 ---
 > [!INFO] This note is part of the [[Gaming Teaches]] series of observations about what gaming can teach me when its use as a lens on life.

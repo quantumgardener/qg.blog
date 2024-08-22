@@ -2,7 +2,7 @@
 tags:
   - class/video-game
   - status/dropped
-series: "[[Horizon (Series)]]"
+series: "[[Quartz/maps/Horizon (Series)]]"
 sequence: 1.9
 datetime: 2024-08-11T17:41:00
 updated: ""

@@ -6,7 +6,7 @@ datetime: 2024-03-10T00:00:00
 **Quantum OS** is my operating system which in no way suggests I am a computer. Rather, it is a set of notes that describe the rules and standards I have determined are best to manage my digital information as I see fit. 
 
 > [!INFO] CORE CONCEPT
-> [[Organising Digital Knowledge Across Multiple Systems]] describes in detail where I store documents and how I organise them..
+> [[Organising digital knowledge across multiple systems]] describes in detail where I store documents and how I organise them..
 [](Organising%20digital%20knowledge%20across%20multiple%20systems.md) Knowledge]] because it is a waste of my time and yours.
 - [[Personal knowledge management systems must be flexible]] otherwise it puts unnecessary friction into thinking.
 - [[Designing The Quantum Garden]]

@@ -3,7 +3,7 @@ tags:
   - productivity
 JD-ID: "[[01.01 Guiding Principles]]"
 landscapes:
-  - "[[Productive laziness]]"
+  - "[[Quartz/maps/Productive laziness]]"
 datetime: 2024-03-10T00:00:00
 ---
 Any [[Personal knowledge management]] system must be flexible. It needs to accommodate:

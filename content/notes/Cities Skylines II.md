@@ -2,7 +2,7 @@
 tags:
   - class/video-game
   - status/ongoing
-series: "[[Cities Skylines (Series)]]"
+series: "[[Quartz/maps/Cities Skylines (Series)]]"
 sequence: 2
 datetime: 2024-05-14T00:00:00
 updated: 

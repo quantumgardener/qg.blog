@@ -4,7 +4,7 @@ tags:
   - status/completed
 datetime: 2024-05-14T00:00:00
 updated: 
-series: "[[Cities Skylines (Series)]]"
+series: "[[Quartz/maps/Cities Skylines (Series)]]"
 sequence: 1
 rating: "[[4-star|⭐️⭐️⭐️⭐️]]"
 platform:

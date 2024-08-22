@@ -8,7 +8,7 @@ Here’s where I share my progress on whatever project currently takes my fancy,
 ## I Want to...
 
 - Take a photo: [[Photography]] | [[Astrophotography]]
-- Play a game: [[Map of video gaming]]
+- Play a game: [[Quartz/maps/Map of video gaming]]deo gaming]]
 - Watch a Movie: [[Movie Theatre]] | [[Coming Soon]] | [[+Index of Series]]
 - Watch TV: [[List of my favourite TV shows]]
 - Paint miniatures: [[Miniature Painting]] | [[Painting Nagash]]

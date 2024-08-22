@@ -17,9 +17,14 @@ All games on this list are rated [[2-star|⭐️⭐️]].
 
 | Game                                                                           |                                                      | Platform                                                            |
 | ------------------------------------------------------------------------------ | ---------------------------------------------------- | ------------------------------------------------------------------- |
-| ![[quartz/assets/covers/vg_Diablo IV_t.webp\|vg_Diablo IV_t.webp]]             | [[quartz/notes/Diablo IV.md\|Diablo IV]]             | <ul><li>[[quartz/notes/PlayStation 5.md\|PlayStation 5]]</li></ul> |
-| ![[quartz/assets/covers/vg_Hogwarts Legacy_t.webp\|vg_Hogwarts Legacy_t.webp]] | [[quartz/notes/Hogwarts Legacy.md\|Hogwarts Legacy]] | <ul><li>[[quartz/notes/PlayStation 5.md\|PlayStation 5]]</li></ul> |
+| ![[Quartz/assets/covers/vg_Diablo IV_t.webp\|vg_Diablo IV_t.webp]]             | [[Quartz/notes/Diablo IV.md\|Diablo IV]]             | <ul><li>[[Quartz/notes/PlayStation 5.md\|PlayStation 5]]</li></ul> |
+| ![[Quartz/assets/covers/vg_Hogwarts Legacy_t.webp\|vg_Hogwarts Legacy_t.webp]] | [[Quartz/notes/Hogwarts Legacy.md\|Hogwarts Legacy]] | <ul><li>[[Quartz/notes/PlayStation 5.md\|PlayStation 5]]</li></ul> |
 <!-- SerializedQuery END -->
+<!-- SerializedQuery: table without id embed(link(thumbnail)) as Game, file.link as "", platform as Platform from #class/video-game where contains(rating, [[2-star]]) sort file.name -->
+
+| Game                                                                           |                                                      | Platform                                                            |
+| ------------------------------------------------------------------------------ | ---------------------------------------------------- | ------------------------------------------------------------------- |
+| ![[vg_Diablo IV_t.webp\|vg_Diablo IV_t.webp]]lo IV\|Diablo IV]]ul><li>[[PlayStation 5\|PlayStation 5]][[vg_Hogwarts Legacy_t.webp\|vg_Hogwarts Legacy_t.webp]]|Hogwarts Legacy]]yStation 5\|PlayStation 5]]- SerializedQuery END -->
 
 
 

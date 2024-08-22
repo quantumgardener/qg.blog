@@ -16,5 +16,10 @@ My [[Nintendo Game and Watch|Nintendo Game & Watch]] games.
 
 | Game                                                                         |                                                      | Rating                                 | Status                                   |
 | ---------------------------------------------------------------------------- | ---------------------------------------------------- | -------------------------------------- | ---------------------------------------- |
-| ![[quartz/assets/covers/vg_Donkey Kong Jr_t.webp\|vg_Donkey Kong Jr_t.webp]] | [[quartz/notes/Donkey Kong Jr..md\|Donkey Kong Jr.]] | [[quartz/notes/5-star.md\|⭐️⭐️⭐️⭐️⭐️]] | [[quartz/notes/completed.md\|completed]] |
+| ![[Quartz/assets/covers/vg_Donkey Kong Jr_t.webp\|vg_Donkey Kong Jr_t.webp]] | [[Quartz/notes/Donkey Kong Jr..md\|Donkey Kong Jr.]] | [[Quartz/notes/5-star.md\|⭐️⭐️⭐️⭐️⭐️]] | [[Quartz/notes/completed.md\|completed]] |
 <!-- SerializedQuery END -->
+<!-- SerializedQuery: table without id embed(link(thumbnail)) as "Game", file.link as "", rating as Rating, link(split( filter(file.tags, (t) => startswith(t, "#status") )[0], "/" )[1]) as Status from #class/video-game where contains(platform, [[Nintendo Game and Watch]]) sort file.name -->
+
+| Game                                                                         |                                                      | Rating                                 | Status                                   |
+| ---------------------------------------------------------------------------- | ---------------------------------------------------- | -------------------------------------- | ---------------------------------------- |
+| ![[vg_Donkey Kong Jr_t.webp\|vg_Donkey Kong Jr_t.webp]]|Donkey Kong Jr.]]️⭐️⭐️⭐️]]completed]]edQuery END -->

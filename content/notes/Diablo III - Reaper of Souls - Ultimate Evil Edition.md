@@ -4,7 +4,7 @@ aliases:
 tags:
   - class/video-game
   - status/completed
-series: "[[Diablo (Series)]]"
+series: "[[Quartz/maps/Diablo (Series)]]"
 sequence: 3
 rating: "[[3-star|⭐️⭐️⭐️]]"
 datetime: 2023-06-10T15:24:34

@@ -2,7 +2,7 @@
 tags: 
 datetime: 2022-01-27T00:00:00
 landscapes:
-  - "[[Quantum OS]]"
+  - "[[Quartz/maps/Quantum OS]]"
 ---
 
 I'm primarily an [[Types of bloggers|Observational blogger]] when [[Blogging]]. Throughout the day I'll notice something and think, "I wonder if that's an example of..." and I'll use it as the prompt to share what I've observed.

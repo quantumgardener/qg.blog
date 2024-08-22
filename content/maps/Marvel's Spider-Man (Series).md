@@ -11,6 +11,6 @@ updated:
 
 | # | Game                                                                                                                   |                                                                                              |
 | - | ---------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
-| 1 | ![[quartz/assets/covers/vg_Marvel's Spider-Man_t.webp\|vg_Marvel's Spider-Man_t.webp]]                                 | [[quartz/notes/Marvel's Spider-Man.md\|Marvel's Spider-Man]]                                 |
-| 2 | ![[quartz/assets/covers/vg_Marvel's Spider-Man - Miles Morales_t.webp\|vg_Marvel's Spider-Man - Miles Morales_t.webp]] | [[quartz/notes/Marvel's Spider-Man - Miles Morales.md\|Marvel's Spider-Man - Miles Morales]] |
+| 1 | ![[Quartz/assets/covers/vg_Marvel's Spider-Man_t.webp\|vg_Marvel's Spider-Man_t.webp]]                                 | [[Quartz/notes/Marvel's Spider-Man.md\|Marvel's Spider-Man]]                                 |
+| 2 | ![[Quartz/assets/covers/vg_Marvel's Spider-Man - Miles Morales_t.webp\|vg_Marvel's Spider-Man - Miles Morales_t.webp]] | [[Quartz/notes/Marvel's Spider-Man - Miles Morales.md\|Marvel's Spider-Man - Miles Morales]] |
 <!-- SerializedQuery END -->

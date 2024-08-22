@@ -2,8 +2,8 @@
 tags:
   - digital-asset-management
 landscapes:
-  - "[[Hobby Together]]"
-  - "[[Quantum OS]]"
+  - "[[Quartz/maps/Hobby Together]]"
+  - "[[Quartz/maps/Quantum OS]]"
 JD-ID: "[[12.02 Mediabank Photos and Videos]]"
 datetime: 2023-12-21T00:00:00
 ---

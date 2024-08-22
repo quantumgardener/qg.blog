@@ -4,7 +4,7 @@ tags:
   - status/completed
 datetime: 2023-06-10T11:06:19
 updated: 2024-08-08T18:51:00
-series: "[[Call of Duty (Series)]]"
+series: "[[Quartz/maps/Call of Duty (Series)]]"
 sequence: 4
 rating: "[[3-star|⭐️⭐️⭐️]]"
 platform:

@@ -2,7 +2,7 @@
 tags:
   - class/video-game
   - status/completed
-series: "[[Uncharted (Series)]]"
+series: "[[Quartz/maps/Uncharted (Series)]]"
 sequence: 1
 playthroughs: 4
 datetime: 2023-06-10T14:47:22

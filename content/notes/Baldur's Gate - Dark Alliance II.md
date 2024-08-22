@@ -2,7 +2,7 @@
 tags:
   - class/video-game
   - status/completed
-series: "[[Baldur's Gate (Series)]]"
+series: "[[Quartz/maps/Baldur's Gate (Series)]]"
 sequence: 2
 playthroughs: 2
 datetime: 2023-05-27T17:30:55

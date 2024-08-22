@@ -11,6 +11,6 @@ updated:
 
 | # | Game                                                                                                                         |                                                                                                    |
 | - | ---------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
-| 1 | ![[quartz/assets/covers/vg_LEGO Harry Potter Collection Years 1-4_t.webp\|vg_LEGO Harry Potter Collection Years 1-4_t.webp]] | [[quartz/notes/LEGO Harry Potter Collection Years 1-4.md\|LEGO Harry Potter Collection Years 1-4]] |
-| 2 | ![[quartz/assets/covers/vg_LEGO Harry Potter Collection Years 5-7_t.webp\|vg_LEGO Harry Potter Collection Years 5-7_t.webp]] | [[quartz/notes/LEGO Harry Potter Collection Years 5-7.md\|LEGO Harry Potter Collection Years 5-7]] |
+| 1 | ![[Quartz/assets/covers/vg_LEGO Harry Potter Collection Years 1-4_t.webp\|vg_LEGO Harry Potter Collection Years 1-4_t.webp]] | [[Quartz/notes/LEGO Harry Potter Collection Years 1-4.md\|LEGO Harry Potter Collection Years 1-4]] |
+| 2 | ![[Quartz/assets/covers/vg_LEGO Harry Potter Collection Years 5-7_t.webp\|vg_LEGO Harry Potter Collection Years 5-7_t.webp]] | [[Quartz/notes/LEGO Harry Potter Collection Years 5-7.md\|LEGO Harry Potter Collection Years 5-7]] |
 <!-- SerializedQuery END -->

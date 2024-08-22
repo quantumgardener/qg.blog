@@ -37,7 +37,7 @@ I began blogging in the early 2000's using [Radioland](http://radio.userland.com
 
 ### Tools
 - [[My document toolkit]] 
-- [[Workflow for Importing my old blog entries]]
+- [[Workflow for Importing my Old Blog Entries]]
 
 
 ## Articles I've Not Yet Processed

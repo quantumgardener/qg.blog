@@ -5,7 +5,7 @@ tags:
 datetime: 2023-09-23T20:00:21
 updated: 2024-08-21T19:46:00
 ---
-Here, "Gear" is a broad term referring to any type of physical technology I use in my life. For software see [[Software that I use]].
+Here, "Gear" is a broad term referring to any type of physical technology I use in my life. For software see [[Quartz/maps/Software that I use]].
 
 ## Photography gear
 - [[My current photography gear]]

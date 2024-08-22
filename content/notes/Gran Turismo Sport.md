@@ -2,7 +2,7 @@
 tags:
   - class/video-game
   - status/completed
-series: "[[Gran Turismo (Series)]]"
+series: "[[Quartz/maps/Gran Turismo (Series)]]"
 sequence: 6
 datetime: 2023-01-25T20:07:24
 updated: 

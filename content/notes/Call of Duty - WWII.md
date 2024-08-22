@@ -9,7 +9,7 @@ platform:
 datetime: 2023-06-13T19:15:50
 updated: 2024-08-09T16:08:00
 thumbnail: "[[vg_Call of Duty - WWII_t.webp]]"
-series: "[[Call of Duty (Series)]]"
+series: "[[Quartz/maps/Call of Duty (Series)]]"
 ---
 ![[vg_Call of Duty - WWII.webp|media-cover]]
 
