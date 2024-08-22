@@ -8,4 +8,4 @@ Palm's use [Graffiti](http://www.palm.com/asia/products/input/index.html), a for
 
 This entry is being written using a tool called [TextPlus](http://www.smartcell.com). Like predictive text for SMS on a Nokia phone, TextPlus suggests words based on the first few letters. It suggests phrases as well, saving even more time.
 
-In line with an [[Trial software in ange|approach to trialling software]], over the 30 day trial I will use [TextPlus](http://www.smartcell.com) 'in anger' to determine its worth. So far it has saved time and contributed to a longer article. Time will tell.
+In line with an [[Trial software in anger|approach to trialling software]], over the 30 day trial I will use [TextPlus](http://www.smartcell.com) 'in anger' to determine its worth. So far it has saved time and contributed to a longer article. Time will tell.

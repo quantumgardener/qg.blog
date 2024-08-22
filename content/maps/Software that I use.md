@@ -7,7 +7,7 @@ updated: 2024-08-23T08:21:00
 Here, I make comment on the software that I have, or have used. The physical technology equivalent is [[Gear that I use]].
 
 > [!note] Start here
-> [[Trial software in ange]] is where I describe the need to commit to any software you are trialling, otherwise you won't really know what it can do. And when you buy, [[Don't buy the expansion pack]] until you are ready.
+> [[Trial software in anger]] is where I describe the need to commit to any software you are trialling, otherwise you won't really know what it can do. And when you buy, [[Don't buy the expansion pack]] until you are ready.
 
 ## Software in use
 - [[My document toolkit]]
