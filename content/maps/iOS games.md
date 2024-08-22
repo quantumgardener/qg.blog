@@ -13,8 +13,8 @@ updated:
 
 | Game                                                                     |                                                | Rating                                 | Status                                   |
 | ------------------------------------------------------------------------ | ---------------------------------------------- | -------------------------------------- | ---------------------------------------- |
-| ![[Quartz/assets/covers/vg_Bastion_t.webp\|vg_Bastion_t.webp]]           | [[Quartz/notes/Bastion.md\|Bastion]]           | [[Quartz/notes/4-star.md\|⭐️⭐️⭐️⭐️]]   | [[Quartz/notes/completed.md\|completed]] |
-| ![[Quartz/assets/covers/vg_The Room_t.webp\|vg_The Room_t.webp]]         | [[Quartz/notes/The Room.md\|The Room]]         | [[Quartz/notes/3-star.md\|⭐️⭐️⭐️]]     | [[Quartz/notes/completed.md\|completed]] |
-| ![[Quartz/assets/covers/vg_The Room Two_t.webp\|vg_The Room Two_t.webp]] | [[Quartz/notes/The Room Two.md\|The Room Two]] | [[Quartz/notes/3-star.md\|⭐️⭐️⭐️]]     | [[Quartz/notes/completed.md\|completed]] |
-| ![[Quartz/assets/covers/vg_Zork I_t.webp\|vg_Zork I_t.webp]]             | [[Quartz/notes/Zork I.md\|Zork I]]             | [[Quartz/notes/5-star.md\|⭐️⭐️⭐️⭐️⭐️]] | [[Quartz/notes/completed.md\|completed]] |
+| ![[quartz/assets/covers/vg_Bastion_t.webp\|vg_Bastion_t.webp]]           | [[quartz/notes/Bastion.md\|Bastion]]           | [[quartz/notes/4-star.md\|⭐️⭐️⭐️⭐️]]   | [[quartz/notes/completed.md\|completed]] |
+| ![[quartz/assets/covers/vg_The Room_t.webp\|vg_The Room_t.webp]]         | [[quartz/notes/The Room.md\|The Room]]         | [[quartz/notes/3-star.md\|⭐️⭐️⭐️]]     | [[quartz/notes/completed.md\|completed]] |
+| ![[quartz/assets/covers/vg_The Room Two_t.webp\|vg_The Room Two_t.webp]] | [[quartz/notes/The Room Two.md\|The Room Two]] | [[quartz/notes/3-star.md\|⭐️⭐️⭐️]]     | [[quartz/notes/completed.md\|completed]] |
+| ![[quartz/assets/covers/vg_Zork I_t.webp\|vg_Zork I_t.webp]]             | [[quartz/notes/Zork I.md\|Zork I]]             | [[quartz/notes/5-star.md\|⭐️⭐️⭐️⭐️⭐️]] | [[quartz/notes/completed.md\|completed]] |
 <!-- SerializedQuery END -->

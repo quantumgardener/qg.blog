@@ -29,7 +29,7 @@ The [[Promise Cycle]] is a model for understanding how people come together to c
 
 [[Wonder]] is my favourite of the [[Basic moods of life]] and to access wonder, I use [[Meditation]], [[Map of astronomy]] and [[Mathematics]].
 
-A [[Mood]] predisposes me to act in a particular ways which includes my thinking. The orientation of the mood (positive or negative) will expand or constrict my [[Thought Horizon]]. Moods can therefore also be useful in [[Expanding my comfort zone]].
+A [[Mood]] predisposes me to act in a particular ways which includes my thinking. The orientation of the mood (positive or negative) will expand or constrict my [[Thought Horizon (Business)]]Business)]]. Moods can therefore also be useful in [[Expanding my comfort zone]].
 
 Life is not black and white. A significant amount of time is spent dealing with [[Wicked problem|Wicked problemss]]. Ways to deal with these include understanding [[The Difference Between Assessments and Assertions]] and conversation support tools like [[Dialogue Mapping]] or [[Systems Thinking]].
 

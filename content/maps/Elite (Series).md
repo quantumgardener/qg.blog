@@ -11,6 +11,6 @@ updated:
 
 | # | Game                                                                               |                                                          |
 | - | ---------------------------------------------------------------------------------- | -------------------------------------------------------- |
-| 1 | ![[Quartz/assets/covers/vg_Elite_t.webp\|vg_Elite_t.webp]]                         | [[Quartz/notes/Elite.md\|Elite]]                         |
-| 3 | ![[Quartz/assets/covers/vg_Elite - Dangerous_t.webp\|vg_Elite - Dangerous_t.webp]] | [[Quartz/notes/Elite - Dangerous.md\|Elite - Dangerous]] |
+| 1 | ![[quartz/assets/covers/vg_Elite_t.webp\|vg_Elite_t.webp]]                         | [[quartz/notes/Elite.md\|Elite]]                         |
+| 3 | ![[quartz/assets/covers/vg_Elite - Dangerous_t.webp\|vg_Elite - Dangerous_t.webp]] | [[quartz/notes/Elite - Dangerous.md\|Elite - Dangerous]] |
 <!-- SerializedQuery END -->

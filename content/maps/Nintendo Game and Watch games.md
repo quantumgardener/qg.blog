@@ -16,5 +16,5 @@ My [[Nintendo Game and Watch|Nintendo Game & Watch]] games.
 
 | Game                                                                         |                                                      | Rating                                 | Status                                   |
 | ---------------------------------------------------------------------------- | ---------------------------------------------------- | -------------------------------------- | ---------------------------------------- |
-| ![[Quartz/assets/covers/vg_Donkey Kong Jr_t.webp\|vg_Donkey Kong Jr_t.webp]] | [[Quartz/notes/Donkey Kong Jr..md\|Donkey Kong Jr.]] | [[Quartz/notes/5-star.md\|⭐️⭐️⭐️⭐️⭐️]] | [[Quartz/notes/completed.md\|completed]] |
+| ![[quartz/assets/covers/vg_Donkey Kong Jr_t.webp\|vg_Donkey Kong Jr_t.webp]] | [[quartz/notes/Donkey Kong Jr..md\|Donkey Kong Jr.]] | [[quartz/notes/5-star.md\|⭐️⭐️⭐️⭐️⭐️]] | [[quartz/notes/completed.md\|completed]] |
 <!-- SerializedQuery END -->

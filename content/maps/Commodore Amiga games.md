@@ -16,5 +16,5 @@ My [[Commodore Amiga]] games.
 
 | Game                                                       |                                  | Rating                                 | Status                                   |
 | ---------------------------------------------------------- | -------------------------------- | -------------------------------------- | ---------------------------------------- |
-| ![[Quartz/assets/covers/vg_Elite_t.webp\|vg_Elite_t.webp]] | [[Quartz/notes/Elite.md\|Elite]] | [[Quartz/notes/5-star.md\|⭐️⭐️⭐️⭐️⭐️]] | [[Quartz/notes/completed.md\|completed]] |
+| ![[quartz/assets/covers/vg_Elite_t.webp\|vg_Elite_t.webp]] | [[quartz/notes/Elite.md\|Elite]] | [[quartz/notes/5-star.md\|⭐️⭐️⭐️⭐️⭐️]] | [[quartz/notes/completed.md\|completed]] |
 <!-- SerializedQuery END -->

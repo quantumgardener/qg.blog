@@ -15,11 +15,11 @@ My [[Commodore 64]] games.
 
 | Game                                                             |                                        | Rating                                 | Status                                   |
 | ---------------------------------------------------------------- | -------------------------------------- | -------------------------------------- | ---------------------------------------- |
-| ![[Quartz/assets/covers/vg_Elite_t.webp\|vg_Elite_t.webp]]       | [[Quartz/notes/Elite.md\|Elite]]       | [[Quartz/notes/5-star.md\|⭐️⭐️⭐️⭐️⭐️]] | [[Quartz/notes/completed.md\|completed]] |
-| ![[Quartz/assets/covers/vg_Lazarian_t.webp\|vg_Lazarian_t.webp]] | [[Quartz/notes/Lazarian.md\|Lazarian]] | [[Quartz/notes/3-star.md\|⭐️⭐️⭐️]]     | [[Quartz/notes/completed.md\|completed]] |
-| ![[Quartz/assets/covers/vg_Zork I_t.webp\|vg_Zork I_t.webp]]     | [[Quartz/notes/Zork I.md\|Zork I]]     | [[Quartz/notes/5-star.md\|⭐️⭐️⭐️⭐️⭐️]] | [[Quartz/notes/completed.md\|completed]] |
-| ![[Quartz/assets/covers/vg_Zork II_t.webp\|vg_Zork II_t.webp]]   | [[Quartz/notes/Zork II.md\|Zork II]]   | [[Quartz/notes/3-star.md\|⭐️⭐️⭐️]]     | [[Quartz/notes/completed.md\|completed]] |
-| ![[Quartz/assets/covers/vg_Zork III_t.webp\|vg_Zork III_t.webp]] | [[Quartz/notes/Zork III.md\|Zork III]] | [[Quartz/notes/3-star.md\|⭐️⭐️⭐️]]     | [[Quartz/notes/completed.md\|completed]] |
+| ![[quartz/assets/covers/vg_Elite_t.webp\|vg_Elite_t.webp]]       | [[quartz/notes/Elite.md\|Elite]]       | [[quartz/notes/5-star.md\|⭐️⭐️⭐️⭐️⭐️]] | [[quartz/notes/completed.md\|completed]] |
+| ![[quartz/assets/covers/vg_Lazarian_t.webp\|vg_Lazarian_t.webp]] | [[quartz/notes/Lazarian.md\|Lazarian]] | [[quartz/notes/3-star.md\|⭐️⭐️⭐️]]     | [[quartz/notes/completed.md\|completed]] |
+| ![[quartz/assets/covers/vg_Zork I_t.webp\|vg_Zork I_t.webp]]     | [[quartz/notes/Zork I.md\|Zork I]]     | [[quartz/notes/5-star.md\|⭐️⭐️⭐️⭐️⭐️]] | [[quartz/notes/completed.md\|completed]] |
+| ![[quartz/assets/covers/vg_Zork II_t.webp\|vg_Zork II_t.webp]]   | [[quartz/notes/Zork II.md\|Zork II]]   | [[quartz/notes/3-star.md\|⭐️⭐️⭐️]]     | [[quartz/notes/completed.md\|completed]] |
+| ![[quartz/assets/covers/vg_Zork III_t.webp\|vg_Zork III_t.webp]] | [[quartz/notes/Zork III.md\|Zork III]] | [[quartz/notes/3-star.md\|⭐️⭐️⭐️]]     | [[quartz/notes/completed.md\|completed]] |
 <!-- SerializedQuery END -->
 
 > [!note]

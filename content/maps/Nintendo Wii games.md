@@ -15,6 +15,6 @@ My [[Nintendo Wii]] games. I've not listed all the standard family games such as
 
 | Game                                                                           |                                                      | Rating                             | Status                                   |
 | ------------------------------------------------------------------------------ | ---------------------------------------------------- | ---------------------------------- | ---------------------------------------- |
-| ![[Quartz/assets/covers/vg_Call of Duty 3_t.webp\|vg_Call of Duty 3_t.webp]]   | [[Quartz/notes/Call of Duty 3.md\|Call of Duty 3]]   | [[Quartz/notes/3-star.md\|⭐️⭐️⭐️]] | [[Quartz/notes/completed.md\|completed]] |
-| ![[Quartz/assets/covers/vg_Resident Evil 4_t.webp\|vg_Resident Evil 4_t.webp]] | [[Quartz/notes/Resident Evil 4.md\|Resident Evil 4]] | [[Quartz/notes/3-star.md\|⭐️⭐️⭐️]] | [[Quartz/notes/completed.md\|completed]] |
+| ![[quartz/assets/covers/vg_Call of Duty 3_t.webp\|vg_Call of Duty 3_t.webp]]   | [[quartz/notes/Call of Duty 3.md\|Call of Duty 3]]   | [[quartz/notes/3-star.md\|⭐️⭐️⭐️]] | [[quartz/notes/completed.md\|completed]] |
+| ![[quartz/assets/covers/vg_Resident Evil 4_t.webp\|vg_Resident Evil 4_t.webp]] | [[quartz/notes/Resident Evil 4.md\|Resident Evil 4]] | [[quartz/notes/3-star.md\|⭐️⭐️⭐️]] | [[quartz/notes/completed.md\|completed]] |
 <!-- SerializedQuery END -->
