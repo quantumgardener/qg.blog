@@ -13,6 +13,8 @@ The 50 most recently updated notes, excluding [[/blog|blog]] entries.
 
 | File                                                                                                                           | Date                       |
 | ------------------------------------------------------------------------------------------------------------------------------ | -------------------------- |
+| [[Quartz/notes/Delegation.md\|Delegation]]                                                                                     | 8:27 AM - August 23, 2024  |
+| [[Quartz/notes/Community of practice.md\|Community of practice]]                                                               | 8:22 AM - August 23, 2024  |
 | [[Quartz/notes/Thought Horizon (Business).md\|Thought Horizon (Business)]]                                                     | 8:21 PM - August 22, 2024  |
 | [[Quartz/notes/Zotero.md\|Zotero]]                                                                                             | 11:37 PM - August 21, 2024 |
 | [[Quartz/notes/Zotero is my filing cabinet.md\|Zotero is my filing cabinet]]                                                   | 11:28 PM - August 21, 2024 |
@@ -61,6 +63,4 @@ The 50 most recently updated notes, excluding [[/blog|blog]] entries.
 | [[Quartz/notes/Tomb Raider.md\|Tomb Raider]]                                                                                   | 6:55 PM - August 08, 2024  |
 | [[Quartz/notes/Gran Turismo 5.md\|Gran Turismo 5]]                                                                             | 6:52 PM - August 08, 2024  |
 | [[Quartz/notes/Call of Duty 4 - Modern Warfare.md\|Call of Duty 4 - Modern Warfare]]                                           | 6:51 PM - August 08, 2024  |
-| [[Quartz/notes/Assetto Corsa Competizione.md\|Assetto Corsa Competizione]]                                                     | 7:42 PM - August 07, 2024  |
-| [[Quartz/notes/The Last of Us.md\|The Last of Us]]                                                                             | 6:32 PM - August 06, 2024  |
 <!-- SerializedQuery END -->

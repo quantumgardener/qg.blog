@@ -2,7 +2,7 @@
 tags:
   - class/map
 datetime: 2023-01-25T20:07:00
-updated: 2024-07-28T09:42:00
+updated: ""
 landscapes:
   - "[[The Garden Shed]]"
 ---
@@ -34,6 +34,7 @@ I began blogging in the early 2000's using [Radioland](http://radio.userland.com
 - [[My Decision to Stop Blogging]]
 - [[Bloggers should support other bloggers]]
 - [[Blogs are public journal entries]]
+- [[It's your weblog]]
 
 ### Tools
 - [[My document toolkit]] 
