@@ -13,6 +13,7 @@ The 50 most recently updated notes, excluding [[/blog|blog]] entries.
 
 | File                                                                                                                           | Date                       |
 | ------------------------------------------------------------------------------------------------------------------------------ | -------------------------- |
+| [[Quartz/notes/Reasons to delegate.md\|Reasons to delegate]]                                                                   | 4:43 PM - August 23, 2024  |
 | [[Quartz/notes/Delegation.md\|Delegation]]                                                                                     | 8:27 AM - August 23, 2024  |
 | [[Quartz/notes/Community of practice.md\|Community of practice]]                                                               | 8:22 AM - August 23, 2024  |
 | [[Quartz/notes/Thought Horizon (Business).md\|Thought Horizon (Business)]]                                                     | 8:21 PM - August 22, 2024  |
@@ -62,5 +63,4 @@ The 50 most recently updated notes, excluding [[/blog|blog]] entries.
 | [[Quartz/notes/Uncharted - Drake's Fortune.md\|Uncharted - Drake's Fortune]]                                                   | 6:59 PM - August 08, 2024  |
 | [[Quartz/notes/Tomb Raider.md\|Tomb Raider]]                                                                                   | 6:55 PM - August 08, 2024  |
 | [[Quartz/notes/Gran Turismo 5.md\|Gran Turismo 5]]                                                                             | 6:52 PM - August 08, 2024  |
-| [[Quartz/notes/Call of Duty 4 - Modern Warfare.md\|Call of Duty 4 - Modern Warfare]]                                           | 6:51 PM - August 08, 2024  |
 <!-- SerializedQuery END -->
