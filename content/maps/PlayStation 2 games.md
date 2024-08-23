@@ -5,6 +5,8 @@ tags:
   - class/list
   - serialised-dataview
   - class/map
+datetime: 2023-05-27T17:18:54
+updated: ""
 ---
 Games that I played on the for the [[PlayStation 2]] console. In the early days games were expensive compared to my disposable income and it had to be pretty special for me to sink dollars into it. This is not a long list. I feel there should have been more but I've been through the complete lists on Wikipedia and these are all that I can remember owning from my time with the console.
 

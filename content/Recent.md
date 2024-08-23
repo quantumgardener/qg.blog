@@ -40,8 +40,8 @@ The 50 most recently updated notes, excluding [[/blog|blog]] entries.
 | [[Quartz/notes/Marvel's Spider-Man - Miles Morales.md\|Marvel's Spider-Man - Miles Morales]]                                   | 3:56 PM - August 16, 2024  |
 | [[Quartz/notes/PlayStation 2.md\|PlayStation 2]]                                                                               | 3:56 PM - August 16, 2024  |
 | [[Quartz/notes/The Last of Us - Left Behind.md\|The Last of Us - Left Behind]]                                                 | 3:56 PM - August 16, 2024  |
-| [[Quartz/notes/Zork III.md\|Zork III]]                                                                                         | 3:56 PM - August 16, 2024  |
 | [[Quartz/notes/Zork II.md\|Zork II]]                                                                                           | 3:56 PM - August 16, 2024  |
+| [[Quartz/notes/Zork III.md\|Zork III]]                                                                                         | 3:56 PM - August 16, 2024  |
 | [[Quartz/notes/The Room Two.md\|The Room Two]]                                                                                 | 6:02 PM - August 12, 2024  |
 | [[Quartz/notes/The Room.md\|The Room]]                                                                                         | 6:01 PM - August 12, 2024  |
 | [[Quartz/notes/Nintendo Wii.md\|Nintendo Wii]]                                                                                 | 5:45 PM - August 11, 2024  |

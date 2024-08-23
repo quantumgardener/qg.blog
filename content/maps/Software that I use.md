@@ -7,7 +7,7 @@ updated: 2024-08-23T08:21:00
 Here, I make comment on the software that I have, or have used. The physical technology equivalent is [[Gear that I use]].
 
 > [!note] Start here
-> [[Trial software in anger]] is where I describe the need to commit to any software you are trialling, otherwise you won't really know what it can do. And when you buy, [[Don't buy the expansion pack]] until you are ready.
+> [[]] is where I describe the need to commit to any software you are trialling, otherwise you won't really know what it can do. And when you buy, [[Don't buy the expansion pack]] until you are ready.
 
 ## Software in use
 - [[My document toolkit]]
@@ -22,6 +22,7 @@ Here, I make comment on the software that I have, or have used. The physical tec
 - [[Zotero]]
 - [[Expanso]]
 
-## Software no longer in use (and sometimes why)
+## Software no longer in use (and sometimes sometimes why)
+- [[Faster text entry on a Palm Pilot]]
 - [[Faster text entry on a Palm Pilot]]
 - [[Roam Research]]

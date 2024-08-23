@@ -22,3 +22,6 @@ exec sudo nsenter -t $(pidof systemd) -a su - $LOGNAME
 
 ## Install node.js and NPM
 [How to install Node.js and NPM on WSL2](https://cloudbytes.dev/snippets/how-to-install-nodejs-and-npm-on-wsl2)
+
+## Location of files on Windows
+C:\Users\<user>\AppData\Local\Packages\CanonicalGroupLimited.Ubuntu24.04LTS_79rhkp1fndgsc

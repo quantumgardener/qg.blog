@@ -1,5 +1,5 @@
 ---
-datetime: 2002-09-11T013:57:47
+datetime: 2002-09-11T13:57:47
 ---
 [On the difference between blogs and discsussion forums](http://www.ozzie.net/ blog/stories/2002/08/12/architectureMattersTheRebirthOfPublicDiscussion.html). Some people do not seem to be able to get their heads around the difference between blogs and discussion forums. To my mind, although at a surface level they have some similarities - at a deeper level they are fundamentally different.
 
