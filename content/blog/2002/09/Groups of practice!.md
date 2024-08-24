@@ -2,7 +2,7 @@
 tags: 
 datetime: 2002-09-11T15:24:19
 ---
-A while ago I was sent this message from [ninemsn Groups](http:// groups.msn.com/home.msnw?pgmarket=en-au), the Australian arm of the Microsoft network.
+A while ago I was sent this message from [ninemsn Groups](http://groups.msn.com/home.msnw?pgmarket=en-au), the Australian arm of the Microsoft network.
 
 > ninemsn Communities will become ninemsn Groups this summer. Groups more accurately conveys what we're all about?people with similar interests building a group around those interests. In addition, 'Groups' is rapidly becoming the standard term for this type of service. 'Groups' is simpler, more precise, and a lot easier to type.
 
