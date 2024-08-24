@@ -3,7 +3,7 @@ tags:
 landscapes:
   - "[[Quartz/maps/Hobby Together]]"
 datetime: 2024-05-04
-updated: 2024-07-31T17:25:00
+updated: 2024-08-24T14:44:00
 ---
 The **IMatch to Socials** system automates the addition, update and deletion of images between [[IMatch]] and [flickr](https://flickr.com) or [pixelfed](https://pixelfed.org). I created it to reduce the time taken updating and managing photos across all three platforms.
 ## Features
@@ -14,6 +14,7 @@ The **IMatch to Socials** system automates the addition, update and deletion of 
 - When the target platform is flickr, adds/removes the photo from albums and groups.
 - When the target platform is pixelfed, provides alt-text alongside the photo.
 - Can be run as an [IMatch app](https://www.photools.com/help/imatch/app_basics.htm) for processing without leaving [[IMatch]].
+- Adds [what3words](https://what3words.com) words to pixelfed images
 
 > [!note] Sample of automatically generated information for Pixelfed 
 > ![[imatch-to-socials-pixelfed-example.webp]]
@@ -68,12 +69,14 @@ For this system to run you need:
 - For pixelfed
 	- [Mastodon.py](https://pypi.org/project/Mastodon.py/) - once you have Python installed run `pip3 install Mastodon.py`
 	- Your own Pixelfed account and 'personal access token'
+	- Your own [what3words](https://what3words.com) API. The free level is enough.
 - Code downloaded from GitHub at https://github.com/quantumgardener/IMatch-to-Socials
 
 ### Get Your Application Keys
 Create application keys and record the keys and secrets you're given. These will go into IMatch application variables.
 - flickr: [The App Garden on Flickr](https://www.flickr.com/services/apps/create)
 - pixelfed: Settings | Applications | Create new Token
+- what3words: Register and create token
 
 You do not need to set up both platforms if you are using only the one. However, you will either need to modify `share_images.py` or call the Python script with a 'flickr' or 'pixelfed' argument. This is what the [[#Configure IMatch App|IMatch App]] does.
 ### Create IMatch Application Variables
@@ -92,6 +95,7 @@ To remove private information from the code, and to allow for quick changes, the
 | pixelfed_token                       | Your personal pixelfed app token                              |
 | pixelfed_url                         | URL of your pixelfed site. Mine is https://pixelfed.au        |
 | pixelfed_visibility                  | Pixelfed image visibility (public, unlisted, private, direct) |
+| what3words_apikey                    | Translate GPS lat/lon if present into what3words form         |
 > [!tip] There is some configuration in `config.py` but this is more generic. 
 > You could move these variables to application variables if you wanted (or vice-versa).
 
@@ -241,3 +245,6 @@ category = iu.IMatchUtility.build_category(['Socials','flickr','_delete'])
 print(category) # Socials|flickr|_delete
 ```
 - `prepare_filelist` takes a single IMatch file id, or array of ids, and turns them into a comma-separated string for passing through to the API.
+#### `What3Words` (what3words.py)
+> [!NOTE] Single function to convert GPS latitude and longitude to what3words location 
+- `getWords` takes latitude and longitude as decimals and returns 3 words.
