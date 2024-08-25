@@ -14,16 +14,17 @@ title:
 - [[Way of Being is not the same as behaviour]]
 - [[Ontological learning]]
 - [[Ontological shift]]
-- [[Atlas/Notes/Legitimate Other]]mate Other]]
+- [[Legitimate other]]
 - [[Concernful activity]]
 ## Ontological domains of learning
 
 - [[The three ontological domains]]
 - [[The Linguistic Domain]]
+- [[A breakdown is a learning opportunity]]
 ### Domain of Language
 - [[Basic Linguistic Acts]]
-- [[Atlas/Notes/Distinction]]istinction]]
-- [[Quartz/maps/Types of conversation]]nversation]]
+- [[Distinction]]
+- [[Quartz/maps/Types of conversation]]
 ## Ontological coaching
 - [[Ontological coach]]
 - [[Ontological coaches are not teachers]]

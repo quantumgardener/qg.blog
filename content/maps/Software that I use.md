@@ -2,7 +2,7 @@
 tags:
   - class/map
 datetime: 2023-09-30T09:38:09
-updated: 2024-08-23T08:21:00
+updated: 2024-08-25T13:59:00
 ---
 Here, I make comment on the software that I have, or have used. The physical technology equivalent is [[Gear that I use]].
 
@@ -21,6 +21,7 @@ Here, I make comment on the software that I have, or have used. The physical tec
 - [[1Password]]
 - [[Zotero]]
 - [[Expanso]]
+- [[Macrium Reflect Home Edition]]
 
 ## Software no longer in use (and sometimes sometimes why)
 - [[Faster text entry on a Palm Pilot]]

@@ -9,7 +9,7 @@ I have been an [Instapaper](https://www.instapaper.com) user for many years. Fro
 
 A few months ago I dropped Readwise and this evening I dropped Instapaper.
 
-I’ve been hearing about an alternative read later app[^1] called [Omnivore](https://omnivore.app) via the `#obsidian` tag on Mastodon. So, I took a look. My initial impressions and testing were strong enough for me to move across. This is inline with [[|my practice of relying on software to properly learn its value]] and form an easy way to collate information for my [[Personal knowledge management]] (perhaps too easy!).
+I’ve been hearing about an alternative read later app[^1] called [Omnivore](https://omnivore.app) via the `#obsidian` tag on Mastodon. So, I took a look. My initial impressions and testing were strong enough for me to move across. This is inline with [[|my practice of relying on software to properly learn its value]] and form an easy way to collate information for my [[Quartz/notes/Personal knowledge management]] (perhaps too easy!).
 
 Thoughts:
 - There is slightly more friction in getting an article into Omnivore that Instapaper on IOS. [News Explorer](https://betamagic.nl/products/newsexplorer.html), my RSS reader, has a native interaction for Instapaper, but not Omnivore.

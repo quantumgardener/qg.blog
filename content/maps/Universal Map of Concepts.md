@@ -12,11 +12,11 @@ Most of what I think about and enjoy doing can be tied the concepts listed in th
 
 [[Ontology]] is both the study of being and the concepts and ideas in a field of study. I use [[The Ontology of the Human Observer]] extensively as a framework for my understanding of how interact with the world.
 
-[[Ontological coaching]] helps people with their [[Ontological learning]] by giving them a set of [[Atlas/Notes/Distinction|Distinctions]]stinctions]] that provide them with insight into their current [[Way of Being]] and create the potential for an [[Ontological shift]]
+[[Ontological coaching]] helps people with their [[Ontological learning]] by giving them a set of [[Distinction|Distinctions]] that provide them with insight into their current [[Way of Being]] and create the potential for an [[Ontological shift]]
 
 My personal experience of my [[Way of Being]] is a valuable source of learning for me.
 
-Conversation is a fundamental part of human existence. The [[Quartz/maps/Types of conversation]]nversation]] we have, the calibre of those conversations, and any [[Missing Conversations]] has a significant impact on the quality of our lives. Our adeptness at [[Conversational Technology]] such as [[Basic Linguistic Acts]] and the [[Promise Cycle]] sits within our [[Way of Being]].
+Conversation is a fundamental part of human existence. The [[Quartz/maps/Types of conversation]] we have, the calibre of those conversations, and any [[Missing Conversations]] has a significant impact on the quality of our lives. Our adeptness at [[Conversational Technology]] such as [[Basic Linguistic Acts]] and the [[Promise Cycle]] sits within our [[Way of Being]].
 
 [[Coaching and mentoring are different]]. The focus of a coach is to help a coachee observe their [[Way of Being]] and make adjustments that benefit them. Mentors tend to drop their experience on others as the right and only way to do things. With this approach, a mentor has fallen into the trap of [[Arrogance]].
 ## Productive laziness
@@ -25,7 +25,7 @@ Conversation is a fundamental part of human existence. The [[Quartz/maps/Types o
 
 The [[Promise Cycle]] is a model for understanding how people come together to complete work. Knowing about it can help avoid problems before they arise. The same model is used for [[Delegation]].
 
-[[Time Management]] is the process of managing one's time. It is a limited resource, as is the time of others. Therefore time management is essential in treating people as a [[Atlas/Notes/Legitimate Other]]mate Other]]. Something that makes [[Time Management]] easier is a strong practice of [[Personal knowledge management]].
+[[Time Management]] is the process of managing one's time. It is a limited resource, as is the time of others. Therefore time management is essential in treating people as a [[Atlas/Notes/Legitimate Other]]mate Other]]. Something that makes [[Time Management]] easier is a strong practice of [[Quartz/notes/Personal knowledge management]].
 
 [[Atlas/Notes/Wonder]]tes/Wonder]] is my favourite of the [[Basic moods of life]] and to access wonder, I use [[Meditation]], [[Quartz/maps/Map of astronomy]] astronomy]] and [[Mathematics]].
 

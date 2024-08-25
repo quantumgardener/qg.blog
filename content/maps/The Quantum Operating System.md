@@ -12,7 +12,7 @@ datetime: 2024-03-10T00:00:00
 - [[Designing The Quantum Garden]]
 - [[Tags are not knowledge]]
 ## Managing content
-Knowledge and records stored within my [[Personal knowledge management]] system are subject to the following rules and guidelines.
+Knowledge and records stored within my [[Quartz/notes/Personal knowledge management]] system are subject to the following rules and guidelines.
 
 | I want to...                 | ...manage the Digital Garden                  |
 | ---------------------------- | --------------------------------------------- |

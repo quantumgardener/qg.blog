@@ -7,4 +7,4 @@ landscapes:
 ---
 Backlinks provide important connective tissue between documents. Links are normally forward looking -- from here to there. Backlinks provide critical context because they show what links from there to here.
 
-The backlinks I create assist my [[Personal knowledge management]] and do a lot of heavy lifting in a [[Zettelkasten]].
+The backlinks I create assist my [[Quartz/notes/Personal knowledge management]] and do a lot of heavy lifting in a [[Zettelkasten]].

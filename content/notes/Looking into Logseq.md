@@ -5,7 +5,7 @@ landscapes:
   - "[[The Garden Shed]]"
 datetime: 2023-07-01T00:00:00
 ---
-[[+/inherited/logseq]] has been appearing a lot in my Mastodon feed lately as a [[Personal knowledge management]] solution. Many sing its praises over [[Obsidian]] so with a slow afternoon at work yesterday I thought to take a look.
+[[+/inherited/logseq]] has been appearing a lot in my Mastodon feed lately as a [[Quartz/notes/Personal knowledge management]] solution. Many sing its praises over [[Obsidian]] so with a slow afternoon at work yesterday I thought to take a look.
 
 My first impression is that Logseq is the offline version of [[Roam Research]]; the tool I used before [[Transplanting my Brain to Roam to Obsidian|migrating to Obsidian]]. The biggest issue I had with Roam was the storage of everything online via the browser. I never felt that I had full control over my information, and even less for any files that I uploaded. Logseq solves that.
 

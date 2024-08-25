@@ -6,7 +6,7 @@ landscapes:
   - "[[Quartz/maps/Productive laziness]]"
 datetime: 2024-03-10T00:00:00
 ---
-Any [[Personal knowledge management]] system must be flexible. It needs to accommodate:
+Any [[Quartz/notes/Personal knowledge management]] system must be flexible. It needs to accommodate:
 
 - changes in taxonomy - knowledge is not fixed, and certainly our interpretation of knowledge is open to change. That comes from [[Being a learner]].
 - changes in document format - knowledge comes in many forms and it's frequently a low-value activity to convert from one format to another, unless converting into a searchable format from one that is not searchable.
