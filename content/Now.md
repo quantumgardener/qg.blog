@@ -13,6 +13,7 @@ What am I up to now?
 
 | Post                                                                    |
 | ----------------------------------------------------------------------- |
+| [[Quartz/blog/2024/08/Now, 25 August 2024.md\|Now, 25 August 2024]]     |
 | [[Quartz/blog/2024/08/Now, 19 August 2024.md\|Now, 19 August 2024]]     |
 | [[Quartz/blog/2024/08/Now, 11 August 2024.md\|Now, 11 August 2024]]     |
 | [[Quartz/blog/2024/08/Now, 5 August 2024.md\|Now, 5 August 2024]]       |

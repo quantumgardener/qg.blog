@@ -13,6 +13,9 @@ The 50 most recently updated notes, excluding [[/blog|blog]] entries.
 
 | File                                                                                                                           | Date                       |
 | ------------------------------------------------------------------------------------------------------------------------------ | -------------------------- |
+| [[Quartz/notes/Who is the Quantum Gardener.md\|Who is the Quantum Gardener]]                                                   | 2:27 PM - August 25, 2024  |
+| [[Quartz/notes/Breakdown.md\|Breakdown]]                                                                                       | 1:49 PM - August 25, 2024  |
+| [[Quartz/notes/Breakdown has a negative connotation.md\|Breakdown has a negative connotation]]                                 | 1:47 PM - August 25, 2024  |
 | [[Quartz/notes/IMatch to Socials.md\|IMatch to Socials]]                                                                       | 2:44 PM - August 24, 2024  |
 | [[Quartz/notes/tinylytics.md\|tinylytics]]                                                                                     | 10:26 AM - August 24, 2024 |
 | [[Quartz/notes/Reasons to delegate.md\|Reasons to delegate]]                                                                   | 4:43 PM - August 23, 2024  |
@@ -43,8 +46,8 @@ The 50 most recently updated notes, excluding [[/blog|blog]] entries.
 | [[Quartz/notes/Marvel's Spider-Man - Miles Morales.md\|Marvel's Spider-Man - Miles Morales]]                                   | 3:56 PM - August 16, 2024  |
 | [[Quartz/notes/PlayStation 2.md\|PlayStation 2]]                                                                               | 3:56 PM - August 16, 2024  |
 | [[Quartz/notes/The Last of Us - Left Behind.md\|The Last of Us - Left Behind]]                                                 | 3:56 PM - August 16, 2024  |
-| [[Quartz/notes/Zork II.md\|Zork II]]                                                                                           | 3:56 PM - August 16, 2024  |
 | [[Quartz/notes/Zork III.md\|Zork III]]                                                                                         | 3:56 PM - August 16, 2024  |
+| [[Quartz/notes/Zork II.md\|Zork II]]                                                                                           | 3:56 PM - August 16, 2024  |
 | [[Quartz/notes/The Room Two.md\|The Room Two]]                                                                                 | 6:02 PM - August 12, 2024  |
 | [[Quartz/notes/The Room.md\|The Room]]                                                                                         | 6:01 PM - August 12, 2024  |
 | [[Quartz/notes/Nintendo Wii.md\|Nintendo Wii]]                                                                                 | 5:45 PM - August 11, 2024  |
@@ -60,7 +63,4 @@ The 50 most recently updated notes, excluding [[/blog|blog]] entries.
 | [[Quartz/notes/Diablo III - Reaper of Souls - Ultimate Evil Edition.md\|Diablo III - Reaper of Souls - Ultimate Evil Edition]] | 4:20 PM - August 09, 2024  |
 | [[Quartz/notes/Call of Duty - WWII.md\|Call of Duty - WWII]]                                                                   | 4:08 PM - August 09, 2024  |
 | [[Quartz/notes/Call of Duty - Modern Warfare.md\|Call of Duty - Modern Warfare]]                                               | 4:06 PM - August 09, 2024  |
-| [[Quartz/notes/Uncharted 3 - Drake's Deception.md\|Uncharted 3 - Drake's Deception]]                                           | 7:09 PM - August 08, 2024  |
-| [[Quartz/notes/Uncharted 2 - Among Thieves.md\|Uncharted 2 - Among Thieves]]                                                   | 7:04 PM - August 08, 2024  |
-| [[Quartz/notes/Uncharted - Drake's Fortune.md\|Uncharted - Drake's Fortune]]                                                   | 6:59 PM - August 08, 2024  |
 <!-- SerializedQuery END -->
