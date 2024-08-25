@@ -8,5 +8,5 @@ datetime: 2024-05-18T00:00:00
 > "Once a blogger, always a blogger"
 > 
 
-Use the links below to access the blog's archives, and you can also access my many thoughts on [[Blogging]]. I'm subscribed to [EchoFeed](https://echofeed.app) for publication of blogs to Mastodon where I can reshare them.
+Use the links below to access the blog's archives, and you can also access my many thoughts on [[Blogging]]. I'm subscribed to [EchoFeed](https://echofeed.app) for publication of blogs to [[Mastodon]] where I can reshare them.
 
