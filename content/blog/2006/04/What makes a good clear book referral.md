@@ -1,5 +1,6 @@
 ---
 datetime: 2006-04-28T19:56:00
+title: What makes a good book referral?
 ---
 Clarity is always important. Megan Casey over at SquidBlog provides [a great tip and example](http://www.squidoo.com/blog/?p=68) of how clarity can enhance a book referral. If you read it and apply the principles, you can see how you can expand your blog linking as well. If you network, the same applies there as well when describing ideal clients to others and how you would like them to introduce you in your absence.
 

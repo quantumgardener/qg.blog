@@ -1,5 +1,6 @@
 ---
 datetime: 2010-02-24T20:00:00
+title: Where do you lay the blame?
 ---
 On Monday night my wife and I were attending parent-teacher interviews. We had two appointments booked and we were both on time for the 5.00 pm appointment which left us plenty of time for the second at 5.20 pm. It transpired that we missed the 5.20 pm appointment. Who was to blame?
 
