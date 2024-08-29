@@ -18,7 +18,7 @@ Knowledge and records stored within my [[Quartz/notes/Personal knowledge managem
 | ---------------------------- | --------------------------------------------- |
 | Attach a file                | [[Photo, image and attachments guidelines]]   |
 | Tag a journal entry          | [[Tagging journal entries]]                   |
-| Add [[Map of content]]      | [[Maps of Contents Guidelines]]               |
+| Add [[Map of content]]      | [[Maps of content guidelines]]               |
 | Add a source                 | [[Source guidelines]]                         |
 | Add a property or tag        | [[Property Guidelines]] \| [[Tag Guidelines]] |
 | Check for consistency/errors | [[+Index for QA]]                             |

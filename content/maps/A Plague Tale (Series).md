@@ -11,5 +11,5 @@ updated:
 
 | # | Game                                                                                               |                                                                          |
 | - | -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
-| 1 | ![[Quartz/assets/covers/vg_A Plague Tale - Innocence_t.webp\|vg_A Plague Tale - Innocence_t.webp]] | [[Quartz/notes/A Plague Tale - Innocence.md\|A Plague Tale - Innocence]] |
+| 1 | ![[vg_A Plague Tale - Innocence_t.webp]] | [[A Plague Tale - Innocence]] |
 <!-- SerializedQuery END -->

@@ -35,7 +35,7 @@ I began blogging in the early 2000's using [Radioland](http://radio.userland.com
 - [[Bloggers should support other bloggers]]
 - [[Blogs are public journal entries]]
 - [[It's your weblog]]
-
+- [[There is a freedom in not thinking I have to blog anymore]]
 ### Tools
 - [[My document toolkit]] 
 - [[Workflow for Importing my Old Blog Entries]]
@@ -45,4 +45,4 @@ I began blogging in the early 2000's using [Radioland](http://radio.userland.com
 - [[Blog for Learning - Making a Blog with Roam]]
 - [How To Use Tags On Your Blog (Most Are Doing It All Wrong) - Love People + Make Money](https://lovepeoplemakemoney.com/how-to-use-tags-on-your-blog/)
 - [[How I take Smart Notes — Nicholas Seitz Photographer]]
-- [[There is a freedom in not thinking I have to blog anymore]]
+

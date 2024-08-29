@@ -1,13 +1,13 @@
 ---
 aliases:
-  - maps of content
-tags: []
+  - Maps of content
+tags: 
 datetime: 2023-09-19T20:32:00
 ---
 Maps are ways to access notes quickly, in a context. Much more than just an index, they organise and relate, include searches/tags even for quick access. [[Maps of content are structure]].
 
 > [!TIP]
-> Visit this site's [List of maps of content](/tags/moc).
+> Visit this site's [List of maps of content](/maps).
 
 The three phases of [[Map of content]] creation are are:
 1. Assembling ideas together in one place

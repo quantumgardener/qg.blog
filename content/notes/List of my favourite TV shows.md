@@ -16,8 +16,8 @@ I did previously keep a list of all completed TV series/seasons but have decided
 
 | TV Show                                                                          |                                                        | Rating                               |
 | -------------------------------------------------------------------------------- | ------------------------------------------------------ | ------------------------------------ |
-| ![[Quartz/assets/covers/tv_Babylon 5_t.webp\|tv_Babylon 5_t.webp]]               | [[Quartz/notes/Babylon 5.md\|Babylon 5]]               | [[Quartz/notes/4-star.md\|⭐️⭐️⭐️⭐️]] |
-| ![[Quartz/assets/covers/tv_Band of Brothers_t.webp\|tv_Band of Brothers_t.webp]] | [[Quartz/notes/Band of Brothers.md\|Band of Brothers]] | [[Quartz/notes/4-star.md\|⭐️⭐️⭐️⭐️]] |
+| ![[tv_Babylon 5_t.webp]]               | [[Babylon 5]]               | [[⭐️⭐️⭐️⭐️]] |
+| ![[tv_Band of Brothers_t.webp]] | [[Band of Brothers]] | [[⭐️⭐️⭐️⭐️]] |
 <!-- SerializedQuery END -->
 
 

@@ -10,7 +10,7 @@ I know nothing identifiable about any visitor to the site.
 For a full read on how tinylytics gathers information, visit [Understanding Unique Hit Tracking](https://tinylytics.app/docs/unique_hits). Here are the key points[^2].
 
 > [!tip] Public Stats
-> The hit stats for this site can be viewed anytime at [The Quantum Garden | Stats page | tinylytics](https://tinylytics.app/public/E3iDvbUS_jM8JfgnY6Ae)
+> The page visit statistics for this site can be viewed anytime at [The Quantum Garden | Stats page | tinylytics](https://tinylytics.app/public/E3iDvbUS_jM8JfgnY6Ae)
 
 > - No personal data or visitor IP addresses are ever stored.
 > - We use only Cloudflare’s IP addresses in our calculations, not your visitors’ addresses.

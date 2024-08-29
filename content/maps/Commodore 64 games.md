@@ -15,11 +15,11 @@ My [[Commodore 64]] games.
 
 | Game                                                             |                                        | Rating                                 | Status                                   |
 | ---------------------------------------------------------------- | -------------------------------------- | -------------------------------------- | ---------------------------------------- |
-| ![[Quartz/assets/covers/vg_Elite_t.webp\|vg_Elite_t.webp]]       | [[Quartz/notes/Elite.md\|Elite]]       | [[Quartz/notes/5-star.md\|⭐️⭐️⭐️⭐️⭐️]] | [[Quartz/notes/completed.md\|completed]] |
-| ![[Quartz/assets/covers/vg_Lazarian_t.webp\|vg_Lazarian_t.webp]] | [[Quartz/notes/Lazarian.md\|Lazarian]] | [[Quartz/notes/3-star.md\|⭐️⭐️⭐️]]     | [[Quartz/notes/completed.md\|completed]] |
-| ![[Quartz/assets/covers/vg_Zork I_t.webp\|vg_Zork I_t.webp]]     | [[Quartz/notes/Zork I.md\|Zork I]]     | [[Quartz/notes/5-star.md\|⭐️⭐️⭐️⭐️⭐️]] | [[Quartz/notes/completed.md\|completed]] |
-| ![[Quartz/assets/covers/vg_Zork II_t.webp\|vg_Zork II_t.webp]]   | [[Quartz/notes/Zork II.md\|Zork II]]   | [[Quartz/notes/3-star.md\|⭐️⭐️⭐️]]     | [[Quartz/notes/completed.md\|completed]] |
-| ![[Quartz/assets/covers/vg_Zork III_t.webp\|vg_Zork III_t.webp]] | [[Quartz/notes/Zork III.md\|Zork III]] | [[Quartz/notes/3-star.md\|⭐️⭐️⭐️]]     | [[Quartz/notes/completed.md\|completed]] |
+| ![[vg_Elite_t.webp]]       | [[Elite]]       | [[⭐️⭐️⭐️⭐️⭐️]] | [[completed]] |
+| ![[vg_Lazarian_t.webp]] | [[Lazarian]] | [[⭐️⭐️⭐️]]     | [[completed]] |
+| ![[vg_Zork I_t.webp]]     | [[Zork I]]     | [[⭐️⭐️⭐️⭐️⭐️]] | [[completed]] |
+| ![[vg_Zork II_t.webp]]   | [[Zork II]]   | [[⭐️⭐️⭐️]]     | [[completed]] |
+| ![[vg_Zork III_t.webp]] | [[Zork III]] | [[⭐️⭐️⭐️]]     | [[completed]] |
 <!-- SerializedQuery END -->
 <!-- SerializedQuery: table without id embed(link(thumbnail)) as "Game", file.link as "", rating as Rating, link(split( filter(file.tags, (t) => startswith(t, "#status") )[0], "/" )[1]) as Status from #class/video-game where contains(platform, [[Commodore 64]]) sort file.name -->
 
