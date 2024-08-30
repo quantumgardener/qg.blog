@@ -20,7 +20,7 @@ The 50 most recently updated notes, excluding [blog](/blog) entries.
 | [[Code to get snap working on Ubuntu 24.04 LTS]] | 8:21 AM - August 30, 2024  |
 | [[Taxonomy of note types]]                                             | 2:59 PM - August 29, 2024  |
 | [[Maps of content guidelines]]                                     | 2:55 PM - August 29, 2024  |
-| [[Who is the Quantum Gardener?]]                                  | 2:27 PM - August 25, 2024  |
+| [[Who is the Quantum Gardener\|Who is the Quantum Gardener?]]                                  | 2:27 PM - August 25, 2024  |
 | [[A breakdown is a learning opportunity]]               | 1:55 PM - August 25, 2024  |
 | [[Breakdown]]                                                                       | 1:49 PM - August 25, 2024  |
 | [[Breakdown has a negative connotation]]                 | 1:47 PM - August 25, 2024  |
@@ -50,7 +50,7 @@ The 50 most recently updated notes, excluding [blog](/blog) entries.
 | [[Basic Linguistic Acts]]                                               | 3:56 PM - August 16, 2024  |
 | [[Gran Turismo 7]]                                                             | 3:56 PM - August 16, 2024  |
 | [[Marvel's Spider-Man - Miles Morales]]                   | 3:56 PM - August 16, 2024  |
-| [[The Last of Us: Left Behind]]                                  | 3:56 PM - August 16, 2024  |
+| [[The Last of Us - Left Behind\|The Last of Us: Left Behind]]                                  | 3:56 PM - August 16, 2024  |
 | [[Zork II]]                                                                           | 3:56 PM - August 16, 2024  |
 | [[Zork III]]                                                                         | 3:56 PM - August 16, 2024  |
 | [[The Room Two]]                                                                 | 6:02 PM - August 12, 2024  |

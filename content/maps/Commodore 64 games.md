@@ -15,11 +15,11 @@ My [[Commodore 64]] games.
 
 | Game                                                             |                                        | Rating                                 | Status                                   |
 | ---------------------------------------------------------------- | -------------------------------------- | -------------------------------------- | ---------------------------------------- |
-| ![[vg_Elite_t.webp]]       | [[Elite]]       | [[⭐️⭐️⭐️⭐️⭐️]] | [[completed]] |
-| ![[vg_Lazarian_t.webp]] | [[Lazarian]] | [[⭐️⭐️⭐️]]     | [[completed]] |
-| ![[vg_Zork I_t.webp]]     | [[Zork I]]     | [[⭐️⭐️⭐️⭐️⭐️]] | [[completed]] |
-| ![[vg_Zork II_t.webp]]   | [[Zork II]]   | [[⭐️⭐️⭐️]]     | [[completed]] |
-| ![[vg_Zork III_t.webp]] | [[Zork III]] | [[⭐️⭐️⭐️]]     | [[completed]] |
+| ![[vg_Elite_t\|vg_Elite_t.webp]]       | [[Elite]]       | [[5-star\|⭐️⭐️⭐️⭐️⭐️]] | [[completed]] |
+| ![[vg_Lazarian_t\|vg_Lazarian_t.webp]] | [[Lazarian]] | [[3-star\|⭐️⭐️⭐️]]     | [[completed]] |
+| ![[vg_Zork I_t\|vg_Zork I_t.webp]]     | [[Zork I]]     | [[5-star\|⭐️⭐️⭐️⭐️⭐️]] | [[completed]] |
+| ![[vg_Zork II_t\|vg_Zork II_t.webp]]   | [[Zork II]]   | [[3-star\|⭐️⭐️⭐️]]     | [[completed]] |
+| ![[vg_Zork III_t\|vg_Zork III_t.webp]] | [[Zork III]] | [[3-star\|⭐️⭐️⭐️]]     | [[completed]] |
 <!-- SerializedQuery END -->
 <!-- SerializedQuery: table without id embed(link(thumbnail)) as "Game", file.link as "", rating as Rating, link(split( filter(file.tags, (t) => startswith(t, "#status") )[0], "/" )[1]) as Status from #class/video-game where contains(platform, [[Commodore 64]]) sort file.name -->
 

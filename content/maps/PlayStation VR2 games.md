@@ -16,10 +16,10 @@ Games for the [[PlayStation VR2]] headset.
 
 | Game                                                                                                         |                                                                                    | Rating                               | Status                                   |
 | ------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------- | ------------------------------------ | ---------------------------------------- |
-| ![[vg_Gran Turismo 7_t.webp]]                                 | [[Gran Turismo 7]]                                 | [[⭐️⭐️⭐️⭐️]] | [[ongoing]]     |
-| ![[vg_Horizon - Call of the Mountain_t.webp]] | [[Horizon - Call of the Mountain]] | [[⭐️⭐️⭐️⭐️]] | [[dropped]]     |
-| ![[vg_No Man's Sky_t.webp]]                                     | [[No Man's Sky]]                                     | [[⭐️⭐️⭐️⭐️]] | [[completed]] |
-| ![[vg_Resident Evil 4_t.webp]]                               | [[Resident Evil 4]]                               | [[⭐️⭐️⭐️]]   | [[completed]] |
+| ![[vg_Gran Turismo 7_t\|vg_Gran Turismo 7_t.webp]]                                 | [[Gran Turismo 7]]                                 | [[4-star\|⭐️⭐️⭐️⭐️]] | [[ongoing]]     |
+| ![[vg_Horizon - Call of the Mountain_t\|vg_Horizon - Call of the Mountain_t.webp]] | [[Horizon - Call of the Mountain]] | [[4-star\|⭐️⭐️⭐️⭐️]] | [[dropped]]     |
+| ![[vg_No Man's Sky_t\|vg_No Man's Sky_t.webp]]                                     | [[No Man's Sky]]                                     | [[4-star\|⭐️⭐️⭐️⭐️]] | [[completed]] |
+| ![[vg_Resident Evil 4_t\|vg_Resident Evil 4_t.webp]]                               | [[Resident Evil 4]]                               | [[3-star\|⭐️⭐️⭐️]]   | [[completed]] |
 <!-- SerializedQuery END -->
 <!-- SerializedQuery: table without id embed(link(thumbnail)) as "Game", file.link as "", rating as Rating, link(split( filter(file.tags, (t) => startswith(t, "#status") )[0], "/" )[1]) as Status from #class/video-game where contains(platform, [[PlayStation VR2]]) sort file.name -->
 

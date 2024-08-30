@@ -17,15 +17,15 @@ Games for the [[PlayStation 3]].
 
 | Game                                                                                                           |                                                                                      | Rating                                 | Status                                   |
 | -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ | -------------------------------------- | ---------------------------------------- |
-| ![[vg_BioShock Infinite_t.webp]]                             | [[BioShock Infinite]]                             | [[⭐️⭐️⭐️]]     | [[completed]] |
-| ![[vg_Call of Duty - Modern Warfare 2_t.webp]] | [[Call of Duty - Modern Warfare 2]] | [[⭐️⭐️⭐️]]     | [[completed]] |
-| ![[vg_Call of Duty 4 - Modern Warfare_t.webp]] | [[Call of Duty 4 - Modern Warfare]] | [[⭐️⭐️⭐️]]     | [[completed]] |
-| ![[vg_Gran Turismo 5_t.webp]]                                   | [[Gran Turismo 5]]                                   | [[⭐️⭐️⭐️]]     | [[completed]] |
-| ![[vg_The Last of Us_t.webp]]                                   | [[The Last of Us]]                                   | [[⭐️⭐️⭐️⭐️⭐️]] | [[completed]] |
-| ![[vg_Tomb Raider_t.webp]]                                         | [[Tomb Raider]]                                         | [[⭐️⭐️⭐️⭐️]]   | [[completed]] |
-| ![[vg_Uncharted - Drake's Fortune_t.webp]]         | [[Uncharted - Drake's Fortune]]         | [[⭐️⭐️⭐️⭐️]]   | [[completed]] |
-| ![[vg_Uncharted 2 - Among Thieves_t.webp]]         | [[Uncharted 2 - Among Thieves]]         | [[⭐️⭐️⭐️⭐️]]   | [[completed]] |
-| ![[vg_Uncharted 3 - Drake's Deception_t.webp]] | [[Uncharted 3 - Drake's Deception]] | [[⭐️⭐️⭐️⭐️]]   | [[completed]] |
+| ![[vg_BioShock Infinite_t\|vg_BioShock Infinite_t.webp]]                             | [[BioShock Infinite]]                             | [[3-star\|⭐️⭐️⭐️]]     | [[completed]] |
+| ![[vg_Call of Duty - Modern Warfare 2_t\|vg_Call of Duty - Modern Warfare 2_t.webp]] | [[Call of Duty - Modern Warfare 2]] | [[3-star\|⭐️⭐️⭐️]]     | [[completed]] |
+| ![[vg_Call of Duty 4 - Modern Warfare_t\|vg_Call of Duty 4 - Modern Warfare_t.webp]] | [[Call of Duty 4 - Modern Warfare]] | [[3-star\|⭐️⭐️⭐️]]     | [[completed]] |
+| ![[vg_Gran Turismo 5_t\|vg_Gran Turismo 5_t.webp]]                                   | [[Gran Turismo 5]]                                   | [[3-star\|⭐️⭐️⭐️]]     | [[completed]] |
+| ![[vg_The Last of Us_t\|vg_The Last of Us_t.webp]]                                   | [[The Last of Us]]                                   | [[5-star\|⭐️⭐️⭐️⭐️⭐️]] | [[completed]] |
+| ![[vg_Tomb Raider_t\|vg_Tomb Raider_t.webp]]                                         | [[Tomb Raider]]                                         | [[4-star\|⭐️⭐️⭐️⭐️]]   | [[completed]] |
+| ![[vg_Uncharted - Drake's Fortune_t\|vg_Uncharted - Drake's Fortune_t.webp]]         | [[Uncharted - Drake's Fortune]]         | [[4-star\|⭐️⭐️⭐️⭐️]]   | [[completed]] |
+| ![[vg_Uncharted 2 - Among Thieves_t\|vg_Uncharted 2 - Among Thieves_t.webp]]         | [[Uncharted 2 - Among Thieves]]         | [[4-star\|⭐️⭐️⭐️⭐️]]   | [[completed]] |
+| ![[vg_Uncharted 3 - Drake's Deception_t\|vg_Uncharted 3 - Drake's Deception_t.webp]] | [[Uncharted 3 - Drake's Deception]] | [[4-star\|⭐️⭐️⭐️⭐️]]   | [[completed]] |
 <!-- SerializedQuery END -->
 <!-- SerializedQuery: table without id embed(link(thumbnail)) as "Game", file.link as "", rating as Rating, link(split( filter(file.tags, (t) => startswith(t, "#status") )[0], "/" )[1]) as Status from #class/video-game where contains(platform, [[PlayStation 3]]) sort file.name -->
 

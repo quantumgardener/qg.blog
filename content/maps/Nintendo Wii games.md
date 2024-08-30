@@ -15,8 +15,8 @@ My [[Nintendo Wii]] games. I've not listed all the standard family games such as
 
 | Game                                                                           |                                                      | Rating                             | Status                                   |
 | ------------------------------------------------------------------------------ | ---------------------------------------------------- | ---------------------------------- | ---------------------------------------- |
-| ![[vg_Call of Duty 3_t.webp]]   | [[Call of Duty 3]]   | [[⭐️⭐️⭐️]] | [[completed]] |
-| ![[vg_Resident Evil 4_t.webp]] | [[Resident Evil 4]] | [[⭐️⭐️⭐️]] | [[completed]] |
+| ![[vg_Call of Duty 3_t\|vg_Call of Duty 3_t.webp]]   | [[Call of Duty 3]]   | [[3-star\|⭐️⭐️⭐️]] | [[completed]] |
+| ![[vg_Resident Evil 4_t\|vg_Resident Evil 4_t.webp]] | [[Resident Evil 4]] | [[3-star\|⭐️⭐️⭐️]] | [[completed]] |
 <!-- SerializedQuery END -->
 <!-- SerializedQuery: table without id embed(link(thumbnail)) as "Game", file.link as "", rating as Rating, link(split( filter(file.tags, (t) => startswith(t, "#status") )[0], "/" )[1]) as Status from #class/video-game where contains(platform, [[Nintendo Wii]]) sort file.name -->
 
