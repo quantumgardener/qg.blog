@@ -7,6 +7,7 @@ tags:
   - serialised-dataview
 datetime: 2024-08-16T15:56:59
 updated: 
+description: List of iOS games I've enjoyed.
 ---
 <!-- QueryToSerialize: table without id embed(link(thumbnail)) as "Game", file.link as "", rating as Rating, link(split( filter(file.tags, (t) => startswith(t, "#status") )[0], "/" )[1]) as Status from #class/video-game where contains(platform, [[iOS]]) sort file.name -->
 <!-- SerializedQuery: table without id embed(link(thumbnail)) as "Game", file.link as "", rating as Rating, link(split( filter(file.tags, (t) => startswith(t, "#status") )[0], "/" )[1]) as Status from #class/video-game where contains(platform, [[iOS]]) sort file.name -->

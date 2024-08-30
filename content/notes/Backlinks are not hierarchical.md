@@ -1,7 +1,8 @@
 ---
-tags: []
+tags: 
 datetime: 2024-05-31T10:26:47
 updated: 
+description: If *TopicA* links to *TopicB*, it may not be obvious that there is a connection when looking at *TopicB* particularly as content in a [[Digital garden]] is almost always non-hierarchical.
 ---
 If *TopicA* links to *TopicB*, it may not be obvious that there is a connection when looking at *TopicB* particularly as content in a [[Digital garden]] is almost always non-hierarchical. Instead of:
 

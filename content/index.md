@@ -11,7 +11,7 @@ Here I am opening sharing my learning. There is a mixture of well thought out co
 ## Getting around the garden
 Any good garden needs a map and within this garden, content is heavily connected using [[Map of content|Maps of content]]. The best overview comes from the [[Quartz/maps/Universal Map of Concepts]] which provides the jumping in point for most of the notes and other more details maps (think of them as inserts on the main map).
 
-[[Backlinks are important]] and every page will list the others that link to it. Something similar is presented in the **Graph view**.
+[[Backlinks are important]] and every page will list the others that link to it. Something similar is presented in the [[Graph view]].
 
 There is a traditional search accessible via the **Search bar** or via `CTRL-K` on the keyboard.
 

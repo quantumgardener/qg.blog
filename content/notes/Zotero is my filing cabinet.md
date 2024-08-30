@@ -2,16 +2,16 @@
 datetime: 2024-07-18T16:08:03
 updated: 2024-08-21T23:28:22
 ---
+[[Zotero]] is a tool used by academics to manage their research journals and citations. I am using it as my digital filing cabinet. The idea of a filing cabinet is just one of many were a physical medium has been translated into a digital one, often bringing the limitations of the physical into the digital. When I say, "filing cabinet" I mean the single place of storage for those documents that would otherwise have a paper-based equivalent.
+
 > [!INFO] 
 > The information below remains relevant as it describes how I use [[Zotero]] as part of my document management solution, but for my current overall process see [[Organising digital knowledge across multiple systems]].
 >
 > The major difference is documents are no longer stored in [[OneDrive]] with links to Zotero, but in a locally hosted webdav server on my [[Synology DiskStation DS920+]] NAS.
 
-[[Zotero]] is a tool used by academics to manage their research journals and citations. I am using it as my digital filing cabinet. The idea of a filing cabinet is just one of many were a physical medium has been translated into a digital one, often bringing the limitations of the physical into the digital. When I say, "filing cabinet" I mean the single place of storage for those documents that would otherwise have a paper-based equivalent.
-
 The folder (or directory) structure of storage systems is limited because it is hierarchical. A single document cannot exist in two places at once without there being two copies^[Windows shortcuts or symlinks do allow this with so much effort it's not worth it]. 
 
-The typical way around this is to use software to provide a level of abstraction over the top of the file system. Applications such as [[DevonThin]]k or Zotero do this. They provide the means to:
+The typical way around this is to use software to provide a level of abstraction over the top of the file system. Applications such as [[DevonThink]] or Zotero do this. They provide the means to:
 - add metadata such as tags, publisher etc. to a file
 - group files in collections - thereby overcoming the limitations of the hierarchical structure
 - bring all files together in a single database
