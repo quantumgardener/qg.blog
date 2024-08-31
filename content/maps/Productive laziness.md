@@ -1,6 +1,5 @@
 ---
-aliases:
-  - Productive laziness
+aliases: []
 tags:
   - class/map
 datetime: 2024-06-07T10:21:38
