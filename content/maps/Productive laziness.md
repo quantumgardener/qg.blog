@@ -4,7 +4,7 @@ aliases:
 tags:
   - class/map
 datetime: 2024-06-07T10:21:38
-updated: 2024-08-24T19:11:00
+updated: 2024-08-31T12:36:00
 ---
 There is art in doing as much as possible, as easily as possible and that’s what I call being **productive lazy**.
 
@@ -19,6 +19,7 @@ To understand what this means look at [[Some examples of productive laziness]] t
 - Anyone wanting to develop their *Productive laziness* must be aware that [[Interrupting the flow of work has a tax]]. Much of what we are doing is reducing the impact of this tax.
 
 ## Getting Things Done
+- [[My GTD weekly review steps]]
 - [[Getting Things Done]] | [[Adding a due date to your tasks is a mistake]]
 
 - [[Digital garden]]
