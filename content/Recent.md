@@ -13,7 +13,9 @@ The 50 most recently updated notes, excluding [blog](/blog) entries.
 
 | Note                                                                                                           | Date                         |
 | -------------------------------------------------------------------------------------------------------------- | ---------------------------- |
-| [[My GTD weekly review steps]]                                     | 9:02 AM - September 01, 2024 |
+| [[My GTD weekly review steps]]                                     | 7:08 PM - September 02, 2024 |
+| [[Obsidian Templater]]                                                     | 7:02 PM - September 02, 2024 |
+| [[PowerWash Simulator]]                                                   | 7:29 PM - September 01, 2024 |
 | [[Software development]]                                                 | 12:33 PM - August 31, 2024   |
 | [[Zotero]]                                                                             | 8:40 AM - August 30, 2024    |
 | [[PlayStation 2]]                                                               | 8:35 AM - August 30, 2024    |
@@ -61,6 +63,4 @@ The 50 most recently updated notes, excluding [blog](/blog) entries.
 | [[Horizon - Call of the Mountain]]                             | 5:41 PM - August 11, 2024    |
 | [[Resident Evil 4]]                                                           | 5:17 PM - August 11, 2024    |
 | [[Horizon Zero Dawn - Frozen Wilds]]                         | 5:35 PM - August 10, 2024    |
-| [[Horizon Forbidden West - Burning Shores]]           | 5:32 PM - August 10, 2024    |
-| [[Wolfenstein - The New Order]]                                   | 4:40 PM - August 10, 2024    |
 <!-- SerializedQuery END -->

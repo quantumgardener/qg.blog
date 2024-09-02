@@ -2,7 +2,7 @@
 aliases: 
 tags: 
 datetime: 2024-08-31T12:34:27
-updated: 2024-09-01T09:02:00
+updated: 2024-09-02T19:08:00
 title:
 ---
 Each week, normally on the last day I'm working I undertake a [[Getting Things Done]] weekly review.
@@ -12,8 +12,17 @@ It is an important grounding process to make sure I have not missed anything imp
 > [!INFO] Where are the screenshots?
 > I'd love to be able to include screenshots for each section below. However, I use this system at work and everything would be confidential. All you'd see is a blur anyway. 
 
-> [!important] Where is the template?
-> OMG, I can't believe I prepared everything to type this up at home except my template for this. Will add it in next week once I'm back in the office.
+## 0. My weekly review template
+Every item in my weekly review template is a task to check off. I mostly do them in the same order as listed below. Sometimes, I might jump around a bit and check in a different order just to add some spice to the mix.
+<script src="https://gist.github.com/quantumgardener/92c9297c4aa8ed903cb14398e0c98bab.js"></script>
+
+> [!note] Bonus template to help create the template
+> I like to file my weekly review template alongside my meeting notes. The location is `/Calendar/Year/Month`. To make it quicker I have an [[Obsidian Templater]] template that creates the a file using the template above, and then files it based on today's date. To activate I run `CTRL-SHIFT-T`[^3] and choose `weekly review`.
+>> [!warning] Warning
+>> Be careful with this one until you understand it, as the second line moves the newly created note automatically to a new location.  
+>
+><script src="https://gist.github.com/quantumgardener/566b69f119ddb82ec7f6c0dabf41def7.js"></script>
+
 ## 1. Inbox zero
 I mostly achieve [[Inbox zero]] each week. There are always one or two emails left mostly because the email contains information I know that I'll need soon. There will always be a project or next action to deal with it. This is a happy medium for me. I normally run a very lean inbox anyway because [[My inbox is not my filing cabinet]].
 ## 2. Check @overdue
@@ -49,7 +58,7 @@ II've included the raw [[Markdwown]] code I use below. Lines 4–9 provide a cou
 <script src="https://gist.github.com/quantumgardener/ee10b4e12a370b2283b997f9000592df.js"></script>
 
 > [!INFO] Bonus code to speed up reviewing
-> I have this [Obsidian Templater plugin](https://github.com/SilentVoid13/Templater) mapped to `ALT-R` to automatically update `date_reviewed`. It's all about [[Productive laziness]]. Credit to Zach Young for the initial [update frontmatter seed code](https://zachyoung.dev/posts/templater-snippets#update-frontmatter) to get me started on this.
+> I have this [[Obsidian Templater]] template mapped to `ALT-R` to automatically update `date_reviewed`. It's all about [[Productive laziness]]. Credit to Zach Young for the initial [update frontmatter seed code](https://zachyoung.dev/posts/templater-snippets#update-frontmatter) to get me started on this.
 > <script src="https://gist.github.com/quantumgardener/f8336de562266b770e21fea201f07fe0.js"></script>
 ## 7. @pending projects
 Similar to [[@active projects]] this is a quick check of projects marked `#status/pending`. Do they need to be activated now?
@@ -68,11 +77,13 @@ I have a page that does several data quality control checks across my system eg.
 - Do I have projects without organisation or individual contact?
 - Have I misfiled something?
 
-> [!INFO] The code's on my office PC
-> I'll add the code here in a couple of days.
+I've included the code I use below. There is a lot going on here, but if you take it step-by-step you can see what's happening. There are a couple of items where I'm checking file paths. You can see that's where I'm removing the `.md` to extract the note name and then put it back[^2]. 
+<script src="https://gist.github.com/quantumgardener/2fd2456a75432b74f945a73c26926fa8.js"></script>
 ## 12. Inbox folder filing
 Almost there. Any new notes in my Obsidian vault's inbox that have not yet been properly filed are filed now.
 ## 13. Learnings and highlights
 I like to finish by adding at least one line tagged `#learnings` and another tagged `#highlights` to note reflect on the week and note what was important. I finish by clearing out the tasks from the weekly review note and leave my ruminations for future me to come back to with [[Gratitude]].
 
 [^1]: Unless I'm really not in the mood and quickly skip through all my projects. Yeah, I'm only human.
+[^2]: Likely there is a better way to do this, but it's what I started working with and it works, so no benefit refactoring the code at this point.
+[^3]: My hotkey mapping for `Templater: Opem insert template modal`.
