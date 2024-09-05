@@ -13,6 +13,7 @@ The 50 most recently updated notes, excluding [blog](/blog) entries.
 
 | Note                                                                                                           | Date                         |
 | -------------------------------------------------------------------------------------------------------------- | ---------------------------- |
+| [[Inbox zero]]                                                                     | 1:44 PM - September 05, 2024 |
 | [[My GTD weekly review steps]]                                     | 7:08 PM - September 02, 2024 |
 | [[Obsidian Templater]]                                                     | 7:02 PM - September 02, 2024 |
 | [[PowerWash Simulator]]                                                   | 7:29 PM - September 01, 2024 |
@@ -62,5 +63,4 @@ The 50 most recently updated notes, excluding [blog](/blog) entries.
 | [[Nintendo Wii]]                                                                 | 5:45 PM - August 11, 2024    |
 | [[Horizon - Call of the Mountain]]                             | 5:41 PM - August 11, 2024    |
 | [[Resident Evil 4]]                                                           | 5:17 PM - August 11, 2024    |
-| [[Horizon Zero Dawn - Frozen Wilds]]                         | 5:35 PM - August 10, 2024    |
 <!-- SerializedQuery END -->
