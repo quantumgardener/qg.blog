@@ -25,7 +25,7 @@ description: The major concepts that spawn from [[The Ontology of the Human Obse
 ### Domain of Language
 - [[Basic Linguistic Acts]]
 - [[Distinction]]
-- [[Quartz/maps/Types of conversation]]
+- [[Types of conversation]]
 ## Ontological coaching
 - [[Ontological coach]]
 - [[Ontological coaches are not teachers]]

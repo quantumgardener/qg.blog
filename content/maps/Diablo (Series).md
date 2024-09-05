@@ -11,6 +11,6 @@ updated:
 
 | # | Game                                                                                                                                                     |                                                                                                                                |
 | - | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| 3 | ![[vg_Diablo III - Reaper of Souls - Ultimate Evil Edition_t.webp]] | [[Diablo III - Reaper of Souls - Ultimate Evil Edition]] |
-| 4 | ![[vg_Diablo IV_t.webp]]                                                                                       | [[Diablo IV]]                                                                                       |
+| 3 | ![[vg_Diablo III - Reaper of Souls - Ultimate Evil Edition_t\|vg_Diablo III - Reaper of Souls - Ultimate Evil Edition_t.webp]] | [[Diablo III - Reaper of Souls - Ultimate Evil Edition]] |
+| 4 | ![[vg_Diablo IV_t\|vg_Diablo IV_t.webp]]                                                                                       | [[Diablo IV]]                                                                                       |
 <!-- SerializedQuery END -->

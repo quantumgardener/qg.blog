@@ -16,7 +16,7 @@ Most of what I think about and enjoy doing can be tied the concepts listed in th
 
 My personal experience of my [[Way of Being]] is a valuable source of learning for me.
 
-Conversation is a fundamental part of human existence. The [[Quartz/maps/Types of conversation]] we have, the calibre of those conversations, and any [[Missing Conversations]] has a significant impact on the quality of our lives. Our adeptness at [[Conversational Technology]] such as [[Basic Linguistic Acts]] and the [[Promise Cycle]] sits within our [[Way of Being]].
+Conversation is a fundamental part of human existence. The [[Types of conversation]] we have, the calibre of those conversations, and any [[Missing Conversations]] has a significant impact on the quality of our lives. Our adeptness at [[Conversational Technology]] such as [[Basic Linguistic Acts]] and the [[Promise Cycle]] sits within our [[Way of Being]].
 
 [[Coaching and mentoring are different]]. The focus of a coach is to help a coachee observe their [[Way of Being]] and make adjustments that benefit them. Mentors tend to drop their experience on others as the right and only way to do things. With this approach, a mentor has fallen into the trap of [[Arrogance]].
 ## Productive laziness

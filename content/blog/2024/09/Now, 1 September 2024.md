@@ -1,8 +1,9 @@
 ---
-tags: 
+tags:
+  - class/now
 datetime: 2024-09-01T19:14:40
 ---
-bgAlways remember to ask for help if you need it. On Monday I let my General Manager know that I was struggling to find work to do. It is not a position I like being in.[^1] Sure solved the problem. I had work throughout the week and will have work this next week as well. It's all internal work, but needs doing.
+Always remember to ask for help if you need it. On Monday I let my General Manager know that I was struggling to find work to do. It is not a position I like being in.[^1] Sure solved the problem. I had work throughout the week and will have work this next week as well. It's all internal work, but needs doing.
 
 Tuesday taught me something else. I had two client meetings with me in an advisory position. The difference between one that didn't want any advice and the other that did was astonishing. I felt so much better being able to help and that's all that I want to do. Thursday backed up with another similar conversation. My assessment is that the core difference is one of learning position. Are all parties in the conversation learners? If not, it's hard. I'll ruminate on this further. My gut feeling is this points me more directly to the type of work I enjoy doing the most and I'd like for more of that to happen.
 

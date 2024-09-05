@@ -11,6 +11,6 @@ updated:
 
 | # | Game                                                                                                                         |                                                                                                    |
 | - | ---------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
-| 1 | ![[vg_LEGO Harry Potter Collection Years 1-4_t.webp]] | [[LEGO Harry Potter Collection Years 1-4]] |
-| 2 | ![[vg_LEGO Harry Potter Collection Years 5-7_t.webp]] | [[LEGO Harry Potter Collection Years 5-7]] |
+| 1 | ![[vg_LEGO Harry Potter Collection Years 1-4_t\|vg_LEGO Harry Potter Collection Years 1-4_t.webp]] | [[LEGO Harry Potter Collection Years 1-4]] |
+| 2 | ![[vg_LEGO Harry Potter Collection Years 5-7_t\|vg_LEGO Harry Potter Collection Years 5-7_t.webp]] | [[LEGO Harry Potter Collection Years 5-7]] |
 <!-- SerializedQuery END -->
