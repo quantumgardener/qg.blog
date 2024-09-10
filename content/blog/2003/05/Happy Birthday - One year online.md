@@ -1,7 +1,7 @@
 ---
 datetime: 2003-05-30T09:59:00
 ---
-Yesterday marked one year of [[Thought horizon|thought?horizon]] and I was lucky enough to spend it in reflection with a friend who had travelled with me along the way.
+Yesterday marked one year of [[Thought Horizon (Business)|thought?horizon]] and I was lucky enough to spend it in reflection with a friend who had travelled with me along the way.
 
 When I started thought?horizon it was to organise the wealth of ideas that were pouring into my head from all sides on the topics of knowledge management and learning. Little did I know it would become a way of connecting with others and a history of my thinking.
 
