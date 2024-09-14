@@ -2,7 +2,7 @@
 tags:
   - class/video-game
   - status/completed
-series: "[[The Last of Us (Series)]]"
+series: "[[Quartz/maps/The Last of Us (Series)]]"
 sequence: 1.5
 playthroughs: 2
 rating: "[[4-star|⭐️⭐️⭐️⭐️]]"

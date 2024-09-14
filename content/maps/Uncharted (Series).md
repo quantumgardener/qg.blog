@@ -11,9 +11,9 @@ updated:
 
 | #   | Game                                                                                                           |                                                                                      |
 | --- | -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
-| 1   | ![[Quartz/assets/covers/vg_Uncharted - Drake's Fortune_t.webp\|vg_Uncharted - Drake's Fortune_t.webp]]         | [[Quartz/notes/Uncharted - Drake's Fortune.md\|Uncharted - Drake's Fortune]]         |
-| 2   | ![[Quartz/assets/covers/vg_Uncharted 2 - Among Thieves_t.webp\|vg_Uncharted 2 - Among Thieves_t.webp]]         | [[Quartz/notes/Uncharted 2 - Among Thieves.md\|Uncharted 2 - Among Thieves]]         |
-| 3   | ![[Quartz/assets/covers/vg_Uncharted 3 - Drake's Deception_t.webp\|vg_Uncharted 3 - Drake's Deception_t.webp]] | [[Quartz/notes/Uncharted 3 - Drake's Deception.md\|Uncharted 3 - Drake's Deception]] |
-| 4   | ![[Quartz/assets/covers/vg_Uncharted 4 - A Thief's End_t.webp\|vg_Uncharted 4 - A Thief's End_t.webp]]         | [[Quartz/notes/Uncharted 4 - A Thief's End.md\|Uncharted 4 - A Thief's End]]         |
-| 4.5 | ![[Quartz/assets/covers/vg_Uncharted - The Lost Legacy_t.webp\|vg_Uncharted - The Lost Legacy_t.webp]]         | [[Quartz/notes/Uncharted - The Lost Legacy.md\|Uncharted - The Lost Legacy]]         |
+| 1   | ![[vg_Uncharted - Drake's Fortune_t\|vg_Uncharted - Drake's Fortune_t.webp]]         | [[Uncharted - Drake's Fortune]]         |
+| 2   | ![[vg_Uncharted 2 - Among Thieves_t\|vg_Uncharted 2 - Among Thieves_t.webp]]         | [[Uncharted 2 - Among Thieves]]         |
+| 3   | ![[vg_Uncharted 3 - Drake's Deception_t\|vg_Uncharted 3 - Drake's Deception_t.webp]] | [[Uncharted 3 - Drake's Deception]] |
+| 4   | ![[vg_Uncharted 4 - A Thief's End_t\|vg_Uncharted 4 - A Thief's End_t.webp]]         | [[Uncharted 4 - A Thief's End]]         |
+| 4.5 | ![[vg_Uncharted - The Lost Legacy_t\|vg_Uncharted - The Lost Legacy_t.webp]]         | [[Uncharted - The Lost Legacy]]         |
 <!-- SerializedQuery END -->

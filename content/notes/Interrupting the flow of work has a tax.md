@@ -1,7 +1,7 @@
 ---
 tags: []
 landscapes:
-  - "[[Productive laziness]]"
+  - "[[Quartz/maps/Productive laziness]]"
 datetime: 2022-07-10T00:00:00
 ---
 Nobody likes interruptions (unless they are good news) but regardless, each interruption that occurs takes not only the time of the interruption itself but a little longer as you strive to get back to where you were beforehand.

@@ -8,7 +8,7 @@ It's nice to have something already written that shares my learning. The notes b
 
 - [[A moment for tea]]
 - [[Expanding my comfort zone]]
-- [[How to trial software before you buy]]
+- [[]]
 - [[Interrupting the flow of work has a tax]]
 - [[My Mission Statement]]
 - [[RSS remains an important technology]]

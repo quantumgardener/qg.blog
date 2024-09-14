@@ -11,6 +11,6 @@ updated:
 
 | # | Game                                                                     |                                                |
 | - | ------------------------------------------------------------------------ | ---------------------------------------------- |
-| 1 | ![[Quartz/assets/covers/vg_The Room_t.webp\|vg_The Room_t.webp]]         | [[Quartz/notes/The Room.md\|The Room]]         |
-| 2 | ![[Quartz/assets/covers/vg_The Room Two_t.webp\|vg_The Room Two_t.webp]] | [[Quartz/notes/The Room Two.md\|The Room Two]] |
+| 1 | ![[vg_The Room_t\|vg_The Room_t.webp]]         | [[The Room]]         |
+| 2 | ![[vg_The Room Two_t\|vg_The Room Two_t.webp]] | [[The Room Two]] |
 <!-- SerializedQuery END -->

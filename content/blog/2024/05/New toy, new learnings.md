@@ -20,7 +20,7 @@ In total easily 10-15 hours of time spent watching YouTube and reading. The end 
 
 How far down the rabbit hole do I want to go? [Sam Matla's video on the hidden procrastination in note-taking apps](https://www.youtube.com/watch?v=baKCC2uTbRc) got me thinking[^4]. A lot of the past two weeks (past 15 years) has been juggling digital notes around. I'm simplifying once again, and it feels like work but isn't. I started to organise some notes this morning and felt the weight of having to review everything to get it consistent with my current thinking. Let's assume 1,000 notes. Sure it's work, but the use is marginal. Not only do I have to fix up what's there, I still have new sources coming in. 
 
-> Spending time moving [[Personal knowledge management]] notes from format to format is a wasteful as [[Niklas Luhrmann]] rewriting his whole [[Zettelkasten]] simply because he found a new favourite pen.
+> Spending time moving [[Quartz/notes/Personal knowledge management]] notes from format to format is a wasteful as [[Niklas Luhrmann]] rewriting his whole [[Zettelkasten]] simply because he found a new favourite pen.
 
 So, I'm not going to refactor my existing [[Main note|main notes]]. Right now they are in 3-4 different places. I had planned to review each before moving to a "final" destination. As soon as this is posted I'm going to stuff them all into the same folder. I do have an improved workflow which is resulting in better quality [[Literature note|literature notes]] coming into the system. I will adapt existing notes on sources to this format. Why? Because the original notes are so bad as to be useless, I need to revisit the material anyway and with some templating, it's only a few seconds of time.
 ## Pulling notes from my site

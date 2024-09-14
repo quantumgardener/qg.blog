@@ -3,7 +3,7 @@ tags:
   - review
   - class/book
 landscapes:
-  - "[[Hobby Together]]"
+  - "[[Quartz/maps/Hobby Together]]"
 datetime: 2022-12-18T00:00:00
 ---
 I've been a fan of [[Stephen King]] since I first read _The Bachman Books_ and *[[IT]]* in 1988.

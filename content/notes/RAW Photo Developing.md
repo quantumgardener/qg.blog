@@ -1,7 +1,7 @@
 ---
 tags: []
 landscapes:
-  - "[[Hobby Together]]"
+  - "[[Quartz/maps/Hobby Together]]"
 description: The workflow I use to develop RAW photos.
 datetime: 2023-10-30T00:00:00
 ---

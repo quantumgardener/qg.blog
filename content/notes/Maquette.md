@@ -10,7 +10,6 @@ platform:
 thumbnail: "[[vg_Maquette_t.webp]]"
 ---
 ![[vg_Maquette.webp|media-cover]]
-
 **Maquette** is a recursive puzzle game was free as part of March 2021's PlayStation Plus game subscription.
 
 It was clear right from the start this game has something unique to offer - starting with a song and teasers about a relationship. At present the story is involving me in recollections about the initial stage of the relationship.

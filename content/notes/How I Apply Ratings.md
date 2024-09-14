@@ -1,7 +1,7 @@
 ---
 JD-ID: "[[01.01 Guiding Principles]]"
 landscapes:
-  - "[[Quantum OS]]"
+  - "[[Quartz/maps/Quantum OS]]"
 datetime: 2023-10-12T00:00:00
 ---
 There are as many systems to apply ratings as there are things which can be rated.

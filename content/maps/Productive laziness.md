@@ -1,10 +1,9 @@
 ---
-aliases:
-  - Productive laziness
+aliases: []
 tags:
   - class/map
 datetime: 2024-06-07T10:21:38
-updated: 2024-08-21T14:02:00
+updated: 2024-08-31T12:36:00
 ---
 There is art in doing as much as possible, as easily as possible and that’s what I call being **productive lazy**.
 
@@ -19,6 +18,7 @@ To understand what this means look at [[Some examples of productive laziness]] t
 - Anyone wanting to develop their *Productive laziness* must be aware that [[Interrupting the flow of work has a tax]]. Much of what we are doing is reducing the impact of this tax.
 
 ## Getting Things Done
+- [[My GTD weekly review steps]]
 - [[Getting Things Done]] | [[Adding a due date to your tasks is a mistake]]
 
 - [[Digital garden]]
@@ -28,8 +28,9 @@ To understand what this means look at [[Some examples of productive laziness]] t
 - [[Steps I took to convert my Roam Research database to Obsidian]]
 - [[Transplanting my Brain to Roam to Obsidian]]
 - [[Zettelkasten Learning Method]]
+- [[3.5 weeks of email]] mentions pruning a list of RSS files and [[431 unread posts]]
 
 ## Programming and the Web
 - [[Changing the look of your Obsidian site using fonts and CSS]]
-- [[Software that I use]]
+- [[Quartz/maps/Software that I use]]that I use]]
 - [[Adding a due date to your tasks is a mistake]] and [[Committing to tasks without dates]]

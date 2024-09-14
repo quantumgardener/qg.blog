@@ -2,7 +2,7 @@
 tags:
   - class/map
 datetime: 2023-01-25T20:07:00
-updated: 2024-07-28T09:42:00
+updated: ""
 landscapes:
   - "[[The Garden Shed]]"
 ---
@@ -28,20 +28,21 @@ I began blogging in the early 2000's using [Radioland](http://radio.userland.com
 - [[Writing is a concernful activity]]
 - [[Types of bloggers]]
 - [[I am an observational blogger]]
-- [[Comparing Digital Gardens to Blogging]]
+- [[Comparing digital gardens to blogging]]
 - [[Ideas are Better in Bed]]
 - [[RSS remains an important technology]]
 - [[My Decision to Stop Blogging]]
 - [[Bloggers should support other bloggers]]
 - [[Blogs are public journal entries]]
-
+- [[It's your weblog]]
+- [[There is a freedom in not thinking I have to blog anymore]]
 ### Tools
 - [[My document toolkit]] 
-- [[Workflow for Importing my old blog entries]]
+- [[Workflow for Importing my Old Blog Entries]]
 
 
 ## Articles I've Not Yet Processed
 - [[Blog for Learning - Making a Blog with Roam]]
 - [How To Use Tags On Your Blog (Most Are Doing It All Wrong) - Love People + Make Money](https://lovepeoplemakemoney.com/how-to-use-tags-on-your-blog/)
 - [[How I take Smart Notes — Nicholas Seitz Photographer]]
-- [[There is a freedom in not thinking I have to blog anymore]]
+

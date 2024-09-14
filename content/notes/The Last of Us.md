@@ -14,7 +14,7 @@ platform:
   - "[[PlayStation 4]]"
   - "[[PlayStation 5]]"
 thumbnail: "[[vg_The Last of Us_t.webp]]"
-series: "[[The Last of Us (Series)]]"
+series: "[[Quartz/maps/The Last of Us (Series)]]"
 ---
 ## The Last of Us
 ![[vg_The Last of Us.webp|media-cover]]

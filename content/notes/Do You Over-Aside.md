@@ -5,7 +5,7 @@ tags:
   - learning
 landscapes:
   - "[[Expand My Way of Being]]"
-  - "[[Productive laziness]]"
+  - "[[Quartz/maps/Productive laziness]]"
 datetime: 2022-08-04T00:00:00
 ---
 
@@ -19,4 +19,4 @@ Succinct and tells you all that you need to know about where I park.
 
 > I park my car around the corner from work because there is free parking. If I can't get a park I park in the multi-storey car park where I have to pay. Where I previously worked there were people who paid for parking each day just to be a little closer. That's something like $1,250 a year and I've got better things to spend my money on. Though sometimes when I parked there I'd forget and walk back to where I normally parked. Once I even did it in the rain. Anyway, I park in, what's the name of the street?. I can never remember.
 
-Adding aside, after aside, only confuses the key message. Keep an eye out for it in your communication and assess its effects on those around you - and you when you're the recipient.
+Adding aside, after aside, only confuses the key message. Keep an eye out for it in your communication and assess its effects on those around you — and you when you're the recipient.

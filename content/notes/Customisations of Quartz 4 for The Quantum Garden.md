@@ -90,7 +90,7 @@ The default is to say "Topic: abcd". Now the [FontAwesome Message icon](https://
 > As of [[2024-05-25]], I have disabled the display of maturity levels on posts and will no longer be applying a `growth` property to source notes within [[Obsidian]]. I don't find them useful myself, so I suspect any reader - who is a further degree away from the content than I am - will not find them useful either. See [[The value of growth maturity in a digital garden is marginal]].
 >> [!note] My original Mastodon post outlining my thoughts
 >> 
->> My [[Personal Knowledge Management|pkm]] system in [[Obsidian]] and the flow onwards to my website use seedling, budding and evergreen markers to indicate a note's maturity.
+>> My [[Quartz/notes/Personal knowledge management|pkm]] system in [[Obsidian]] and the flow onwards to my website use seedling, budding and evergreen markers to indicate a note's maturity.
 >> 
 >> The more content I put online the more it starts as evergreen and I find it's obvious if something is a seedling or not - so the marker doesn't help much. Usually, if there is a note in progress I’ll mark it clearly as such anyway.
 >> 

@@ -11,7 +11,7 @@ I was lucky enough to get an order in from the second round of stock that Amazon
 [PS5: The Ultimate FAQ](http://feedproxy.google.com/~r/PSBlog/~3/eo25OwzPG-I/)
 
 ## Games
-[[PlayStation 5 games|PlayStation 5 Games]]
+[[Quartz/maps/PlayStation 5 games|PlayStation 5 Games]]
 ## Hardware
 ### Internal drive
 A [[Samsung 980 Pro SSD 1TB]] has been added as a second internal drive.

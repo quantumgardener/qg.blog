@@ -3,7 +3,7 @@ tags:
   - learning
 landscapes:
   - "[[Expand My Way of Being]]"
-  - "[[Hobby Together]]"
+  - "[[Quartz/maps/Hobby Together]]"
 datetime: 2022-08-08T00:00:00
 ---
 

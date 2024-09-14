@@ -5,7 +5,7 @@ datetime: 2023-01-25T20:07:26
 updated: 2024-08-02T19:32:00
 title: 
 ---
-Most of what I think about and enjoy doing can be tied the concepts listed in this [[Universal Map of Concepts]]. Keeping with the metaphor of a [[Digital garden]], the map is organised into five [[Landscapes]]s of activity and thinking.
+Most of what I think about and enjoy doing can be tied the concepts listed in this [[Universal Map of Concepts]]. Keeping with the metaphor of a [[Digital garden]], the map is organised into five [[Landscapes]] of activity and thinking.
 ## Expanding my Way of Being
 
 > My [[Way of Being]] is more than the behaviour I show. It’s the total sum of how I engage with the world, make meaning from my environment and take action. Expanding my Way of Being by being a learner in the world creates new possibilities for me to move forward in life.
@@ -27,11 +27,11 @@ The [[Promise Cycle]] is a model for understanding how people come together to c
 
 [[Time Management]] is the process of managing one's time. It is a limited resource, as is the time of others. Therefore time management is essential in treating people as a [[Legitimate other]]. Something that makes [[Time Management]] easier is a strong practice of [[Personal knowledge management]].
 
-[[Wonder]] is my favourite of the [[Basic moods of life]] and to access wonder, I use [[Meditation]], [[Map of astronomy]] and [[Mathematics]].
+[[Wonder]] is my favourite of the [[Basic moods of life]] and to access wonder, I use [[Meditation]], [[Quartz/maps/Map of astronomy|Astronomy]] and [[Mathematics]].
 
-A [[Mood]] predisposes me to act in a particular ways which includes my thinking. The orientation of the mood (positive or negative) will expand or constrict my [[Thought Horizon]]. Moods can therefore also be useful in [[Expanding my comfort zone]].
+A [[Mood]] predisposes me to act in a particular ways which includes my thinking. The orientation of the mood (positive or negative) will expand or constrict my [[Thought horizon]]. Moods can therefore also be useful in [[Expanding my comfort zone]].
 
-Life is not black and white. A significant amount of time is spent dealing with [[Wicked problem|Wicked problemss]]. Ways to deal with these include understanding [[The Difference Between Assessments and Assertions]] and conversation support tools like [[Dialogue Mapping]] or [[Systems Thinking]].
+Life is not black and white. A significant amount of time is spent dealing with [[Wicked problem|Wicked problems]]. Ways to deal with these include understanding [[The Difference Between Assessments and Assertions]] and conversation support tools like [[Dialogue Mapping]] or [[Systems Thinking]].
 
 [[It's OK to slow down]]. Something as simple as the [[2-Minute Rule]] can create space to think clearly, or get in touch with your current [[Emotions MOC|Emotions]]. Slowing down also creates space for [[Listening]] and [[Considered Conversation]].
 

@@ -1,7 +1,7 @@
 ---
 JD-ID: "[[01.02 Managing Knowledge & Content]]"
 landscapes:
-  - "[[Quantum OS]]"
+  - "[[Quartz/maps/Quantum OS]]"
 datetime: 2023-10-25T20:07:00
 updated: 2024-05-24T10:48:00
 ---
@@ -21,7 +21,7 @@ Tags are used for:
 	- There are any number of "groups" something may belong to. Some of the grouping tags are `project`, `genre\...`
 
 Tags are not used for:
-- Classifying note content. Instead of tags, make copious use of [[Backlinks are important|Links and Backlinks]] and [[Map of content]].
+- Classifying note content. Instead of tags, make copious use of [[Backlinks are important|Links and Backlinks]] and [[Map of content|Maps of content]].
 
 ## Naming tags
 - All tag names should be lowercase
@@ -43,7 +43,7 @@ Within the list of properties, tags are placed near the top. See [[Property Guid
 Within a note, `[[link]]` is preferred unless discussing a tag in which case use backticks to wrap a tag when referring, but not linking to the tag. 
 
 > [!TIP] If tempted to use a tag in it's normal `#tag` form, think hard about why and find a proper `[[link]]` instead.
-> This situation usually points to the need for [[Maps of Content]] as described in [[Tags Are Not Knowledge]].
+> This situation usually points to the need for [[Map of content|Maps of content]] as described in [[Tags are not knowledge]].
 
 ## Maintaining tags
 Tags can be renamed both [](Map%20of%20content.md) This is on[](Tags%20are%20not%20knowledge.md)itable to classify note content.

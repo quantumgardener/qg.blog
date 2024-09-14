@@ -2,7 +2,7 @@
 datetime: 2022-09-30T00:00:00
 tags: []
 landscapes:
-  - "[[Hobby Together]]"
+  - "[[Quartz/maps/Hobby Together]]"
 ---
 
 I love to read, and I read a lot. In recent years however I've come to recognise the value in audiobooks as well. I normally only listen to audiobooks of authors I like, or books I've read before. There is too much time investment to do otherwise. A 1,000-page book is 40-50 hours.

@@ -1,11 +1,11 @@
 ---
 JD-ID: "[[01.02 Managing Knowledge & Content]]"
 landscapes:
-  - "[[Quantum OS]]"
+  - "[[Quartz/maps/Quantum OS]]"
   - "[[The Garden Shed]]"
 datetime: 2024-03-11T00:00:00
 ---
-Digital knowledge comes at us in all forms and it can be a challenge to manage. This note describes how I manage information in my [[Personal knowledge management]] system.
+Digital knowledge comes at us in all forms and it can be a challenge to manage. This note describes how I manage information in my [[Quartz/notes/Personal knowledge management]] system.
 
 > [!success] My system works when...
 > - I am easily able to find something I've saved

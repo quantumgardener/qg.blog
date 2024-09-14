@@ -2,7 +2,7 @@
 tags:
   - class/video-game
   - status/ongoing
-series: "[[Gran Turismo (Series)]]"
+series: "[[Quartz/maps/Gran Turismo (Series)]]"
 sequence: 7
 rating: "[[4-star|⭐️⭐️⭐️⭐️]]"
 platform:

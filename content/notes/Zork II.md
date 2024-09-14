@@ -2,7 +2,7 @@
 tags:
   - class/video-game
   - status/completed
-series: "[[Zork (Series)]]"
+series: "[[Quartz/maps/Zork (Series)]]"
 sequence: 2
 rating: "[[3-star|⭐️⭐️⭐️]]"
 platform:

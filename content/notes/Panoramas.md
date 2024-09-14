@@ -1,7 +1,7 @@
 ---
 tags: []
 landscapes:
-  - "[[Hobby Together]]"
+  - "[[Quartz/maps/Hobby Together]]"
 datetime: 2023-10-22T00:00:00
 ---
 General info on panorama [[Photography]].

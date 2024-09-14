@@ -11,6 +11,6 @@ updated:
 
 | # | Game                                                                                                                                                     |                                                                                                                                |
 | - | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| 3 | ![[Quartz/assets/covers/vg_Diablo III - Reaper of Souls - Ultimate Evil Edition_t.webp\|vg_Diablo III - Reaper of Souls - Ultimate Evil Edition_t.webp]] | [[Quartz/notes/Diablo III - Reaper of Souls - Ultimate Evil Edition.md\|Diablo III - Reaper of Souls - Ultimate Evil Edition]] |
-| 4 | ![[Quartz/assets/covers/vg_Diablo IV_t.webp\|vg_Diablo IV_t.webp]]                                                                                       | [[Quartz/notes/Diablo IV.md\|Diablo IV]]                                                                                       |
+| 3 | ![[vg_Diablo III - Reaper of Souls - Ultimate Evil Edition_t\|vg_Diablo III - Reaper of Souls - Ultimate Evil Edition_t.webp]] | [[Diablo III - Reaper of Souls - Ultimate Evil Edition]] |
+| 4 | ![[vg_Diablo IV_t\|vg_Diablo IV_t.webp]]                                                                                       | [[Diablo IV]]                                                                                       |
 <!-- SerializedQuery END -->

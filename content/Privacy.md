@@ -1,11 +1,34 @@
 ---
 datetime: 2023-09-27T00:00:00
-updated: 2023-10-03T00:00:00
+updated: 2024-08-24T10:32:00
 ---
-*quantumgardener.info* is cookie and tracker free.
+*quantumgardener.info* is cookie free. I use [[tinylytics]] to record unique hits on the site to understand what articles are popular so that I don't accidentally delete or move something others rely upon. This information will also help me understand the feasibility of putting some content out via subscription in the future.
 
 I know nothing identifiable about any visitor to the site.
 
+## tinylytics
+For a full read on how tinylytics gathers information, visit [Understanding Unique Hit Tracking](https://tinylytics.app/docs/unique_hits). Here are the key points[^2].
+
+> [!tip] Public Stats
+> The page visit statistics for this site can be viewed anytime at [The Quantum Garden | Stats page | tinylytics](https://tinylytics.app/public/E3iDvbUS_jM8JfgnY6Ae)
+
+> - No personal data or visitor IP addresses are ever stored.
+> - We use only Cloudflare’s IP addresses in our calculations, not your visitors’ addresses.
+> - The 12-hour salt rotation ensures that long-term tracking is impossible.
+> - Our hashing process is one-way, so original visit data can’t be reconstructed.
+
+I chose [[tinylytics]] because of the overall balanced approach taken and to maintain the highest visitor protection.
+
+The full list of fields provided to me are:
+- `url` (the full URL)
+- `path` (url without `https://quantumgardener.info`)
+- `referrer` (when linked to from somewhere else)
+- `country` (2-ltr ISO code)
+- `browser_name` (Chrome, Firefox etc.)
+- `platform name` (Windows, Android, MacOS etc.)
+- `is_mobile` (true or false)
+- `unique_id` (a secure id that only counts visits from the same location once within a rolling 12 hours, prevents long term tracking)
+## Cloudflare hosting
 The domains *quantumgardener.info* and *quantumgardener.blog* are both hosted on Cloudflare and because of that basic information is recorded. The *.blog* domain maps directly to the *.info* domain and can be considered the same.
 
 > These [Cloudflare] metrics include legitimate user requests as well as crawlers and threats. The Traffic tab features the following panels: 
@@ -18,8 +41,5 @@ The domains *quantumgardener.info* and *quantumgardener.blog* are both hosted on
 
 This information is rolled up to totals and there is no way for me to see any individual user's visit. The only way would be if they accessed the site from a country with a population of one!
 
-However, I may change this in the future and have considered using the [Plausible Analytics platform](https://plausible.io) as this would allow me to get useful analytics on which pages are being visited *without capturing any identifiable information about the visitor*[^1].
-
-If I do make a change to begin using Plausible, it will be posted on this site's blog feed. You can subscribe at https://quantumgardener.info/feed/.
-
 [^1]: This is described in full at [Plausible: Privacy focused Google Analytics alternative | Plausible Analytics](https://plausible.io/privacy-focused-web-analytics). 
+[^2]: Retrieved 23 August 2024.
