@@ -4,7 +4,7 @@ tags:
   - class/map
   - serialised-dataview
 datetime: 2024-08-15T19:57:16
-updated: 2024-08-28T18:31:00
+updated: 2024-09-10T18:39:00
 ---
 This is my now page. It contains a list of posts about what I am in life and what I'm doing in the moment. For more see [about nownownow.com](https://nownownow.com/about)
 
@@ -38,3 +38,6 @@ Rather than a single page which keeps getting updated, I've created a link of al
 | [[Now, 12 February 2023]] |
 | [[Now, 5 February 2023]]   |
 <!-- SerializedQuery END -->
+
+> [!note] My now page on nownownow.com
+> [David C. Buchan : Now Now Now profile](https://nownownow.com/p/KTEn)

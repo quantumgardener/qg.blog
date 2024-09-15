@@ -31,11 +31,12 @@ The 50 most recently updated notes, excluding [blog](/blog) entries.
 | [[A breakdown is a learning opportunity]]                     | 1:55 PM - August 25, 2024    |
 | [[Breakdown]]                                                                             | 1:49 PM - August 25, 2024    |
 | [[Breakdown has a negative connotation]]                       | 1:47 PM - August 25, 2024    |
+| [[IMatch to Socials]]                                                             | 2:44 PM - August 24, 2024    |
 | [[tinylytics]]                                                                           | 10:26 AM - August 24, 2024   |
 | [[Reasons to delegate]]                                                         | 4:43 PM - August 23, 2024    |
 | [[Delegation]]                                                                           | 8:27 AM - August 23, 2024    |
 | [[Community of practice]]                                                     | 8:22 AM - August 23, 2024    |
-| [[Thought Horizon (Business)]]                                           | 8:21 PM - August 22, 2024    |
+| [[Thought Horizon (Business)\|thought?horizon]]                                                      | 8:21 PM - August 22, 2024    |
 | [[Zotero is my filing cabinet]]                                         | 11:28 PM - August 21, 2024   |
 | [[Uncharted 4 - A Thief's End]]                                         | 8:32 PM - August 21, 2024    |
 | [[1Password]]                                                                             | 8:18 PM - August 21, 2024    |
@@ -57,10 +58,9 @@ The 50 most recently updated notes, excluding [blog](/blog) entries.
 | [[Gran Turismo 7]]                                                                   | 3:56 PM - August 16, 2024    |
 | [[Marvel's Spider-Man - Miles Morales]]                         | 3:56 PM - August 16, 2024    |
 | [[The Last of Us - Left Behind\|The Last of Us: Left Behind]]                                        | 3:56 PM - August 16, 2024    |
-| [[Zork II]]                                                                                 | 3:56 PM - August 16, 2024    |
 | [[Zork III]]                                                                               | 3:56 PM - August 16, 2024    |
+| [[Zork II]]                                                                                 | 3:56 PM - August 16, 2024    |
 | [[The Room Two]]                                                                       | 6:02 PM - August 12, 2024    |
 | [[The Room]]                                                                               | 6:01 PM - August 12, 2024    |
 | [[Nintendo Wii]]                                                                       | 5:45 PM - August 11, 2024    |
-| [[Horizon - Call of the Mountain]]                                   | 5:41 PM - August 11, 2024    |
 <!-- SerializedQuery END -->
