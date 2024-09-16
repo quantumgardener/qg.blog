@@ -1,6 +1,8 @@
 ---
 title: Blog
 datetime: 2024-05-18T00:00:00
+updated: 2024-09-16T20:16:00
+description: A list of the most recent blog entries grouped by month.
 ---
 
 
