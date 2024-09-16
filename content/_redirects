@@ -1,6 +1,6 @@
 /feed/ /index.xml 301
 /feed /index.xml 301
 /blog/ /blog 301
-/blog/:year /blog 301
-/blog/:year/:month /blog 301
+/blog/:year/* /blog 301
+/blog/:year/:month/* /blog 301
 /blog/:year/:month/:post /notes/:post 301
