@@ -1,0 +1,12 @@
+---
+tags:
+  - class/blog
+datetime: 2002-09-02T22:20:29
+---
+Bob Andrew raised the question of knowledge measurement in the post below. It's a tricky issue but not one that I believe is as difficult as people make out. Generally people don't ask the right question and in moving from measuring information to knowledge assume there is something to count.
+
+> **IF YOU DON'T TRUST IT, COUNT IT!**
+> I have just completed reading a lovely little book entitled *The Tyranny of Numbers* by David Boyle (Flamingo, London, 2001). In this book, Boyle provides a history of numbers, counting and how statistics began to rule our lives. All of this made me think how readily we resort to counting something if we don't trust that thing. This has been the basis for auditors, work study practioners, time clocking machines, etc and etc. It got me to thinking about how easy it is to count (measure) information but how difficult it is to count (measure) knowledge. If we are to be true to the ideals of knowledge management, value-adding, innovation, development of people, etc.,we need to think carefully how to really measure knowledge. Knowledge management should not be about counting or measuring information, which unfortunately it often tends to be, but about extracting knowledge from people. Counting and measuring are not the most appropriate tools for this as they ignore emotional aspects and, my view, they destroy trust. Rather tools like conversation, interactive story telling and participation in communities are far better suited for this purpose.
+> [Bob Andrew's Radio Weblog](http://radio.weblogs.com/0110250/2002/08/04.html)
+
+My experience has shown that the value of knowledge can easily be measured indirectly. That is, you can measure the effect of knowing or not knowing but not what was known or not known. The most common case is seen when the right knowledge is on a project team. The project completes earlier that otherwise, thereby giving an indication of the value of knowledge that was employed. Yes there are some who will say "But how do you know the knowledge was employed?", "Who did what?" etc., but there will always be a degree of subjectivity involved. All metrics are subject to subjectivity.

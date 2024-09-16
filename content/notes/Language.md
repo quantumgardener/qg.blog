@@ -4,7 +4,7 @@ aliases:
 tags: 
 datetime: 2024-07-30T13:44:20
 updated: 2024-08-20T19:15:00
-title:
+title: 
 ---
 [[Language]] is present in our understanding of everything we do. Language is what pulls apart concepts and distinctions in our mind. We cannot even contemplate language without using language -- it is that persuasive.
 

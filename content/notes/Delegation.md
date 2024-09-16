@@ -3,7 +3,7 @@ aliases: []
 tags: 
 datetime: 2024-08-23T08:27:52
 updated: 
-title:
+title: 
 ---
 [[Delegation]] is a [[Conversation for coordination of action]] where one person, the delegator, is making a [[Requests|Request]] of the delegate.
 

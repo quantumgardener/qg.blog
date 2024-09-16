@@ -4,7 +4,7 @@ aliases:
 tags: 
 datetime: 2024-08-21T08:46:37
 updated: 2024-08-30T08:25:00
-title:
+title: 
 ---
 Reaching the limit of how I can engage with some systems on [[Github]], [dSebastien@pkmsocial](https://pkm.social/@dsebastien) recommended I try WSL to work on their [obsidian-dataview-serializer plugin](https://github.com/dsebastien/obsidian-dataview-serializer) for [[Obsidian]]. There were a couple of tweaks I though I could make, but was unable to get the build running in native Windows.
 

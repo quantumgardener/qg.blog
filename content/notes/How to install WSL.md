@@ -3,7 +3,7 @@ aliases: []
 tags: 
 datetime: 2024-08-21T09:01:37
 updated: 
-title:
+title: 
 ---
 A quick reference for installing [[Windows Subsystem for Linux]].
 

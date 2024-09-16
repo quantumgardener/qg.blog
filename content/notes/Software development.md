@@ -6,7 +6,7 @@ aliases:
 tags: 
 datetime: 2024-07-31T16:29:38
 updated: 2024-08-31T12:33:00
-title:
+title: 
 ---
 [[Software development]] is an engineering discipline that produces working software. 
 

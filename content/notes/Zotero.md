@@ -3,7 +3,7 @@ aliases:
 tags: 
 datetime: 2024-07-18T16:08:03
 updated: 2024-08-30T08:40:00
-title:
+title: 
 ---
 I use [[Zotero]] as a core tool in [[Organising digital knowledge across multiple systems]] and use [[Zotero is my filing cabinet|Zotero as my filing cabinet]].
 

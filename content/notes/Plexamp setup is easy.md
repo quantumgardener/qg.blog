@@ -2,7 +2,7 @@
 tags: 
 datetime: 2024-08-16T20:16:57
 updated: 
-title:
+title: 
 ---
 Configuring [[Plexamp]] is as simple as:
 

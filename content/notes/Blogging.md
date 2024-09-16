@@ -16,7 +16,7 @@ I began blogging in the early 2000's using [Radioland](http://radio.userland.com
 
 - [[Maggie Appleton]]'s [The Expanding Dark Forest and Generative AI](https://maggieappleton.com/ai-dark-forest) explains the scenario of people being unable to connect well
 
-[[My Decision to Stop Blogging]] has clearly been overturned. I think I've found a way to mix blogging and notes within [[The Quantum Garden]]. My sense is that blogging is sharing the process of live thinking which provides context, and notes are the knowledge that come from that. I have 128 notes that mention "blogging" so there is a hidden importance to delve into. Many discuss my on-again/off-again relationship with the practice. For it is a practice. Some of my struggles have involved:
+[[My decision to stop blogging]] has clearly been overturned. I think I've found a way to mix blogging and notes within [[The Quantum Garden]]. My sense is that blogging is sharing the process of live thinking which provides context, and notes are the knowledge that come from that. I have 128 notes that mention "blogging" so there is a hidden importance to delve into. Many discuss my on-again/off-again relationship with the practice. For it is a practice. Some of my struggles have involved:
 - Confidentiality
 - Habit
 - Writing for the wrong audience
@@ -31,7 +31,7 @@ I began blogging in the early 2000's using [Radioland](http://radio.userland.com
 - [[Comparing digital gardens to blogging]]
 - [[Ideas are Better in Bed]]
 - [[RSS remains an important technology]]
-- [[My Decision to Stop Blogging]]
+- [[My decision to stop blogging]]
 - [[Bloggers should support other bloggers]]
 - [[Blogs are public journal entries]]
 - [[It's your weblog]]

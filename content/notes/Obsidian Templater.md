@@ -3,7 +3,7 @@ aliases: []
 tags: 
 datetime: 2024-09-02T19:02:01
 updated: 
-title:
+title: 
 ---
 An [[Obsidian]] plugin that extends the inbuilt templating functionality considerably.
 

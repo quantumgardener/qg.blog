@@ -1,7 +1,7 @@
 ---
 tags: 
 datetime: 2024-08-21T14:05:00
-updated:
+updated: 
 ---
 Here are some examples to consider if you are looking at [[Quartz/maps/Productive laziness]].
 * I need to regularly distribute reports to colleagues via a variety of OneDrive folders — being productively lazy means creating a small batch file to do the copying for me which I can call upon for each distribution update.

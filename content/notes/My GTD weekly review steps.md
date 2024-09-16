@@ -3,7 +3,7 @@ aliases:
 tags: 
 datetime: 2024-08-31T12:34:27
 updated: 2024-09-02T19:08:00
-title:
+title: 
 ---
 Each week, normally on the last day I'm working I undertake a [[Getting Things Done]] weekly review.
 

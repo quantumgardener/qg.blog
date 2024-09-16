@@ -2,7 +2,7 @@
 tags: 
 datetime: 2024-08-30T08:21:59
 updated: 
-title:
+title: 
 ---
 I tried to use Snap to install a local copy of [[Obsidian]] on the [[Windows Subsystem for Linux]]. Couldn't get it to work, but keeping this update code for reference.
 

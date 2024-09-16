@@ -3,7 +3,7 @@ aliases:
 tags: 
 datetime: 2024-07-18T16:07:54
 updated: 2024-08-21T20:18:00
-title:
+title: 
 ---
 [1Password](https://1password.com/)) is a password manager that securely stores passwords and other credentials, shareable across platforms and protected by a master password.
 

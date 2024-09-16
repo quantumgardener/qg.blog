@@ -3,7 +3,7 @@ aliases: []
 tags: 
 datetime: 2024-09-07T16:08:51
 updated: 
-title:
+title: 
 ---
 Off the back of upgrading my home network to support VLANs I undertook a [[Crash course in home networking]]. It got me thinking about how my home networking technology has changed over the years.
 ## Network the first, dial-up modems

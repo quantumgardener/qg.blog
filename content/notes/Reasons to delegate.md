@@ -3,7 +3,7 @@ aliases: []
 tags: 
 datetime: 2024-08-23T16:43:22
 updated: 
-title:
+title: 
 ---
 Delegation typically occurs because:
 

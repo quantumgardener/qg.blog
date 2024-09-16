@@ -10,7 +10,7 @@ rating: "[[3-star|⭐️⭐️⭐️]]"
 platform:
   - "[[Microsoft Windows]]"
 thumbnail: "[[vg_cities_skylines_ii_t.webp]]"
-description: "Cities Skylines II is a city building game."
+description: Cities Skylines II is a city building game.
 ---
 ![[vg_cities_skylines_ii.webp|media-cover]]
 
