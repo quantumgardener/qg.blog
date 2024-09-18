@@ -11,5 +11,5 @@ updated:
 
 | # | Game                                                                                               |                                                                          |
 | - | -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
-| 1 | ![[vg_A Plague Tale - Innocence_t\|vg_A Plague Tale - Innocence_t.webp]] | [[A Plague Tale - Innocence]] |
+| 1 | ![[vg_A Plague Tale - Innocence_t.webp\|vg_A Plague Tale - Innocence_t.webp]] | [[A Plague Tale - Innocence]] |
 <!-- SerializedQuery END -->

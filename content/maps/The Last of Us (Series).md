@@ -11,7 +11,7 @@ updated:
 
 | #   | Game                                                                                                     |                                                                                |
 | --- | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| 1   | ![[vg_The Last of Us_t\|vg_The Last of Us_t.webp]]                             | [[The Last of Us]]                             |
-| 1.5 | ![[vg_The Last of Us - Left Behind_t\|vg_The Last of Us - Left Behind_t.webp]] | [[The Last of Us - Left Behind]] |
-| 2   | ![[vg_The Last of Us Part II_t\|vg_The Last of Us Part II_t.webp]]             | [[The Last of Us Part II]]             |
+| 1   | ![[vg_The Last of Us_t.webp\|vg_The Last of Us_t.webp]]                             | [[The Last of Us]]                             |
+| 1.5 | ![[vg_The Last of Us - Left Behind_t.webp\|vg_The Last of Us - Left Behind_t.webp]] | [[The Last of Us - Left Behind]] |
+| 2   | ![[vg_The Last of Us Part II_t.webp\|vg_The Last of Us Part II_t.webp]]             | [[The Last of Us Part II]]             |
 <!-- SerializedQuery END -->

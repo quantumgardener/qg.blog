@@ -11,9 +11,9 @@ updated:
 
 | #   | Game                                                                                                                           |                                                                                                      |
 | --- | ------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------- |
-| 1   | ![[vg_Horizon Zero Dawn_t\|vg_Horizon Zero Dawn_t.webp]]                                             | [[Horizon Zero Dawn]]                                             |
-| 1.5 | ![[vg_Horizon Zero Dawn (The Frozen Wilds)_t\|vg_Horizon Zero Dawn (The Frozen Wilds)_t.webp]]       | [[Horizon Zero Dawn - Frozen Wilds]]               |
-| 1.9 | ![[vg_Horizon - Call of the Mountain_t\|vg_Horizon - Call of the Mountain_t.webp]]                   | [[Horizon - Call of the Mountain]]                   |
-| 2   | ![[vg_Horizon Forbidden West_t\|vg_Horizon Forbidden West_t.webp]]                                   | [[Horizon Forbidden West]]                                   |
-| 2.5 | ![[vg_Horizon Forbidden West (Burning Shores)_t\|vg_Horizon Forbidden West (Burning Shores)_t.webp]] | [[Horizon Forbidden West - Burning Shores]] |
+| 1   | ![[vg_Horizon Zero Dawn_t.webp\|vg_Horizon Zero Dawn_t.webp]]                                             | [[Horizon Zero Dawn]]                                             |
+| 1.5 | ![[vg_Horizon Zero Dawn (The Frozen Wilds)_t.webp\|vg_Horizon Zero Dawn (The Frozen Wilds)_t.webp]]       | [[Horizon Zero Dawn - Frozen Wilds]]               |
+| 1.9 | ![[vg_Horizon - Call of the Mountain_t.webp\|vg_Horizon - Call of the Mountain_t.webp]]                   | [[Horizon - Call of the Mountain]]                   |
+| 2   | ![[vg_Horizon Forbidden West_t.webp\|vg_Horizon Forbidden West_t.webp]]                                   | [[Horizon Forbidden West]]                                   |
+| 2.5 | ![[vg_Horizon Forbidden West (Burning Shores)_t.webp\|vg_Horizon Forbidden West (Burning Shores)_t.webp]] | [[Horizon Forbidden West - Burning Shores]] |
 <!-- SerializedQuery END -->

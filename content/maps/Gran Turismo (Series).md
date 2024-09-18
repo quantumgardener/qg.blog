@@ -11,8 +11,8 @@ updated:
 
 | # | Game                                                                                           |                                                                      |
 | - | ---------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
-| 3 | ![[vg_Gran Turismo 3 - A-Spec_t\|vg_Gran Turismo 3 - A-Spec_t.webp]] | [[Gran Turismo 3 - A-Spec]] |
-| 5 | ![[vg_Gran Turismo 5_t\|vg_Gran Turismo 5_t.webp]]                   | [[Gran Turismo 5]]                   |
-| 6 | ![[vg_Gran Turismo Sport_t\|vg_Gran Turismo Sport_t.webp]]           | [[Gran Turismo Sport]]           |
-| 7 | ![[vg_Gran Turismo 7_t\|vg_Gran Turismo 7_t.webp]]                   | [[Gran Turismo 7]]                   |
+| 3 | ![[vg_Gran Turismo 3 - A-Spec_t.webp\|vg_Gran Turismo 3 - A-Spec_t.webp]] | [[Gran Turismo 3 - A-Spec]] |
+| 5 | ![[vg_Gran Turismo 5_t.webp\|vg_Gran Turismo 5_t.webp]]                   | [[Gran Turismo 5]]                   |
+| 6 | ![[vg_Gran Turismo Sport_t.webp\|vg_Gran Turismo Sport_t.webp]]           | [[Gran Turismo Sport]]           |
+| 7 | ![[vg_Gran Turismo 7_t.webp\|vg_Gran Turismo 7_t.webp]]                   | [[Gran Turismo 7]]                   |
 <!-- SerializedQuery END -->

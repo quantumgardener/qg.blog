@@ -4,12 +4,12 @@ tags:
   - status/dropped
 datetime: 2023-06-08T20:02:06
 updated: 2024-08-02T15:57:00
-series: "[[Quartz/maps/Diablo (Series)]]"
+series: "[[Diablo (Series)]]"
 sequence: 4
 rating: "[[2-star|⭐️⭐️]]"
 platform:
   - "[[PlayStation 5]]"
-thumbnail: "[[vg_Diablo IV_t.webp]]"
+thumbnail: "[[assets/covers/vg_Diablo IV_t.webp]]"
 ---
 ![[vg_Diablo IV.webp|media-cover]]
 
