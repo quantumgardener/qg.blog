@@ -2,7 +2,7 @@
 tags:
   - class/video-game
   - status/completed
-series: "[[Ratchet and Clank (Series)]]"
+series: "[[Ratchet & Clank (Series)]]"
 sequence: 1
 rating: "[[3-star|⭐️⭐️⭐️]]"
 platform:

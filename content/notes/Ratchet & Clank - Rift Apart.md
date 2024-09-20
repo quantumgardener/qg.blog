@@ -2,12 +2,13 @@
 tags:
   - class/video-game
   - status/completed
-series: "[[Ratchet and Clank (Series)]]"
+series: "[[Ratchet & Clank (Series)]]"
 sequence: 2
 rating: "[[4-star|⭐️⭐️⭐️⭐️]]"
 platform:
   - "[[PlayStation 5]]"
 datetime: 2023-01-25T20:07:22
+thumbnail: "[[vg_Ratchet & Clank - Rift Apart_t.webp]]"
 ---
 ![[vg_Ratchet & Clank - Rift Apart.webp|media-cover]]
 
