@@ -2,7 +2,7 @@
 tags:
   - astronomy
 landscapes:
-  - "[[Quartz/maps/Hobby Together]]"
+  - "[[Hobby Together]]"
 datetime: 2023-10-25T00:00:00
 ---
 Alongside my [[Celestron SkyMaster 20x80 Binoculars]] I'm will keep an eye on telescopes with a view to purchasing one in the future more suitable to my needs. That could be for deep sky viewing with my eyes or [[Astrophotography]].

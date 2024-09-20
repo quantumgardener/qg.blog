@@ -2,7 +2,7 @@
 tags:
   - class/video-game
   - status/ongoing
-series: "[[Quartz/maps/LEGO Harry Potter (Series)]]"
+series: "[[LEGO Harry Potter (Series)]]"
 sequence: 1
 rating: "[[3-star|⭐️⭐️⭐️]]"
 datetime: 2023-01-25T20:07:23

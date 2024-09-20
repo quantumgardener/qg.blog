@@ -3,7 +3,7 @@ tags:
   - warhammer
   - dungeons-and-dragons
 landscapes:
-  - "[[Quartz/maps/Hobby Together]]"
+  - "[[Hobby Together]]"
 datetime: 2022-10-22T00:00:00
 ---
 At the edge of your consciousness you may be aware that over the past few years there has been a resurgence in board games, tabletop role-playing games such as Dungeons & Dragons, and tabletop wargaming like Warhammer.

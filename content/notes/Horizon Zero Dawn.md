@@ -2,7 +2,7 @@
 tags:
   - class/video-game
   - status/completed
-series: "[[Quartz/maps/Horizon (Series)]]"
+series: "[[Horizon (Series)]]"
 sequence: 1
 datetime: 2023-01-25T20:07:23
 updated: 

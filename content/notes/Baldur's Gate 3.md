@@ -2,7 +2,7 @@
 tags:
   - class/video-game
   - status/ongoing
-series: "[[Quartz/maps/Baldur's Gate (Series)]]"
+series: "[[Baldur's Gate (Series)]]"
 sequence: 3
 rating: "[[4-star|⭐️⭐️⭐️⭐️]]"
 datetime: 2023-05-27T17:32:33

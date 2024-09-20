@@ -27,7 +27,7 @@ The [[Promise Cycle]] is a model for understanding how people come together to c
 
 [[Time Management]] is the process of managing one's time. It is a limited resource, as is the time of others. Therefore time management is essential in treating people as a [[Legitimate other]]. Something that makes [[Time Management]] easier is a strong practice of [[Personal knowledge management]].
 
-[[Wonder]] is my favourite of the [[Basic moods of life]] and to access wonder, I use [[Meditation]], [[Quartz/maps/Map of astronomy|Astronomy]] and [[Mathematics]].
+[[Wonder]] is my favourite of the [[Basic moods of life]] and to access wonder, I use [[Meditation]], [[Map of astronomy|Astronomy]] and [[Mathematics]].
 
 A [[Mood]] predisposes me to act in a particular ways which includes my thinking. The orientation of the mood (positive or negative) will expand or constrict my [[Thought horizon]]. Moods can therefore also be useful in [[Expanding my comfort zone]].
 

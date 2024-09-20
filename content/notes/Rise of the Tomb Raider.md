@@ -2,7 +2,7 @@
 tags:
   - class/video-game
   - status/completed
-series: "[[Quartz/maps/Tomb Raider (Survivor Trilogy)]]"
+series: "[[Tomb Raider (Survivor Trilogy)]]"
 sequence: 2
 rating: "[[3-star|⭐️⭐️⭐️]]"
 datetime: 2023-06-10T15:28:39

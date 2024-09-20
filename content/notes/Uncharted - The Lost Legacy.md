@@ -4,7 +4,7 @@ aliases:
 tags:
   - class/video-game
   - status/completed
-series: "[[Quartz/maps/Uncharted (Series)]]"
+series: "[[Uncharted (Series)]]"
 sequence: 4.5
 playthroughs: 2
 rating: "[[4-star|⭐️⭐️⭐️⭐️]]"

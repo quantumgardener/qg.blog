@@ -2,7 +2,7 @@
 tags:
   - class/video-game
   - status/completed
-series: "[[Quartz/maps/God of War (Series)]]"
+series: "[[God of War (Series)]]"
 sequence: 9
 rating: "[[4-star|⭐️⭐️⭐️⭐️]]"
 datetime: 2023-01-25T20:07:24

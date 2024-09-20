@@ -17,6 +17,6 @@ All games on this list are rated [[2-star|⭐️⭐️]].
 
 | Game                                                                           |                                                      | Platform                                                            |
 | ------------------------------------------------------------------------------ | ---------------------------------------------------- | ------------------------------------------------------------------- |
-| ![[vg_Diablo IV_t\|vg_Diablo IV_t.webp]]             | [[Diablo IV]]             | <ul><li>[[PlayStation 5]]</li></ul> |
-| ![[vg_Hogwarts Legacy_t\|vg_Hogwarts Legacy_t.webp]] | [[Hogwarts Legacy]] | <ul><li>[[PlayStation 5]]</li></ul> |
+| ![[vg_Diablo IV_t.webp\|vg_Diablo IV_t.webp]]             | [[Diablo IV]]             | <ul><li>[[PlayStation 5]]</li></ul> |
+| ![[vg_Hogwarts Legacy_t.webp\|vg_Hogwarts Legacy_t.webp]] | [[Hogwarts Legacy]] | <ul><li>[[PlayStation 5]]</li></ul> |
 <!-- SerializedQuery END -->

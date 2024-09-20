@@ -2,7 +2,7 @@
 tags:
   - class/video-game
   - status/completed
-series: "[[Quartz/maps/Call of Duty (Series)]]"
+series: "[[Call of Duty (Series)]]"
 sequence: 16
 rating: "[[3-star|⭐️⭐️⭐️]]"
 platform:

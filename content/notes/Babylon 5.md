@@ -3,7 +3,7 @@ tags:
   - class/tv-show
   - status/completed
 landscapes:
-  - "[[Quartz/maps/Hobby Together]]"
+  - "[[Hobby Together]]"
 datetime: 2023-11-25T00:00:00
 rating: "[[4-star|⭐️⭐️⭐️⭐️]]"
 thumbnail: "[[tv_Babylon 5_t.webp]]"

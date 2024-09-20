@@ -9,4 +9,4 @@ The [[PlayStation 4]] was an absolute workhorse for many years. Most of my most 
 It was a nice purchase with a Christmas bonus from work.
 
 ## Games
-[[Quartz/maps/PlayStation 4 games]]
+[[PlayStation 4 games]]

@@ -7,4 +7,4 @@ updated:
 Every garden needs a good shed, full of the right tools to make it flourish.
 
 - [[Gear that I use]]
-- [[Quartz/maps/Software that I use]]
+- [[Software that I use]]

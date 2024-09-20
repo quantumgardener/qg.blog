@@ -5,7 +5,7 @@ tags:
   - backup-strategy
 landscapes:
   - "[[The Garden Shed]]"
-  - "[[Quartz/maps/Quantum OS]]"
+  - "[[Quantum OS]]"
 JD-ID: "[[12.01 Backups]]"
 datetime: 2023-12-03T00:00:00
 ---

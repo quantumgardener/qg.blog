@@ -5,7 +5,7 @@ tags:
   - rating/5-star
 title: The Goodies
 landscapes:
-  - "[[Quartz/maps/Hobby Together]]"
+  - "[[Hobby Together]]"
 datetime: 2024-01-08T00:00:00
 ---
 

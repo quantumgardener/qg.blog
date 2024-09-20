@@ -32,5 +32,5 @@ To understand what this means look at [[Some examples of productive laziness]] t
 
 ## Programming and the Web
 - [[Changing the look of your Obsidian site using fonts and CSS]]
-- [[Quartz/maps/Software that I use]]that I use]]
+- [[Software that I use]]
 - [[Adding a due date to your tasks is a mistake]] and [[Committing to tasks without dates]]

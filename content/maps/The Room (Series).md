@@ -11,6 +11,6 @@ updated:
 
 | # | Game                                                                     |                                                |
 | - | ------------------------------------------------------------------------ | ---------------------------------------------- |
-| 1 | ![[vg_The Room_t\|vg_The Room_t.webp]]         | [[The Room]]         |
-| 2 | ![[vg_The Room Two_t\|vg_The Room Two_t.webp]] | [[The Room Two]] |
+| 1 | ![[vg_The Room_t.webp\|vg_The Room_t.webp]]         | [[The Room]]         |
+| 2 | ![[vg_The Room Two_t.webp\|vg_The Room Two_t.webp]] | [[The Room Two]] |
 <!-- SerializedQuery END -->

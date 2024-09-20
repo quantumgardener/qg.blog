@@ -16,8 +16,8 @@ I did previously keep a list of all completed TV series/seasons but have decided
 
 | TV Show                                                                          |                                                        | Rating                               |
 | -------------------------------------------------------------------------------- | ------------------------------------------------------ | ------------------------------------ |
-| ![[tv_Babylon 5_t\|tv_Babylon 5_t.webp]]               | [[Babylon 5]]               | [[4-star\|⭐️⭐️⭐️⭐️]] |
-| ![[tv_Band of Brothers_t\|tv_Band of Brothers_t.webp]] | [[Band of Brothers]] | [[4-star\|⭐️⭐️⭐️⭐️]] |
+| ![[tv_Babylon 5_t.webp\|tv_Babylon 5_t.webp]]               | [[Babylon 5]]               | [[4-star\|⭐️⭐️⭐️⭐️]] |
+| ![[tv_Band of Brothers_t.webp\|tv_Band of Brothers_t.webp]] | [[Band of Brothers]] | [[4-star\|⭐️⭐️⭐️⭐️]] |
 <!-- SerializedQuery END -->
 
 

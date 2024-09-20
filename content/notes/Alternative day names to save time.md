@@ -3,7 +3,7 @@ tags:
   - class/blog
 datetime: 2023-09-02T18:38:03
 landscapes:
-  - "[[Quartz/maps/Productive laziness]]"
+  - "[[Productive laziness]]"
 ---
 My proposed list of alternative day names to help us organise time easier and avoid confusion across the week. Some are already in use which leads me to believe I’m onto something.
 

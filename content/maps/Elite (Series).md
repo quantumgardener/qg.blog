@@ -12,6 +12,6 @@ description: List of games I've played in the Elite series.
 
 | # | Game                                                                               |                                                          |
 | - | ---------------------------------------------------------------------------------- | -------------------------------------------------------- |
-| 1 | ![[vg_Elite_t\|vg_Elite_t.webp]]                         | [[Elite]]                         |
-| 3 | ![[vg_Elite - Dangerous_t\|vg_Elite - Dangerous_t.webp]] | [[Elite - Dangerous]] |
+| 1 | ![[vg_Elite_t.webp\|vg_Elite_t.webp]]                         | [[Elite]]                         |
+| 3 | ![[vg_Elite - Dangerous_t.webp\|vg_Elite - Dangerous_t.webp]] | [[Elite - Dangerous]] |
 <!-- SerializedQuery END -->

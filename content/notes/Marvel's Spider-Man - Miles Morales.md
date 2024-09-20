@@ -2,7 +2,7 @@
 tags:
   - class/video-game
   - status/completed
-series: "[[Quartz/maps/Marvel's Spider-Man (Series)]]"
+series: "[[Marvel's Spider-Man (Series)]]"
 sequence: 2
 rating: "[[3-star|⭐️⭐️⭐️]]"
 platform:

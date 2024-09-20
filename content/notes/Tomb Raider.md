@@ -2,7 +2,7 @@
 tags:
   - class/video-game
   - status/completed
-series: "[[Quartz/maps/Tomb Raider (Survivor Trilogy)]]"
+series: "[[Tomb Raider (Survivor Trilogy)]]"
 sequence: 1
 playthroughs: 2
 datetime: 2023-06-10T11:14:53

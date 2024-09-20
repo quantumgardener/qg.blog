@@ -11,6 +11,6 @@ updated:
 
 | # | Game                                                                                                                   |                                                                                              |
 | - | ---------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
-| 1 | ![[vg_Marvel's Spider-Man_t\|vg_Marvel's Spider-Man_t.webp]]                                 | [[Marvel's Spider-Man]]                                 |
-| 2 | ![[vg_Marvel's Spider-Man - Miles Morales_t\|vg_Marvel's Spider-Man - Miles Morales_t.webp]] | [[Marvel's Spider-Man - Miles Morales]] |
+| 1 | ![[vg_Marvel's Spider-Man_t.webp\|vg_Marvel's Spider-Man_t.webp]]                                 | [[Marvel's Spider-Man]]                                 |
+| 2 | ![[vg_Marvel's Spider-Man - Miles Morales_t.webp\|vg_Marvel's Spider-Man - Miles Morales_t.webp]] | [[Marvel's Spider-Man - Miles Morales]] |
 <!-- SerializedQuery END -->

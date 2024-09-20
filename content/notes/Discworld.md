@@ -7,7 +7,7 @@ datetime: 2023-09-02T00:00:00
 updated: 2024-05-26T08:56:00
 description: I'm listening to the complete discworld series of audiobooks. All 40 were released across 2022-23 and it will take me much, much longer to listen to them all.
 landscapes:
-  - "[[Quartz/maps/Hobby Together]]"
+  - "[[Hobby Together]]"
 ---
 ## My Listening Challenge
 I am listening my way through the complete [[Discworld]] series of audiobooks. All 40 books were released across 2022-23 and it will take me much, much longer to listen to them all.

@@ -22,7 +22,7 @@ Achievement times are not always contiguous. I can leave a game for a long time 
 | ![[vg_Marvel's Spider-Man_t.webp]]             | [[Marvel's Spider-Man]]                                             | 20 November 2020            | 2 years, 3 months, 2 weeks  |     |
 | ![[vg_Astro's Playroom_t.webp]]                | [[Astro's Playroom]]                                                | 27 December 2020            | 1 day                       |     |
 | ![[vg_Horizon Zero Dawn_t.webp]]               | [[Horizon Zero Dawn]]                                               | 3 June 2021                 | 3 years, 11 months, 3 weeks |     |
-| ![[vg_Ratchet and Clank - Rift Apart_t.webp]]  | [[Ratchet and Clank - Rift Apart\|Ratchet & Clank: Rift Apart]]     | 26 June 2021                | 1 week, 3 days              |     |
+| ![[vg_Ratchet & Clank - Rift Apart_t.webp]]  | [[Ratchet & Clank - Rift Apart\|Ratchet & Clank: Rift Apart]]     | 26 June 2021                | 1 week, 3 days              |     |
 | ![[vg_Wreckfest_t.webp]]                       | [[Wreckfest]]                                                       | 3 July 2021                 | 1 month, 2 weeks, 4 days    |     |
 | ![[vg_No Man's Sky_t.webp]]                    | [[No Man's Sky]]                                                    | 6 July 2021                 | 3 years, 11 months, 5 days  |     |
 | ![[vg_PGA Tour 2K21_t.webp]]                   | [[PGA Tour 2K21]]                                                   | 22 November 2021            | 1 months, 2 weeks, 2 days   |     |

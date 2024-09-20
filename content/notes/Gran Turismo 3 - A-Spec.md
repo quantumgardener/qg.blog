@@ -2,7 +2,7 @@
 tags:
   - class/video-game
   - status/completed
-series: "[[Quartz/maps/Gran Turismo (Series)]]"
+series: "[[Gran Turismo (Series)]]"
 sequence: 3
 playthroughs: 1
 datetime: 2023-05-28T19:43:49
@@ -15,4 +15,4 @@ thumbnail: "[[vg_Gran Turismo 3 - A-Spec_t.webp]]"
 ---
 ![[vg_Gran Turismo 3 - A-Spec.webp|media-cover]]
 
-My first [[Quartz/maps/Gran Turismo (Series)|Gran Turismo]] game. I remember playing with [[Craig Buchan|Craig]] and [[Shannon Buchan|Shannon]] at [[85 Bond Street, Ivanhoe, VIC, Australia|home in Melbourne]] when they came down to visit one weekend.
+My first [[Gran Turismo (Series)|Gran Turismo]] game. I remember playing with [[Craig Buchan|Craig]] and [[Shannon Buchan|Shannon]] at [[85 Bond Street, Ivanhoe, VIC, Australia|home in Melbourne]] when they came down to visit one weekend.

@@ -19,7 +19,7 @@ Last weekend, and through the week since, I made a lot of changes to [[The Quant
 > - Add help icons to Backlinks and Graph view
 
 > [!example] Content changes
-> - Rewrote my start page. Check out [[Quartz/maps/Universal Map of Concepts|Universal Map of Concepts]] for a good idea of where it's going.  
+> - Rewrote my start page. Check out [[Universal Map of Concepts|Universal Map of Concepts]] for a good idea of where it's going.  
 > - Added a lot of smaller notes
 
 Can you see the difference in effort? I feel deep into [[The optimisation-procrastination trap]]. 
@@ -38,7 +38,7 @@ Here's the list again. I've highlighted the items that make a real difference an
 > - ~~Add help icons to Backlinks and Graph view~~
 
 > [!example] Content changes
-> - ~~Rewrote my start page. Check out [[Quartz/maps/Universal Map of Concepts|Universal Map of Concepts]] for a good idea of where it's going.~~
+> - ~~Rewrote my start page. Check out [[Universal Map of Concepts|Universal Map of Concepts]] for a good idea of where it's going.~~
 > - ==Added a lot of smaller notes==
 
 Yep, that's the sum total of advancement for a week's work.

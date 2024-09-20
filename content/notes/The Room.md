@@ -2,7 +2,7 @@
 tags:
   - class/video-game
   - status/completed
-series: "[[Quartz/maps/The Room (Series)]]"
+series: "[[The Room (Series)]]"
 sequence: 1
 rating: "[[3-star|⭐️⭐️⭐️]]"
 datetime: 2023-06-16T19:19:58

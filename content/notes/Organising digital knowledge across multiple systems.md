@@ -1,7 +1,7 @@
 ---
 JD-ID: "[[01.02 Managing Knowledge & Content]]"
 landscapes:
-  - "[[Quartz/maps/Quantum OS]]"
+  - "[[Quantum OS]]"
   - "[[The Garden Shed]]"
 datetime: 2024-03-11T00:00:00
 ---

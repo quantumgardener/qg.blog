@@ -1,8 +1,8 @@
 ---
 JD-ID: "[[01.01 Guiding Principles]]"
 landscapes:
-  - "[[Quartz/maps/Quantum OS]]"
-  - "[[Quartz/maps/Productive laziness]]"
+  - "[[Quantum OS]]"
+  - "[[Productive laziness]]"
 datetime: 2024-03-11
 updated: 2024-06-06T16:35:00
 ---

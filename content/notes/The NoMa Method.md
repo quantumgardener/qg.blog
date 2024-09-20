@@ -3,7 +3,7 @@ tags:
   - note-making
   - LYT
 landscapes:
-  - "[[Quartz/maps/Productive laziness]]"
+  - "[[Productive laziness]]"
 datetime: 2024-05-18T00:00:00
 ---
 The NoMa Method reminds me of the framework of questions used in a coaching conversation. 
@@ -16,6 +16,6 @@ It's similar because it is structured to pull out [[Quartz/notes/Distinction|Dis
 
 It's different because the focus is on note making and not inquiry into [[Way of Being]].
 
-That's important because there may be other such constructs I can discover and use to my advantage. My [[Quartz/maps/Universal Map of Concepts]] is the way I'm currently linking everything together, but what else is there?
+That's important because there may be other such constructs I can discover and use to my advantage. My [[Universal Map of Concepts]] is the way I'm currently linking everything together, but what else is there?
 
 ![[No Ma Method Prompts]]

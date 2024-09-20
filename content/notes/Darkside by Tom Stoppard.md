@@ -3,7 +3,7 @@ tags:
   - review
   - music
 landscapes:
-  - "[[Quartz/maps/Hobby Together]]"
+  - "[[Hobby Together]]"
 datetime: 2023-10-22T00:00:00
 ---
 ![[mu_darkside.webp|media-cover]]

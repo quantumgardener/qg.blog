@@ -4,7 +4,7 @@ tags:
   - status/completed
 datetime: 2023-05-25T21:00:41
 updated: 2024-08-02T16:46:00
-series: "[[Quartz/maps/Elite (Series)]]"
+series: "[[Elite (Series)]]"
 sequence: 1
 rating: "[[5-star|⭐️⭐️⭐️⭐️⭐️]]"
 platform:

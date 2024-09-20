@@ -5,7 +5,7 @@ tags:
   - class/video-game
   - status/completed
 title: "A Plague Tale: Innocence"
-series: "[[Quartz/maps/A Plague Tale (Series)]]"
+series: "[[A Plague Tale (Series)]]"
 sequence: 1
 datetime: 2023-09-28T00:00:00
 updated: 

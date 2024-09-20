@@ -11,7 +11,7 @@ I was lucky enough to get an order in from the second round of stock that Amazon
 [PS5: The Ultimate FAQ](http://feedproxy.google.com/~r/PSBlog/~3/eo25OwzPG-I/)
 
 ## Games
-[[Quartz/maps/PlayStation 5 games|PlayStation 5 Games]]
+[[PlayStation 5 games]]
 ## Hardware
 ### Internal drive
 A [[Samsung 980 Pro SSD 1TB]] has been added as a second internal drive.
@@ -28,6 +28,3 @@ The PS5 does not yet support [[Dolby Vision]]. This will be a licensing issue I'
 - [Download page](https://www.playstation.com/en-au/support/hardware/ps5/system-software/)
 - [Install instructions](https://www.playstation.com/en-au/support/hardware/update-playstation-system-software-safe-mode/)
 
-
----
-[[Game Console]] - [[Home Theatre Equipment]]

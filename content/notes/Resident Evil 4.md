@@ -2,7 +2,7 @@
 tags:
   - class/video-game
   - status/completed
-series: "[[Quartz/maps/Resident Evil (Series)]]"
+series: "[[Resident Evil (Series)]]"
 sequence: 4
 rating: "[[3-star|⭐️⭐️⭐️]]"
 datetime: 2023-05-21T15:50:30

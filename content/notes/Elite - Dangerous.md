@@ -4,7 +4,7 @@ aliases:
 tags:
   - class/video-game
   - status/completed
-series: "[[Quartz/maps/Elite (Series)]]"
+series: "[[Elite (Series)]]"
 sequence: 3
 datetime: 2023-01-25T20:07:24
 updated: 2024-08-02T16:29:00

@@ -1,7 +1,7 @@
 ---
 JD-ID: "[[01.02 Managing Knowledge & Content]]"
 landscapes:
-  - "[[Quartz/maps/Quantum OS]]"
+  - "[[Quantum OS]]"
 datetime: 2024-03-10T00:00:00
 ---
 These are the tags I apply to [[31 Journal|Journal entries]]. They are a means of quickly bringing related entries together so that I can see themes. Journals can have more than one tag. These tags follow the [[Tag Guidelines]].

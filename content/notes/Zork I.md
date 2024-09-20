@@ -2,7 +2,7 @@
 tags:
   - class/video-game
   - status/completed
-series: "[[Quartz/maps/Zork (Series)]]"
+series: "[[Zork (Series)]]"
 datetime: 2023-01-25T20:07:20
 updated: 
 sequence: 1

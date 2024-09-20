@@ -3,7 +3,7 @@ aliases:
   - pkm
 tags: []
 landscapes:
-  - "[[Quartz/maps/Productive laziness]]"
+  - "[[Productive laziness]]"
 datetime: 2024-03-11T00:00:00
 ---
 *Personal knowledge management* or *PKM* is the art of taking personal responsibility for the knowledge that you need to refer to in going about your daily life.

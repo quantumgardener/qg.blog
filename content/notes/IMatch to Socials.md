@@ -1,7 +1,7 @@
 ---
 tags: 
 landscapes:
-  - "[[Quartz/maps/Hobby Together]]"
+  - "[[Hobby Together]]"
 datetime: 2024-05-04
 updated: 2024-08-24T14:44:00
 ---
