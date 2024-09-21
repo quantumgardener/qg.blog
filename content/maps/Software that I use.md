@@ -25,5 +25,6 @@ Here, I make comment on the software that I have, or have used. The physical tec
 
 ## Software no longer in use (and sometimes sometimes why)
 - [[Faster text entry on a Palm Pilot]]
-- [[Faster text entry on a Palm Pilot]]
 - [[Roam Research]]
+- Radio Userland (blogging platform)
+	- [[Radio How-To]]
