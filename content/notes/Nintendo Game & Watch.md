@@ -1,7 +1,7 @@
 ---
 tags: 
 datetime: 2024-08-02T14:25:36
-updated:
+updated: 
 ---
 Unless you were there it's hard to imagine the hype that came with these simple handheld games. Each was an LCD screen with fixed images, surrounded by buttons and a shiny screen. Some were even foldable with two screens.
 

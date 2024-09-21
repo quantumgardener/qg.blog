@@ -6,7 +6,7 @@ tags:
   - class/list
   - serialised-dataview
 datetime: 2024-02-27T18:34:22
-updated:
+updated: 
 ---
 My [[Nintendo Game & Watch|Nintendo Game & Watch]] games.
 
