@@ -5,7 +5,7 @@ updated: 2024-08-12T18:34:00
 description: All things video games and the platforms I play on.
 ---
 All things video gaming.
-## The environment
+
 | I want to...              | ...learn about my game playing                                             |
 | ------------------------- | -------------------------------------------------------------------------- |
 | View platform details     | [[PlayStation VR2]] ([[PlayStation VR2 games\|games]])                     |
