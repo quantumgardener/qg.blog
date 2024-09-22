@@ -5,6 +5,9 @@ updated: 2024-09-17T10:39:00
 description: A list of all blog entries grouped by year and month.
 cssclasses:
   - max
+  - firstcol-100
+  - secondcol-350
+  - lastcol-250
 ---
 
 

@@ -1,3 +1,7 @@
+---
+datetime: 2024-09-20T10:46:15
+updated: ""
+---
 <!-- QueryToSerialize: table without id sequence as "#", embed(link(thumbnail)) as Game, file.link as ""  from #class/video-game where series = [[]] sort sequence -->
 <!-- SerializedQuery: table without id sequence as "#", embed(link(thumbnail)) as Game, file.link as ""  from #class/video-game where series = [[]] sort sequence -->
 

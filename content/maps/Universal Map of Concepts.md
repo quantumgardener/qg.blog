@@ -5,6 +5,8 @@ tags:
 datetime: 2023-01-25T20:07:26
 updated: 2024-09-22T13:49:00
 description: Every garden needs a good shed, full of the right tools to make it flourish.
+cssclasses:
+  - firstcol-200
 ---
 Most of what I think about and enjoy doing can be tied the concepts listed in this [[Universal Map of Concepts]]. Keeping with the metaphor of a [[Digital garden]], the map is organised into several [[Landscapes]] of activity and thinking.
 
