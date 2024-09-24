@@ -35,4 +35,4 @@ was `9`. I've set my entry to `20`.
 That's all. Now visit your home page and begin posting. 
 
 ## Subscribing to an RSS feed of your comments
-Radio's News Aggregator will scan RSS newsfeeds for new stories. [This site] (http://dev.myelin.co.nz/commentmonitor/tracker.py) makes it possible to subscribe a feed of your comments as well. Comments are stored on a different server which normally makes it troublesome and very tedious to go through all stories looking for comments.
+Radio's News Aggregator will scan RSS newsfeeds for new stories. [This site](http://dev.myelin.co.nz/commentmonitor/tracker.py) makes it possible to subscribe a feed of your comments as well. Comments are stored on a different server which normally makes it troublesome and very tedious to go through all stories looking for comments.
