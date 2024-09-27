@@ -2,6 +2,7 @@
 aliases: 
 tags:
   - class/map
+  - serialised-dataview
 datetime: 2023-01-25T20:07:26
 updated: 2024-09-22T13:49:00
 description: Every garden needs a good shed, full of the right tools to make it flourish.

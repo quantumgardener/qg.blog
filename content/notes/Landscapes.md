@@ -1,6 +1,8 @@
 ---
 datetime: 2023-10-12T00:00:00
 updated: 2024-09-22T13:26:00
+tags:
+  - serialised-dataview
 ---
 Standing on the edge of the [[Digital garden]] you can see several intriguing landscapes spread out in front of you. Where shall we head first?
 

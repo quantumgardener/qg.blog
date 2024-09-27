@@ -4,7 +4,7 @@ aliases:
 tags: 
 datetime: 2023-04-07T09:35:54
 updated: 2024-09-22T16:07:00
-title:
+title: 
 ---
 My first virtual reality headset and an experience I enjoyed. Both for [[PlayStation VR2 games]] and 2D games on what appeared like a 100" screen right in front of my eyes.
 

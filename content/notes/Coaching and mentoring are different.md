@@ -3,7 +3,7 @@ aliases: []
 tags: 
 datetime: 2024-09-22T13:56:43
 updated: 
-title:
+title: 
 ---
 A mentor takes their experience and uses it to direct and steer a mentee with less experience. Typically, the mentee wants to reach the same life situation as their mentor. The primary focus of a mentoring conversation is, "Follow my example," and the primary mood is [[Arrogance]]. [[Having a negative mentor is as valuable as a positive mentor]].
 

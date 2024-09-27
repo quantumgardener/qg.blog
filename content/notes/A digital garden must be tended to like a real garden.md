@@ -2,7 +2,7 @@
 tags: 
 datetime: 2024-09-22T13:19:09
 updated: 
-title:
+title: 
 ---
 The activities that occur in a real garden are just as applicable to knowledge and ideas in a [[Digital garden]].
 

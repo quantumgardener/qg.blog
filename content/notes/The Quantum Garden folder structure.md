@@ -3,7 +3,7 @@ aliases:
 tags: 
 datetime: 2024-07-25T18:40:59
 updated: 2024-09-22T13:08:00
-title:
+title: 
 ---
 
 This site is built using [[Quartz 4]], and is organised using a folder structure to keep content, blog post and navigational items separate.
