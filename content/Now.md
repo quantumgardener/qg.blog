@@ -10,8 +10,8 @@ This is my now page. It contains a list of posts about what I am in life and wha
 
 Rather than a single page which keeps getting updated, I've created a link of all "Now" dates on my blog. I prefer this because it gives me a history of "now" over time. In other words, what was I doing when then was now.
 ## All "Now" posts
-<!-- QueryToSerialize: table without id row.key as Month, rows.file.link as Title from #class/now sort date(datetime) desc flatten dateformat(datetime,"yyyy-MM") as month group by dateformat(datetime,"yyyy-MM") sort rows.month desc -->
-<!-- SerializedQuery: table without id row.key as Month, rows.file.link as Title from #class/now sort date(datetime) desc flatten dateformat(datetime,"yyyy-MM") as month group by dateformat(datetime,"yyyy-MM") sort rows.month desc -->
+<!-- QueryToSerialize: table without id row.key as Month, rows.file.link as Title from #class/now sort date(datetime) desc flatten dateformat(datetime,"yyyy-MM") as month group by dateformat(datetime,"yyyy-MM") sort rows.datetime desc -->
+<!-- SerializedQuery: table without id row.key as Month, rows.file.link as Title from #class/now sort date(datetime) desc flatten dateformat(datetime,"yyyy-MM") as month group by dateformat(datetime,"yyyy-MM") sort rows.datetime desc -->
 
 | Month   | Title                                                                                                                                                                                                                                                                                                                                                     |
 | ------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

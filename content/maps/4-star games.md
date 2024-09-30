@@ -8,7 +8,7 @@ tags:
 datetime: 2024-08-02T13:54:00
 updated: 
 title: ⭐️⭐️⭐️⭐️ games
-description: List of 4-star computer games
+description: List of [[4-star]] computer games.
 ---
 All games on this list are rated [[4-star|⭐️⭐️⭐️⭐️]].
 

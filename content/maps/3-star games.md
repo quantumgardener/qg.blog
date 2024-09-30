@@ -8,7 +8,7 @@ tags:
 datetime: 2024-08-01T19:24:49
 updated: 
 title: ⭐️⭐️⭐️ games
-description: List of 3-star computer games
+description: List of [[3-star]] computer games.
 ---
 All games on this list are rated [[3-star|⭐️⭐️⭐️]].
 
