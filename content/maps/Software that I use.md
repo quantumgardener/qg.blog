@@ -28,3 +28,4 @@ Here, I make comment on the software that I have, or have used. The physical tec
 - [[Roam Research]]
 - Radio Userland (blogging platform)
 	- [[Radio How-To]]
+- [[del.icio.us]]
