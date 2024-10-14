@@ -4,7 +4,7 @@ tags:
   - class/now
 datetime: 2024-10-07T19:59:27
 updated: 
-title:
+title: 
 ---
 The words of [[Marcus Aurelius]] in his [[Aurelius (2021) Meditations - The Annotated Edition|Meditations]] have resonated deeply and quickly with me. They echo my very thoughts as if he were writing my own mind.
 

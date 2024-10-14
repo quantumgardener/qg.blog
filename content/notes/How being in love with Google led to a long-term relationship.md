@@ -3,7 +3,7 @@ tags:
   - class/blog
 datetime: 2009-06-20T10:56:06
 updated: 
-title:
+title: 
 ---
 Google, you can have the lot. And I give it willingly.
 

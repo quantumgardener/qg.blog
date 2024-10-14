@@ -2,7 +2,7 @@
 tags:
   - class/blog
 datetime: 2024-09-27T14:59:00
-updated: ""
+updated: 2024-10-14T20:00:00
 ---
 A few weeks ago I made the decision to better secure my home network. We had just purchased a new washing machine which can be controlled from the internet. One more [[Internet of Things]] device in the home and yet another potential point of poor security.
 
@@ -59,3 +59,5 @@ The Virtual LANs will be:
 - Guest VLAN (not depicted)—a proper guest VLAN that permits internet access only.
 
 I've already begun skilling myself up on network knowledge and I have some shopping to do. I need a new faster and VLAN capable router, VLAN capable switches and VLAN capable wi-fi access points.
+
+The story continues in [[Home network upgrade (part 2)—The mistake]].

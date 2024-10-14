@@ -4,7 +4,7 @@ tags:
   - class/blog
 datetime: 2024-09-22T17:46:14
 updated: 
-title:
+title: 
 ---
 Three weeks since my last [[Now]] [[Now, 1 September 2024|entry]]. Tired, busy and last weekend I'd done the Bendigo to Adelaide trip in 3 days. For those overseas, it's about 615km and 8 hours driving each way.
 

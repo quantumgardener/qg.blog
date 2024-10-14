@@ -3,7 +3,7 @@ tags:
   - class/blog
 datetime: 2024-10-02T19:17:17
 updated: 
-title:
+title: 
 ---
 [Euan Semple has begun blogging again](https://euansemple.com/posts/hello-world) (yeah!) and posted how he is [enjoying comment on blogs via email](https://euansemple.com/posts/using-email-for-commenting).
 

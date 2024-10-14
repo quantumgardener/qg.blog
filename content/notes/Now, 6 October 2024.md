@@ -4,7 +4,7 @@ tags:
   - class/now
 datetime: 2024-10-06T20:44:47
 updated: 
-title:
+title: 
 ---
 With a full belly of Sunday roast I've just come back from a short walk. The temperature was nice enough for t-shirt and jeans and even though the Sun had dropped, there was still some light remaining in the West. 
 

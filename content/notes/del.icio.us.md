@@ -3,7 +3,7 @@ tags:
   - class/blog
 datetime: 2005-09-15T14:35:00
 updated: 
-title:
+title: 
 ---
 Today [del.icio.us](http://del.icio.us/) joins my toolbox of categorising and storing information for later retrieval. Normally I would use  [[PersonalBrain]] for that purpose but it doesn't allow me to share links with others in my community. On the other hand del.icio.us doesn't enable parent/child relationships.
 

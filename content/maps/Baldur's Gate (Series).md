@@ -5,7 +5,7 @@ tags:
   - class/map
 datetime: 2024-09-28T11:19:00
 updated: 
-cssclasses:
+cssclasses: 
 ---
 <!-- QueryToSerialize: table without id sequence as "#", embed(link(thumbnail)) as Game, file.link as ""  from #class/video-game where series = [[]] sort sequence -->
 <!-- SerializedQuery: table without id sequence as "#", embed(link(thumbnail)) as Game, file.link as ""  from #class/video-game where series = [[]] sort sequence -->
