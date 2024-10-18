@@ -23,7 +23,7 @@ The signs are obvious. I'm collecting faster than I can ingest and my time is sp
 	- [[Omnivore]] synced articles differ. The "book" information, content and notes all come into the same page.
 	- I want to reference sources consistently. I won't always give away my personal notes. [[Way of Being]] references directly into the literature notes on [[Sieler (2003) -- Coaching to the Human Soul (Volume I)]]. 
 
-## The solutions
+## Solutions
 - Create a template to rename a source note from it's properties.
 	- Time is saved correcting note titles manually for consistency.
 - Update Omnivores input template to say "Fleeting notes" instead of "Literature notes"

@@ -2,7 +2,7 @@
 tags:
   - class/blog
 datetime: 2024-10-18T09:24:00
-updated: 
+updated: 2024-10-18T14:28:00
 title:
 ---
 [[2024-10-17|Yesterday]] I "live tooted" my weekly GTD review on Mastodon. I shared my thought processes, to emphasise for others the ease and value of dedicating 1/1.5 hours weekly.
@@ -11,6 +11,8 @@ title:
 > I'm starting my [[Getting Things Done|GTD]] weekly review now, following [[My GTD weekly review steps]].
 > 
 > First up is to create a page for today using `CTRL-SHIFT-T` in [[Obsidan]] to bring up my weekly-review template.
+
+---
 
 > [!mastodon] 8:58 am — Inbox zero
 > First up is "Inbox Zero".
@@ -21,15 +23,21 @@ title:
 > 
 > I can afford to not be 100% true to "Inbox zero" because I have so few emails sitting there at any time. It's not worth creating new tasks when a glance is enough. Any email that gets a few day stale, will be moved on.
 
+---
+
 > [!mastodon] 9:01 am — @overdue
 > Check my "@overdue" list to find it empty. The list shows dated tasks which were not marked done (or not done) on the day.
 > 
 > It's empty. I check @overdue at the start of each day and my habit is strong enough that I'd already handled it. One task was moved today, another next week, and a third had the date removed. It will happen when it happens.
 
+---
+
 > [!mastodon] 9:03 am — @today
 > My @today list is also pretty clean. The standard Thursday items of setting an out of office message, checking project and ticket states and the task of yesterday that was moved to today.
 > 
 > I don't have anything big today that I've not already considered so we can keep on with the weekly review.
+
+---
 
 > [!mastodon] 9:16 am — @long term waiting
 > Now I am getting into the meat of things where I need to start putting thought into what I'm seeing.
@@ -42,10 +50,14 @@ title:
 > 
 > I picked up I'm using "tasks" instead of "next actions". They are the same. I lean to tasks as that is what Obsidian calls them.
 
+---
+
 > [!mastodon] 9:20 am — @next actions
 > The review of my @next actions list is quick. Sadly, no pleasant surprises of tasks I've finished but not yet marked done. 
 > 
 > I listen to my body during a weekly review. It will tell me with certainty every time with a sinking feeling for each task or project I see that I'm not committed to completing. Quite a bit of that in my next actions list so I'll have to take extra care when I do the next step — project reviews.
+
+---
 
 > [!mastodon] 9:38 am
 > 48 active projects with 47 needing review. The difference will be a project where I've forward dated the review date. I do this when I know there will be no progress for a while and I don't need to look at it.
@@ -60,14 +72,22 @@ title:
 > 
 > 18 minutes to review 47 projects shows the value of a weekly review done weekly. It's all pretty much under control.
 
+---
+
 > [!mastodon]  9:41 am — @no next action
 > 8 projects without a next action,. There were 11 before the previous step. I'm ok with all of those. Nothing to do now, but there will be in the future.
+
+---
 
 > [!mastodon] 9:43 am — Calendar review
 > Last 2 weeks and next 6 weeks of calendar reviewed. I usually do these one after the other without pause. Importantly, nothing from the last 2 weeks has been missed. Earlier I tasked myself to set up a client meeting, only to find in a couple of week's time that it's already scheduled. Yay, one less thing to do.
 
+---
+
 > [!mastodon] 9:45 am — @QA
 > QA step flagged no errors. All my projects are properly tagged to clients and have an owner. All people are tagged to a company. All good.
+
+---
 
 > [!mastodon] 9:46 am — Unfiled notes
 > There were no notes sitting unfiled in my Obsidian inbox.
@@ -76,6 +96,8 @@ title:
 > Learning of the week: Reminder that when I lean into knowing what I know, I am fully resourceful and able to handle whatever is thrown at me.
 > 
 > Highlights of the week: Getting to play with Power Automate to prep some work for a client. 
+
+---
 
 > [!mastodon] 9:52 am — Final comments
 > That's it for my weekly review. It took an hour including the time to type as I went. I believe it is the most powerful component of the GTD approach. It grounds me and gives me comfort when life gets out of control in one area that all other areas are in control.
