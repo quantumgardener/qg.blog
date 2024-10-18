@@ -7,7 +7,7 @@ updated: 2024-08-29T14:59:00
 ---
 The multi-purpose nature of [[The Quantum Garden]] system of organising and connecting notes means it is important to have strong understanding and taxonomy of the different types of notes in use. Each has an important role to play, but will different in nature and lifecycle.
 
-The need to distinguish note types comes from the work I've had to put in to understand the difference between [[fleeting note|fleeting notes]], [[Literature note|literature notes]] and [[Permanent note|permanent notes]] in a [[Zettelkasten]] structure[^1]<sup>,</sup>[^2]
+The need to distinguish note types comes from the work I've had to put in to understand the difference between [[Fleeting note|fleeting notes]], [[Literature note|literature notes]] and [[Permanent note|permanent notes]] in a [[Zettelkasten]] structure[^1]<sup>,</sup>[^2]
 
 I have a mix of notes that are personal, historical, shareable, instructional, index, and source. Some are even multiples of these[^3]. 
 

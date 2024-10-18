@@ -10,4 +10,4 @@ title:
 
 The note should be written from memory, and not simply copied from the source.
 
-[[Literature notes are permanent]]
+[[Literature notes are permanent]].

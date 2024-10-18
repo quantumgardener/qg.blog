@@ -4,7 +4,7 @@ tags:
   - class/map
   - class/landscape
 datetime: 2024-06-07T10:21:38
-updated: 2024-08-31T12:36:00
+updated: 2024-10-18T11:02:00
 description: There is art in doing as much as possible, as easily as possible and that’s what I call being **productive lazy**.
 ---
 > [!landscape]
@@ -35,6 +35,7 @@ Life is not black and white. A significant amount of time is spent dealing with 
 ## Writing and Content Management
 - [[Backlinks are important]] in helping people find relationships between content that my not have been explicitly identified up front, but which evolve over time as more *relatable content* is created.
 - Anyone wanting to develop their *Productive laziness* must be aware that [[Interrupting the flow of work has a tax]]. Much of what we are doing is reducing the impact of this tax.
+- [[Mastering the chaos of source notes]] is something to be aware of lest you end up with piles of unused inputs. Be careful of [[The optimisation-procrastination trap]].
 
 ## Getting Things Done
 - [[My GTD weekly review steps]]
