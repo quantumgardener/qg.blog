@@ -9,7 +9,7 @@ Too much information in too many places. [[A digital garden must be tended to li
 
 I'm faced with 63 unprocessed article notes from [[Omnivore]][^1], plus 43 already marked as processed [[Literature note|Literature notes]], each with an indeterminable status[^2]. I know there are notes from my [[Kindle Scribe]] not yet even looked at. I'm completely ignoring the 329 old blog posts I'm still to review and integrate.
 
-## The problems
+## The problemss
 The signs are obvious. I'm collecting faster than I can ingest and my time is spent filing instead of developing new knowledge. I archive articles only when I have made a note and Omnivore will only sync archived articles to [[Obsidian]].
 
 - I want filenames standardised to `Surname (year) — Title`. I also want standardised properties of `datetime`, `title`, `author`, and `publication year` for indexing and search.
@@ -23,7 +23,7 @@ The signs are obvious. I'm collecting faster than I can ingest and my time is sp
 	- [[Omnivore]] synced articles differ. The "book" information, content and notes all come into the same page.
 	- I want to reference sources consistently. I won't always give away my personal notes. [[Way of Being]] references directly into the literature notes on [[Sieler (2003) -- Coaching to the Human Soul (Volume I)]]. 
 
-## Solutions
+## The solutions
 - Create a template to rename a source note from it's properties.
 	- Time is saved correcting note titles manually for consistency.
 - Update Omnivores input template to say "Fleeting notes" instead of "Literature notes"
