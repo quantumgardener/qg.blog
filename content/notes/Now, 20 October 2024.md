@@ -4,7 +4,7 @@ tags:
   - class/now
 datetime: 2024-10-20T19:26:22
 updated: 
-title:
+title: 
 ---
 The end of 2024 is fast approaching. I will be taking 3 week's leave to recuperate. Last year I ran out of work and added two days extra up-front because I had no work to do. I'll stay until the end of the scheduled work time this December.
 

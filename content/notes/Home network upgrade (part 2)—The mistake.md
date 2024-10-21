@@ -3,7 +3,7 @@ tags:
   - class/blog
 datetime: 2024-10-14T20:47:00
 updated: 
-title:
+title: 
 ---
 I made a mistake. I thought I could quickly learn to create [[Virtual LAN]]s on networking devices from different manufacturers because each device met the IEEE 802.1Q VLAN standard.
 

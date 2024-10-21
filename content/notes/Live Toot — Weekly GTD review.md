@@ -3,7 +3,7 @@ tags:
   - class/blog
 datetime: 2024-10-18T09:24:00
 updated: 2024-10-18T14:28:00
-title:
+title: 
 ---
 [[2024-10-17|Yesterday]] I "live tooted" my weekly GTD review on Mastodon. I shared my thought processes, to emphasise for others the ease and value of dedicating 1/1.5 hours weekly.
 
