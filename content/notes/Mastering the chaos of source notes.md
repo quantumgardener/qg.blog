@@ -2,14 +2,14 @@
 tags:
   - class/blog
 datetime: 2024-10-18T10:58:00
-updated: 
-title: 
+updated: 2024-10-25T10:32:00
+title:
 ---
 Too much information in too many places. [[A digital garden must be tended to like a real garden]] and piles of rubbish will accrue if you are not careful.
 
 I'm faced with 63 unprocessed article notes from [[Omnivore]][^1], plus 43 already marked as processed [[Literature note|Literature notes]], each with an indeterminable status[^2]. I know there are notes from my [[Kindle Scribe]] not yet even looked at. I'm completely ignoring the 329 old blog posts I'm still to review and integrate.
 
-## The problemss
+## The problems
 The signs are obvious. I'm collecting faster than I can ingest and my time is spent filing instead of developing new knowledge. I archive articles only when I have made a note and Omnivore will only sync archived articles to [[Obsidian]].
 
 - I want filenames standardised to `Surname (year) — Title`. I also want standardised properties of `datetime`, `title`, `author`, and `publication year` for indexing and search.
@@ -24,7 +24,7 @@ The signs are obvious. I'm collecting faster than I can ingest and my time is sp
 	- I want to reference sources consistently. I won't always give away my personal notes. [[Way of Being]] references directly into the literature notes on [[Sieler (2003) -- Coaching to the Human Soul (Volume I)]]. 
 
 ## The solutions
-- Create a template to rename a source note from it's properties.
+- Create [[A template to rename a source note from it's properties]].
 	- Time is saved correcting note titles manually for consistency.
 - Update Omnivores input template to say "Fleeting notes" instead of "Literature notes"
 - Never publish sources. As long as I never publish a source page, the reference makes sense to everyone, and I can link/backlink[^3] privately and safely. I can enforce this with the Auto Note Mover plugin. It files based on tag and will move back into safety any sources I accidentally expose[^4].

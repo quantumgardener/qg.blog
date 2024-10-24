@@ -29,7 +29,7 @@ Thinking is a valuable activity. We underrate that. I once heard the advice to n
 > [!Note] Thinking Spaces
 > The emergence of [[Thinking Space]] as an idea has come directly out of me creating one for the initial draft of this note.
 
-Thinking can't be left to chance. We must be deliberate about creating space and having some goal with our thinking. Is there a problem to solve, is there something we want insight into. Even deliberately entering a [[Thinking Space]] with the goal of letting thoughts arise and listening to them is a valid (see [[Meditation]] and [[Proprioceptive writing]] as examples of this).
+Thinking can't be left to chance. We must be deliberate about creating space and having some goal with our thinking. Is there a problem to solve, is there something we want insight into. Even deliberately entering a [[Thinking Space]] with the goal of letting thoughts arise and listening to them is a valid (see [[Meditation activities I get lost in]] and [[Proprioceptive writing]] as examples of this).
 
 It feels bloody good to be in a [[Thinking Space]]. It makes me feel grounded and more sure of myself (except for those times where the thoughts are too many and overwhelming - probably a sign that I'm not in a [[Thinking Space]] and have simply let thoughts run rampant).
 

@@ -10,7 +10,7 @@ title:
 > [!mastodon] 8:52 am — Start with the template
 > I'm starting my [[Getting Things Done|GTD]] weekly review now, following [[My GTD weekly review steps]].
 > 
-> First up is to create a page for today using `CTRL-SHIFT-T` in [[Obsidan]] to bring up my weekly-review template.
+> First up is to create a page for today using `CTRL-SHIFT-T` in [[Obsidian]] to bring up my weekly-review template.
 
 ---
 

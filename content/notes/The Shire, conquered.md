@@ -2,10 +2,10 @@
 tags:
   - class/blog
 datetime: 2024-10-21T19:48:28
-updated: 
+updated: 2024-10-25T09:39:00
 title: 
 ---
-I began walking [The Shire Virtual Challenge](https://www.theconqueror.events/shire/) challenge last month and later this week I will complete the 233km distance from Hobbiton to Bree. It is the last Lord of the Rings challenge I will do.
+I began walking [The Shire Virtual Challenge](https://www.theconqueror.events/shire/) challenge last month and later this week[^1] I will complete the 233km distance from Hobbiton to Bree. It is the last Lord of the Rings challenge I will do.
 
 My wife's experience of walking Rome, London and Paris with Streetview meant something to look at each stop. My walk followed a line on a very sparse map with a few screenshots from the movie. I felt no progress but that is what I was after. I need something to motivate me to walk beyond adding kms. The only destination I have is the end. No journey.
 
@@ -13,3 +13,5 @@ My wife's experience of walking Rome, London and Paris with Streetview meant som
 *An unexpected, boring, journey*
 
 Whichever walk I do next, it will be one with Streetview.
+
+[^1]: I finished on [[2024-10-24|24 October 2024]].
