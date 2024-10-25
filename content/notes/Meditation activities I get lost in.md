@@ -1,6 +1,5 @@
 ---
 tags:
-  - class/blog
   - class/map
 datetime: 2024-10-25T09:57:29
 updated: 
