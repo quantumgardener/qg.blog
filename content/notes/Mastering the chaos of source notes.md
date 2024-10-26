@@ -2,7 +2,7 @@
 tags:
   - class/blog
 datetime: 2024-10-18T10:58:00
-updated: 
+updated: 2024-10-25T10:32:00
 title:
 ---
 Too much information in too many places. [[A digital garden must be tended to like a real garden]] and piles of rubbish will accrue if you are not careful.
@@ -23,8 +23,8 @@ The signs are obvious. I'm collecting faster than I can ingest and my time is sp
 	- [[Omnivore]] synced articles differ. The "book" information, content and notes all come into the same page.
 	- I want to reference sources consistently. I won't always give away my personal notes. [[Way of Being]] references directly into the literature notes on [[Sieler (2003) -- Coaching to the Human Soul (Volume I)]]. 
 
-## Solutions
-- Create a template to rename a source note from it's properties.
+## The solutions
+- Create [[A template to rename a source note from it's properties]].
 	- Time is saved correcting note titles manually for consistency.
 - Update Omnivores input template to say "Fleeting notes" instead of "Literature notes"
 - Never publish sources. As long as I never publish a source page, the reference makes sense to everyone, and I can link/backlink[^3] privately and safely. I can enforce this with the Auto Note Mover plugin. It files based on tag and will move back into safety any sources I accidentally expose[^4].

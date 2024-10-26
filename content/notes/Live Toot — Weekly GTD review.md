@@ -3,14 +3,14 @@ tags:
   - class/blog
 datetime: 2024-10-18T09:24:00
 updated: 2024-10-18T14:28:00
-title:
+title: 
 ---
 [[2024-10-17|Yesterday]] I "live tooted" my weekly GTD review on Mastodon. I shared my thought processes, to emphasise for others the ease and value of dedicating 1/1.5 hours weekly.
 
 > [!mastodon] 8:52 am — Start with the template
 > I'm starting my [[Getting Things Done|GTD]] weekly review now, following [[My GTD weekly review steps]].
 > 
-> First up is to create a page for today using `CTRL-SHIFT-T` in [[Obsidan]] to bring up my weekly-review template.
+> First up is to create a page for today using `CTRL-SHIFT-T` in [[Obsidian]] to bring up my weekly-review template.
 
 ---
 
