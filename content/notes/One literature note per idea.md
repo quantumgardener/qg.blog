@@ -9,5 +9,7 @@ Ahrens[^1], and others[^2], prefer to create a separate [[Literature note]] for 
 
 When [[One literature note per idea]] is followed each [[Literature note]] is an [[Atomic note]].
 
+A single note per idea is called an [[Atomic note]].
+
 [^1]: [[Ahrens (2017) -- How to Take Smart Notes]]
 [^2]: [[Williams (2020) -- The Zettelkasten Method - Examples to help you get started]]
