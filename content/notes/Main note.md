@@ -11,4 +11,4 @@ Linking to existing notes, along with avoidance of duplication, comes from going
 
 Every [[Main note]] is a [[Permanent note]].
 
-[^1]: [[Doto (2023) -- Keeping the Zettlekasten in Mind when Creating New Notes]]
+[^1]: [[Doto (2023), Keeping the Zettlekasten in Mind when Creating New Notes]]

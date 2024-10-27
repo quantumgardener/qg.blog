@@ -16,4 +16,4 @@ Because [[Literature note|Literature notes]] are tied to an article, book, paper
 
 [[Literature note|Literature notes]] are [[Permanent note|permanent notes]]. They are connective tissue between source material and [[Main note|main notes]] to be current and sources of future inspiration. 
 
-[^1]: [[Doto (2022) -- What is a Literature Note|Doto (2022) -- What is a Literature Note?]]
+[^1]: [[Doto (2022), What is a Literature Note|Doto (2022) -- What is a Literature Note?]]

@@ -2,7 +2,7 @@
 tags:
   - class/blog
 datetime: 2024-10-18T10:58:00
-updated: 2024-10-25T10:32:00
+updated: 2024-10-27T10:44:00
 title:
 ---
 Too much information in too many places. [[A digital garden must be tended to like a real garden]] and piles of rubbish will accrue if you are not careful.
@@ -12,7 +12,7 @@ I'm faced with 63 unprocessed article notes from [[Omnivore]][^1], plus 43 alrea
 ## The problems
 The signs are obvious. I'm collecting faster than I can ingest and my time is spent filing instead of developing new knowledge. I archive articles only when I have made a note and Omnivore will only sync archived articles to [[Obsidian]].
 
-- I want filenames standardised to `Surname (year) — Title`. I also want standardised properties of `datetime`, `title`, `author`, and `publication year` for indexing and search.
+- I want filenames standardised to `Surname (year), Title`. I also want standardised properties of `datetime`, `title`, `author`, and `publication year` for indexing and search.
 	- [[Omnivore]] sync is reasonable at parsing the information into the format I want. Substack subscription items are emailed in (🤷) and there is less structured information for Omnivore to work with.
 - Notes are headlined "Literature Notes"
 	- I've defined a [[Literature note]] as a type of [[Permanent note]]. Notes coming from Omnivore are often anything but permanent. Their DNA is truthfully that of [[Fleeting note|Fleeting notes]].

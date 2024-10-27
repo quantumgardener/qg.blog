@@ -24,7 +24,7 @@ Note taking works best when as frictionless as possible. There are places in my 
 > [!NOTE] Omnivore as a RSS reader
 > Omnivore is not the best RSS reader out there. Some clunkiness remains despite the improvements to date. The benefit is in combining newsletters and RSS feeds together. They are fundamentally the same thing with different delivery technologies. For this reason of combination and a common way of ingesting into [[Obsidian]] I'm staying with it.
 
-My [[Literature Notes]] process would benefit from improvement. The quality of my original notes is likely the biggest hindrance to success here. I think I'll read *[[Ahrens (2017) -- How to Take Smart Notes]]* again. I also have to find a video that explains how to approach Plato. I'm reading it, yet not getting past the language. During a contemplative walk last week I wondered if it's akin to Shakespeare - once you have the flow of the language, comprehension follows.
+My [[Literature note|Literature notes]] process would benefit from improvement. The quality of my original notes is likely the biggest hindrance to success here. I think I'll read *[[Ahrens (2017), How to Take Smart Notes]]* again. I also have to find a video that explains how to approach Plato. I'm reading it, yet not getting past the language. During a contemplative walk last week I wondered if it's akin to Shakespeare - once you have the flow of the language, comprehension follows.
 
 In summary, I have identified the friction points in my current note taking workflow and with the aid of a simple notebook will be able to get past most of them. Discipline is required to take notes across all of my inputs (video, podcasts, books, articles).
 

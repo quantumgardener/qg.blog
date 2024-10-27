@@ -13,5 +13,5 @@ The term is used widely when discussing [[Zettelkasten]] but has more broad impl
 - [[Literature note|Literature notes]]
 - [[Main note|Main notes]]
 
-[^1]: [[Doto (2022) -- What is a Permanent Note (Correcting Some Common Misunderstandings)]]
-[^2]: [[Ahrens (2017) -- How to Take Smart Notes]]
+[^1]: [[Doto (2022), Doto (2022), What is a Permanent Note]]
+[^2]: [[Ahrens (2017), How to Take Smart Notes]]

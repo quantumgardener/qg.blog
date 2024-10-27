@@ -10,4 +10,4 @@ Creativity does not come from a muse. It all comes from combining pre-existing i
 Ingesting good ideas to combine comes from reading and accessing the experience of others[^2].
 
 [^1]: [[Le Cunff, Milo (2022) -- How Can We Do Combinational Creativity]]
-[^2]: [[Forte (2022) -- The Secret Power of ‘Read It Later’ Apps]]
+[^2]: [[Forte (2022), The Secret Power of ‘Read It Later’ Apps]]

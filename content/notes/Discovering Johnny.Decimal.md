@@ -15,7 +15,7 @@ Here's my problem. I have information in [[Obisidan]], [[Zotero]], [[Calibre]]/[
 
 **The Index is multi-platform!**
 
-It should have been obvious. I could have done this with any system in the past -- JD explicitly points it out. What does that mean? At the moment I'm reading [[Blackburn (1999) -- Think]] which is a book about philosophy so let's say the all things philosophy get coded under `23.12 - Philosophy`[^2].
+It should have been obvious. I could have done this with any system in the past -- JD explicitly points it out. What does that mean? At the moment I'm reading [[Blackburn (1999), Think]] which is a book about philosophy so let's say the all things philosophy get coded under `23.12 - Philosophy`[^2].
 
 - [[Calibre]] books on philosophy are tagged with 23.12.
 - [[Obsidian]] notes on philosophy go into the 23.12 folder.
