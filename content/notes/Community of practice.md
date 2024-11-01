@@ -6,4 +6,4 @@ datetime: 2024-08-23T08:22:54
 updated: 
 title: 
 ---
-A [[Community of practice]] is a group of people who are conscious of striving to share knowledge and learn together.
+A [[Community of practice]] is a group of people who are conscious of striving to share knowledge and together can greatly accelerate [[Learning]].

@@ -19,9 +19,9 @@ The signs are obvious. I'm collecting faster than I can ingest and my time is sp
 	- Tagging [[Literature note|Literature notes]] is of unknown value.
 	- Tagging [[Fleeting note|Fleeting notes]] does not occur, but may help with new article processing.
 - Sources and [[Literature note|Literature notes]] are treated as equivalent.
-	- The [[Sieler (2003) -- Coaching to the Human Soul (Volume I)]] note is both source and literature note. [[Don't duplicate public knowledge]] means I don't create a book page to track the author of a book. It's easy to see how notes end up on the book page.
+	- The [[Sieler (2003), Coaching to the Human Soul (Volume 1)]] note is both source and literature note. [[Don't duplicate public knowledge]] means I don't create a book page to track the author of a book. It's easy to see how notes end up on the book page.
 	- [[Omnivore]] synced articles differ. The "book" information, content and notes all come into the same page.
-	- I want to reference sources consistently. I won't always give away my personal notes. [[Way of Being]] references directly into the literature notes on [[Sieler (2003) -- Coaching to the Human Soul (Volume I)]]. 
+	- I want to reference sources consistently. I won't always give away my personal notes. [[Way of Being]] references directly into the literature notes on [[Sieler (2003), Coaching to the Human Soul (Volume 1)]]. 
 
 ## The solutions
 - Create [[A template to rename a source note from it's properties]].
