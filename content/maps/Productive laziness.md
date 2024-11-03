@@ -24,7 +24,7 @@ A [[Mood]] predisposes me to act in a particular ways which includes my thinking
 
 Life is not black and white. A significant amount of time is spent dealing with [[Wicked problem|Wicked problems]]. Ways to deal with these include understanding [[The Difference Between Assessments and Assertions]] and conversation support tools like [[Dialogue Mapping]] or [[Systems Thinking]].
 
-[[It's OK to slow down]]. Something as simple as the [[2-Minute Rule]] can create space to think clearly, or get in touch with your current [[Emotions MOC|Emotions]]. Slowing down also creates space for [[Listening]] and [[Considered Conversation]].
+[[It's OK to slow down]]. Something as simple as the [[2-Minute Rule]] can create space to think clearly, or get in touch with your current [[Emotions|Emotions]]. Slowing down also creates space for [[Listening]] and [[Considered Conversation]].
 
 [[Debugging is a life skill]] and not a software development process. It requires setting aside what you know and working a process of inquiry and [[Listening]]. The skill is not jumping to conclusions about the answer and taking your questioning one step at a time.
 

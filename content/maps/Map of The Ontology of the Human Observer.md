@@ -23,7 +23,7 @@ description: The major concepts that spawn from [[The Ontology of the Human Obse
 - [[The Linguistic Domain]]
 - [[A breakdown is a learning opportunity]]
 ### Domain of Language
-- [[Basic Linguistic Acts]]
+- [[Basic linguistic acts]]
 - [[Distinction]]
 - [[Types of conversation]]
 ## Ontological coaching
