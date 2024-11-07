@@ -6,7 +6,7 @@ datetime: 2024-10-07T19:59:27
 updated: 
 title: 
 ---
-The words of [[Marcus Aurelius]] in his [[Aurelius (2021) Meditations - The Annotated Edition|Meditations]] have resonated deeply and quickly with me. They echo my very thoughts as if he were writing my own mind.
+The words of [[Marcus Aurelius]] in his [[Aurelius (2021), Meditations|Meditations]] have resonated deeply and quickly with me. They echo my very thoughts as if he were writing my own mind.
 
 I have not been writing because of an internal pressure to explain background context. It is unnecessary and stops me from starting. For example, you do not need to know that I first heard of [[Marcus Aurelius]] in the Putney cinema watching [[Gladiator]] in 2000, or that I watched [How to Journal (Like Marcus Aurelius)](https://www.youtube.com/watch?v=YOgBiweyEE4) seeking to learn a way to journal better. You only need to know I am reading his words from almost 2,000 years ago.
 

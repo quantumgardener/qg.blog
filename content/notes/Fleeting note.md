@@ -14,7 +14,7 @@ A [[Fleeting note]] is temporary in nature. It may be a short piece of informati
 A highlight, underline, or note are enough to make a [[Fleeting note]].
 
 ![[fleeting not example.webp]]
-*Example of a fleeting note from [[Aurelius (2021) Meditations - The Annotated Edition]] taken on muy [[Kindle Scribe]]. The passage reminded me of perception and the way we observe the world we live in limited from the models held in our mind.*
+*Example of a fleeting note from [[Aurelius (2021), Meditations]] taken on muy [[Kindle Scribe]]. The passage reminded me of perception and the way we observe the world we live in limited from the models held in our mind.*
 
 ## Types of fleeting notes
 - Notes taken when reading and may taken many forms: handwritten, typed, from an application (e.g., [[Omnivore]]), or reading tool (e.g. [[Amazon Kindle|Kindle]]).

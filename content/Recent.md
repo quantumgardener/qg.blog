@@ -7,6 +7,7 @@ updated: 2024-09-24T19:26:00
 title: Recently updated notes
 aliases:
   - Recently updated notes
+author:
 ---
 The 50 most recently updated notes, excluding [[Blog]] entries and [[Map of content|Maps of content]].
 
