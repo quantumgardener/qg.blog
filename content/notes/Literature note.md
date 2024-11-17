@@ -4,7 +4,7 @@ aliases:
 tags: 
 datetime: 2024-05-26T13:01:45
 updated: 2024-10-26T13:08:00
-title:
+title: 
 ---
 A [[Literature note]] is a personal rewriting of something read or watched. The note should be written from memory, and not simply copied from the source.
 

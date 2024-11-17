@@ -3,7 +3,7 @@ tags:
   - class/blog
 datetime: 2024-10-18T10:58:00
 updated: 2024-10-27T10:44:00
-title:
+title: 
 ---
 Too much information in too many places. [[A digital garden must be tended to like a real garden]] and piles of rubbish will accrue if you are not careful.
 

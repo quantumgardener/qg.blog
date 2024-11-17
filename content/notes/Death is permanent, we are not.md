@@ -3,7 +3,7 @@ aliases: []
 tags: 
 datetime: 2024-11-08T09:56:24
 updated: 
-title:
+title: 
 ---
 [[Marcus Aurelius]] constantly reminds use that death is the only thing we can be sure of. It is a logical view that although we live our lives otherwise, who we are will eventually be forgotten within a few generations[^1].
 

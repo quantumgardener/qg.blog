@@ -3,7 +3,7 @@ aliases:
 tags: 
 datetime: 2024-05-26T13:01:45
 updated: 2024-10-26T13:23:00
-title:
+title: 
 ---
 [[Bob Doto]] argues the [[Literature note]], better called a "reference note"[^1] is a summary of the information found in a source. The literature note serves as a list of the key points the author found interesting and needs a reference back to. It can also serve as a placeholder for thoughts that arise during reading/watching.
 

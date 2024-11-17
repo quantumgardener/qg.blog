@@ -6,7 +6,7 @@ tags:
   - ontological-distinction
 datetime: 2024-11-03T10:55:00
 updated: 
-title:
+title: 
 ---
 The [[Basic moods of life]] are:
 

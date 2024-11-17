@@ -4,7 +4,7 @@ tags:
   - class/now
 datetime: 2024-11-03T19:31:00
 updated: 
-title:
+title: 
 ---
 ## Changing links for the better
 I never liked how [[Quartz 4]], which is the underlying engine for my website, has treated links to other pages on the site. The default behaviour creates a link for every `[[ ]]` in an [[Obsidian]] source note, and that causes a problem for pages that are referenced in my vault but not published to the site. The system creates links to pages it rightly knows do not exist. It's poor and I'll have no truck with it. Early on I modified the code to ignore links to pages that don't exist. 
