@@ -6,7 +6,7 @@ landscapes:
 datetime: 2024-03-11
 updated: 2024-06-06T16:35:00
 ---
-Tags, or other similar metadata, added to resources in a [[Quartz/notes/Personal knowledge management]] system are not content. They are best used to help you curate resources and can answer questions such as:
+Tags, or other similar metadata, added to resources in a [[Personal knowledge management]] system are not content. They are best used to help you curate resources and can answer questions such as:
 
 - What was written in July 2023? (add a date)
 - Where are all the references to books? (add `#book`)

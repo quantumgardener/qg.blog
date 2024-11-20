@@ -2,7 +2,7 @@
 tags: 
 datetime: 2023-09-27T00:00:00
 ---
-Roam Research is a [[Quartz/notes/Personal knowledge management]] tool that gained significantly in popularity by word-of-mouth in 2020. The key benefit comes from the way it treats blocks of text and [[Backlinks are important]].
+Roam Research is a [[Personal knowledge management]] tool that gained significantly in popularity by word-of-mouth in 2020. The key benefit comes from the way it treats blocks of text and [[Backlinks are important]].
 
 In January 2021 I moved from Roam to [[Obsidian]].
 

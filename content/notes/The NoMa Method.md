@@ -12,7 +12,7 @@ The NoMa Method reminds me of the framework of questions used in a coaching conv
 
 "NoMa" stands for Note Making, contrasted to Note Taking. I learned of it from [[Nick Milo]].
 
-It's similar because it is structured to pull out [[Quartz/notes/Distinction|Distinctions]] and a way forward. 
+It's similar because it is structured to pull out [[Distinction|Distinctions]] and a way forward. 
 
 It's different because the focus is on note making and not inquiry into [[Way of Being]].
 

@@ -6,7 +6,7 @@ landscapes:
   - "[[Productive laziness]]"
 datetime: 2024-03-11T00:00:00
 ---
-*Personal knowledge management* or *PKM* is the art of taking personal responsibility for the knowledge that you need to refer to in going about your daily life.
+[[Personal knowledge management]] or *PKM* is the art of taking personal responsibility for the knowledge that you need to refer to in going about your daily life.
 
 It is a skill and discipline similar to what a librarian or museum curator may perform in their role, but differs because personal knowledge management has to reflect your personal view of the world. 
 
