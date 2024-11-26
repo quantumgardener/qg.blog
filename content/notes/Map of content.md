@@ -24,5 +24,4 @@ Explaining Maps of Content to someone who is unfamiliar with [[Personal knowledg
 > A Map of Content helps people navigate quickly to the content that is important to them. It can be followed to the letter, or used as a jumping off point.
 > Imagine you are visiting a new town and want to maximise your time by seeing the best there is to offer. The "Map of Content" you are given by the local tourist information office depends on the length of your stay, the season, your budget, your mode of transport... The content (attractions) are the same, the map is different in each case.
 
-
 [^1]: [MOCs Overview - LYT Kit](https://notes.linkingyourthinking.com/Cards/MOCs+Overview)

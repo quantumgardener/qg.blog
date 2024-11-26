@@ -2,8 +2,9 @@
 tags:
   - class/blog
 datetime: 2002-08-12T09:07:47
+updated: 2024-11-27T07:40:00
 ---
-We're back from a very successful 3 days at KM Conference 2002 in Sydney. The key points for me were:
+We're back from a very successful 3 days at KM Conference 2002 in Sydney. The key points from this [[Knowledge management]] themed conference for me were:
 - stronger focus on culture and community
 - new and useful terms such as mediate, flow and hijack
 - less corporate, more personal care
