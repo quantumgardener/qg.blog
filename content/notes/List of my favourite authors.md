@@ -11,4 +11,4 @@ The authors on this list are those whose books I come back to time and again. Yo
 
 - [[Brandon Sanderson]]
 - [[Stephen King]]
-- [[Mark Lawrence]]
+- [[Atlas/Notes/People/Mark Lawrence]]

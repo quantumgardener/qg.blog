@@ -22,6 +22,8 @@ Here, I make comment on the software that I have, or have used. The physical tec
 - [[Zotero]]
 - [[Expanso]]
 - [[Macrium Reflect Home Edition]]
+- [[Duplicacy]]
+- [[Affinity Photo 2]]
 
 ## Software no longer in use (and sometimes sometimes why)
 - [[Faster text entry on a Palm Pilot]]
@@ -29,3 +31,5 @@ Here, I make comment on the software that I have, or have used. The physical tec
 - Radio Userland (blogging platform)
 	- [[Radio How-To]]
 - [[del.icio.us]]
+- [[Photoshop]]
+- [[Lightroom]]

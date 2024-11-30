@@ -18,6 +18,6 @@ Following from there I've been working on my [[Digital garden]] and can feel str
 
 Something is emerging. I'm excited to see what that is.
 ## Books I'm reading
-The second of [[Mark Lawrence]]'s [[Library trilogy]] is underway. [[The Book that Broke the World]] has started as the last finished. It's an incredibly complex and rich story. One for the ages. Who would have thought a book set in a library could be so interesting.
+The second of [[Atlas/Notes/People/Mark Lawrence]]'s [[Library trilogy]] is underway. [[The Book that Broke the World]] has started as the last finished. It's an incredibly complex and rich story. One for the ages. Who would have thought a book set in a library could be so interesting.
 ## Games I'm playing
 [[No Man's Sky]] all the way. Each session I'm learning something more about the mechanics.
