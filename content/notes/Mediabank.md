@@ -2,17 +2,24 @@
 tags:
   - metadata-strategy
 JD-ID: "[[12.02 Mediabank Photos and Videos]]"
-landscapes:
-  - "[[Hobby Together]]"
 datetime: 2024-04-08T00:00:00
+updated: 2024-12-01T16:11:00
+cssclasses:
+  - firstcol-300
 ---
-**Mediabank** is the name given to our family [[Photography]] and video archive. It collects all digital media assets (hereafter media) into a single location managed by [[IMatch]]. As of March 2024 there are close to 38,000 items being catalogued and managed consuming 525GB.
+**Mediabank** is the name given to our family [[Photography]] and video archive. It collects all digital media assets (hereafter media) into a single location managed by [[IMatch]]. 
+
+
+| Files  | Size  |
+| ------ | ----- |
+| 38,458 | 538GB |
+
 ## Storage
-| Location                         | Purpose                                                                                                     |
+| Storage Folder                   | Purpose                                                                                                     |
 | -------------------------------- | ----------------------------------------------------------------------------------------------------------- |
 | `S:\memories\assets`             | Final storage location for media in `YYYY\mm -MMMM\` folders.                                               |
 | `S:\memories\database`           | Location of the Mediabank.imd5 file.                                                                        |
-| `S:\memories\database\Pack & Go` | Periodic backups of the [[Mediabank]] environment using IMatch Pack & Go[^pack].                            |
+| `S:\memories\database\Pack & Go` | Periodic backups of the [[Mediabank]] environment using IMatch Pack & Go[^1].                               |
 | `S:\memories\home videos`        | Videos from when we had a video camera. Separated from the other assets to allow easy indexing by [[Plex]]. |
 | `S:\memories\import`             | Location of media prior to culling and addition of metadata                                                 |
 | `S:\memories\tools`              | Additional reference information e.g., geneaology, scripts                                                  |
@@ -41,9 +48,9 @@ IMatchAssets --> Publish
 
 Photos and video from DSLR or Mirrorless cameras are copied to the `import` folder using a card reader (preferred), local wi-fi connection between camera and computer, or USB cable. 
 ### Mobile Phones
-With 3 iPhones[^samsung] in the house, it is difficult to reliably get photos from the phone to the PC in a way that makes managing them once imported easy. Plugging each into a USB port and copying files is unworkable because I need to keep track of the last number photo copied from each phone. The file names do not include the date and time the photo was taken.
+With 3 iPhones[^2] in the house, it is difficult to reliably get photos from the phone to the PC in a way that makes managing them once imported easy. Plugging each into a USB port and copying files is unworkable because I need to keep track of the last number photo copied from each phone. The file names do not include the date and time the photo was taken.
 
-OneDrive uploads files and renames them on the way[^dropbox].  However, Apple does disable the app from running the background after a while so periodically I have to remind everyone to go into OneDrive on their phone which reignites the transfer for a few days and catches everything up.
+OneDrive uploads files and renames them on the way[^3].  However, Apple does disable the app from running the background after a while so periodically I have to remind everyone to go into OneDrive on their phone which reignites the transfer for a few days and catches everything up.
 
 > [!warning] iCloud for Windows is so unreliable in our household I don't go near it. 
 > It would frequently fail to sync files, and at other times would chew up 40% of the CPU doing nothing at all. That type of unreliability is unacceptable when dealing with family memories.
@@ -66,10 +73,8 @@ Rather than move files manually, I use IMatch's [Renamer](https://www.photools.c
 > >> [!NOTE] In this example `20240301_042423338_iOS.jpg` becomes `2024-03-01 15.24.23 [043411],jpg`.
 ### Scans
 600dpi scans from a [[Fujitsu ScanSnap 1300]] are saved directly into the import folder in a sub-folder based on the name of the album they came from. Dates are of no use here. The date is the date of scanning.
-
-# 2. Cataloging
-
-To be fully cataloged, I aim to have every digital asset with:
+## 2. Cataloguing
+To be fully catalogued, I aim to have every digital asset with:
 - Date/Time (When)
 - Location (Where)
 - GPS coordinates (a bit more where)
@@ -78,7 +83,6 @@ To be fully cataloged, I aim to have every digital asset with:
 
 If a value cannot be determined, the closest is used. In some cases, "Unknown" is a valid choice.
 ### Date/Time
-
 Every image has the date and time set. 
 - Photo date and time from a camera
 	- Usually reliable
@@ -96,7 +100,6 @@ When I have to set a date and I don't know the exact details I follow [[My Photo
 > [!TIP] Metadata for Dates
 > Dates are stored in the `Date Created` and `DateTimeOriginal` fields.
 ### Location
-
 Location is a keywords hierarchy. It follows:
 
 - Country
@@ -115,14 +118,12 @@ A building's address will be `number` - `descriptor` e.g.
 				- High Street
 					- 63 - McDonalds
 
-I don't use the IPTC Country, State/Province, City, Location fields at all. 
+I don't use the IPTC Country, State/Province, City, Location fields at all[^4]. 
 
 If I can't determine a location with specificity, I'll set the lowest category I can. For example, a photo taken in a car whilst travelling in Victoria, without GPS, will be tagged `Australia | Victoria.`
 
 The category is colour-coded blue for a thumbnail's visual indicator of an address being present.
-
 ### GPS
-
 If the device doesn't add GPS directly, it is added via the in-built map function. Photos that are all in the same location eg. home, all have the same GPS address and make use of IMatch's various location features.
 
 ![[imatch-geocoding example.webp]]
@@ -160,7 +161,7 @@ Pets use the same system.
 > [!TIP] Relationships via category means information is stored in the database but not in the images themselves. For my daughters, the grandparents category brings together images of all their four grandparents.
 
 A top-level Who category is dynamically calculated directly off the *XMP:Person in Image* field. 
-## Events
+### Events
 I do not use IMatch's built-in Events feature. It's good, but neither fast enough, nor flexible enough for my needs. Event media thumbnails have a pink marker.
 
 ![[imatch-top-level-events.webp]]
@@ -182,13 +183,81 @@ It's a simple filter by keyword then split by year on the first 4 numbers of the
 ![[imatch-christmas-data-driven-category.webp]]
 
 I also split Easter by year, Travel by year, then event, and Who by Year, then name.
-## General Keywording
+### General Keywording
+I only apply obvious keywords for situations where I think I may want to look for photos containing a sunset, cake, or kangaroo. 
 
+> [!NOTE] AI Keywording in IMatch 2025
+> The next version of IMatch has improved AI keywording so I may revisit my approach. Manual keywording doesn't give back the time it takes.
 ### The Final Flag
 Once I'm happy with everything and have added all the metadata I can, I add a label called `Final`.
-## Words on the Working Folder
+### Words on the Working Folder
+I rely extensively on [[IMatch]] categories with formulas to streamline the process mentioned earlier. Each category monitors for missing metadata relative to the current working folder. As I add metadata, images are removed from the categories until all necessary metadata is added. This approach eases the workload, as I don't have to keep track of what I've completed and what I haven't.
 
-==Some explanation to come on how I QA what metadata is there==
+The `Working folder` category points to the current file system folder I am working on. It is currently set to `"@RFolder[file://S:/memories/import/2024/06/]"`. The `RFolder` means the current folder and any sub-folders (R = recursive).
+
+In the example below, you can see there are 137 photos and I have not yet pulled out duplicates, bad photos, screenshots etc.
+
+![[imatch-working-folder-categories.webp]]
+
+Every other category references this category plus the metadata I'm looking to add. Most also reference `NOT "@Collection[Label|Final]"` on the understanding that if I've flagged it `FINAL` then I'm done.
+
+> [!code] **Check movie timezones** formula
+> `"IMatch Processing|Working folder" AND ("@FileRegExp[\.mov$]" OR "@FileRegExp[\.mp4$]") NOT "@Collection[Label|Final]"`
+> 
+> Select all images in the working folder with a `.mov` or `.mp4` file extension so that I can manually add the correct time zone to the date and time fields.
+
+> [!code] **No copyright** formula
+> `("IMatch Processing|Working folder" AND "@MetadataTag[rights,novalue]") NOT "@Collection[Label|Final]"`
+> 
+> Select all images where Copyright has not yet been set. I have a metadata template to detect the year of the image and set the copyright value.
+> 
+> ![[imatch-copyright-metadata.webp]]
+
+> [!code] **No Digital Source Type** formula
+> `("@MetadataTag[XMP::iptcExt\DigitalSourceType\DigitalSourceType\0,novalue]" AND "IMatch Processing|Working folder") NOT "@Collection[Label|Final]"`
+> 
+> Select all images where the Digital Source Type metadata field has not been set. I set this manually upon import now, so there will be no new images missing this value.
+
+> [!code] **No event** formula
+> `("IMatch Processing|Working folder" NOT "@Keywords|Event") NOT "@Collection[Label|Final]"`
+> 
+> Select all images without an `Event` keyword set. Not all images receive and event.
+
+> [!code] **No genre** formula
+> `("IMatch Processing|Working folder" AND "IMatch Workflow Categories|No Genre") NOT "@Collection[Label|Final]"`
+> 
+> Select all images in the working folder without a genre. Primarily of use for [[IMatch to Socials]] which requires genre. AI changes may help me here in the future.
+> 
+> The `No Genre` category lists all images without a genre and has the formula `"@All" NOT "@Keywords|genre"`[^5].
+
+ > [!code] **No GPS** formula
+> `("IMatch Processing|Working folder" AND "IMatch Workflow Categories|No GPS Data") NOT "@Collection[Label|Final]"`
+> 
+> Select all images without a GPS location. One of the few categories that begins with only a few images in it. 
+> 
+> The `No GPS Data` category lists all images without a genre and has the formula `"@MetadataTag[gpslatitude,novalue]"`[^5], checking for missing latitude only.
+
+ > [!code] **No location** formula
+> `("IMatch Processing|Working folder" AND "IMatch Workflow Categories|No Location") NOT "@Collection[Label|Final]"`
+> 
+> Select all images in the working folder without a location. 
+> 
+> The `No Location` category lists all images without a genre and has the formula `"@All" NOT "@Keywords|Location"`[^5].
+
+ > [!code] **No person** formula
+> ![[imatch-person-category-formula.webp]]
+> 
+> Select all images in the working folder without a person. As soon as one person is added, the image falls out of this category. (Sorry for the screenshot, couldn't get it to display properly).
+
+ > [!code] **No people (animals)** formula
+> `("IMatch Processing|Working folder" NOT "@Keywords|nature|animal") NOT "@Collection[Label|Final]"`
+> 
+> Select all images in the working folder an animal in them. How else can I find our pets?
+
+ > [!code] **Not marked final** formula
+> `"IMatch Processing|Working folder" NOT "@Collection[Label|Final]"`
+> 
+> Select all images in the working folder not yet marked final.
 ## Media Filename Convention
 
 Media are filed in `S:\memories\assets` following a strict naming convention by date, time and a global unique file number that increases by 1 each use. The use of a global identifier means media with the same date and time remain unique.
@@ -205,15 +274,10 @@ Media are filed in `S:\memories\assets` following a strict naming convention by 
 As soon as possible after the date and time of a file are confirmed correct during ingestion, the media is renamed.
 
 The process for handling uncertain dates is described in [[My Photo Dating Strategy for Uncertain Dates]].
-
-# File storage and backup
-
-
+## File storage and backup
 Refer to [[My Backup Strategy]] for how digital assets and the database are backed up.
-
 ## RAW Photo Processing
-
-1. Lens correction - I do this automatically on import in to [[Lightroom]]
+1. Lens correction - I do this automatically pre-import by running through [[DXO Pure Raw]]
 2. Transform
 3. Crop
 4. White Balance
@@ -224,6 +288,12 @@ Refer to [[My Backup Strategy]] for how digital assets and the database are back
 9. Cleanup
 10. Sharpening
 
-[^pack]: [Pack & Go Help](https://www.photools.com/help/imatch/index.html#packandgo.htm)
-[^samsung]: And previously 1 Samsung as well.
-[^dropbox]: Initially I used Dropbox to automatically upload photos in the background. That worked until Apple removed the ability for an application to constantly run in the background. And I would sometimes run into issues filling a family member's Dropbox capacity. OneDrive still has the same background upload timeout, but there are no storage limits to worry about so no need to change back.
+## Still to come
+- versioning and buddy strategy
+
+
+[^1]: [Pack & Go Help](https://www.photools.com/help/imatch/index.html#packandgo.htm)
+[^2]: And previously 1 Samsung as well.
+[^3]: I used Dropbox to automatically upload photos in the background which worked until Apple removed the ability for an application to constantly run in the background. And I would sometimes run into issues filling a family member's Dropbox capacity. OneDrive still has the same background upload timeout, but there are no practical storage limits to worry about so no need to change back.
+[^4]: I am considering a revisit of this to limit accidentally placing too much location information on the web when sharing photos. It will mean updating [[IMatch to Socials]] to remove tagged locations, but adds another cataloguing step.
+[^5]: The power of this system starts to build. In one category I see all images across the database without a genre, GPS data, or location, or in another category, the same but limited to just those in the working folder.
