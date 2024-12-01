@@ -42,10 +42,8 @@ Scans --> IMatchImport
 IMatchAssets --> Publish
 ```
 
-## 1. Ingestion to Import Folder
-
+## Ingestion to Import Folder
 ### Digital Cameras
-
 Photos and video from DSLR or Mirrorless cameras are copied to the `import` folder using a card reader (preferred), local wi-fi connection between camera and computer, or USB cable. 
 ### Mobile Phones
 With 3 iPhones[^2] in the house, it is difficult to reliably get photos from the phone to the PC in a way that makes managing them once imported easy. Plugging each into a USB port and copying files is unworkable because I need to keep track of the last number photo copied from each phone. The file names do not include the date and time the photo was taken.
@@ -73,7 +71,7 @@ Rather than move files manually, I use IMatch's [Renamer](https://www.photools.c
 > >> [!NOTE] In this example `20240301_042423338_iOS.jpg` becomes `2024-03-01 15.24.23 [043411],jpg`.
 ### Scans
 600dpi scans from a [[Fujitsu ScanSnap 1300]] are saved directly into the import folder in a sub-folder based on the name of the album they came from. Dates are of no use here. The date is the date of scanning.
-## 2. Cataloguing
+## Cataloguing
 To be fully catalogued, I aim to have every digital asset with:
 - Date/Time (When)
 - Location (Where)
