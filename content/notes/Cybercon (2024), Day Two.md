@@ -5,7 +5,7 @@ datetime: 2024-11-27T18:38:31
 updated: 
 title: 
 ---
-Another big day after [[Cybercon (2024), Day One|yesterday]] at Cybercon. Sore feet after walking so far, and in new shoes, so it will be room service tonight.
+Another big day after [[Cybercon (2024), Day One|yesterday]] at [[Cybercon (2024)|Cybercon]]. Sore feet after walking so far, and in new shoes, so it will be room service tonight.
 
 [Geoffrey Robertson KC](https://en.wikipedia.org/wiki/Geoffrey_Robertson) opened the day with an entertaining talk that covered everything from *Deep Throat* to the threat of AI and the complete inability of international law to protect us against AI misuse.
 

@@ -5,7 +5,7 @@ datetime: 2024-11-26T17:10:12
 updated: 
 title: 
 ---
-For the first time I'm at the Australian Cyber Conference, "Cybercon", in Melbourne. It has been an interesting day with some good presenters and people. In all 6,000 people expected over the three days of the conference.
+For the first time I'm at the Australian Cyber Conference, "[[Cybercon (2024)|Cybercon]]", in [[Melbourne]]. It has been an interesting day with some good presenters and people. In all 6,000 people expected over the three days of the conference.
 
 I'm non-technical and most of my sessions are in the governance/people arena. 
 
