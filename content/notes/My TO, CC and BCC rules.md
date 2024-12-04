@@ -4,6 +4,8 @@ tags:
 datetime: 2024-12-04T18:58:32
 updated: 
 title: 
+cssclasses:
+  - firstcol-50
 ---
 I have this [[Conversation for clarity]] with all my managers.
 
