@@ -10,7 +10,7 @@ Three weeks since my last [[Now]] [[Now, 1 September 2024|entry]]. Tired, busy a
 
 Today's post is an experiment in format. I'm going to structure it around the [[Landscapes]] in my [[Digital garden]].
 ## [[Expand My Way of Being]]
-I'm reading [[Yaholkovsky (2023) Listening for Candor]] which draws heavily on the same material as [[The Ontology of the Human Observer]]. The ideas around levels of trust in conversations are interesting and how the power-balance means we will engage in pretense, certainty, discovery or intimacy (upward sliding scale). Reflecting on the conversations I take part in at work I see clear cases where pretense and certainty are the prevailing mode. I'll be curious to observe how I act or contribute to others acting at that level.
+I'm reading [[Yaholkovsky (2023), Listening for Candor]] which draws heavily on the same material as [[The Ontology of the Human Observer]]. The ideas around levels of trust in conversations are interesting and how the power-balance means we will engage in pretense, certainty, discovery or intimacy (upward sliding scale). Reflecting on the conversations I take part in at work I see clear cases where pretense and certainty are the prevailing mode. I'll be curious to observe how I act or contribute to others acting at that level.
 
 There is a conscious effort to improve my writing. I recognised a pattern of putting down a sentence on paper and then starting the next with one of ‘it,’ ‘this,’ ‘that,’ etc. The prose was lazy. Instead, I'm choosing different words and have pleasantly found my writing more expansive. Alongside the change in sentence structure I am slowing up and re-reading what I write before sending it to wherever it is destined to go. Yeah, imagine that!
 ## [[Productive laziness]]

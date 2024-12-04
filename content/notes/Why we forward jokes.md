@@ -3,7 +3,6 @@ datetime: 2006-05-13T13:18:00
 tags:
   - class/blog
 ---
-
 My uncle sent me this. I don't know the original source but I'm thankful for having received it. It explains why we forward jokes.
 
 > A man and his dog were walking along a road. The man was enjoying the scenery, when it suddenly occurred to him that he was dead.

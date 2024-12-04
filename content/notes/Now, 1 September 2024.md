@@ -16,6 +16,6 @@ Finally, finally! Worked this afternoon on identifying all my home network devic
 ## What I'm playing
 Pretty much done with [[No Man's Sky]] now. I've gotten very deep into the game and have completed all that I want to. Next will be [[A Plague Tale - Requiem]]. Meditated this weekend with a fair amount of [[PowerWash Simulator]].
 ## What I'm reading
-I finished [[The Book that Broke the World]]. Looking forward to the final in the trilogy later this year. Have started [[The Last Graduate]] which is book 2 in the [[Scholmance series]] and will also begin this evening after this post [[Listening for Candor]]. Fellow coach alumni [[Phillip Crockford]] recommended it highly to me as a way to help filter through all that I'm thinking of.
+I finished [[The Book that Broke the World]]. Looking forward to the final in the trilogy later this year. Have started [[The Last Graduate]] which is book 2 in the [[Scholmance series]] and will also begin this evening after this post [[Yaholkovsky (2023), Listening for Candor]]. Fellow coach alumni [[Phillip Crockford]] recommended it highly to me as a way to help filter through all that I'm thinking of.
 
 [^1]: See [[Now, 25 August 2024|last week's post]].
