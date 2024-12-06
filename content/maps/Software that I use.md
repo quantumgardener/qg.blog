@@ -2,7 +2,7 @@
 tags:
   - class/map
 datetime: 2023-09-30T09:38:09
-updated: 2024-08-25T13:59:00
+updated: 2024-12-06T19:37:00
 ---
 Here, I make comment on the software that I have, or have used. The physical technology equivalent is [[Gear that I use]].
 
@@ -24,6 +24,7 @@ Here, I make comment on the software that I have, or have used. The physical tec
 - [[Macrium Reflect Home Edition]]
 - [[Duplicacy]]
 - [[Affinity Photo 2]]
+- [[Wallabag]]
 
 ## Software no longer in use (and sometimes sometimes why)
 - [[Faster text entry on a Palm Pilot]]
