@@ -7,8 +7,9 @@ landscapes:
   - "[[Expand My Way of Being]]"
   - "[[Productive laziness]]"
 datetime: 2022-08-04T00:00:00
+aliases:
+  - Do you over -aside?
 ---
-
 I've noticed recently a tendency in myself and others to add layer upon layer of explanation when we are talking. Once I saw it, I realised how counter-productive it is.
 
 We think we are helping, but we're not. Piling up information faster than the recipient can process it.

@@ -2,7 +2,7 @@
 tags:
   - class/map
 datetime: 2023-09-30T09:38:09
-updated: 2024-12-06T19:37:00
+updated: 2024-12-08T09:40:00
 ---
 Here, I make comment on the software that I have, or have used. The physical technology equivalent is [[Gear that I use]].
 
@@ -25,6 +25,10 @@ Here, I make comment on the software that I have, or have used. The physical tec
 - [[Duplicacy]]
 - [[Affinity Photo 2]]
 - [[Wallabag]]
+- Media servers
+	- [[Plex]] and [[Plexamp]]
+	- [[Jellyfin]]
+	- [[JellyPlex-Watched]]
 
 ## Software no longer in use (and sometimes sometimes why)
 - [[Faster text entry on a Palm Pilot]]
