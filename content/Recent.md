@@ -1,7 +1,6 @@
 ---
 tags:
   - class/map
-  - serialised-dataview
 datetime: 2024-08-16T15:37:15
 updated: 2024-09-24T19:26:00
 title: Recently updated notes

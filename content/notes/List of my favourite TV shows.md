@@ -2,7 +2,6 @@
 tags:
   - class/map
   - class/list
-  - serialised-dataview
 datetime: 2023-10-08T00:00:00
 updated: 2024-05-26T09:12:00
 description: This is a list of the TV shows that I would watch any day of the week if put before me. Most have some link to my identity and/or a fond place in my heart.

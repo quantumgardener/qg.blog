@@ -3,7 +3,7 @@ tags:
   - metadata-strategy
 JD-ID: "[[12.02 Mediabank Photos and Videos]]"
 datetime: 2024-04-08T00:00:00
-updated: 2024-12-01T16:11:00
+updated: 2024-12-08T10:23:00
 cssclasses:
   - firstcol-300
 ---
@@ -152,9 +152,8 @@ Pets use the same system.
 	- Date of birth/death
 	- Gender
 	- Group = Pet
-	- Add tags
-		- Any relevant ie. domestic cat, budgie...
-	- Add category - broad class of pet ie. dog, cat, bird, fish
+	- Add tags e.g., `WHAT|nature|animal|mammal|domestic dog` or `WHAT|nature|animal|bird|cockatiel`
+	- Add category e.g., `Pets|Dog` or `Pets|Bird`
 
 > [!TIP] Relationships via category means information is stored in the database but not in the images themselves. For my daughters, the grandparents category brings together images of all their four grandparents.
 

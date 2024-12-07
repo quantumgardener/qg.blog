@@ -8,8 +8,7 @@ cssclasses:
   - secondcol-350
   - lastcol-250
   - max
-tags:
-  - serialised-dataview
+tags: []
 ---
 > [!NOTE] Time-based notes as I share my thinking. 
 
