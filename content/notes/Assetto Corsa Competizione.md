@@ -1,7 +1,7 @@
 ---
 tags:
   - class/video-game
-  - status/ongoing
+  - status/active
 datetime: 2023-01-25T20:07:25
 updated: 2024-08-07T19:42:00
 rating: "[[4-star|⭐️⭐️⭐️⭐️]]"

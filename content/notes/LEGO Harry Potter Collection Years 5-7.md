@@ -1,7 +1,7 @@
 ---
 tags:
   - class/video-game
-  - status/planned
+  - status/someday-maybe
 series: "[[LEGO Harry Potter (Series)]]"
 sequence: 2
 rating: 

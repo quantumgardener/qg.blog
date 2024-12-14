@@ -1,7 +1,7 @@
 ---
 tags:
   - class/video-game
-  - status/ongoing
+  - status/active
 datetime: 2024-09-01T19:29:00
 updated: 2024-10-25T09:57:00
 series: 

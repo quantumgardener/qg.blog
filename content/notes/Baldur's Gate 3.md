@@ -1,7 +1,7 @@
 ---
 tags:
   - class/video-game
-  - status/ongoing
+  - status/active
 series: "[[Baldur's Gate (Series)]]"
 sequence: 3
 rating: "[[4-star|⭐️⭐️⭐️⭐️]]"

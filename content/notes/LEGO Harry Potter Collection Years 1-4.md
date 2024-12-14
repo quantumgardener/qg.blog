@@ -1,7 +1,7 @@
 ---
 tags:
   - class/video-game
-  - status/ongoing
+  - status/active
 series: "[[LEGO Harry Potter (Series)]]"
 sequence: 1
 rating: "[[3-star|⭐️⭐️⭐️]]"

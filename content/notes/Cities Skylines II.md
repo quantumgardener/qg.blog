@@ -1,7 +1,7 @@
 ---
 tags:
   - class/video-game
-  - status/ongoing
+  - status/active
 series: "[[Cities Skylines (Series)]]"
 sequence: 2
 datetime: 2024-05-14T00:00:00

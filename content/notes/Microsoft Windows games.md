@@ -15,7 +15,7 @@ My [[Microsoft Windows]] games.
 
 | Game                                                                                                 |                                                                            | Rating                               | Status                                   |
 | ---------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- | ------------------------------------ | ---------------------------------------- |
-| ![[vg_Assetto Corsa Competizione_t.webp\|vg_Assetto Corsa Competizione_t.webp]] | [[Assetto Corsa Competizione]] | [[4-star\|⭐️⭐️⭐️⭐️]] | [[ongoing]]     |
+| ![[vg_Assetto Corsa Competizione_t.webp\|vg_Assetto Corsa Competizione_t.webp]] | [[Assetto Corsa Competizione]] | [[4-star\|⭐️⭐️⭐️⭐️]] | [[active]]                       |
 | ![[vg_cities_skylines_t.webp\|vg_cities_skylines_t.webp]]                       | [[Cities Skylines]]                       | [[4-star\|⭐️⭐️⭐️⭐️]] | [[completed]] |
-| ![[vg_cities_skylines_ii_t.webp\|vg_cities_skylines_ii_t.webp]]                 | [[Cities Skylines II]]                 | [[3-star\|⭐️⭐️⭐️]]   | [[ongoing]]     |
+| ![[vg_cities_skylines_ii_t.webp\|vg_cities_skylines_ii_t.webp]]                 | [[Cities Skylines II]]                 | [[3-star\|⭐️⭐️⭐️]]   | [[active]]                       |
 <!-- SerializedQuery END -->
