@@ -3,6 +3,8 @@ datetime: 2003-03-05T13:05:00
 title: Are you a lurker?
 tags:
   - class/blog
+aliases:
+  - Are you a lurker?
 ---
 "Do you lurk around the edges of discussion groups? Scraping information for your benefit but wishing you had the knowledge to contribute something in return? Well you can. Sign up today!"
 
