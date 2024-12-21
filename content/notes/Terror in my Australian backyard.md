@@ -9,6 +9,6 @@ I took my breakfast outside this morning and swapped chairs before sitting. The 
 
 I turned the chair over to check. Nothing beside some leaves and a black shape. The ominous shape turned out to be a dead cockroach but only after I grabbed a small twig and poked.
 
-A red-back spider's web is usually identifiable by thicker strands often stuck to the ground. Use your finger to touch them (stupid)  and you'll find a the web much stronger relative to other spiders' webs and quite sticky. Luckily a small stick has the same effect. Right behind the mass that was the dead cockroach was a nice little red-back that I couldn't see. It moved when I twanged the web. I moved too.
+A red-back spider's web is usually identifiable by thicker strands often stuck to the ground. Use your finger to touch them (stupid) and you'll find a the web much stronger relative to other spiders' webs and quite sticky. Luckily a small stick has the same effect. Right behind the mass that was the dead cockroach was a nice little red-back that I couldn't see. It moved when I twanged the web. I moved too.
 
-Glad I changed chairs.
+Glad I changed chairs before breakfast before breakfast. But, like every other Australian would be, was in bare feet when checking the chair.
