@@ -19,13 +19,11 @@ There has to be some rationalisation of my hobbies. Too much is left undone and 
 
 I'm certain I'll follow the [Nerdforge](https://www.youtube.com/@Nerdforge) model of placing 100 dedicated hours into learning a skill[^2][^3][^4] and put 100 hours into learning photo editing techniques in [[Affinity Photo 2]]. 
 
-I would also like to complete [[Danish ships cross-stitch]] and painting my [[Sylvaneth Treelord Ancient]]
-
+I would also like to complete [[Danish ships cross-stitch]] and painting my [[Sylvaneth Treelord Ancient]].
 ## Health related
 I've joined a local gym. Still to have my first session. My commitment is to attend every Friday with the goal of firstly building up my strength.
 
 I may offer to cook Friday night's, but that's a bit scary.
-
 ## Reading and TV and movies and gaming
 Plenty of "professional reading". I'd like to finish [[Plato, Cooper (1977) -- Plato - Complete Works]] and more of the Complete History of Philosophy series.
 

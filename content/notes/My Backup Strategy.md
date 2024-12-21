@@ -1,6 +1,6 @@
 ---
 cssclasses:
-  - max
+
 tags:
   - backup-strategy
 landscapes:

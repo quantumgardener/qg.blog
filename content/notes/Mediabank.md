@@ -9,7 +9,6 @@ cssclasses:
 ---
 **Mediabank** is the name given to our family [[Photography]] and video archive. It collects all digital media assets (hereafter media) into a single location managed by [[IMatch]]. 
 
-
 | Files  | Size  |
 | ------ | ----- |
 | 38,458 | 538GB |

@@ -8,7 +8,7 @@ sequence: 1
 playthroughs: 3
 rating: "[[5-star|⭐️⭐️⭐️⭐️⭐️]]"
 datetime: 2023-03-04T19:44:15
-updated: 2024-08-06T18:32:00
+updated: 2024-12-16T19:52:00
 platform:
   - "[[PlayStation 3]]"
   - "[[PlayStation 4]]"
@@ -26,3 +26,5 @@ How do I explain a game that is a masterpiece? This is a game you finish because
 ![[vg_The Last of Us Remastered.webp|media-cover]]
 ## The Last of Us: Part 1
 ![[vg_The Last of Us Part I.webp|media-cover]]
+
+When I replaced on the [[PlayStation 5|PS5]] remastered version, the game was a totally different experience. I found new ways to navigate the world and was much stealthier than I had been previously. I was also willing to engage in more hand-to-hand combat.

@@ -1,6 +1,6 @@
 ---
 cssclasses:
-  - max
+
 tags:
   - class/list
   - class/map
