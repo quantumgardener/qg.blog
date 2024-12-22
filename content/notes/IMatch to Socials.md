@@ -3,7 +3,7 @@ tags:
 landscapes:
   - "[[Hobby Together]]"
 datetime: 2024-05-04
-updated: 2024-08-24T14:44:00
+updated: 2024-12-22T07:53:00
 ---
 The **IMatch to Socials** system automates the addition, update and deletion of images between [[IMatch]] and [flickr](https://flickr.com) or [pixelfed](https://pixelfed.org). I created it to reduce the time taken updating and managing photos across all three platforms.
 ## Features
@@ -14,7 +14,6 @@ The **IMatch to Socials** system automates the addition, update and deletion of 
 - When the target platform is flickr, adds/removes the photo from albums and groups.
 - When the target platform is pixelfed, provides alt-text alongside the photo.
 - Can be run as an [IMatch app](https://www.photools.com/help/imatch/app_basics.htm) for processing without leaving [[IMatch]].
-- Adds [what3words](https://what3words.com) words to pixelfed images
 
 > [!note] Sample of automatically generated information for Pixelfed 
 > ![[imatch-to-socials-pixelfed-example.webp]]
@@ -25,7 +24,7 @@ The **IMatch to Socials** system automates the addition, update and deletion of 
 ### flickr
 - Add
 	- Upload image
-	- Set title and description
+	- Set title and description (image alt-text added to description)
 	- Set date taken
 	- Set keywords
 	- Add to album(s)
@@ -57,7 +56,7 @@ The **IMatch to Socials** system automates the addition, update and deletion of 
 
 ### Set up Code Environment
 For this system to run you need:
-- **Experience with code.** I cannot emphasise this enough. I have taken steps to automate and bullet-proof this system **as much as I can and as much as I need for my own purposes**. It may not be right for you. The system modifies data and **deletes** data. 
+- **Experience with code.** I cannot emphasise this enough. I have taken steps to automate and bullet-proof this system **as much as I can and as much as I need for my own purposes**. It may not be right for you. The system **modifies** data and **deletes** data. 
 
 > [!warning] It is your responsibility to test how this system works for you and to support that testing with adequate backups for your needs.
 
@@ -70,13 +69,12 @@ For this system to run you need:
 	- [Mastodon.py](https://pypi.org/project/Mastodon.py/) - once you have Python installed run `pip3 install Mastodon.py`
 	- Your own Pixelfed account and 'personal access token'
 	- Your own [what3words](https://what3words.com) API. The free level is enough.
-- Code downloaded from GitHub at https://github.com/quantumgardener/IMatch-to-Socials
+- Code downloaded from [GitHub - quantumgardener/IMatch-to-Socials](https://github.com/quantumgardener/IMatch-to-Socials)
 
 ### Get Your Application Keys
 Create application keys and record the keys and secrets you're given. These will go into IMatch application variables.
 - flickr: [The App Garden on Flickr](https://www.flickr.com/services/apps/create)
 - pixelfed: Settings | Applications | Create new Token
-- what3words: Register and create token
 
 You do not need to set up both platforms if you are using only the one. However, you will either need to modify `share_images.py` or call the Python script with a 'flickr' or 'pixelfed' argument. This is what the [[#Configure IMatch App|IMatch App]] does.
 ### Create IMatch Application Variables
@@ -84,18 +82,19 @@ To remove private information from the code, and to allow for quick changes, the
 
 ![[imatch-to-socials-application-variables.webp]]
 
-| Variable                             | Value                                                         |
-| ------------------------------------ | ------------------------------------------------------------- |
-| flickr_api_key                       | Your personal flickr API key                                  |
-| flickr_api_secret                    | Your personal flickr API secret                               |
-| flickr_is_family                     | 1 = set, 0 = unset                                            |
-| flickr_is_friend                     | 1 = set, 0 = unset                                            |
-| flickr_is_public                     | 1 = set, 0 = unset                                            |
-| imatch_to_socials_python_script_path | Path to where you have installed the code                     |
-| pixelfed_token                       | Your personal pixelfed app token                              |
-| pixelfed_url                         | URL of your pixelfed site. Mine is https://pixelfed.au        |
-| pixelfed_visibility                  | Pixelfed image visibility (public, unlisted, private, direct) |
-| what3words_apikey                    | Translate GPS lat/lon if present into what3words form         |
+| Variable                             | Value                                                                                                |
+| ------------------------------------ | ---------------------------------------------------------------------------------------------------- |
+| flickr_api_key                       | Your personal flickr API key                                                                         |
+| flickr_api_secret                    | Your personal flickr API secret                                                                      |
+| flickr_is_family                     | 1 = set, 0 = unset                                                                                   |
+| flickr_is_friend                     | 1 = set, 0 = unset                                                                                   |
+| flickr_is_public                     | 1 = set, 0 = unset                                                                                   |
+| flickr_url                           | URL to your flickr photos without a trailing slash. Mine is `https://www.flickr.com/photos/dcbuchan` |
+| imatch_to_socials_python_script_path | Path to where you have installed the code                                                            |
+| imatch_to_socials_testing            | 1 = test, 0 = live                                                                                   |
+| pixelfed_token                       | Your personal pixelfed app token                                                                     |
+| pixelfed_url                         | URL of your pixelfed site. Mine is https://pixelfed.au                                               |
+| pixelfed_visibility                  | Pixelfed image visibility (public, unlisted, private, direct)                                        |
 > [!tip] There is some configuration in `config.py` but this is more generic. 
 > You could move these variables to application variables if you wanted (or vice-versa).
 
@@ -108,19 +107,19 @@ It does not matter what the information stored is. All that matters is the exist
 
 ![[imatch-to-socials-attributes.webp]]
 
-| Set      | Name      | Type      | Must be Unique | Desc.                             |
-| -------- | --------- | --------- | -------------- | --------------------------------- |
-| flickr   | posted    | Date      | No             | Date the image was uploaded       |
-|          | photo_id  | Text      | Yes            | Unique photo id on flickr         |
-|          | url       | Hyperlink | Yes            | Direct link to photo's page       |
-| pixelfed | posted    | Date      | No             | Date the image was uploaded       |
-|          | media_id  | Text      | Yes            | Unique photo media id on pixelfed |
-|          | status_id | Text      | Yes            | Unique text id on pixelfed        |
-|          | url       | Hyperlink | Yes            | Direct link to photo's page       |
+| Set      | Name      | Type      | Must be Unique | Desc.                                                                              |
+| -------- | --------- | --------- | -------------- | ---------------------------------------------------------------------------------- |
+| flickr   | posted    | Date      | No             | Date the image was uploaded                                                        |
+|          | photo_id  | Text      | Yes            | Unique photo id on flickr                                                          |
+|          | url       | Hyperlink | Yes            | Direct link to photo's page (created from `flickr_url` application variable above) |
+| pixelfed | posted    | Date      | No             | Date the image was uploaded                                                        |
+|          | media_id  | Text      | Yes            | Unique photo media id on pixelfed                                                  |
+|          | status_id | Text      | Yes            | Unique text id on pixelfed                                                         |
+|          | url       | Hyperlink | Yes            | Direct link to photo's page                                                        |
 On pixelfed, the "post" that you see is the status. The attached photo is the media.
 
 > [!TIP] Manually Deleting
-> If you delete the attribute record for an image, it will be uploaded anew. This could cause duplicates on your platform but is useful when testing.
+> If you delete the attribute record for an image, it will be uploaded on the next run. This could cause duplicates on your platform but is useful when testing.
 ### Create IMatch Categories
 The steps are simple. Create a version of an image, and add that image to a category the script recognises and press go. The structure I have is `root|platform|actions, errors and filing`.
 
@@ -137,6 +136,15 @@ The steps are simple. Create a version of an image, and add that image to a cate
 
 ![[imatch-to-socials-album-id.webp]]
 
+## Tag images for upload
+You need a master and a JPEG version for each image. The master holds the metadata and the JPEG version is the image that will be upload.
+
+Tag the master as the image you want to update by adding it to the root of the `flickr` or `pixelfed` categories created in the previous step. 
+
+The script will find the first JPEG version and upload that, with metadata from the master.
+### Versions and Metadata
+My location hierarchy is quite deep and runs to personal information (see [[Mediabank]]). I don't want flickr to be creating keywords for my home address, but if the information is in the hierarchical keywords field in the uploaded file, it will. I attempted to get around this by deleting all keywords after an upload and though there were no errors, it didn't seem to work. Instead, I've set IMatch to not transfer keywords to versions of images. For some this will not be idea, but for me it works. The master image has all the keywords and versions have none. 
+
 ### Configure IMatch App
 > [!WARNING] Advanced topic
 > This is an advanced topic that relies you understanding what the instructions I give below mean. It's beyond the scope of this document to explain all the details.
@@ -151,8 +159,6 @@ The code can be run from the command line or from with IMatch using an IMatch ap
 4. Start IMatch. You **should** see the application registered.
 5. Point the `imatch_to_socials_python_script_path` application variable to the location where `share_images.py` is located.
 6. 🤞
-### Versions and Metadata
-My location hierarchy is quite deep and runs to personal information (see [[Mediabank]]). I don't want flickr to be creating keywords for my home address, but if the information is in the hierarchical keywords field in the uploaded file, it will. I attempted to get around this by deleting all keywords after an upload and though there were no errors, it didn't seem to work. Instead, I've set IMatch to not transfer keywords to versions of images. For some this will not be idea, but for me it works. The master image has all the keywording and versions have none. The script walks up from the version to the master, grabs the keywords from there, and then only sets the based on the in-code filters I have set up.
 ## Understanding the Code
 ### Main Code Loop (share_images.py)
 What does this actually do? The main script `share_images.py` is a [[Python]] script that controls the main processing loop. There is a `platform_controller` for each platform (flickr, pixelfed). These gather `images` from [[IMatch]] and connect to the respective platforms for the API calls. In the pseudocode below an "image" is all the metadata associated with an image in IMatch.
@@ -245,6 +251,3 @@ category = iu.IMatchUtility.build_category(['Socials','flickr','_delete'])
 print(category) # Socials|flickr|_delete
 ```
 - `prepare_filelist` takes a single IMatch file id, or array of ids, and turns them into a comma-separated string for passing through to the API.
-#### `What3Words` (what3words.py)
-> [!NOTE] Single function to convert GPS latitude and longitude to what3words location 
-- `getWords` takes latitude and longitude as decimals and returns 3 words.
