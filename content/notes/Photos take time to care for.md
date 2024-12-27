@@ -12,7 +12,7 @@ With my new [[Canon R50 Mirrorless|Canon R50]] I want to develop my photo editin
 Original showing. Use the slider to reveal the edited image.
 
 <iframe id="slider"
-		src="https://quantumgardener.info/slider?before=/assets/lighthouse-before.webp&after=/assets/lighthouse-after.webp" 
+		src="https://quantumgardener.info/src/slider?before=/assets/lighthouse-before.webp&after=/assets/lighthouse-after.webp" 
 		width="820" 
 		height="1220">
 </iframe>
