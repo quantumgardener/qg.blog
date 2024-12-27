@@ -14,5 +14,5 @@ My [[Mac OS]] games.
 
 | Game                                                                       |                                                  | Rating                             | Status                             |
 | -------------------------------------------------------------------------- | ------------------------------------------------ | ---------------------------------- | ---------------------------------- |
-| ![[vg_disco_elysium_t.webp\|vg_disco_elysium_t.webp]] | [[Disco Elysium]] | [[3-star]] | [[active]] |
+| ![[vg_disco_elysium_t.webp\|vg_disco_elysium_t.webp]] | [[Disco Elysium]] | [[3-star\|⭐️⭐️⭐️]] | [[active]] |
 <!-- SerializedQuery END -->
