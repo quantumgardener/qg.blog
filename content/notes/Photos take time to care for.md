@@ -16,6 +16,7 @@ Original showing. Use the slider to reveal the edited image.
 		width="820" 
 		height="1220">
 </iframe>
+
 *Cape Willoughby Lighthouse, Kangaroo Island.*
 
 [^1]: Described in detail on the [[Mediabank]] page.
