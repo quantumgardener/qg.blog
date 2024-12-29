@@ -1,10 +1,14 @@
 ---
+title: Under the Dome
+aliases:
+  - Under the Dome
 tags:
   - review
   - class/book
-landscapes:
-  - "[[Hobby Together]]"
 datetime: 2022-12-18T00:00:00
+author:
+  - "[[Stephen King]]"
+publication-year: 2009
 ---
 I've been a fan of [[Stephen King]] since I first read _The Bachman Books_ and *[[IT]]* in 1988.
 
