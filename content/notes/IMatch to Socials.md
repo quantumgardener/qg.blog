@@ -3,9 +3,9 @@ tags:
 landscapes:
   - "[[Hobby Together]]"
 datetime: 2024-05-04
-updated: 2024-12-22T07:53:00
+updated: 2024-12-30T19:00:00
 ---
-The **IMatch to Socials** system automates the addition, update and deletion of images between [[IMatch]] and [flickr](https://flickr.com) or [pixelfed](https://pixelfed.org). I created it to reduce the time taken updating and managing photos across all three platforms.
+The [[IMatch to Socials]] system automates the addition, update and deletion of images between [[IMatch]] and [flickr](https://flickr.com) or [pixelfed](https://pixelfed.org). I created it to reduce the time taken updating and managing photos across all three platforms.
 ## Features
 - Uses metadata directly from the [[IMatch]] database and formats it (to my liking) for sharing with others.
 - Processes photos from a dedicated "Socials" category within [[IMatch]] and adds any new photos to the matching social platform.
@@ -143,7 +143,7 @@ Tag the master as the image you want to update by adding it to the root of the `
 
 The script will find the first JPEG version and upload that, with metadata from the master.
 ### Versions and Metadata
-My location hierarchy is quite deep and runs to personal information (see [[Mediabank]]). I don't want flickr to be creating keywords for my home address, but if the information is in the hierarchical keywords field in the uploaded file, it will. I attempted to get around this by deleting all keywords after an upload and though there were no errors, it didn't seem to work. Instead, I've set IMatch to not transfer keywords to versions of images. For some this will not be idea, but for me it works. The master image has all the keywords and versions have none. 
+My location hierarchy is quite deep and runs to personal information (see [[Mediabank]]). I don't want flickr to be creating keywords for my home address, but if the information is in the hierarchical keywords field in the uploaded file, it will so location and events information is stored in [[IMatch]] categories, outside of the keywords tree. The master image has all the keywords and versions have none. 
 
 ### Configure IMatch App
 > [!WARNING] Advanced topic

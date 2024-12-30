@@ -14,7 +14,7 @@ Here, I make comment on the software that I have, or have used. The physical tec
 	- [[Obsidian]]
 	- [[Zotero]]
 	- [[Wallabag]]
-- [[Photography]] and [[Digital Asset Management]]
+- [[Photography]] and [[Digital asset management]]
 	- [[IMatch]]
 	- [[Affinity Photo 2|Affinity Photo]]
 	- [[DXO Pure Raw]]

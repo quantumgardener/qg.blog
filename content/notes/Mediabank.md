@@ -3,11 +3,11 @@ tags:
   - metadata-strategy
 JD-ID: "[[12.02 Mediabank Photos and Videos]]"
 datetime: 2024-04-08T00:00:00
-updated: 2024-12-08T10:23:00
+updated: 2024-12-30T18:52:00
 cssclasses:
   - firstcol-300
 ---
-**Mediabank** is the name given to our family [[Photography]] and video archive. It collects all digital media assets (hereafter media) into a single location managed by [[IMatch]]. 
+[[Mediabank]] is the name given to our family [[Photography]] and video archive. It collects all digital media assets (hereafter media) into a single location managed by [[IMatch]]. 
 
 | Files  | Size  |
 | ------ | ----- |
@@ -97,7 +97,11 @@ When I have to set a date and I don't know the exact details I follow [[My Photo
 > [!TIP] Metadata for Dates
 > Dates are stored in the `Date Created` and `DateTimeOriginal` fields.
 ### Location
-Location is a keywords hierarchy. It follows:
+
+> [!NOTE] Keywords or Categories
+> Location (and Events) were stored as keywords prior to December 2024 when they were converted to categories for privacy protection. Keywords are metadata written to the file giving the advantage of true portability across platforms—a database can be populated from the information in the photos. However, keywords as metadata also provide a vector for private information to leak out with the photo if it is posted online. Categories exist in the local database only which is backed up at least daily.
+
+Location is a category hierarchy. The structure of level si:
 
 - Country
 	- State/Province
@@ -121,7 +125,7 @@ If I can't determine a location with specificity, I'll set the lowest category I
 
 The category is colour-coded blue for a thumbnail's visual indicator of an address being present.
 ### GPS
-If the device doesn't add GPS directly, it is added via the in-built map function. Photos that are all in the same location eg. home, all have the same GPS address and make use of IMatch's various location features.
+If the device doesn't add GPS directly, it is added via the in-built map function. Photos that are all in the same location e.g., home, all have the same GPS address and make use of [[IMatch|IMatch's]] various location features.
 
 ![[imatch-geocoding example.webp]]
 When it's easy to separate pins to where a photo was taken I set separate pins. For searched results, I will use the pin provided.
@@ -162,7 +166,7 @@ I do not use IMatch's built-in Events feature. It's good, but neither fast enoug
 
 ![[imatch-top-level-events.webp]]
 
-Events all have their own keyword category. Most are tagged `year - event` e.g.
+Events all have their own category. Most are tagged `year - event` e.g.
 
 - Travel & Time Away
 	- 1995 - Melbourne Zoo
@@ -215,7 +219,7 @@ Every other category references this category plus the metadata I'm looking to a
 > Select all images where the Digital Source Type metadata field has not been set. I set this manually upon import now, so there will be no new images missing this value.
 
 > [!code] **No event** formula
-> `("IMatch Processing|Working folder" NOT "@Keywords|Event") NOT "@Collection[Label|Final]"`
+> `("IMatch Processing|Working folder" NOT "Event") NOT "@Collection[Label|Final]"`
 > 
 > Select all images without an `Event` keyword set. Not all images receive and event.
 
@@ -224,7 +228,7 @@ Every other category references this category plus the metadata I'm looking to a
 > 
 > Select all images in the working folder without a genre. Primarily of use for [[IMatch to Socials]] which requires genre. AI changes may help me here in the future.
 > 
-> The `No Genre` category lists all images without a genre and has the formula `"@All" NOT "@Keywords|genre"`[^5].
+> The `No Genre` category lists all images without a genre and has the formula `"@All" NOT "Image Characteristics|Genre"`[^5].
 
  > [!code] **No GPS** formula
 > `("IMatch Processing|Working folder" AND "IMatch Workflow Categories|No GPS Data") NOT "@Collection[Label|Final]"`
@@ -238,7 +242,7 @@ Every other category references this category plus the metadata I'm looking to a
 > 
 > Select all images in the working folder without a location. 
 > 
-> The `No Location` category lists all images without a genre and has the formula `"@All" NOT "@Keywords|Location"`[^5].
+> The `No Location` category lists all images without a genre and has the formula `"@All" NOT "Location"`[^5].
 
  > [!code] **No person** formula
 > ![[imatch-person-category-formula.webp]]
@@ -272,20 +276,9 @@ As soon as possible after the date and time of a file are confirmed correct duri
 The process for handling uncertain dates is described in [[My Photo Dating Strategy for Uncertain Dates]].
 ## File storage and backup
 Refer to [[My Backup Strategy]] for how digital assets and the database are backed up.
-## RAW Photo Processing
-1. Lens correction - I do this automatically pre-import by running through [[DXO Pure Raw]]
-2. Transform
-3. Crop
-4. White Balance
-5. Exposure
-6. Contrast
-7. Colour
-8. Dodging & Burning
-9. Cleanup
-10. Sharpening
 
 ## Still to come
-- versioning and buddy strategy
+- Versioning and buddy strategy
 
 
 [^1]: [Pack & Go Help](https://www.photools.com/help/imatch/index.html#packandgo.htm)

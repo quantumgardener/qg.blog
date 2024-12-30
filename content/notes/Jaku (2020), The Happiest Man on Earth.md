@@ -10,6 +10,7 @@ datetime: 2024-12-29T18:30:00
 author:
   - "[[Eddie Jaku]]"
 publication-year: 2020
+thumbnail: "[[bk_jaku_the_happiest_man_on_earth_t.webp]]"
 ---
 ![[bk_jaku_the_happiest_man_on_earth.webp|media-cover]]
 As I walked outside with with my ham, cheese and relish rolls, and my [[Kindle Scribe]], I said to my wife, "I need to find a new book to read." 90 minutes later I'd finished lunch and this amazing holocaust story from a man who lived to 101.
