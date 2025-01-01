@@ -34,9 +34,9 @@ otherMobiles[Other Family Member's Mobile Phones] --> OneDrive
 myMobile[My Mobile] --> MyOneDrive[My OneDrive]
 OneDrive -- "Shared to" --> MyOneDrive
 camera[Digital Cameras] --> CardReader
-MyOneDrive -- cull --> IMatchImport[IMatch Import Folder `S:\memories\import`]
+MyOneDrive -- cull --> IMatchImport[IMatch Import Folder S:\memories\import]
 CardReader --> IMatchImport
-IMatchImport -- catalog ---> IMatchAssets[IMatch Assets Folder `S:\memories\assets`]
+IMatchImport -- catalog ---> IMatchAssets[IMatch Assets Folder S:\memories\assets]
 Scans --> IMatchImport
 IMatchAssets --> Publish
 ```

@@ -1,10 +1,10 @@
 ---
-aliases: 
+aliases: []
 tags:
   - ontological-distinction
 datetime: 2024-07-24T18:51:07
 updated: 
-title: 
+title:
 ---
 As humans we are constantly seeking to take care of what is important to us. The way we make meaning of what we observe is geared towards this through our listening[^1].
 

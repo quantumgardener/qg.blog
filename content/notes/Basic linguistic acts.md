@@ -8,18 +8,18 @@ datetime: 2024-08-16T15:56:59
 
 ## [[Assertions]]
 
-## [[Assessments]]
+## [[Assessment]]
 
-## [[Declarations]]
+## [[Declaration]]
 - [[Declaration of acceptance]]
 
 ## [[Offers]]
 
-## [[Requests]]
+## [[Request]]
 Learn about each of the Basic Linguistic Acts
-- [[Assertion]] | [[Assessments]] | [[Declarations]] | [[Offer]] | [[Requests]]
+- [[Assertion]] | [[Assessment]] | [[Declaration]] | [[Offer]] | [[Request]]
 
 ## Related Items
 - [[The Linguistic Domain]]
 - [[The basic linguistic act of a celebrity Leaving the jungle]]
-- [[Escaping the Box - Using a New Process Model to Support Participation and Improve Coordination]]
+- [[Harris et al. (1997), Escaping From the Box - Using a New Process Model to Support Participation and Improve Coordination]]

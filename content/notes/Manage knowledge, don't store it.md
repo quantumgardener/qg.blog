@@ -10,5 +10,5 @@ A [[Personal knowledge management]] system needs to be valuable in the knowledge
 
 Storing everything creates too much detail and the big picture is lost[^2]. Be very careful that you [[Don't duplicate public knowledge]].
 
-[^1]: [[Matla (2023) -- Stop Procrastinating with Note-Taking Apps Like Obsidian, Roam, Logseq]]
-[^2]: [[Seitz (2022) -- Subsidiary Awareness and PKM Concerns]]
+[^1]: [[Matla (2023), Stop Procrastinating with Note-Taking Apps Like Obsidian, Roam, Logseq]]
+[^2]: [[Seitz (2022), Subsidiary Awareness and PKM Concerns — Nicholas Seitz Photographer]]

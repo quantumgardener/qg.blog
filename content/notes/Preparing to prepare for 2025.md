@@ -25,7 +25,7 @@ I've joined a local gym. Still to have my first session. My commitment is to att
 
 I may offer to cook Friday night's, but that's a bit scary.
 ## Reading and TV and movies and gaming
-Plenty of "professional reading". I'd like to finish [[Plato, Cooper (1977) -- Plato - Complete Works]] and more of the Complete History of Philosophy series.
+Plenty of "professional reading". I'd like to finish [[Plato et al. (1977), Plato]] and more of the Complete History of Philosophy series.
 
 I'm trying to finish TV series before starting another and I have a few movies to catch up on as well. Most likely I'll get to them in the holidays.
 

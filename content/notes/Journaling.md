@@ -14,7 +14,7 @@ There are many reasons to journal.
 	- - [[When in Doubt, List it Out]]
 - [[Self-Authoring]] through understanding life's events and their part in your [[story]].
 	- [[How to do a Self-Reflection by starting a journal]]
-	- [[How to Journal (Like a Philosopher)]]
+	- [[Henderson (2023), How to Journal (Like a Philosopher)]]
 	-  [[Keeping a Journal in 2020 - Journalling Prompts]]
 
 I vary between all three styles. Historical capture is important. When I'm stressed I turn to journaling to process information and try to regain control. My use for [[Self-Authoring]] has been limited.

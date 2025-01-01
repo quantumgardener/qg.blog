@@ -23,13 +23,13 @@ Maggie's article perturbed me when I read it. The Sun came out and I could see d
 
 The concept of "publishing" to the web had bound me in ways I hadn't realised. Something like a blog post would be "published" on a date, never to change again apart from any corrections I may need to do. The status was always considered done, and the date was the date.
 
-The impact of this was a split in my notes. A note that I may make about the game *[[A Plague Tale - Innocence|A Plague Tale: Innocence]]* would look very different if it was for me compared to a target blog reading audience. Rather than generate ideas and explore, I felt the need to have something already finished.
+The impact of this was a split in my notes. A note that I may make about the game [[A Plague Tale - Innocence|A Plague Tale: Innocence]] would look very different if it was for me compared to a target blog reading audience. Rather than generate ideas and explore, I felt the need to have something already finished.
 
 Letting go of "published" and all that comes with it frees me to write what I'm thinking, knowing that I can change it later if I need to, **and I won't get in trouble for it**.
 
 > "Gardens present information in a richly linked landscape that grows slowly over time. ... The garden helps us move away from time-bound streams and into contextual knowledge spaces.[^1]
 
-In contrast, this note is being written as I think and I fully expect it to change as I firm up the design of *[[The Quantum Garden]]*.
+In contrast, this note is being written as I think and I fully expect it to change as I firm up the design of [[The Quantum Garden]].
 
 I feel liberated in not having to think about time anymore.
 ### But it can't be that easy

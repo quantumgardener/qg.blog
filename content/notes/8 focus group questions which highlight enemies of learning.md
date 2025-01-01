@@ -3,7 +3,7 @@ datetime: 2005-05-02T14:14:00
 tags:
   - class/blog
 ---
-Becoming aware of your [[Enemies of learning]] can quickly open up new possibilities for understanding and development. Jen Drechsler has created a list of things to listen for when attending focus groups. Are you saying the same things, or similar? As you read each of them note the external focus. Most suggest it’s the fault of someone other than the person making the statement.
+Becoming aware of your [[Enemy of learning|Enemies of learning]] can quickly open up new possibilities for understanding and development. Jen Drechsler has created a list of things to listen for when attending focus groups. Are you saying the same things, or similar? As you read each of them note the external focus. Most suggest it’s the fault of someone other than the person making the statement.
 
 I’ve added my comments after each in bold, completing the sentence with one (of many) logical outcomes. [via [Conversations with Din](http://radio.weblogs.com/0121664/2005/04/14.html#a605)]
 

@@ -9,7 +9,7 @@ sequence: 4
 rating: "[[2-star|⭐️⭐️]]"
 platform:
   - "[[PlayStation 5]]"
-thumbnail: "[[assets/covers/vg_Diablo IV_t.webp]]"
+thumbnail: "[[vg_Diablo IV_t.webp]]"
 ---
 ![[vg_Diablo IV.webp|media-cover]]
 
