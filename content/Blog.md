@@ -12,6 +12,14 @@ cssclasses:
 > [!NOTE] Time-based notes as I share my thinking. 
 
 Use the links below to access the blog's archives. You can also access my many thoughts on [[Blogging]]. 
+## 2025
+<!-- QueryToSerialize: table without id row.key as Month, link(rows.file.link,default(rows.title,rows.file.name)) as Title, dateformat(rows.datetime,"d MMMM y") as "Date" from "Public/notes" and #class/blog where datetime >= date(2025-01-01) and datetime <= date(2025-12-31) sort date(datetime) desc flatten dateformat(datetime,"yyyy-MM") as month group by dateformat(datetime,"yyyy-MM") sort rows.month desc -->
+<!-- SerializedQuery: table without id row.key as Month, link(rows.file.link,default(rows.title,rows.file.name)) as Title, dateformat(rows.datetime,"d MMMM y") as "Date" from "Public/notes" and #class/blog where datetime >= date(2025-01-01) and datetime <= date(2025-12-31) sort date(datetime) desc flatten dateformat(datetime,"yyyy-MM") as month group by dateformat(datetime,"yyyy-MM") sort rows.month desc -->
+
+| Month   | Title                                                                           | Date                             |
+| ------- | ------------------------------------------------------------------------------- | -------------------------------- |
+| 2025-01 | <ul><li>[[Now, 1 January 2025]]</li></ul> | <ul><li>1 January 2025</li></ul> |
+<!-- SerializedQuery END -->
 ## 2024
 <!-- QueryToSerialize: table without id row.key as Month, link(rows.file.link,default(rows.title,rows.file.name)) as Title, dateformat(rows.datetime,"d MMMM y") as "Date" from "Public/notes" and #class/blog where datetime >= date(2024-01-01) and datetime <= date(2024-12-31) sort date(datetime) desc flatten dateformat(datetime,"yyyy-MM") as month group by dateformat(datetime,"yyyy-MM") sort rows.month desc -->
 <!-- SerializedQuery: table without id row.key as Month, link(rows.file.link,default(rows.title,rows.file.name)) as Title, dateformat(rows.datetime,"d MMMM y") as "Date" from "Public/notes" and #class/blog where datetime >= date(2024-01-01) and datetime <= date(2024-12-31) sort date(datetime) desc flatten dateformat(datetime,"yyyy-MM") as month group by dateformat(datetime,"yyyy-MM") sort rows.month desc -->
