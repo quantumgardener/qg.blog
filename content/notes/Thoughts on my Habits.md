@@ -5,13 +5,12 @@ landscapes:
   - "[[Expand My Way of Being]]"
 datetime: 2023-06-05T00:00:00
 ---
-I'm reading  *[[Self-Discipline (book)|Self-Discipline: a guide to taking control of your mind, your time, and your life]]* by Mark Manson and it's given me cause to think about my habits. Following on from *[[The Power of Habit]]* by Charles Duhigg, he reminds us that habits are built from 
+I'm reading  *[[Self-Discipline (book)|Self-Discipline: a guide to taking control of your mind, your time, and your life]]* by Mark Manson and it's given me cause to think about my habits. Following on from *[[The Power of Habit]]* by Charles Duhigg, he reminds us that habits are built from:
 
-```mermaid
-flowchart LR
-cue --> routine
-routine --> reward
-```
+<!--[mermaid.live](https://mermaid.live/edit#pako:eNo9jDsKwzAQRK8itrYvoCJVylRJF7ZZpJUlkFZGWWGC8d0tyKeb95iZHVz1DBZCrpuL1NTc7iius5nni2m1axJG-YaP5I2ahwkKt0LJj_WOYgyCRi6MYEf0HKhnRUA5RpW61sdbHFhtnScYf0sEGyi_BvXVk_I10dKo_O1K8qz1x8cJk1068w)-->
+
+![[thoughts-on-my-habits.svg|400]]
+
 and attaching routine to a cue is the way to build rewarding habits.
 
 Here are some of mine, good and bad.

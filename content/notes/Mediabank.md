@@ -28,18 +28,9 @@ cssclasses:
 
 At a very high level, media are brought into the system, catalogued by having metadata added and filed. From here, some are shared publicly.
 
-```mermaid
-flowchart TD
-otherMobiles[Other Family Member's Mobile Phones] --> OneDrive
-myMobile[My Mobile] --> MyOneDrive[My OneDrive]
-OneDrive -- "Shared to" --> MyOneDrive
-camera[Digital Cameras] --> CardReader
-MyOneDrive -- cull --> IMatchImport[IMatch Import Folder S:\memories\import]
-CardReader --> IMatchImport
-IMatchImport -- catalog ---> IMatchAssets[IMatch Assets Folder S:\memories\assets]
-Scans --> IMatchImport
-IMatchAssets --> Publish
-```
+<!--[mermaid.live](https://mermaid.live/edit#pako:eNp1kctqwzAQRX9l0Kab5Ae8KJSYQBYmoe6qniwm8sQW6BEkucWE_HvlV1L62M3VvTNzGF2FdDWLTJy1-5Qt-QhvOVoXW_aFOynNodoPArZklO6hYHNi_xRgcuHQOsvhCOv1M-wt5159MFrTT3ZV9HNwShT9khmcpT6iXcqUAhRlAuEaokPxow2tJMOeqlw1KpKGzShngA35-pWpZo_20TPMPCsfIshO6zG4KyjKdmcuzsdqEjAp2Dqd-qHMEA0b5xUHRDV6ifOx4dcctN_VsFRSInQNkK0TgE20M8C98yUEjmEhmNTfBDR6iaCUZMO_y-cRg33oTlqFVqxEupAhVadfvqKFdN_0oYZRZKms-UydjijQ3lKUuujK3kqRRd_xSnjXNa3IzqRDUt2lpsi5osaTub9eyL47t-jbFwb90HA)-->
+
+![[mediabank-ingestion-process.svg|600]]
 
 ## Ingestion to Import Folder
 ### Digital Cameras

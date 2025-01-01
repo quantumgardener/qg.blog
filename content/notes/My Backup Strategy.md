@@ -22,43 +22,11 @@ For example, my family’s photos are stored on an SSD within the main home PC. 
 - Personal photos/home video library
 - Documents/files
 
-```mermaid
-flowchart LR
-    subgraph Family-PC
-    Users[fa:fa-desktop Users] --"Duplicacy"--> QG-NAS-02-Documents
-    iTunes[fa:fa-desktop iTunes] --"Duplicacy"--> QG-NAS-02-Media
-    Memories[fa:fa-desktop Memories] --"Duplicacy"--> QG-NAS-01-Memories
-    Plex[fa:fa-desktop Plex] --"Duplicacy"--> QG-NAS-02-Media
-    PC-OS[fa:fa-desktop PC] --"Macrium Reflect" --> QG-NAS-01-Images[fa:fa-server fa:fa-code-compare QG-NAS-01-Images]
-    end
-    subgraph QG-NAS-01
-    Zotero[fa:fa-server Zotero] --"Duplicacy"--> QG-NAS-02-Documents
-    OneDrive[fa:fa-cloud OneDrive Accounts] --"CloudSync"--> OneDriveBackup[fa:fa-server QG-NAS-01-OneDriveBackup]
-    Books[fa:fa-server eBooks/Audiobooks] --"Duplicacy"--> QG-NAS-02-Media
-    OneDriveBackup[fa:fa-server OneDrive Backup] --"Duplicacy"--> QG-NAS-02-Documents
-    end
-    subgraph My-Macbook
-    Macbook[fa:fa-laptop Macbook Docs] --"Duplicacy"--> QG-NAS-02-Documents
-    MacBook[fa:fa-laptop Macbook OS] --"Carbon Copy Cloner"--> ExternalSSD[fa:fa-hard-drive External Clone SSD]
-    end
+<!--[mermaid.live](https://mermaid.live/edit#pako:eNqdVU2PmzAQ_SuWz2v145hDpQTaaqWmSZdWlbbkMLEnCQrYyODtRqv97zUMkEDS7LI5RHiYee-N59k8cWkU8gnfpOav3IEt2be7WDP_K9x6ayHfsS-QJelBLAOK_yrQFn82MNmAUFjsS5NTbMWEiHno8jSRIA8xF-IT-_FVfJ9G4v1HERrpMtRlQTDJT6dxiEPBF4DmqBIgkDlmxiZnMG34KtAH0aYR1jLFxwFOFXq9mGUgFtEQIaD6OUibuIzd4SZFWcac9aXcZrDt2vCb-YCW0aKaj__LcrB4VrAiZtRqMLMukeL3pkRr-vAUGze0hcbQJg_YIMnUONUF2VRK43wuYQbVy-igJWG2WTOQe5f3pRzb6mc17c2M2Q_2BuvYu6lTiVlXj68f0zUhXSsN_6jNOZ_C_CD84Ct9jV1p0XCmkNdmpSDzaCOPkK-c_RduETVjALs2mgUmPzA_Eo2WUD8_-vFrSKMobAD86VdC1e23L6mC-ZxTp9HjBVmt-aGENRR4zcEnVaSTDbr-PZ11bjhjIOO9zNbN80g2FF87Y5TwuuLipHqaT4FH6yWOvtbjhTVC7rHoouIw6Cnuwb9BdMNUWWSonS6sWkN1KVQHjC2t6Zvx3IkX-KIctEZ1NGnNXqz4Dc_QZpAo_z17qvhjXu4ww5hP_KPCDbjUX72xfvap4EpTCeGT0jq84da47Y57srTwK5f7jjFMwB_krIt64ntj2vXzPyU5ZCw)-->
+![[my-backup-strategy-flowchart.svg]]
 
-    QG-NAS-02-Documents[fa:fa-database fa:fa-code-compare QG-NAS-02-Documents] --" Duplicacy"--> WAB-OneDrive-Documents[fa:fa-cloud fa:fa-database fa:fa-code-compare OneDrive Documents]
-    QG-NAS-02-Media[fa:fa-database fa:fa-code-compare QG-NAS-02-Media] --"Duplicacy"--> WAB-OneDrive-Media[fa:fa-cloud fa:fa-database fa:fa-code-compare OneDrive Media]
-    QG-NAS-01-Memories[fa:fa-database fa:fa-code-compare QG-NAS-01-Memories] --"Duplicacy"--> DCB-OneDrive-Memories[fa:fa-cloud fa:fa-database fa:fa-code-compare OneDrive Memories]
-
-
-    QG-NAS-01-Images --"SyncBack Pro"--> External[fa:fa-hard-drive fa:fa-code-compare Spanned External Drives]
-```
-
-```mermaid
-flowchart TD
-    subgraph Legend
-    a[fa:fa-database Duplicacy Storage]
-    c[fa:fa-cloud Cloud Storage]
-    e[fa:fa-code-compare Encrypted Backup]
-    n[fa:fa-server NAS Storage]
-    end
-```
+<!--[mermaid.live)](https://mermaid.live/edit#pako:eNpl0DtuwzAMANCrEJzTC3hr425BF3dqlIGR6A-qH2gpgRHkLj1LTxamcDq0gkCQwoNE6oI2OcYGe5_OdiQp8N6aCLrmehyE8gg7Hji6--H3F9C-p6anJ0eFjjQztDX7yZJdoCtJaOCDiep025Van6qD7U_8a_hhtAsNIZMwvEYrSy7s4IXsZ82_Oq56ZjmxwNtz9__C6HCDgSXQ5HSuy71vg2XkwAYbTR33VH0xaOJVKdWSuiVabIpU3qCkOoyor_hZq5p1UG4n0q8ID5IpfqQUVnS9AZqXdnc)-->
+![[my-backup-strategy-legend.svg]]
 ## Where do I back up to?
 My backup targets are:
 - [[Synology DiskStation DS920+]] This is the primary backup store. It consists of 4 x 4TB drives, with single-redundancy. I can lose any drive and still operate/recover. Only some of the space is backup. The rest is mostly media files.
