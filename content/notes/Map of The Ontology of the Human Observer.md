@@ -21,7 +21,6 @@ description: The major concepts that spawn from [[The Ontology of the Human Obse
 ## Ontological domains of learning
 
 - [[The three ontological domains]]
-- [[The Linguistic Domain]]
 - [[A breakdown is a learning opportunity]]
 ### Domain of Language
 - [[Basic linguistic acts]]

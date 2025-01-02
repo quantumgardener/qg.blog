@@ -1,9 +1,11 @@
 ---
-aliases: Conversation for relationships
+aliases:
+  - Conversation for relationships
+  - Conversations for relationships
 tags: 
 datetime: 2024-12-04T19:06:40
 updated: 
-title: 
+title:
 ---
 The [[Conversation for relationship]] is a [[Types of conversation|Type of conversation]] focussed on improving the relationship between two people.
 
