@@ -20,6 +20,6 @@ Learn about each of the Basic Linguistic Acts
 - [[Assertion]] | [[Assessment]] | [[Declaration]] | [[Offer]] | [[Request]]
 
 ## Related Items
-- [[The Linguistic Domain]]
+- [[The domain of language]]
 - [[The basic linguistic act of a celebrity Leaving the jungle]]
 - [[Harris et al. (1997), Escaping From the Box - Using a New Process Model to Support Participation and Improve Coordination]]

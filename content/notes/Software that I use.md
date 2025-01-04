@@ -16,7 +16,7 @@ Here, I make comment on the software that I have, or have used. The physical tec
 	- [[Wallabag]]
 - [[Photography]] and [[Digital asset management]]
 	- [[IMatch]]
-	- [[Affinity Photo 2|Affinity Photo]]
+	- [[Affinity Photo|Affinity Photo]]
 	- [[DXO Pure Raw]]
 - Media servers
 	- [[Plex]] and [[Plexamp]]

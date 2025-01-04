@@ -3,11 +3,11 @@ tags:
   - metadata-strategy
 JD-ID: "[[12.02 Mediabank Photos and Videos]]"
 datetime: 2024-04-08T00:00:00
-updated: 2024-12-30T18:52:00
+updated: 2025-01-04T08:39
 cssclasses:
   - firstcol-300
 ---
-[[Mediabank]] is the name given to our family [[Photography]] and video archive. It collects all digital media assets (hereafter media) into a single location managed by [[IMatch]]. 
+[[Mediabank]] is the name given to our family [[Photography]] and video archive. It collects all photo and video digital media assets (hereafter media) into a single location managed by [[IMatch]]. 
 
 | Files  | Size  |
 | ------ | ----- |
@@ -22,11 +22,11 @@ cssclasses:
 | `S:\memories\home videos`        | Videos from when we had a video camera. Separated from the other assets to allow easy indexing by [[Plex]]. |
 | `S:\memories\import`             | Location of media prior to culling and addition of metadata                                                 |
 | `S:\memories\tools`              | Additional reference information e.g., geneaology, scripts                                                  |
-
 `S:\` is a motherboard mounted, high-speed 1TB M.2 SSD drive.
+
 ## High Level Process
 
-At a very high level, media are brought into the system, catalogued by having metadata added and filed. From here, some are shared publicly.
+Media are brought into the system, catalogued by having metadata added and filed. From here, some are shared publicly.
 
 <!--[mermaid.live](https://mermaid.live/edit#pako:eNp1kctqwzAQRX9l0Kab5Ae8KJSYQBYmoe6qniwm8sQW6BEkucWE_HvlV1L62M3VvTNzGF2FdDWLTJy1-5Qt-QhvOVoXW_aFOynNodoPArZklO6hYHNi_xRgcuHQOsvhCOv1M-wt5159MFrTT3ZV9HNwShT9khmcpT6iXcqUAhRlAuEaokPxow2tJMOeqlw1KpKGzShngA35-pWpZo_20TPMPCsfIshO6zG4KyjKdmcuzsdqEjAp2Dqd-qHMEA0b5xUHRDV6ifOx4dcctN_VsFRSInQNkK0TgE20M8C98yUEjmEhmNTfBDR6iaCUZMO_y-cRg33oTlqFVqxEupAhVadfvqKFdN_0oYZRZKms-UydjijQ3lKUuujK3kqRRd_xSnjXNa3IzqRDUt2lpsi5osaTub9eyL47t-jbFwb90HA)-->
 
@@ -110,7 +110,7 @@ A building's address will be `number` - `descriptor` e.g.
 				- High Street
 					- 63 - McDonalds
 
-I don't use the IPTC Country, State/Province, City, Location fields at all[^4]. 
+I have a metadata template that I use to populate the top 3 levels into the IPTC Country, Province/State and City fields.
 
 If I can't determine a location with specificity, I'll set the lowest category I can. For example, a photo taken in a car whilst travelling in Victoria, without GPS, will be tagged `Australia | Victoria.`
 
@@ -175,7 +175,7 @@ It's a simple filter by keyword then split by year on the first 4 numbers of the
 
 I also split Easter by year, Travel by year, then event, and Who by Year, then name.
 ### General Keywording
-I only apply obvious keywords for situations where I think I may want to look for photos containing a sunset, cake, or kangaroo. 
+I only apply obvious keywords for situations where I think I, or my family, may want to look for photos containing a `sunset`, `cake`, or `kangaroo`. and the information is not in the `Description` field[^6]. 
 
 > [!NOTE] AI Keywording in IMatch 2025
 > The next version of IMatch has improved AI keywording so I may revisit my approach. Manual keywording doesn't give back the time it takes.
@@ -277,3 +277,4 @@ Refer to [[My Backup Strategy]] for how digital assets and the database are back
 [^3]: I used Dropbox to automatically upload photos in the background which worked until Apple removed the ability for an application to constantly run in the background. And I would sometimes run into issues filling a family member's Dropbox capacity. OneDrive still has the same background upload timeout, but there are no practical storage limits to worry about so no need to change back.
 [^4]: I am considering a revisit of this to limit accidentally placing too much location information on the web when sharing photos. It will mean updating [[IMatch to Socials]] to remove tagged locations, but adds another cataloguing step.
 [^5]: The power of this system starts to build. In one category I see all images across the database without a genre, GPS data, or location, or in another category, the same but limited to just those in the working folder.
+[^6]: [[Siebert (2024), Photo keywording concepts: stuff to consider before you keyword]], https://www.carlseibert.com/keywording-considerations-start/

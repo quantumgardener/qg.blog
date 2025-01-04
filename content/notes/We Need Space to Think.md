@@ -12,7 +12,7 @@ Space is the distance between one time and another.
 The space can reduce the effect of noise. It raises the [[Signal to Noise Ratio]]. The more space the more distant the signal that can be heard. This is just like the space between Earth and the furthest reaches of the galaxy. 
 
 > [!note] My Calling
-> Something dear to me is [[Bringing Humanity to the Workplace]]. It was the quietest thought in my mind and took a long time to arise. But once recognised I knew it had been there all along.
+> Something dear to me is [[Bringing humanity to the workplace]]. It was the quietest thought in my mind and took a long time to arise. But once recognised I knew it had been there all along.
 
 Cutting my work time to 4-days/week is a deliberate way to create space and let ideas flow. The morning of my second Friday I was almost overwhelmed with connections and ideas pouring into my stream of consciousness (arising? growing? surfacing? as they were already there perhaps). A direct affect of not being in the office and having time to let my mind think and react on my own timeline.
 

@@ -17,7 +17,7 @@ I'm sure there will be a [[Blogging]] target as well. Probably a mix of ad-hoc p
 ## Hobby related
 There has to be some rationalisation of my hobbies. Too much is left undone and that plays on my mind. Here I have to tread a fine line between committing to finish everything, not leaving time for work coming from "The big question" and failing to leave time for hobbies to do what they do best—provide downtime.
 
-I'm certain I'll follow the [Nerdforge](https://www.youtube.com/@Nerdforge) model of placing 100 dedicated hours into learning a skill[^2][^3][^4] and put 100 hours into learning photo editing techniques in [[Affinity Photo 2]]. 
+I'm certain I'll follow the [Nerdforge](https://www.youtube.com/@Nerdforge) model of placing 100 dedicated hours into learning a skill[^2][^3][^4] and put 100 hours into learning photo editing techniques in [[Affinity Photo]]. 
 
 I would also like to complete [[Danish ships cross-stitch]] and painting my [[Sylvaneth Treelord Ancient]].
 ## Health related

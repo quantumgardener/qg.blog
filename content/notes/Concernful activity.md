@@ -10,4 +10,4 @@ As humans we are constantly seeking to take care of what is important to us. The
 
 [[Writing is a concernful activity]] that can help us understand at a deeper level what is really important.
 
-[^1]: [[Sieler (2003), Coaching to the Human Soul (Volume 1)#Chapter 5 - Listening The Unacknowledged Dimension of Lanugage]]
+[^1]: [[Sieler (2003), Coaching to the Human Soul (Volume 1)#Chapter 5 - Listening The Unacknowledged Dimension of Language]]
