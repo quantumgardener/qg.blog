@@ -17,3 +17,4 @@ I had two goals for today. Learn how to use the [[Huion HS610 Creative Pen Table
 		width="755" 
 		height="1124">
 </iframe>
+*Windsor Castle Tower. Scanned and edited in [[Affinity Photo]]*
