@@ -7,7 +7,7 @@ title:
 ---
 A ritual 25-minute self-guided exercise where writing and listening is used to reflect on the [[Stories]] underpinning our [[Way of Being]]. The output is called a "write".
 
-[[Metcalf, Simon (2002), Writing the Mind Alive]] introduces and contextualises the practice.
+[[Metcalf (2002), Writing the Mind Alive]] introduces and contextualises the practice.
 ## Preparation
 - Sit somewhere safe and quiet
 - Light a candle

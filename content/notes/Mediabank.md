@@ -83,7 +83,7 @@ Every image has the date and time set.
 
 Ingestion files images by day within a month. This makes it easier to identify and correct date time errors across different media sources. A `.mov` file that has not been corrected will normally be the day before (one advantage of being +10/+11 hours ahead of UTC).
 
-When I have to set a date and I don't know the exact details I follow [[My Photo Dating Strategy for Uncertain Dates]].
+When I have to set a date and I don't know the exact details I follow [[My photo dating strategy for uncertain dates]].
 
 > [!TIP] Metadata for Dates
 > Dates are stored in the `Date Created` and `DateTimeOriginal` fields.
@@ -264,7 +264,7 @@ Media are filed in `S:\memories\assets` following a strict naming convention by 
 
 As soon as possible after the date and time of a file are confirmed correct during ingestion, the media is renamed.
 
-The process for handling uncertain dates is described in [[My Photo Dating Strategy for Uncertain Dates]].
+The process for handling uncertain dates is described in [[My photo dating strategy for uncertain dates]].
 ## File storage and backup
 Refer to [[My Backup Strategy]] for how digital assets and the database are backed up.
 

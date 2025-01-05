@@ -23,6 +23,6 @@ This family album, along with most of those beforehand all suffer from a chronic
 
 Family Album 17 has a quirk that I expect the final two albums will have as well. There are photos in this album that are already in [[IMatch]]. That helps with dates but adds additional work. I will replace what's there after I copy over the metadata because these new scans are higher resolution.
 
-Once all the photos are scanned I'll import them into [[IMatch]] and assign dates following [[My Photo Dating Strategy for Uncertain Dates]].
+Once all the photos are scanned I'll import them into [[IMatch]] and assign dates following [[My photo dating strategy for uncertain dates]].
 
 Merry Christmas.

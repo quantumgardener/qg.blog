@@ -1,6 +1,7 @@
 ---
-aliases: []
-tags: 
+aliases: 
+tags:
+  - class/project
 datetime: 2025-01-04 13:31
 updated: 
 title: 100 hours learning Affinity Photo

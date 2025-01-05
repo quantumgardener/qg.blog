@@ -1,15 +1,14 @@
 ---
-tags:
-  - digital-asset-management
-landscapes:
-  - "[[Hobby Together]]"
-  - "[[Quantum OS]]"
+aliases: 
+tags: 
 JD-ID: "[[12.02 Mediabank Photos and Videos]]"
 datetime: 2023-12-21T00:00:00
+updated: 2025-01-06T10:34
+title: My photo dating strategy for uncertain dates
 ---
-Digital photos have the date and time taken embedded. Scanned prints, negatives and slides do not. This is a problem in [[Photography]] when the original non-digital image is scanned and there is no record alongside it of the date the photo was made.
+Digital photos have the date and time taken embedded. Scanned prints, negatives and slides do not. This is a problem in [[Photography]] when the original non-digital image is scanned and there is no record alongside it of the date the photo was made. We fix it my modifying [[Digital asset metadata]]
 
-Digital Asset Management software such as [[IMatch]] or [[Lightroom]] requires a date. You can't have just a year, or know it was December but not which day. The software requires a year, month and date. And if you're thinking ahead, it requires a time as well (and a timezone).
+[[Digital asset management]] software such as [[IMatch]] or [[Lightroom]] requires a date. You can't have just a year, or know it was December but not which day. The software requires a year, month and date. And if you're thinking ahead, it requires a time as well (and a timezone).
 
 I have many thousands of scanned photos in my system and have settled on the following system. I will always try to get the most accurate date I can and depending on the information in the image and surrounding images, I can usually get pretty close - if not to the month, they certainly 
 the year.
