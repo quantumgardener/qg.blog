@@ -1,3 +1,11 @@
+---
+aliases:
+  - Humanity in the workplaces
+tags: []
+datetime: 2025-01-03 08:05
+updated: 
+title: Humanity in the workplace
+---
 We spend a large proportion of our lives at work. Once sleep has been factored in , anyone working a 40-hour week commits over a third of their waking hours to the workplace. And that's before the commute. 
 
 **The quality of our work time directly impacts the quality of our lives as humans**. Our humanity is intricately tied to the humanity of those alongside us—those we spend a third of our week with. The lack of humanity in the workplace effects everyone. 

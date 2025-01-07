@@ -3,7 +3,7 @@ tags:
 landscapes:
   - "[[Hobby Together]]"
 datetime: 2024-05-04
-updated: 2024-12-30T19:00:00
+updated: 2025-01-07T13:12
 ---
 The [[IMatch to Socials]] system automates the addition, update and deletion of images between [[IMatch]] and [flickr](https://flickr.com) or [pixelfed](https://pixelfed.org). I created it to reduce the time taken updating and managing photos across all three platforms.
 ## Features
@@ -68,7 +68,6 @@ For this system to run you need:
 - For pixelfed
 	- [Mastodon.py](https://pypi.org/project/Mastodon.py/) - once you have Python installed run `pip3 install Mastodon.py`
 	- Your own Pixelfed account and 'personal access token'
-	- Your own [what3words](https://what3words.com) API. The free level is enough.
 - Code downloaded from [GitHub - quantumgardener/IMatch-to-Socials](https://github.com/quantumgardener/IMatch-to-Socials)
 
 ### Get Your Application Keys

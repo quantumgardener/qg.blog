@@ -5,7 +5,7 @@ datetime: 2023-09-28T00:00:00
 updated: 2024-12-26T16:42:00
 description: All things video games and the platforms I play on.
 ---
-All things video gaming.
+All things video gaming in my life.
 
 | I want to...              | ...learn about my game playing                                             |
 | ------------------------- | -------------------------------------------------------------------------- |

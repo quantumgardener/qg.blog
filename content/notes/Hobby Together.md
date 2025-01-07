@@ -13,13 +13,13 @@ description: I’m a gamer, a miniature painter, a role-player, a cross-stitcher
 
 The focus of my hobbies at any point in time varies. At the moment I have keen interest in [[Photography]] with some [[Astrophotography]] attached.
 
-There is plenty to see in my [[Map of video gaming]] which links out to all the games I've played one the gaming systems I've owned. Sometimes I also paint miniatures like I did when [[Painting Nagash]].
+There is plenty to see in my [[Video gaming]] which links out to all the games I've played one the gaming systems I've owned. Sometimes I also paint miniatures like I did when [[Painting Nagash]].
 
 When I can afford it, I might also play with [[LEGO]].
 ## I Want to...
 
 - Take a photo: [[Photography]] | [[Astrophotography]]
-- Play a game: [[Map of video gaming]]
+- Play a game: [[Video gaming]]
 - Watch a Movie: [[Movie Theatre]] | [[Coming Soon]] | [[+Index of Series]]
 - Watch TV: [[List of my favourite TV shows]]
 - Paint miniatures: [[Miniature Painting]] | [[Painting Nagash]]

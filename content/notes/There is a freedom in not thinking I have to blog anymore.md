@@ -44,7 +44,7 @@ Things were getting worse and after recently starting blogging again, I stopped.
 I have decided there is no benefit in my blogging in the traditional sense of the word. Nor is there any benefit in sharing all that I can. Instead, and I think this is the true spirit of a digital garden, I will share my learnings, not my notes. The analogy of a garden and a nursery may be applicable. I have had too much nursery stock out in the garden for people to view before it was ready. And I was also sharing, the garden shed, the tools and what some may say was a pile of compost!
 
 For example:
-- I was sharing [[Map of video gaming|lists of video games I'm playing, have completed and want to play]]. This is a list that's for my interest only. Sharing it meant I had to add more information than I need personally for it to be useful.
+- I was sharing [[Video gaming|lists of video games I'm playing, have completed and want to play]]. This is a list that's for my interest only. Sharing it meant I had to add more information than I need personally for it to be useful.
 - I have lots of notes that are simple placeholders for captured information that I've not yet processed in any coherent way. To have that shared publicly put a pressure on me to organise it an create navigation for a public website reader. Another barrier to creating. 
 - Notes on a article were being shared with no real context around them. 
 
