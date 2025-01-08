@@ -18,7 +18,7 @@ I transferred my browsing from Vivaldi back to [[Firefox]]. Small things such as
 ## [[Hobby Together]]
 Finish one book and start another. For eyes-on-the-page reading I've finished [[The Last Graduate]] which is the second of [[Naomi Novik]]'s series about a school for magicians. Despite a little too much teenage angst for my liking, the series is progressing well and I'm looking forward to the next book. Next in line is [[A Conjuring of Light]] by [[V. E. Schwab]] and it is screaming along.
 
-My ears have been treated to the end of [[Otherland - Mountain of Black Glass|Otherland: Mountain of Black Glass]] by [[Tad Williams]] and the first few hours of [[Feet of Clay]] by [[Terry Pratchett]]. [[Discworld]] audiobooks have become a staple of our car trips to Adelaide as they are books both my wife and I enjoy. Since there is no trip planned for a while, I've started [[Dawnshard]], book 3.5 in [[The Stormlight Archive]].
+My ears have been treated to the end of [[Otherland (Series)|Otherland: Mountain of Black Glass]] by [[Tad Williams]] and the first few hours of [[Feet of Clay]] by [[Terry Pratchett]]. [[Discworld]] audiobooks have become a staple of our car trips to Adelaide as they are books both my wife and I enjoy. Since there is no trip planned for a while, I've started [[Dawnshard]], book 3.5 in [[The Stormlight Archive]].
 
 Gaming has me at the start of [[A Plague Tale - Requiem|A Plague Tale: Requiem]]. The [[A Plague Tale - Innocence|first game]] was amazing and I'm looking forward to how this story develops.
 ## [[The Garden Shed]]
