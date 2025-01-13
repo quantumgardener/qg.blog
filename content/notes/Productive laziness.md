@@ -1,5 +1,6 @@
 ---
-aliases: 
+aliases:
+  - Productively lazy
 tags:
   - class/map
   - class/landscape
