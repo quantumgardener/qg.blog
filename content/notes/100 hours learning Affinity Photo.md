@@ -2,7 +2,7 @@
 aliases: 
 tags:
   - class/project
-datetime: 2025-01-04 13:31
+datetime: 2025-01-04T13:31
 updated: 2025-01-07T14:43
 title: 100 hours learning Affinity Photo
 ---

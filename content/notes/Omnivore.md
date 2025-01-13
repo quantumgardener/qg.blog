@@ -2,7 +2,7 @@
 aliases:
   - Omnivores
 tags: []
-datetime: 2025-01-12 19:07
+datetime: 2025-01-12T19:07
 updated: 
 title: Omnivore
 ---

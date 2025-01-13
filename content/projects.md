@@ -2,7 +2,7 @@
 aliases:
   - projectss
 tags: 
-datetime: 2025-01-07 15:22
+datetime: 2025-01-07T15:22
 updated: 
 title: Current projects
 ---

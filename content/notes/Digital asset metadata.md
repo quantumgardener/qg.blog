@@ -2,7 +2,7 @@
 aliases:
   - Digital asset metadatas
 tags: []
-datetime: 2023-08-11 19:26
+datetime: 2023-08-11T19:26
 updated: 
 title: Digital asset metadata
 ---

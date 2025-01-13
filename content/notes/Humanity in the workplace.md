@@ -1,7 +1,7 @@
 ---
 aliases: []
 tags: 
-datetime: 2025-01-03 08:05
+datetime: 2025-01-03T08:05
 updated: 
 title: Humanity in the workplace
 ---

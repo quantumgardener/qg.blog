@@ -2,7 +2,7 @@
 aliases:
   - Back button focus on the Canon R50s
 tags: []
-datetime: 2025-01-01 15:50:38
+datetime: 2025-01-01T15:50:38
 updated: 
 title: Back button focus on the Canon R50
 ---

@@ -2,7 +2,7 @@
 aliases:
   - Organisational Way of Beings
 tags: []
-datetime: 2025-01-03 08:27:43
+datetime: 2025-01-03T08:27:43
 updated: 
 title: Organisational Way of Being
 ---

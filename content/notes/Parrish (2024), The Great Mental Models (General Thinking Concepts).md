@@ -4,7 +4,7 @@ aliases:
 tags:
   - class/book
   - class/source
-datetime: 2025-01-11 18:50
+datetime: 2025-01-11T18:50
 updated: 
 title: The Great Mental Models (General Thinking Concepts)
 author:
