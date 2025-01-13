@@ -10,4 +10,4 @@ An [[Ontological shift]] is an adjustment in all of [[The three ontological doma
 
 One domain often leads and opens up the possibility of change in the remaining two.
 
-[^1]: [[Sieler (2003), Coaching to the Human Soul (Volume 1)#Chapter 1 - An Ontological Approach to Coaching]]
+[^1]: [[Sieler (2003), Coaching to the Human Soul (Volume I)#Chapter 1 - An Ontological Approach to Coaching]]

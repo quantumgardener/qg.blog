@@ -5,26 +5,20 @@ tags:
 landscapes:
   - "[[Expand My Way of Being]]"
 ---
-There is an interesting passage in [Rhythm of War](https://www.goodreads.com/book/show/49203999-rhythm-of-war) by [Brandon Sanderson](https://www.goodreads.com/author/show/38550.Brandon_Sanderson) where the protagonist, Kaladin Stormblessed has an altercation with his father Lirin. It shows what can happen when we hold an opinion as truth.
+There is an interesting passage in [Rhythm of War](https://www.goodreads.com/book/show/49203999-rhythm-of-war) by [Brandon Sanderson](https://www.goodreads.com/author/show/38550.Brandon_Sanderson) where the protagonist, Kaladin Stormblessed has an altercation with his father Lirin. It shows what can happen when we hold an opinion as [[The truth]].
 
 An invasion has occurred and Lirin, a surgeon, urges his son to stay and help people. Kaladin, who was trained as a surgeon by his father in his youth, is caught between his father's wishes and his natural desires to protect people using force.
 
 > “You’re telling me to be a good slave and do what I’m told.” [said Kaladin]
-> 
 > “I’m telling you to think!” his father snapped. “I’m telling you that if you want to change the world, you have to stop being part of the problem!” Lirin calmed himself with obvious difficulty, making fists and breathing in deeply. “Son, think about what all those years spent fighting did to you. How they broke you.”
-> 
 > Sanderson, Brandon. Rhythm of War (STORMLIGHT ARCHIVE) (pp. 741-742). Orion. Kindle Edition.
 
 At this point in the book it's clear that Kaladin has been suffering from PTSD.
 
 > In a way, Kaladin could understand what his father said. “Your words make sense up here,” Kaladin said, tapping his head. “But not down here.” He slapped his breast.
-> 
-> “That’s always been your problem, son. Letting your heart override your head.”
-> 
-> “My head can’t be trusted sometimes,” Kaladin said. “Can you blame me? Besides, isn’t the entire reason we became surgeons because of the heart? Because we care?”
-> 
-> “We need both heart and mind,” Lirin said. “The heart might provide the purpose, but the head provides the method, the path. Passion is nothing without a plan. Wanting something doesn’t make it happen.
-> 
+>  “That’s always been your problem, son. Letting your heart override your head.”
+>  “My head can’t be trusted sometimes,” Kaladin said. “Can you blame me? Besides, isn’t the entire reason we became surgeons because of the heart? Because we care?”
+>  “We need both heart and mind,” Lirin said. “The heart might provide the purpose, but the head provides the method, the path. Passion is nothing without a plan. Wanting something doesn’t make it happen.
 > Sanderson, Brandon. Rhythm of War (STORMLIGHT ARCHIVE) (p. 742). Orion. Kindle Edition.
 
 Soon after this conversation two of the enemy forces enter the surgery. They are looking for people of a certain type, Radiants, who have been incapacitated by their attack. They are initially unaware that Kaladin is a Radiant who did not suffer incapacitation and who is also the one Radiant they are to be on the lookout for.

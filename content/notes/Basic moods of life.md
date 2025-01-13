@@ -17,4 +17,4 @@ The [[Basic moods of life]] are:
 | Accept                             | [[Acceptance]] | [[Optimism]]    | [[Wonder]]  |
 
 ## References
-- [[Sieler (2003), Coaching to the Human Soul (Volume 1)]]
+- [[Sieler (2007), Coaching to the Human Soul, Volume II]]

@@ -9,7 +9,7 @@ updated:
 title: 
 rating: "[[3-star|⭐️⭐️⭐️]]"
 ---
-![[mv_gladiator-2.webp|media]]
+![[mv_gladiator_ii_200.webp|media_cover]]
 If you loved [[Gladiator]] you will like [[Gladiator II]]. If you liked [[Gladiator]], then the sequel will be a good night's popcorn entertainment. If [[Gladiator]] didn't exist, would we be going as made for this next movie as the first? I don't think so.
 
 The sense of drive and revenge from the first movie simply isn't there. The team try to create a sense of loss but all future references are super cliché and never really land home. It feels as if [[Ridley Scott ]]knew he was treading well-worn ground and didn't want to hit the same points as the original. Yet, we get the same fights, in the same order, at the same scale. Overall, lazy.

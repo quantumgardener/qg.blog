@@ -10,4 +10,4 @@ The term [[Way of Being]] could be taking as equivalent to "Way of doing in the 
 
 The meaning we make of events, conversations, circumstances, people and objects, changes as our Way of Being changes. That interpretation is how we choose our resultant behaviours.
 
-[^1]: [[Sieler (2003), Coaching to the Human Soul (Volume 1)#Chapter 1 - An Ontological Approach to Coaching]]
+[^1]: [[Sieler (2003), Coaching to the Human Soul (Volume I)#Chapter 1 - An Ontological Approach to Coaching]]

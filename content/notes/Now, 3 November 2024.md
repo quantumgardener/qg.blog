@@ -19,7 +19,7 @@ Today I cleaned out my [[Obsidian]] inbox. I hid my head in the sand for too lon
 ## Reading
 Truth be told, I've struggled with [[Stephen King|Stephen King's]] [[The Dead Zone]] this week. George Stillson, the protagonist, is too Trump-like for comfort.
 
-[[Parrish, Beaubien (2024), The Great Mental Models (General Thinking Concepts)]] is amazing. A few pages in and I became certain the next 3 books in the series will hit my library soon. I began the Graduate Diploma of Ontological Coaching with the goal of building a framework to hang my knowledge on. The Mental models in this book push that idea much further. More to come as I process my notes. Hey, I got my inbox cleaned out, what more do you want?
+[[Parrish (2024), The Great Mental Models (General Thinking Concepts)]] is amazing. A few pages in and I became certain the next 3 books in the series will hit my library soon. I began the Graduate Diploma of Ontological Coaching with the goal of building a framework to hang my knowledge on. The Mental models in this book push that idea much further. More to come as I process my notes. Hey, I got my inbox cleaned out, what more do you want?
 ## Movies
 [[Gladiator]] got another look today in preparation for [[Gladiator II]] in a couple of weeks.
 

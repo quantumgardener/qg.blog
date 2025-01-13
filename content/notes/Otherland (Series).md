@@ -3,8 +3,8 @@ thumbnail:
 aliases: []
 tags:
   - class/book-series
-datetime: 2025-01-08 19:25
-updated: 
+datetime: 2025-01-08T19:25:56
+updated: 2025-01-11T19:00:46
 title: Otherland (Series)
 author:
   - "[[Tad Williams]]"

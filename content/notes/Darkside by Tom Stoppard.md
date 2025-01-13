@@ -6,7 +6,7 @@ landscapes:
   - "[[Hobby Together]]"
 datetime: 2023-10-22T00:00:00
 ---
-![[mu_darkside.webp|media-cover]]
+![[mu_darkside_200.webp|media-cover]]
 
 Commissioned by the BBC for the 40th Anniversary of *[[Dark Side of the Moon]]*, I first heard this radio play around 2015 and only the once. It was pulled from [[Spotify]] not long after. Every now and then I'd look for it on streaming to no avail. 
 

@@ -1,7 +1,9 @@
 ---
-tags: []
+tags: 
 datetime: 2023-10-12T00:00:00
 updated: 2024-11-27T07:34:00
+aliases: []
+title: The map is not the territory
 ---
 This concept is an attempt to get people to remember there is more than just the map. Yet, maps show relationships. In the case of a road map, it's the relationships between A and B and importantly how to get there. 
 

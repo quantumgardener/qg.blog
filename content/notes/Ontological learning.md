@@ -10,4 +10,4 @@ title:
 
 Each of the [[The three ontological domains]] is a sub-domain of learning[^1].
 
-[^1]: [[Sieler (2003), Coaching to the Human Soul (Volume 1)#Chapter 1 - An Ontological Approach to Coaching]]
+[^1]: [[Sieler (2003), Coaching to the Human Soul (Volume I)#Chapter 1 - An Ontological Approach to Coaching]]

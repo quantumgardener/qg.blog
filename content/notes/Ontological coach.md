@@ -12,4 +12,4 @@ They are trained to acutely and astutely observer across [[The three ontological
 
 [[Ontological coaches are not teachers]] and help coachees with their own discovery and learning[^1] rather than provide tools and tips for behavioural change. 
 
-[^1]: [[Sieler (2003), Coaching to the Human Soul (Volume 1)#Chapter 1 - An Ontological Approach to Coaching]]
+[^1]: [[Sieler (2003), Coaching to the Human Soul (Volume I)#Chapter 1 - An Ontological Approach to Coaching]]

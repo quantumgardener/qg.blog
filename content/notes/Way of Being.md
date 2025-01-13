@@ -12,4 +12,4 @@ It is a core concept within [[The Ontology of the Human Observer]].
 
 Understanding our [[Way of Being is a core domain of learning]]. Since we exist in many family, work and social organisations, this is about how we live a quality and fulfilling life.
 
-[^1]: [[Sieler (2003), Coaching to the Human Soul (Volume 1)#Chapter 1 - An Ontological Approach to Coaching]]
+[^1]: [[Sieler (2003), Coaching to the Human Soul (Volume I)#Chapter 1 - An Ontological Approach to Coaching]]

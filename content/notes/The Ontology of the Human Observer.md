@@ -13,4 +13,4 @@ title:
 > [!map] 
 > For a structured list of the ontology's main concepts, see [[Map of The Ontology of the Human Observer]].
 
-[^1]: [[Sieler (2003), Coaching to the Human Soul (Volume 1)#Chapter 1 - An Ontological Approach to Coaching]]
+[^1]: [[Sieler (2003), Coaching to the Human Soul (Volume I)#Chapter 1 - An Ontological Approach to Coaching]]

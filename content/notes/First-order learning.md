@@ -11,4 +11,4 @@ In contrast, [[Second-order learning]] is an observation of our [[Way of Being]]
 
 ![[orders-of-learning.svg]]
 ## References
-- [[Sieler (2003), Coaching to the Human Soul (Volume 1)#Chapter 2 - An Ontological Model of Learning and Change]]
+- [[Sieler (2003), Coaching to the Human Soul (Volume I)#Chapter 2 - An Ontological Model of Learning and Change]]

@@ -1,7 +1,6 @@
 ---
-aliases:
-  - Humanity in the workplaces
-tags: []
+aliases: []
+tags: 
 datetime: 2025-01-03 08:05
 updated: 
 title: Humanity in the workplace
