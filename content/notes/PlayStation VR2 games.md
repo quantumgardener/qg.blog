@@ -1,6 +1,5 @@
 ---
-cssclasses:
-
+cssclasses: 
 tags:
   - class/map
   - class/list
@@ -16,7 +15,7 @@ Games for the [[PlayStation VR2]] headset.
 | Game                                                                                                         |                                                                                    | Rating                               | Status                                   |
 | ------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------- | ------------------------------------ | ---------------------------------------- |
 | ![[vg_Gran Turismo 7_t.webp\|vg_Gran Turismo 7_t.webp]]                                 | [[Gran Turismo 7]]                                 | [[4-star\|⭐️⭐️⭐️⭐️]] | [[active]]       |
-| ![[vg_Horizon - Call of the Mountain_t.webp\|vg_Horizon - Call of the Mountain_t.webp]] | [[Horizon - Call of the Mountain]] | [[4-star\|⭐️⭐️⭐️⭐️]] | [[dropped]]     |
+| ![[vg_Horizon - Call of the Mountain_t.webp\|vg_Horizon - Call of the Mountain_t.webp]] | [[Horizon - Call of the Mountain]] | [[4-star\|⭐️⭐️⭐️⭐️]] | [[dropped]]           |
 | ![[vg_No Man's Sky_t.webp\|vg_No Man's Sky_t.webp]]                                     | [[No Man's Sky]]                                     | [[4-star\|⭐️⭐️⭐️⭐️]] | [[completed]] |
 | ![[vg_Resident Evil 4_t.webp\|vg_Resident Evil 4_t.webp]]                               | [[Resident Evil 4]]                               | [[3-star\|⭐️⭐️⭐️]]   | [[completed]] |
 <!-- SerializedQuery END -->

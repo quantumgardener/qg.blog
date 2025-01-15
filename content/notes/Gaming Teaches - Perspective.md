@@ -4,7 +4,7 @@ tags:
   - observing
 description: Gaming teaches us the usefulness of chasing our perspective if what we are doing isn’t working for us. I use sim-racing to help explain.
 landscapes:
-  - "[[Expand My Way of Being]]"
+  - "[[Expand my Way of Being]]"
   - "[[Hobby Together]]"
 datetime: 2023-04-02T00:00:00
 ---

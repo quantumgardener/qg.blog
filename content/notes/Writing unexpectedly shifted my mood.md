@@ -3,7 +3,7 @@ tags:
   - class/blog
 datetime: 2024-06-06T19:21:28
 landscapes:
-  - "[[Expand My Way of Being]]"
+  - "[[Expand my Way of Being]]"
 ---
 Like you, I have my work strengths and weaknesses. I also have things I like about my job and situations that frustrate me. Working through an opportunity to redefine elements of my role I have today created a list of strengths and frustrations.
 

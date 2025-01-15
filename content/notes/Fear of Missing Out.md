@@ -3,7 +3,7 @@ tags:
   - anxiety
   - gaming
 landscapes:
-  - "[[Expand My Way of Being]]"
+  - "[[Expand my Way of Being]]"
   - "[[Hobby Together]]"
 datetime: 2022-10-23T00:00:00
 ---

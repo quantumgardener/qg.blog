@@ -4,7 +4,7 @@ tags:
   - humility
   - humanity
 landscapes:
-  - "[[Expand My Way of Being]]"
+  - "[[Expand my Way of Being]]"
 datetime: 2022-09-05T00:00:00
 ---
 ![[how-to-take-smart-notes-humility-quote.webp]]

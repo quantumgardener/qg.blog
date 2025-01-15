@@ -18,4 +18,4 @@ Sadly, that system only exists in Wordpress as far as I'm aware.
 I'm happy for anyone to contact me via email about what I've written. So much so that I've added an email link at the bottom of each page. Tomorrow or over the weekend I'll create something similar for Mastodon and if I can, add something similar to the bottom of posts in the RSS feed as well.
 
 [^1]: In my case it's a mess to blend a third-party commenting platform in with [[Quartz 4]] and I also have some issues about the privacy of such platforms.
-[^2]: [[Blog#2002|Posts from 2002]].
+[^2]: [[blog#2002|Posts from 2002]].

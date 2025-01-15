@@ -1,7 +1,7 @@
 ---
 JD-ID: "[[01.01 Guiding Principles]]"
 landscapes:
-  - "[[The Garden Shed]]"
+  - "[[Public/uses]]"
 datetime: 2023-09-17T20:47:00
 updated: 2024-07-28T09:32:00
 ---

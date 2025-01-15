@@ -2,7 +2,7 @@
 tags:
   - listening
 landscapes:
-  - "[[Expand My Way of Being]]"
+  - "[[Expand my Way of Being]]"
 datetime: 2022-11-02T00:00:00
 ---
 Changing how we observe our world by becoming a different observer is powerful. A power that gives us more choice.

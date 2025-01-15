@@ -2,7 +2,7 @@
 tags: 
 datetime: 2023-07-02T00:00:00
 landscapes:
-  - "[[Expand My Way of Being]]"
+  - "[[Expand my Way of Being]]"
 ---
 [[Trust]] involves making a ongoing series of [[Assessment]] that you will take action which takes care of me, including not taking action to harm me.
 

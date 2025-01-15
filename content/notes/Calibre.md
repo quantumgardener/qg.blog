@@ -1,9 +1,12 @@
 ---
 tags:
-  - digital-asset-management
+  - class/software
+  - status/active
 landscapes:
-  - "[[The Garden Shed]]"
+  - "[[Public/uses]]"
 datetime: 2024-03-11T00:00:00
+domain:
+  - "[[Digital asset management]]"
 ---
 [Calibre](https://calibre-ebook.com/) is a cross-platform eBook management tool. It allows you to manage the metadata present in your eBooks.
 

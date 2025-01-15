@@ -7,4 +7,4 @@ title:
 ---
 [[My Mastodon feed]] can be found at https://aus.social/@dcbuchan. It's the best way to contact me.
 
-I post a few times a week at most, and usually on trivial matters or observations. Substantial posts appear in the [[Blog]].
+I post a few times a week at most, and usually on trivial matters or observations. Substantial posts appear in the [[blog]].

@@ -2,7 +2,7 @@
 tags:
   - standards
 landscapes:
-  - "[[Expand My Way of Being]]"
+  - "[[Expand my Way of Being]]"
 datetime: 2023-02-12T00:00:00
 ---
 I regularly see posts in the _[Life of Dad Facebook group](https://www.facebook.com/lifeofdad)_ that inadvertently suggest you’re not a _real dad_ unless you are always putting your family ahead of your own needs, and making large sacrifices for your family.

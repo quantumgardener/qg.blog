@@ -3,7 +3,7 @@ tags:
   - wonder
   - time
 landscapes:
-  - "[[The Garden Shed]]"
+  - "[[Public/uses]]"
 datetime: 2023-01-26T00:00:00
 ---
 I watched _[[Avatar]]_ today, in preparation for a likely weekend trip to see _[[Avatar 2: The Way of Water]]_ at the weekend. Both films have now taken over US$2 billion dollars. As making over a billion at the box office is now commonplace, it’s worth considering the difference in scale between 1 million and 1 billion and from there to 1 trillion.

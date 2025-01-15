@@ -2,7 +2,7 @@
 tags:
   - declarations
 landscapes:
-  - "[[Expand My Way of Being]]"
+  - "[[Expand my Way of Being]]"
 datetime: 2023-02-16T00:00:00
 ---
 Early 2000 and I was in London and a newly promoted manager within Arthur Andersen, Business Consulting division. During some new-manager training, we were encouraged to develop our own personal mission statement. I’d never considered such a thing before then. Business mission statements have always felt hollow to me (still do - more about marketing than actual values).

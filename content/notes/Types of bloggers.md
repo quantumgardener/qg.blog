@@ -1,6 +1,6 @@
 ---
 landscapes:
-  - "[[The Garden Shed]]"
+  - "[[Public/uses]]"
 datetime: 2022-01-27T00:00:00
 ---
 - Observational - people who observe the world and make comment on it through their experience as a way to prompt thinking in others. A great example is [The Obvious? – Euan Semple's Weblog](https://euansemple.blog/). I'd put [PostSecret -](https://postsecret.com/) in this group as well.

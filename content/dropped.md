@@ -1,10 +1,25 @@
 ---
-title: Status (dropped)
-datetime: 2024-03-11T00:00:00
-updated: 2024-12-26T16:24:00
+tags:
+  - class/map
+  - class/slash-page
+datetime: 2025-01-15T17:05:00
+updated: ""
+description: A list of technologies I no longer use.
+title: Dropped
 ---
-For one reason, or another, I never got to the end.
-## Computer games
+Time marches on and technologies that were once useful are no longer, or no longer fun. See [[uses]] for what is still hanging on.
+
+## Gear I've retired
+Here, "Gear" is a broad term referring to any type of physical technology I used in my life.
+<!-- QueryToSerialize: table without id row.key as Domain, rows.file.link as Gear from #class/gear and #status/dropped  flatten domain as singledomain group by singledomain sort row.key asc, file.link asc -->
+<!-- SerializedQuery: table without id row.key as Domain, rows.file.link as Gear from #class/gear and #status/dropped  flatten domain as singledomain group by singledomain sort row.key asc, file.link asc -->
+
+| Domain                                       | Gear                                                                    |
+| -------------------------------------------- | ----------------------------------------------------------------------- |
+| [[Photography]] | <ul><li>[[Canon 400D DSLR]]</li></ul> |
+<!-- SerializedQuery END -->
+
+## Computer games I never finished
 Games are dropped for any number of reasons. Sometimes its the size of the game, my poor skill level, or a compete fall in interest.
 
 <!-- QueryToSerialize: table without id embed(link(thumbnail)) as "Game", file.link as "", rating as Rating, platform as Platform from #class/video-game and #status/dropped sort file.name -->

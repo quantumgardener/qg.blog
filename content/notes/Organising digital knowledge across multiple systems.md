@@ -2,7 +2,7 @@
 JD-ID: "[[01.02 Managing Knowledge & Content]]"
 landscapes:
   - "[[Quantum OS]]"
-  - "[[The Garden Shed]]"
+  - "[[Public/uses]]"
 datetime: 2024-03-11T00:00:00
 ---
 Digital knowledge comes at us in all forms and it can be a challenge to manage. This note describes how I manage information in my [[Personal knowledge management]] system.

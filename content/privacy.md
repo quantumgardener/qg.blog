@@ -1,8 +1,11 @@
 ---
+tags:
+  - class/slash-page
 datetime: 2023-09-27T00:00:00
 updated: 2024-08-24T10:32:00
+description: A page describing my efforts to keep your access private.
 ---
-*quantumgardener.info* is cookie free. I use [[tinylytics]] to record unique hits on the site to understand what articles are popular so that I don't accidentally delete or move something others rely upon. This information will also help me understand the feasibility of putting some content out via subscription in the future.
+[quantumgardener.info](https://quantumgardener.info) is cookie free. I use [[tinylytics]] to record unique hits on the site to understand what articles are popular so that I don't accidentally delete or move something others rely upon. This information will also help me understand the feasibility of putting some content out via subscription in the future.
 
 I know nothing identifiable about any visitor to the site.
 

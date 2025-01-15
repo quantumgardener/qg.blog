@@ -1,11 +1,14 @@
 ---
-aliases: Creditss
-tags: 
+aliases:
+  - Colophon
+tags:
+  - class/slash-page
 datetime: 2024-12-27T13:36:51
 updated: 2025-01-02T08:12:26
-title: 
+title: Colophon
+description: A page describing how this site is made.
 ---
-Notes and links made in [[Obsidian]].
+Notes and links are created in [[Obsidian]].
 
 Published using [[Quartz 4]] and served from [Cloudflare](https://www.cloudflare.com/).
 

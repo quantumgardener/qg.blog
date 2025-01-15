@@ -4,7 +4,7 @@ tags:
 datetime: 2023-01-25T20:07:00
 updated: ""
 landscapes:
-  - "[[The Garden Shed]]"
+  - "[[Public/uses]]"
 ---
 Blogging is a timeline of shared information. It is a conversation between one person and a wider, unknown audience. It is just as valid if the audience is the blogger alone.
 

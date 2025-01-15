@@ -1,10 +1,14 @@
 ---
 aliases:
   - Affinity Photo
-tags: 
+tags:
+  - class/software
+  - status/active
 datetime: 2024-11-29T13:45:00
 updated: 
-title:
+title: 
+domain:
+  - "[[Photography]]"
 ---
 [[Affinity Photo]] is my photo editing software. It replaced [[Photoshop]] and [[Lightroom]] initially on price—purchase rather than subscription—and has more than enough features for my level of skill.
 

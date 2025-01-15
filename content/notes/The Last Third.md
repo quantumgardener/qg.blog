@@ -4,7 +4,7 @@ tags:
   - learning
   - coaching
 landscapes:
-  - "[[Expand My Way of Being]]"
+  - "[[Expand my Way of Being]]"
 datetime: 2022-11-02T00:00:00
 ---
 Board members are elected for three terms, on a rolling basis.

@@ -5,6 +5,7 @@ tags:
 datetime: 2023-09-25T11:11:00
 updated: 2024-09-22T13:48:00
 description: I’m a gamer, a miniature painter, a role-player, a cross-stitcher and enjoyer of good movies and TV at home.
+title: Hobby Together
 ---
 > [!landscape]
 > I’m a gamer, a miniature painter, a role-player, a cross-stitcher and enjoyer of good movies and TV at home.

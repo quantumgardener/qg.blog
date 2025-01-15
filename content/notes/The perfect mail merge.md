@@ -3,7 +3,7 @@ datetime: 2022-11-22
 tags:
   - effective-conversation
 landscapes:
-  - "[[Expand My Way of Being]]"
+  - "[[Expand my Way of Being]]"
 ---
 We have a state election on [[2022-11-19|Saturday]]. One local candidate sent a letter to our household today. We have four that will be voting.
 

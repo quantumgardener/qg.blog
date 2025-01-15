@@ -7,6 +7,7 @@ tags:
 datetime: 2024-06-07T10:21:38
 updated: 2024-10-18T11:02:00
 description: There is art in doing as much as possible, as easily as possible and that’s what I call being **productive lazy**.
+title: Productive Laziness
 ---
 > [!landscape]
 > There is art in doing as much as possible, as easily as possible and that’s what I call being **productive lazy**.

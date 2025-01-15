@@ -6,6 +6,7 @@ tags:
 datetime: 2023-09-25T11:47:00
 updated: 2024-09-22T13:41:00
 description: My [[Way of Being]] is more than the behaviour I show. It’s the total sum of how I engage with the world, make meaning from my environment and take action. Expanding my Way of Being by being a learner in the world creates new possibilities for me to move forward in life.
+title: Expand my Way of Being
 ---
 > [!landscape] My [[Way of Being]] is more than the behaviour I show. It’s the total sum of how I engage with the world, make meaning from my environment and take action. Expanding my Way of Being by being a learner in the world creates new possibilities for me to move forward in life.
 

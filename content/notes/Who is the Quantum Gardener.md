@@ -1,7 +1,7 @@
 ---
 title: Who is the Quantum Gardener?
 landscapes:
-  - "[[Expand My Way of Being]]"
+  - "[[Expand my Way of Being]]"
 datetime: 2003-07-07T00:00:00
 updated: 2024-08-25T14:27:00
 ---

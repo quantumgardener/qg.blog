@@ -2,7 +2,7 @@
 tags:
   - learning
 landscapes:
-  - "[[Expand My Way of Being]]"
+  - "[[Expand my Way of Being]]"
   - "[[Hobby Together]]"
 datetime: 2022-08-08T00:00:00
 ---

@@ -3,7 +3,7 @@ tags:
   - basic-linguistic-acts
   - requests
 landscapes:
-  - "[[Expand My Way of Being]]"
+  - "[[Expand my Way of Being]]"
 datetime: 2022-08-31T00:00:00
 ---
 

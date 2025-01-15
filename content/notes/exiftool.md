@@ -1,6 +1,6 @@
 ---
 landscapes:
-  - "[[The Garden Shed]]"
+  - "[[Public/uses]]"
 datetime: 2024-05-23T19:03:00
 ---
 ## Move and rename

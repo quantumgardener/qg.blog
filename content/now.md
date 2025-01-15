@@ -2,12 +2,21 @@
 aliases: 
 tags:
   - class/map
+  - class/slash-page
 datetime: 2024-08-15T19:57:16
-updated: 2024-09-16T19:13:00
+updated: 2025-01-15T19:13:00
+title: Now
+description: Periodic updates on what I've recently achieved and where my next focus will be.
 ---
 This is my now page. It contains a list of posts about what I am in life and what I'm doing in the moment. For more see [about nownownow.com](https://nownownow.com/about)
 
 Rather than a single page which keeps getting updated, I've created a link of all "Now" dates on my blog. I prefer this because it gives me a history of "now" over time. In other words, what was I doing when then was now.
+
+## Now is where I'm at
+
+![[Now, 7 January 2025]]
+
+
 ## All "Now" posts
 <!-- QueryToSerialize: table without id row.key as Month, rows.file.link as Title from #class/now sort date(datetime) desc flatten dateformat(datetime,"yyyy-MM") as month group by dateformat(datetime,"yyyy-MM") sort rows.datetime desc -->
 <!-- SerializedQuery: table without id row.key as Month, rows.file.link as Title from #class/now sort date(datetime) desc flatten dateformat(datetime,"yyyy-MM") as month group by dateformat(datetime,"yyyy-MM") sort rows.datetime desc -->

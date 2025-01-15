@@ -25,7 +25,7 @@ Upon our return from the UK, digital had arrived and the 500N was traded in for 
 
 In 2006 I purchased a [[Canon 400D DSLR]] which has remained my camera ever since -- with a number of smartphone cameras along the way.
 
-![[eos-400d.webp]]
+![[eos-400d_800.webp]]
 
 For Christmas 2023 I added a [[Canon R50 Mirrorless]] with twin lenses to the kit as a replacement for the 18+ year old 400D. It came with a lot of quality of life improvements.
 

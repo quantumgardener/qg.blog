@@ -115,6 +115,7 @@ It does not matter what the information stored is. All that matters is the exist
 |          | media_id  | Text      | Yes            | Unique photo media id on pixelfed                                                  |
 |          | status_id | Text      | Yes            | Unique text id on pixelfed                                                         |
 |          | url       | Hyperlink | Yes            | Direct link to photo's page                                                        |
+
 On pixelfed, the "post" that you see is the status. The attached photo is the media.
 
 > [!TIP] Manually Deleting

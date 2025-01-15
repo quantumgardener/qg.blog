@@ -1,9 +1,13 @@
 ---
-aliases: []
-tags: 
+aliases: 
+tags:
+  - class/software
+  - status/active
 datetime: 2024-08-16T20:13:00
 updated: 
 title: 
+domain:
+  - "[[Media server]]"
 ---
 [[Plexamp]] is a music playing application that serves audio from a [[Plex]] server. ~~It can integrate music from Tidal with a subscription.[^1]~~
 

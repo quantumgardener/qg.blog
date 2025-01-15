@@ -3,7 +3,7 @@ title: You Know What I Mean?
 tags:
   - podcasts
 landscapes:
-  - "[[Expand My Way of Being]]"
+  - "[[Expand my Way of Being]]"
 datetime: 2023-03-13T00:00:00
 ---
 My daughter and her friend have started a podcast called "You Know What I Mean?”.

@@ -2,7 +2,7 @@
 tags:
   - declarations
 landscapes:
-  - "[[Expand My Way of Being]]"
+  - "[[Expand my Way of Being]]"
 datetime: 2023-09-14T00:00:00
 ---
 The behaviour and decisions in my life are made in accordance with this mission statement; the essence of which is grounded in the principles of truth, beauty, goodness and unity.

@@ -4,7 +4,7 @@ tags:
   - class/blog
 datetime: 2023-02-16T00:00:00
 landscapes:
-  - "[[The Garden Shed]]"
+  - "[[Public/uses]]"
 ---
 The first I knew was an email saying my $5 donation to running the mastodon.au server was refunded. I inquired to be told the server was scheduled for shutdown in 3 months.
 

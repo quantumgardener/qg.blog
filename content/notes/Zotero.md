@@ -1,9 +1,14 @@
 ---
 aliases: 
-tags: 
+tags:
+  - class/software
+  - status/active
 datetime: 2024-07-18T16:08:03
 updated: 2024-12-13T10:39:00
-title:
+title: 
+domain:
+  - "[[Personal knowledge management]]"
+  - "[[Digital asset management]]"
 ---
 I use [[Zotero]] as a core tool in [[Organising digital knowledge across multiple systems]] and use [[Zotero is my filing cabinet|Zotero as my filing cabinet]].
 

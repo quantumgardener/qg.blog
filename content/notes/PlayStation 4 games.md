@@ -1,6 +1,5 @@
 ---
-cssclasses:
-
+cssclasses: 
 tags:
   - class/map
   - class/list
@@ -20,7 +19,7 @@ Games for the [[PlayStation 4]].
 | ![[vg_Call of Duty - Modern Warfare 2_t.webp\|vg_Call of Duty - Modern Warfare 2_t.webp]]                                           | [[Call of Duty - Modern Warfare 2]]                                           | [[3-star\|⭐️⭐️⭐️]]     | [[completed]] |
 | ![[vg_Call of Duty - WWII_t.webp\|vg_Call of Duty - WWII_t.webp]]                                                                   | [[Call of Duty - WWII]]                                                                   | [[3-star\|⭐️⭐️⭐️]]     | [[completed]] |
 | ![[vg_cities_skylines_t.webp\|vg_cities_skylines_t.webp]]                                                                           | [[Cities Skylines]]                                                                           | [[4-star\|⭐️⭐️⭐️⭐️]]   | [[completed]] |
-| ![[vg_Death Stranding_t.webp\|vg_Death Stranding_t.webp]]                                                                           | [[Death Stranding]]                                                                           | [[3-star\|⭐️⭐️⭐️]]     | [[dropped]]     |
+| ![[vg_Death Stranding_t.webp\|vg_Death Stranding_t.webp]]                                                                           | [[Death Stranding]]                                                                           | [[3-star\|⭐️⭐️⭐️]]     | [[dropped]]           |
 | ![[vg_Diablo III - Reaper of Souls - Ultimate Evil Edition_t.webp\|vg_Diablo III - Reaper of Souls - Ultimate Evil Edition_t.webp]] | [[Diablo III - Reaper of Souls - Ultimate Evil Edition]] | [[3-star\|⭐️⭐️⭐️]]     | [[completed]] |
 | ![[vg_Elite - Dangerous_t.webp\|vg_Elite - Dangerous_t.webp]]                                                                       | [[Elite - Dangerous]]                                                                       | [[5-star\|⭐️⭐️⭐️⭐️⭐️]] | [[completed]] |
 | \-                                                                                                                                                       | [[Everybody's Gone to the Rapture]]                                            | \-                                     | \-                                       |

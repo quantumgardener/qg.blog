@@ -1,7 +1,12 @@
 ---
-tags: 
+tags:
+  - class/software
+  - status/active
 datetime: 2024-03-30T00:00:00
 updated: 2024-12-30T18:38:00
+domain:
+  - "[[Digital asset management]]"
+  - "[[Photography]]"
 ---
 [[IMatch]] is the [[Digital asset management]] software used to manage our family library of photos and videos called [[Mediabank]]. It has supported the family's [[Photography]] in all forms since [[2002-10-31|October 2002]].
 

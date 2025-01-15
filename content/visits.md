@@ -1,6 +1,11 @@
 ---
+aliases:
+  - Total unique visits
+tags:
+  - class/slash-page
 datetime: 2024-08-24T10:04:43
 updated: 2024-12-08T10:07:00
+description: Link to summary information about visitors to this site.
 ---
 Visitor tracking began on 23 August 2024 using [[tinylytics]]. Since then we've had  <span class="tinylytics_hits"></span> unique visits from <span class="tinylytics_countries flags"></span>.
 

@@ -32,4 +32,4 @@ By convention, as there is no way to enforce this, the properties added to file 
 
 [[2024-05-25]] - remove `growth` as a marker of article maturity. See [[The value of growth maturity in a digital garden is marginal]] and [[Quartz 4#Removal of growth status for pages]] for more information.
 
-[[2024-08-03]] - remove `landscapes` as a required property. Moving away from these to focus more direct meaningful links. Landscapes as a property are a crutch. They still exist as a [[Landscapes]] concept for broadly organising the [[Universal Map of Concepts]] and the first level of items below it.
+[[2024-08-03]] - remove `landscapes` as a required property. Moving away from these to focus more direct meaningful links. Landscapes as a property are a crutch. They still exist as a [[landscapes|Landscape]] concept for broadly organising the [[Universal Map of Concepts]] and the first level of items below it.

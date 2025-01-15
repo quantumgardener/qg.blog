@@ -2,7 +2,7 @@
 tags:
   - learning
 landscapes:
-  - "[[Expand My Way of Being]]"
+  - "[[Expand my Way of Being]]"
 datetime: 2022-08-29T00:00:00
 ---
 Yesterday I was musing on the difference between training and education, wondering why training in the workplace is usually ineffective. This is my stream of consciousness on the question.

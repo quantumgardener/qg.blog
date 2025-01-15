@@ -3,7 +3,7 @@ tags:
   - distinctions
   - review
 landscapes:
-  - "[[Expand My Way of Being]]"
+  - "[[Expand my Way of Being]]"
   - "[[Hobby Together]]"
 datetime: 2023-06-24T00:00:00
 ---

@@ -1,8 +1,10 @@
 ---
-title: Blog
+tags:
+  - class/slash-page
 datetime: 2024-05-18T00:00:00
 updated: 2024-12-29T18:57:00
 description: A list of all blog entries grouped by year and month.
+title: Blog
 cssclasses:
   - firstcol-100
   - secondcol-350

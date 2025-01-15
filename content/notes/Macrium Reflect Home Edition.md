@@ -1,9 +1,13 @@
 ---
-aliases: []
-tags: 
+aliases: 
+tags:
+  - class/software
+  - status/active
 datetime: 2023-01-25T20:07:23
 updated: 
 title: 
+domain:
+  - "[[Backup]]"
 ---
 [Macrium Reflect Home Edition](https://www.macrium.com/products/home)
 

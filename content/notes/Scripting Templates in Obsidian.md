@@ -4,7 +4,7 @@ tags:
   - coding
   - sample-code
 landscapes:
-  - "[[Productive laziness]]"
+  - "[[Productive Laziness]]"
 datetime: 2023-08-02T00:00:00
 ---
 > Here be some dragons. This is a quick post to explain how Javascript can be used eliminate the need to update multiple pages if the structure of your metadata changes. Using Javascript comes with risks. Enter at your own peril. dd

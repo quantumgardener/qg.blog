@@ -1,6 +1,5 @@
 ---
-cssclasses:
-
+cssclasses: 
 tags:
   - class/map
   - class/list
@@ -22,22 +21,22 @@ Games for the [[PlayStation 5]]. See also [[PlayStation VR2 games]] which were o
 | ![[vg_astro;s_playroom_t.webp\|vg_astro;s_playroom_t.webp]]                                               | [[Astro's Playroom]]                                               | [[4-star\|⭐️⭐️⭐️⭐️]]   | [[completed]] |
 | ![[vg_Baldur's Gate 3_t.webp\|vg_Baldur's Gate 3_t.webp]]                                                 | [[Baldur's Gate 3]]                                                 | [[4-star\|⭐️⭐️⭐️⭐️]]   | [[active]]       |
 | ![[vg_cities_skylines_t.webp\|vg_cities_skylines_t.webp]]                                                 | [[Cities Skylines]]                                                 | [[4-star\|⭐️⭐️⭐️⭐️]]   | [[completed]] |
-| ![[vg_Cyberpunk 2077_t.webp\|vg_Cyberpunk 2077_t.webp]]                                                   | [[Cyberpunk 2077]]                                                   | [[3-star\|⭐️⭐️⭐️]]     | [[dropped]]     |
-| ![[vg_Death Stranding_t.webp\|vg_Death Stranding_t.webp]]                                                 | [[Death Stranding]]                                                 | [[3-star\|⭐️⭐️⭐️]]     | [[dropped]]     |
-| ![[vg_Diablo IV_t.webp\|vg_Diablo IV_t.webp]]                                                             | [[Diablo IV]]                                                             | [[2-star\|⭐️⭐️]]       | [[dropped]]     |
-| ![[vg_Elden Ring_t.webp\|vg_Elden Ring_t.webp]]                                                           | [[Elden Ring]]                                                           | [[4-star\|⭐️⭐️⭐️⭐️]]   | [[dropped]]     |
+| ![[vg_Cyberpunk 2077_t.webp\|vg_Cyberpunk 2077_t.webp]]                                                   | [[Cyberpunk 2077]]                                                   | [[3-star\|⭐️⭐️⭐️]]     | [[dropped]]           |
+| ![[vg_Death Stranding_t.webp\|vg_Death Stranding_t.webp]]                                                 | [[Death Stranding]]                                                 | [[3-star\|⭐️⭐️⭐️]]     | [[dropped]]           |
+| ![[vg_Diablo IV_t.webp\|vg_Diablo IV_t.webp]]                                                             | [[Diablo IV]]                                                             | [[2-star\|⭐️⭐️]]       | [[dropped]]           |
+| ![[vg_Elden Ring_t.webp\|vg_Elden Ring_t.webp]]                                                           | [[Elden Ring]]                                                           | [[4-star\|⭐️⭐️⭐️⭐️]]   | [[dropped]]           |
 | ![[vg_Elite - Dangerous_t.webp\|vg_Elite - Dangerous_t.webp]]                                             | [[Elite - Dangerous]]                                             | [[5-star\|⭐️⭐️⭐️⭐️⭐️]] | [[completed]] |
 | ![[vg_Forspoken_t.webp\|vg_Forspoken_t.webp]]                                                             | [[Forspoken]]                                                             | [[4-star\|⭐️⭐️⭐️⭐️]]   | [[completed]] |
 | ![[vg_Ghost of Tsushima_t.webp\|vg_Ghost of Tsushima_t.webp]]                                             | [[Ghost of Tsushima]]                                             | [[4-star\|⭐️⭐️⭐️⭐️]]   | [[completed]] |
 | ![[vg_God of War Ragnarök_t.webp\|vg_God of War Ragnarök_t.webp]]                                         | [[God of War Ragnarök]]                                         | [[4-star\|⭐️⭐️⭐️⭐️]]   | [[completed]] |
 | ![[vg_Gran Turismo 7_t.webp\|vg_Gran Turismo 7_t.webp]]                                                   | [[Gran Turismo 7]]                                                   | [[4-star\|⭐️⭐️⭐️⭐️]]   | [[active]]       |
-| ![[vg_Hogwarts Legacy_t.webp\|vg_Hogwarts Legacy_t.webp]]                                                 | [[Hogwarts Legacy]]                                                 | [[2-star\|⭐️⭐️]]       | [[dropped]]     |
+| ![[vg_Hogwarts Legacy_t.webp\|vg_Hogwarts Legacy_t.webp]]                                                 | [[Hogwarts Legacy]]                                                 | [[2-star\|⭐️⭐️]]       | [[dropped]]           |
 | ![[vg_Horizon Forbidden West_t.webp\|vg_Horizon Forbidden West_t.webp]]                                   | [[Horizon Forbidden West]]                                   | [[4-star\|⭐️⭐️⭐️⭐️]]   | [[completed]] |
 | ![[vg_Horizon Forbidden West (Burning Shores)_t.webp\|vg_Horizon Forbidden West (Burning Shores)_t.webp]] | [[Horizon Forbidden West - Burning Shores]] | [[3-star\|⭐️⭐️⭐️]]     | [[completed]] |
 | ![[vg_Horizon Zero Dawn_t.webp\|vg_Horizon Zero Dawn_t.webp]]                                             | [[Horizon Zero Dawn]]                                             | [[5-star\|⭐️⭐️⭐️⭐️⭐️]] | [[completed]] |
 | ![[vg_it_takes_two_t.webp\|vg_it_takes_two_t.webp]]                                                       | [[It Takes Two]]                                                       | \-                                     | [[active]]       |
 | ![[vg_LEGO Star Wars - The Skywalker Saga_t.webp\|vg_LEGO Star Wars - The Skywalker Saga_t.webp]]         | [[LEGO Star Wars - The Skywalker Saga]]         | [[3-star\|⭐️⭐️⭐️]]     | [[completed]] |
-| ![[vg_Maquette_t.webp\|vg_Maquette_t.webp]]                                                               | [[Maquette]]                                                               | [[3-star\|⭐️⭐️⭐️]]     | [[dropped]]     |
+| ![[vg_Maquette_t.webp\|vg_Maquette_t.webp]]                                                               | [[Maquette]]                                                               | [[3-star\|⭐️⭐️⭐️]]     | [[dropped]]           |
 | ![[vg_Marvel's Spider-Man - Miles Morales_t.webp\|vg_Marvel's Spider-Man - Miles Morales_t.webp]]         | [[Marvel's Spider-Man - Miles Morales]]         | [[3-star\|⭐️⭐️⭐️]]     | [[completed]] |
 | ![[vg_No Man's Sky_t.webp\|vg_No Man's Sky_t.webp]]                                                       | [[No Man's Sky]]                                                       | [[4-star\|⭐️⭐️⭐️⭐️]]   | [[completed]] |
 | ![[vg_powerwash_simulator_t.webp\|vg_powerwash_simulator_t.webp]]                                         | [[PowerWash Simulator]]                                         | [[4-star\|⭐️⭐️⭐️⭐️]]   | [[active]]       |

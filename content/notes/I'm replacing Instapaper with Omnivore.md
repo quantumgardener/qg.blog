@@ -2,7 +2,7 @@
 tags:
   - note-making
 landscapes:
-  - "[[The Garden Shed]]"
+  - "[[Public/uses]]"
 datetime: 2023-03-12T00:00:00
 ---
 I have been an [Instapaper](https://www.instapaper.com) user for many years. From the time it was free, to paid, and then free and paid. For a while I was feeding Instapaper articles through [Readwise](https://readwise.io) to [[Obsidian]]. I couldn’t get Readwise to pull in comments from Instapaper articles that I’d archived. From memory I’m not even sure it could see them. 

@@ -1,10 +1,13 @@
 ---
 aliases:
   - prisma Smart-Max
-tags: 
+tags:
+  - class/gear
+  - status/active
 datetime: 2024-07-18T16:07:48
 updated: 
 title: 
+domain: "[[Health]]"
 ---
 [[Tap water or rust]] looks at my decision to use regular tap or distilled water.
 ## Humidity
