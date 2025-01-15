@@ -22,11 +22,11 @@ When I can afford it, I might also play with [[LEGO]].
 - Take a photo: [[Photography]] | [[Astrophotography]]
 - Play a game: [[Video gaming]]
 - Watch a Movie: [[Movie Theatre]] | [[Coming Soon]] | [[+Index of Series]]
-- Watch TV: [[List of my favourite TV shows]]
+- Watch TV: [[faves#Favourite TV shows|List of my favourite TV shows]]
 - Paint miniatures: [[Miniature Painting]] | [[Painting Nagash]]
 - Play with [[LEGO]]
 
 ## Reading
-- [[List of my favourite authors]]
+- [[faves#Favourite authors|List of my favourite authors]]
 
 [[Saving the sound of Saving Private Ryan]] discusses technologies such as 4K TVs and Ultra-HD Blu-ray.

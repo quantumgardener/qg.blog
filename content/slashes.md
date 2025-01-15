@@ -23,6 +23,7 @@ A list of all my [slash pages](https://slashpages.net/), a.k.a, "slashes". These
 | /[[colophon]]     | A page describing how this site is made.                                                                    |
 | /[[contact]]       | How to contact me.                                                                                          |
 | /[[dropped]]       | A list of technologies I no longer use.                                                                     |
+| /[[faves]]           | These are all of my favourite things (not just a few).                                                      |
 | /[[ideas]]           | A (long) list of ideas I may write about.                                                                   |
 | /[[landscapes]] | A list of landscapes appearing this [[Digital garden]].                                                     |
 | /[[maps]]             | A (long) list of Maps of Content.                                                                           |

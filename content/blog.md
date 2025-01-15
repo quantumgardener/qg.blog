@@ -2,7 +2,7 @@
 tags:
   - class/slash-page
 datetime: 2024-05-18T00:00:00
-updated: 2024-12-29T18:57:00
+updated: 2025-01-15T18:56
 description: A list of all blog entries grouped by year and month.
 title: Blog
 cssclasses:
@@ -13,7 +13,7 @@ cssclasses:
 ---
 > [!NOTE] Time-based notes as I share my thinking. 
 
-Use the links below to access the blog's archives. You can also access my many thoughts on [[Blogging]]. 
+[[subscribe|Subscribe]] to get the latest posts as soon as they are written. Use the links below to access the blog's archives. You can also access my many thoughts on [[Blogging]]. 
 ## 2025
 <!-- QueryToSerialize: table without id row.key as Month, link(rows.file.link,default(rows.title,rows.file.name)) as Title, dateformat(rows.datetime,"d MMMM y") as "Date" from "Public/notes" and #class/blog where datetime >= date(2025-01-01) and datetime <= date(2025-12-31) sort date(datetime) desc flatten dateformat(datetime,"yyyy-MM") as month group by dateformat(datetime,"yyyy-MM") sort rows.month desc -->
 <!-- SerializedQuery: table without id row.key as Month, link(rows.file.link,default(rows.title,rows.file.name)) as Title, dateformat(rows.datetime,"d MMMM y") as "Date" from "Public/notes" and #class/blog where datetime >= date(2025-01-01) and datetime <= date(2025-12-31) sort date(datetime) desc flatten dateformat(datetime,"yyyy-MM") as month group by dateformat(datetime,"yyyy-MM") sort rows.month desc -->

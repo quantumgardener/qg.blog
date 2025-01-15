@@ -3,11 +3,9 @@ tags:
   - class/tv-show
   - status/completed
 title: The Goodies
-landscapes:
-  - "[[Hobby Together]]"
 datetime: 2024-01-08T00:00:00
-thumbnail: "[[tv_the_goodies_t.webp]]"
-rating: 
+thumbnail: "[[tv_the_goodies_100.webp]]"
+rating: "[[5-star|⭐️⭐️⭐️⭐️⭐️]]"
 ---
 
 ![[tv_the_goodies.webp]]

@@ -87,10 +87,14 @@ A status of completed here means I've see all episodes in all seasons released.
 <!-- QueryToSerialize: table without id embed(link(thumbnail)) as "Game", file.link as "", rating as Rating from #class/tv-show and #status/completed sort file.name -->
 <!-- SerializedQuery: table without id embed(link(thumbnail)) as "Game", file.link as "", rating as Rating from #class/tv-show and #status/completed sort file.name -->
 
-| Game                                                                             |                                                        | Rating                               |
-| -------------------------------------------------------------------------------- | ------------------------------------------------------ | ------------------------------------ |
-| ![[tv_Babylon 5_t.webp\|tv_Babylon 5_t.webp]]               | [[Babylon 5]]               | [[4-star\|⭐️⭐️⭐️⭐️]] |
-| ![[tv_Band of Brothers_t.webp\|tv_Band of Brothers_t.webp]] | [[Band of Brothers]] | [[4-star\|⭐️⭐️⭐️⭐️]] |
-| ![[tv_the_goodies_t.webp\|tv_the_goodies_t.webp]]           | [[The Goodies]]           | \-                                   |
-| ![[tv_The Watch_t.webp\|tv_The Watch_t.webp]]               | [[The Watch]]               | [[3-star\|⭐️⭐️⭐️]]   |
+| Game                                                                                   |                                                          | Rating                                 |
+| -------------------------------------------------------------------------------------- | -------------------------------------------------------- | -------------------------------------- |
+| ![[tv_Babylon 5_t.webp\|tv_Babylon 5_t.webp]]                     | [[Babylon 5]]                 | [[4-star\|⭐️⭐️⭐️⭐️]]   |
+| ![[tv_Band of Brothers_t.webp\|tv_Band of Brothers_t.webp]]       | [[Band of Brothers]]   | [[4-star\|⭐️⭐️⭐️⭐️]]   |
+| ![[tv_Blackadder_100.webp\|tv_Blackadder_100.webp]]               | [[Blackadder]]               | [[4-star\|⭐️⭐️⭐️⭐️]]   |
+| ![[tv_Doctor Who (2005)_100.webp\|tv_Doctor Who (2005)_100.webp]] | [[Doctor Who (2005)]] | [[4-star\|⭐️⭐️⭐️⭐️]]   |
+| ![[tv_fawlty_towers_100.webp\|tv_fawlty_towers_100.webp]]         | [[Fawlty Towers]]         | [[4-star\|⭐️⭐️⭐️⭐️]]   |
+| ![[tv_the_goodies_100.webp\|tv_the_goodies_100.webp]]             | [[Firefly]]                     | [[4-star\|⭐️⭐️⭐️⭐️]]   |
+| ![[tv_the_goodies_100.webp\|tv_the_goodies_100.webp]]             | [[The Goodies]]             | [[5-star\|⭐️⭐️⭐️⭐️⭐️]] |
+| ![[tv_The Watch_t.webp\|tv_The Watch_t.webp]]                     | [[The Watch]]                 | [[3-star\|⭐️⭐️⭐️]]     |
 <!-- SerializedQuery END -->

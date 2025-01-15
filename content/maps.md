@@ -14,22 +14,20 @@ A list of all pages tagged [[Map of content]].
 
 | Map of Content                                                                                           |
 | -------------------------------------------------------------------------------------------------------- |
-| [[2-star games\|⭐️⭐️ games]]                                                             |
 | [[3-star games\|⭐️⭐️⭐️ games]]                                                           |
+| [[2-star games\|⭐️⭐️ games]]                                                             |
 | [[4-star games\|⭐️⭐️⭐️⭐️ games]]                                                         |
 | [[5-star games\|⭐️⭐️⭐️⭐️⭐️ games]]                                                       |
 | [[A Plague Tale (Series)]]                                       |
-| [[active\|Status (active)]]                                                              |
 | [[Astro (Series)]]                                                       |
 | [[Astrophotography]]                                                   |
 | [[Baldur's Gate (Series)]]                                       |
-| [[Basic linguistic acts]]                                         |
 | [[Basic moods of life]]                                             |
+| [[Basic linguistic acts]]                                         |
 | [[Blogging]]                                                                   |
 | [[Call of Duty (Series)]]                                         |
 | [[Commodore 64 games]]                                               |
 | [[Commodore Amiga games]]                                         |
-| [[completed\|Status (completed)]]                                                        |
 | [[Diablo (Series)]]                                                     |
 | [[Elite (Series)]]                                                       |
 | [[Gaming Teaches]]                                                       |
@@ -38,46 +36,48 @@ A list of all pages tagged [[Map of content]].
 | [[Gran Turismo (Series)]]                                         |
 | [[Hobby Together]]                                                       |
 | [[Horizon (Series)]]                                                   |
-| [[iOS games]]                                                                 |
 | [[Journaling]]                                                               |
 | [[Knowledge management]]                                           |
 | [[LEGO Harry Potter (Series)]]                               |
 | [[LEGO]]                                                                           |
-| [[List of mental models]]                                         |
 | [[List of my favourite authors]]                           |
-| [[List of my favourite lists]]                               |
 | [[List of my favourite music]]                               |
-| [[List of my favourite TV shows]]                         |
 | [[Mac OS games]]                                                           |
 | [[Map of The Ontology of the Human Observer]] |
+| [[List of my favourite TV shows]]                         |
 | [[Marvel's Spider-Man (Series)]]                           |
-| [[Meditation activities I get lost in]]             |
+| [[List of mental models]]                                         |
 | [[Microsoft Windows games]]                                     |
+| [[Meditation activities I get lost in]]             |
 | [[Nintendo Game & Watch games]]                             |
 | [[Nintendo Wii games]]                                               |
 | [[Personal knowledge management]]                         |
-| [[Photography]]                                                             |
-| [[planned\|Status (planned)]]                                                            |
 | [[PlayStation 2 games]]                                             |
 | [[PlayStation 3 games]]                                             |
-| [[PlayStation 5 games]]                                             |
 | [[PlayStation 4 games]]                                             |
+| [[PlayStation 5 games]]                                             |
 | [[PlayStation VR2 games]]                                         |
+| [[Photography]]                                                             |
 | [[Quantum OS]]                                                               |
 | [[Ratchet & Clank (Series)]]                                   |
 | [[Software that I use]]                                             |
 | [[The Last of Us (Series)]]                                     |
 | [[The Room (Series)]]                                                 |
-| [[Types of conversation]]                                         |
 | [[Uncharted (Series)]]                                               |
+| [[Types of conversation]]                                         |
 | [[Universal Map of Concepts]]                                 |
-| [[Video gaming]]                                                           |
 | [[Zork (Series)]]                                                         |
+| [[Video gaming]]                                                           |
+| [[completed\|Status (completed)]]                                                        |
+| [[active\|Status (active)]]                                                              |
+| [[iOS games]]                                                                 |
+| [[planned\|Status (planned)]]                                                            |
 | [[Expand my Way of Being]]                                       |
 | [[Productive Laziness]]                                             |
-| [[now\|Now]]                                                                                   |
+| [[faves]]                                                                           |
 | [[landscapes\|Landscapes]]                                                                     |
-| [[uses\|The Garden Shed]]                                                                      |
 | [[dropped\|Dropped]]                                                                           |
+| [[now\|Now]]                                                                                   |
+| [[uses\|The Garden Shed]]                                                                      |
 | [[recent\|Recently updated notes]]                                                             |
 <!-- SerializedQuery END -->
