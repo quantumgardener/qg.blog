@@ -18,20 +18,19 @@ A list of all pages tagged [[Map of content]].
 | [[landscapes\|Landscapes]]                                                                     |
 | [[2-star games\|⭐️⭐️ games]]                                                             |
 | [[3-star games\|⭐️⭐️⭐️ games]]                                                           |
+| [[2-star games\|⭐️⭐️ games]]                                                             |
 | [[4-star games\|⭐️⭐️⭐️⭐️ games]]                                                         |
 | [[5-star games\|⭐️⭐️⭐️⭐️⭐️ games]]                                                       |
 | [[A Plague Tale (Series)]]                                       |
-| [[active\|Status (active)]]                                                              |
 | [[Astro (Series)]]                                                       |
 | [[Astrophotography]]                                                   |
 | [[Baldur's Gate (Series)]]                                       |
-| [[Basic linguistic acts]]                                         |
 | [[Basic moods of life]]                                             |
+| [[Basic linguistic acts]]                                         |
 | [[Blogging]]                                                                   |
 | [[Call of Duty (Series)]]                                         |
 | [[Commodore 64 games]]                                               |
 | [[Commodore Amiga games]]                                         |
-| [[completed\|Status (completed)]]                                                        |
 | [[Diablo (Series)]]                                                     |
 | [[Elite (Series)]]                                                       |
 | [[Expand my Way of Being]]                                       |
@@ -41,7 +40,6 @@ A list of all pages tagged [[Map of content]].
 | [[Gran Turismo (Series)]]                                         |
 | [[Hobby Together]]                                                       |
 | [[Horizon (Series)]]                                                   |
-| [[iOS games]]                                                                 |
 | [[Journaling]]                                                               |
 | [[Knowledge management]]                                           |
 | [[LEGO Harry Potter (Series)]]                               |
@@ -49,14 +47,13 @@ A list of all pages tagged [[Map of content]].
 | [[List of mental models]]                                         |
 | [[Mac OS games]]                                                           |
 | [[Map of The Ontology of the Human Observer]] |
+| [[List of my favourite TV shows]]                         |
 | [[Marvel's Spider-Man (Series)]]                           |
-| [[Meditation activities I get lost in]]             |
+| [[List of mental models]]                                         |
 | [[Microsoft Windows games]]                                     |
 | [[Nintendo Wii games]]                                               |
 | [[Nintendo Game & Watch games]]                             |
 | [[Personal knowledge management]]                         |
-| [[Photography]]                                                             |
-| [[planned\|Status (planned)]]                                                            |
 | [[PlayStation 2 games]]                                             |
 | [[PlayStation 3 games]]                                             |
 | [[PlayStation 4 games]]                                             |
@@ -68,10 +65,9 @@ A list of all pages tagged [[Map of content]].
 | [[Software that I use]]                                             |
 | [[The Last of Us (Series)]]                                     |
 | [[The Room (Series)]]                                                 |
-| [[Types of conversation]]                                         |
 | [[Uncharted (Series)]]                                               |
+| [[Types of conversation]]                                         |
 | [[Universal Map of Concepts]]                                 |
-| [[Video gaming]]                                                           |
 | [[Zork (Series)]]                                                         |
 | [[now\|Now]]                                                                                   |
 | [[recent\|Recently updated notes]]                                                             |
