@@ -6,12 +6,11 @@ tags:
   - class/landscape
 datetime: 2024-06-07T10:21:38
 updated: 2024-10-18T11:02:00
-description: There is art in doing as much as possible, as easily as possible and that’s what I call being **productive lazy**.
+description: There is art in doing as much as possible, as easily as possible and that’s what I call being productive lazy.
 title: Productive Laziness
 ---
 > [!landscape]
 > There is art in doing as much as possible, as easily as possible and that’s what I call being **productive lazy**.
-> 
 > It’s a balance between maximising productivity with as little effort as possible and applies particularly to repetitive tasks where I want them done quickly and without having to think too much. There is too much going on in my world to allow thinking where I don’t need to.
 
 To understand what this means look at [[Some examples of productive laziness]] to begin. Whilst they are practical, it's the mindset between them that is most important.

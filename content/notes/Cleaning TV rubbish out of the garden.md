@@ -15,6 +15,6 @@ I've since cleaned out all the TV series and removed:
 
 The list of episodes was presented as tasks and I could tick off each as I watched it. This wasted time on 2 levels. Firstly, the place where I watch an episode tracks that for me, and secondly, if there is a later series added I either have to regenerate the page to type up the list of episodes.
 
-I have kept the individual notes for TV shows even though most at this point are just a thumbnail, [[How I Apply Ratings|rating]] and watched status. I'll revisit them and add some thoughts about why I watched them, especially for a [[List of my favourite TV shows]].
+I have kept the individual notes for TV shows even though most at this point are just a thumbnail, [[How I Apply Ratings|rating]] and watched status. I'll revisit them and add some thoughts about why I watched them, especially for a [[faves#Favourite TV shows|List of my favourite TV shows]].
 
 It's easy to expand too much when using digital tools. Now onwards to find the next place I've done the same i.e., movies.

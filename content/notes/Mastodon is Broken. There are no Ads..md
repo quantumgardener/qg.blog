@@ -4,7 +4,7 @@ tags:
 landscapes: 
 datetime: 2023-04-10T00:00:00
 ---
-Clearly [Mastodon](https://joinmastodon.org) is broken as a social media platform 😄
+Clearly [[Mastodon]] is broken as a social media platform 😄
 
 | Platform                                                            | Constant nagging ads |
 | ------------------------------------------------------------------- | -------------------- |

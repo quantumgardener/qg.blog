@@ -7,12 +7,22 @@ updated: ""
 description: A list of technologies I no longer use.
 title: Dropped
 ---
-Time marches on and technologies that were once useful are no longer, or no longer fun. See [[uses]] for what is still hanging on.
+Time marches on and technologies that were once useful are no longer, or no longer fun. See [[Uses]] for what is still hanging on.
+
+## Software I've retired
+Software is a broad category that covers stuff I did with computers as the main tool.
+<!-- QueryToSerialize: table without id row.key as Domain, rows.file.link as Software from #class/software and #status/dropped  flatten domain as singledomain sort file.name asc group by singledomain sort row.key asc -->
+<!-- SerializedQuery: table without id row.key as Domain, rows.file.link as Software from #class/software and #status/dropped  flatten domain as singledomain sort file.name asc group by singledomain sort row.key asc -->
+
+| Domain                                                                           | Software                                                            |
+| -------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| [[Personal knowledge management]] | <ul><li>[[Roam Research]]</li></ul> |
+<!-- SerializedQuery END -->
 
 ## Gear I've retired
 Here, "Gear" is a broad term referring to any type of physical technology I used in my life.
-<!-- QueryToSerialize: table without id row.key as Domain, rows.file.link as Gear from #class/gear and #status/dropped  flatten domain as singledomain group by singledomain sort row.key asc, file.link asc -->
-<!-- SerializedQuery: table without id row.key as Domain, rows.file.link as Gear from #class/gear and #status/dropped  flatten domain as singledomain group by singledomain sort row.key asc, file.link asc -->
+<!-- QueryToSerialize: table without id row.key as Domain, rows.file.link as Gear from #class/gear and #status/dropped  flatten domain as singledomain sort file.name asc group by singledomain sort row.key asc -->
+<!-- SerializedQuery: table without id row.key as Domain, rows.file.link as Gear from #class/gear and #status/dropped  flatten domain as singledomain sort file.name asc group by singledomain sort row.key asc -->
 
 | Domain                                       | Gear                                                                    |
 | -------------------------------------------- | ----------------------------------------------------------------------- |
@@ -20,7 +30,7 @@ Here, "Gear" is a broad term referring to any type of physical technology I used
 <!-- SerializedQuery END -->
 
 ## Computer games I never finished
-Games are dropped for any number of reasons. Sometimes its the size of the game, my poor skill level, or a compete fall in interest.
+Games are dropped for any number of reasons. Sometimes its the size of the game, my poor skill level, or a compete fall in interest. Only games that I have spent more than a few hours in are listed below. Games which immediately fail to pique my interest don't make this list. There are too many to count.
 
 <!-- QueryToSerialize: table without id embed(link(thumbnail)) as "Game", file.link as "", rating as Rating, platform as Platform from #class/video-game and #status/dropped sort file.name -->
 <!-- SerializedQuery: table without id embed(link(thumbnail)) as "Game", file.link as "", rating as Rating, platform as Platform from #class/video-game and #status/dropped sort file.name -->

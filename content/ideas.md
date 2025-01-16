@@ -47,3 +47,5 @@ I generate ideas for writing all the time. Here's the list of what I might write
 - "I'm no good at computers and other lies we tell ourselves" (see [[I'm no good at computers]]
 - Replacing the light in the loungeroom and having trouble because I was not setting it up with my phone on the IoT network speaks to how easy it is to forget something that we don't do that often. What is the wider lesson?
 - Can I learn from making a list of failures? [[Henderson (2024), It is good to be a failure]]
+- Need to add details for the [[faves#Favourite TV shows]] that have placeholder pages but no details
+- Need to add details for [[faves#Favourite authors]]

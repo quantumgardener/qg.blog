@@ -12,4 +12,4 @@ You can contact me via [[Mastodon]] at [dcbuchan@aus.social](https://aus.social/
 
 Every note has a link at the bottom for direct comment on Mastodon or via email using the above addresses.
 
-If we are connected, you may also [reach me on Linked](https://www.linkedin.com/in/buchan/) but know I'm there under sufferance of need. If ever a platform succumbed to enshittification, it is LinkedIn.
+If we are connected, you may also [reach me on LinkedIn](https://www.linkedin.com/in/buchan/) but know I'm there under sufferance of need. If ever a platform succumbed to enshittification, it is LinkedIn.

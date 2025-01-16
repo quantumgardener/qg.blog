@@ -14,6 +14,8 @@ A list of all pages tagged [[Map of content]].
 
 | Map of Content                                                                                           |
 | -------------------------------------------------------------------------------------------------------- |
+| [[dropped\|Dropped]]                                                                           |
+| [[landscapes\|Landscapes]]                                                                     |
 | [[2-star games\|⭐️⭐️ games]]                                                             |
 | [[3-star games\|⭐️⭐️⭐️ games]]                                                           |
 | [[4-star games\|⭐️⭐️⭐️⭐️ games]]                                                         |
@@ -32,6 +34,7 @@ A list of all pages tagged [[Map of content]].
 | [[completed\|Status (completed)]]                                                        |
 | [[Diablo (Series)]]                                                     |
 | [[Elite (Series)]]                                                       |
+| [[Expand my Way of Being]]                                       |
 | [[Gaming Teaches]]                                                       |
 | [[Gear that I use]]                                                     |
 | [[God of War (Series)]]                                             |
@@ -44,25 +47,22 @@ A list of all pages tagged [[Map of content]].
 | [[LEGO Harry Potter (Series)]]                               |
 | [[LEGO]]                                                                           |
 | [[List of mental models]]                                         |
-| [[List of my favourite authors]]                           |
-| [[List of my favourite lists]]                               |
-| [[List of my favourite music]]                               |
-| [[List of my favourite TV shows]]                         |
 | [[Mac OS games]]                                                           |
 | [[Map of The Ontology of the Human Observer]] |
 | [[Marvel's Spider-Man (Series)]]                           |
 | [[Meditation activities I get lost in]]             |
 | [[Microsoft Windows games]]                                     |
-| [[Nintendo Game & Watch games]]                             |
 | [[Nintendo Wii games]]                                               |
+| [[Nintendo Game & Watch games]]                             |
 | [[Personal knowledge management]]                         |
 | [[Photography]]                                                             |
 | [[planned\|Status (planned)]]                                                            |
 | [[PlayStation 2 games]]                                             |
 | [[PlayStation 3 games]]                                             |
-| [[PlayStation 5 games]]                                             |
 | [[PlayStation 4 games]]                                             |
+| [[PlayStation 5 games]]                                             |
 | [[PlayStation VR2 games]]                                         |
+| [[Productive Laziness]]                                             |
 | [[Quantum OS]]                                                               |
 | [[Ratchet & Clank (Series)]]                                   |
 | [[Software that I use]]                                             |
@@ -73,11 +73,8 @@ A list of all pages tagged [[Map of content]].
 | [[Universal Map of Concepts]]                                 |
 | [[Video gaming]]                                                           |
 | [[Zork (Series)]]                                                         |
-| [[Expand my Way of Being]]                                       |
-| [[Productive Laziness]]                                             |
 | [[now\|Now]]                                                                                   |
-| [[landscapes\|Landscapes]]                                                                     |
-| [[uses\|The Garden Shed]]                                                                      |
-| [[dropped\|Dropped]]                                                                           |
 | [[recent\|Recently updated notes]]                                                             |
+| [[uses\|The Garden Shed]]                                                                      |
+| [[faves\|My favourite things]]                                                                 |
 <!-- SerializedQuery END -->
