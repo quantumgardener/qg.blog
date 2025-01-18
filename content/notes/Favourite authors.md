@@ -3,7 +3,7 @@ aliases:
   - Favourite authorss
 tags:
   - class/map
-  - l/h/reading
+  - landscape/hobby/reading
 datetime: 2025-01-18T09:40
 updated: 
 title: Favourite authors

@@ -1,10 +1,11 @@
 ---
 aliases:
   - PS5
-tags: 
+tags:
+  - landscape/hobby/gaming
 datetime: 2023-01-25T20:07:23
 updated: 2024-08-01T19:34:00
-title: 
+title:
 ---
 I was lucky enough to get an order in from the second round of stock that Amazon had. The PS5 came online at 9:03 am on 12 November 2020 and by 9:11 am they were all gone. That meant I had it delivered in time for Christmas.
 

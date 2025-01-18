@@ -1,6 +1,7 @@
 ---
 tags:
   - class/map
+  - landscape/hobby/gaming
 datetime: 2023-09-28T00:00:00
 updated: 2024-12-26T16:42:00
 description: All things video games and the platforms I play on.

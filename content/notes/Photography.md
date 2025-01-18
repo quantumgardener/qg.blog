@@ -2,6 +2,7 @@
 aliases: 
 tags:
   - class/map
+  - landscape/hobby
 datetime: 2023-07-16T19:38:14
 updated: 2025-01-04T08:22:38
 title:

@@ -31,6 +31,7 @@ A list of all my [slash pages](https://slashpages.net/), a.k.a, "slashes". These
 | /[[privacy]]       | A page describing my efforts to keep your access private.                                                   |
 | /[[projects]]     | A list of projects tracked on this site.                                                                    |
 | /[[recent]]         | The 50 most recently updated notes.                                                                         |
+| /[[sitemap]]       | A human-readable sitemap.                                                                                   |
 | /[[slashes]]       | A list of my slash pages for quick reference.                                                               |
 | /[[subscribe]]   | How to subscribe to new blog posts.                                                                         |
 | /[[uses]]             | Every garden needs a good shed, full of the right tools to make it flourish. These are the tools I'm using. |

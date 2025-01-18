@@ -1,8 +1,8 @@
 ---
 tags:
-  - gaming
   - body
   - effective-conversation
+  - landscape/expand/dialogue
 datetime: 2023-03-07
 updated: 2024-08-02T18:08:00
 ---

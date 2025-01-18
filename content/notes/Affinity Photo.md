@@ -4,6 +4,7 @@ aliases:
 tags:
   - class/software
   - status/active
+  - landscape/hobby/photography
 datetime: 2024-11-29T13:45:00
 updated: 
 title: 

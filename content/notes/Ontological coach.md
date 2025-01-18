@@ -6,7 +6,7 @@ datetime: 2024-06-11T14:23:52
 updated: 
 title: 
 ---
-An *ontological coach* is someone who is trained in using the [[The Ontology of the Human Observer]] during a coaching conversation as a way to help a coachee understanding their [[Way of Being]]. 
+An [[Ontological coach]] is someone who is trained in using the [[The Ontology of the Human Observer]] during a coaching conversation as a way to help a coachee understanding their [[Way of Being]]. 
 
 They are trained to acutely and astutely observer across [[The three ontological domains]] and the more observant they are, the more they can bring to an [[Ontological coaching]] conversation[^1].
 
