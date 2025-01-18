@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Before/After Slider</title>
+  <style>
+    html, body {
+      margin: 0;
+      padding: 0;
+    }
+  </style>
+  <script src="/src/slider.bundle.js"></script>
+</head>
+<body>
+  <div id="slider1"></div>
+
+  <script>
+    function getUrlParameter(name) {
+      name = name.replace(/[\[]/, '\\[').replace(/[\]]/, '\\]');
+      const regex = new RegExp('[\\?&]' + name + '=([^&#]*)');
+      const results = regex.exec(window.location.search);
+      return results === null ? '' : decodeURIComponent(results[1].replace(/\+/g, ' '));
+    }
+
+    window.onload = function() {
+      const beforeImg = getUrlParameter('before');
+      const afterImg = getUrlParameter('after');
+      
+      console.log(beforeImg);
+      console.log(afterImg);
+
+      new SliderBar({
+        el: "#slider1",
+        beforeImg: beforeImg,
+        afterImg: afterImg
+      });
+    }
+  </script>
+</body>
+</html>
