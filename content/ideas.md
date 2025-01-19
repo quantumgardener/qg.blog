@@ -3,7 +3,7 @@ tags:
   - class/slash-page
 aliases: 
 datetime: 2025-01-15T17:08:00
-updated: 
+updated: 2025-01-15T20:02:00
 title: Ideas
 description: A (long) list of ideas I may write about.
 ---

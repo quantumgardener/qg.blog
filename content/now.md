@@ -14,7 +14,7 @@ Rather than a single page which keeps getting updated, I've created a link of al
 
 ## Now is where I'm at
 
-![[Now, 7 January 2025]]
+![[Now, 19 January 2025]]
 
 
 ## All "Now" posts
@@ -23,7 +23,7 @@ Rather than a single page which keeps getting updated, I've created a link of al
 
 | Month   | Title                                                                                                                                                                                                                                                                                                                                                     |
 | ------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2025-01 | <ul><li>[[Now, 7 January 2025]]</li><li>[[Now, 1 January 2025]]</li></ul>                                                                                                                                                                                                     |
+| 2025-01 | <ul><li>[[Now, 19 January 2025]]</li><li>[[Now, 7 January 2025]]</li><li>[[Now, 1 January 2025]]</li></ul>                                                                                                                             |
 | 2024-12 | <ul><li>[[Now, 1 December 2024]]</li></ul>                                                                                                                                                                                                                                                                         |
 | 2024-11 | <ul><li>[[Now, 17 November 2024]]</li><li>[[Now, 3 November 2024]]</li></ul>                                                                                                                                                                                               |
 | 2024-10 | <ul><li>[[Now, 20 October 2024]]</li><li>[[Now, 7 October 2024]]</li><li>[[Now, 6 October 2024]]</li></ul>                                                                                                                             |
