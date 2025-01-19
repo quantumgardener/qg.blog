@@ -21,7 +21,7 @@ Still got plenty of work to do here. I expect this page will replace or support 
 - [[Moods and Emotional learning]]
 - [[Body learning]]
 
-[[Productive laziness]]
+[[Productive Laziness]]
 - [[Personal knowledge management]]
 - [[Managing time]]
 - [[Increasing efficiency]]

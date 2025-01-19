@@ -2,6 +2,7 @@
 tags:
   - class/software
   - status/active
+  - landscape/lazy/personal-knowledge-management
 datetime: 2023-09-29T00:00:00
 updated: 2024-07-23T19:26:00
 domain:

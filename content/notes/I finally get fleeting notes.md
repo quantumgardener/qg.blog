@@ -8,7 +8,7 @@ title: I finally get fleeting notes
 ---
 I spend more time than most on creating small systems to support my work and creativity. My systems develop and improve over time (some even become redundant) and I have a good sense of when and how to much to improve them. I have learned to listen to my systems.
 
-Last Friday I was converting book notes from my [[Kindle Scribe]] when I heard loud and clear the indication I was wasting my time and change was needed. [[Zettelkasten]] is a note-taking method with many variations and interpretations on how to proceed. I thought I had it "correct" until realising I'd wasted the last half hour of my life. I'll argue now it wasn't a true waste because what I learned from that time will save me time in the future, letting me become more [[Productive laziness|Productively lazy]].
+Last Friday I was converting book notes from my [[Kindle Scribe]] when I heard loud and clear the indication I was wasting my time and change was needed. [[Zettelkasten]] is a note-taking method with many variations and interpretations on how to proceed. I thought I had it "correct" until realising I'd wasted the last half hour of my life. I'll argue now it wasn't a true waste because what I learned from that time will save me time in the future, letting me become more [[Productive Laziness|Productively lazy]].
 
 My process was:
 1. Highlight and take handwritten notes on my [[Kindle Scribe]].

@@ -3,7 +3,7 @@ datetime: 2022-06-09T00:00:00
 tags:
   - class/blog
 ---
-I find myself entering dates all the time. In filenames, for tasks and in documents. As I continually seek [[Productive laziness]] I use a text expander to save me time.
+I find myself entering dates all the time. In filenames, for tasks and in documents. As I continually seek [[Productive Laziness]] I use a text expander to save me time.
 ## Date formats
 I use 2 date formats. YYYY-MM-DD and d MMMM YYYY. For today these are _2022-06-09_ and _9 June 2022_. To create these I use [[Expanso]] with the following keystrokes. All are set to run immediately upon keying in.
 

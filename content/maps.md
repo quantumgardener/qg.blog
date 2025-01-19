@@ -72,8 +72,8 @@ A list of all pages tagged [[Map of content]].
 | [[Universal Map of Concepts]]                                 |
 | [[Video gaming]]                                                           |
 | [[Zork (Series)]]                                                         |
-| [[Productive laziness\|Productive Laziness]]                                             |
 | [[Favourite authors]]                                                 |
+| [[Productive Laziness]]                                             |
 | [[now\|Now]]                                                                                   |
 | [[landscapes\|Landscapes]]                                                                     |
 | [[recent\|Recently updated notes]]                                                             |

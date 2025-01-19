@@ -27,4 +27,4 @@ Knowledge and records stored within my [[Personal knowledge management]] system 
 | Check for consistency/errors | [[+Index for QA]]                             |
 | Rate an item                 | [[How I Apply Ratings]]                       |
 | Specify a heading            | [[Heading Level Guidelines]]                  |
-[[Productive laziness]] and [[uses|The Garden Shed]] are very close to Quantum OS in nature and the difference is subtle. They reflect the general approach and Quantum OS is my specific application. Theory and practice.
+[[Productive Laziness]] and [[uses|The Garden Shed]] are very close to Quantum OS in nature and the difference is subtle. They reflect the general approach and Quantum OS is my specific application. Theory and practice.

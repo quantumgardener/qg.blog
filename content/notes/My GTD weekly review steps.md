@@ -58,7 +58,7 @@ II've included the raw [[Markdwown]] code I use below. Lines 4–9 provide a cou
 <script src="https://gist.github.com/quantumgardener/ee10b4e12a370b2283b997f9000592df.js"></script>
 
 > [!INFO] Bonus code to speed up reviewing
-> I have this [[Obsidian Templater]] template mapped to `ALT-R` to automatically update `date_reviewed`. It's all about [[Productive laziness]]. Credit to Zach Young for the initial [update frontmatter seed code](https://zachyoung.dev/posts/templater-snippets#update-frontmatter) to get me started on this.
+> I have this [[Obsidian Templater]] template mapped to `ALT-R` to automatically update `date_reviewed`. It's all about [[Productive Laziness]]. Credit to Zach Young for the initial [update frontmatter seed code](https://zachyoung.dev/posts/templater-snippets#update-frontmatter) to get me started on this.
 > <script src="https://gist.github.com/quantumgardener/f8336de562266b770e21fea201f07fe0.js"></script>
 ## 7. @pending projects
 Similar to [[@active projects]] this is a quick check of projects marked `#status/pending`. Do they need to be activated now?

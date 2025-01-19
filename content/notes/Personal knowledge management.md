@@ -4,7 +4,7 @@ aliases:
 tags:
   - class/map
 landscapes:
-  - "[[Productive laziness]]"
+  - "[[Productive Laziness]]"
 datetime: 2024-03-11T00:00:00
 updated: 2024-11-27T07:22:00
 ---
